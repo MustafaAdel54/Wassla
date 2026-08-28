@@ -1,0 +1,18 @@
+{
+  "id": "surface_2705",
+  "data": {
+    "name": "Palestine School (Ain Shams St.)",
+    "lat": 30.1304548450798,
+    "lng": 31.322243468461018,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2705",
+    "isActive": true
+  }
+}

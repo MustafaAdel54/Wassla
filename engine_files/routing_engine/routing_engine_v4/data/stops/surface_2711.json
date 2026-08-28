@@ -1,0 +1,18 @@
+{
+  "id": "surface_2711",
+  "data": {
+    "name": "Sheikh Selim Institute (Arbean St.)",
+    "lat": 30.134433952705105,
+    "lng": 31.31475985278036,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2711",
+    "isActive": true
+  }
+}

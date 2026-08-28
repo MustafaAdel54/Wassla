@@ -1,0 +1,18 @@
+{
+  "id": "surface_487",
+  "data": {
+    "name": "Abbas Al Akkad St. & Mostafa Al Nahas St.",
+    "lat": 30.05365,
+    "lng": 31.338763,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "487",
+    "isActive": true
+  }
+}

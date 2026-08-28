@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_GZ052_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ052",
+    "tripId": "P_O_14_GZ052_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Bashtil El Balad",
+    "stops": [
+      {
+        "stopId": "surface_2757",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2814",
+        "sequence": 2,
+        "arrivalSec": 22279,
+        "departureSec": 22294
+      },
+      {
+        "stopId": "surface_333",
+        "sequence": 3,
+        "arrivalSec": 22762,
+        "departureSec": 22777
+      },
+      {
+        "stopId": "surface_621",
+        "sequence": 4,
+        "arrivalSec": 22784,
+        "departureSec": 22799
+      },
+      {
+        "stopId": "surface_2815",
+        "sequence": 5,
+        "arrivalSec": 22804,
+        "departureSec": 22819
+      },
+      {
+        "stopId": "surface_79",
+        "sequence": 6,
+        "arrivalSec": 22906,
+        "departureSec": 22921
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

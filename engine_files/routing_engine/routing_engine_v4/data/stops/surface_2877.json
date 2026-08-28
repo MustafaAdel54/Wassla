@@ -1,0 +1,18 @@
+{
+  "id": "surface_2877",
+  "data": {
+    "name": "Al Bostan Compound Entrance",
+    "lat": 29.946632152432937,
+    "lng": 30.94128533528578,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2877",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_641",
+  "data": {
+    "name": "Cairo University Metro",
+    "lat": 30.025336380999633,
+    "lng": 31.20184862635957,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "641",
+    "isActive": true
+  }
+}

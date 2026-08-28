@@ -1,0 +1,18 @@
+{
+  "id": "surface_1030",
+  "data": {
+    "name": "Al Massalah (6th of October)",
+    "lat": 29.927603762619867,
+    "lng": 30.90389584135608,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1030",
+    "isActive": true
+  }
+}

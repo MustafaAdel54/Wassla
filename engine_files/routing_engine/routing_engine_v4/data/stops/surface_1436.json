@@ -1,0 +1,18 @@
+{
+  "id": "surface_1436",
+  "data": {
+    "name": "Qatar Ahly Bank (Al Tayaran St.)",
+    "lat": 30.062385299651236,
+    "lng": 31.325558820659126,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1436",
+    "isActive": true
+  }
+}

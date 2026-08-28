@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_P_O_14_IC092_R",
+  "data": {
+    "routeId": "surface_P_O_14_IC092",
+    "tripId": "P_O_14_IC092_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Shorouq Academy",
+    "stops": [
+      {
+        "stopId": "surface_1098",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 2,
+        "arrivalSec": 21734,
+        "departureSec": 21749
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 3,
+        "arrivalSec": 21802,
+        "departureSec": 21817
+      },
+      {
+        "stopId": "surface_1213",
+        "sequence": 4,
+        "arrivalSec": 21979,
+        "departureSec": 21994
+      },
+      {
+        "stopId": "surface_429",
+        "sequence": 5,
+        "arrivalSec": 22617,
+        "departureSec": 22632
+      },
+      {
+        "stopId": "surface_1233",
+        "sequence": 6,
+        "arrivalSec": 22888,
+        "departureSec": 22903
+      },
+      {
+        "stopId": "surface_763",
+        "sequence": 7,
+        "arrivalSec": 23148,
+        "departureSec": 23163
+      },
+      {
+        "stopId": "surface_1169",
+        "sequence": 8,
+        "arrivalSec": 24082,
+        "departureSec": 24097
+      },
+      {
+        "stopId": "surface_1158",
+        "sequence": 9,
+        "arrivalSec": 24241,
+        "departureSec": 24256
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

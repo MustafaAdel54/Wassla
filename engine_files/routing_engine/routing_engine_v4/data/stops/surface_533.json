@@ -1,0 +1,18 @@
+{
+  "id": "surface_533",
+  "data": {
+    "name": "Al Motamayez Wahat Entrance 2",
+    "lat": 29.973629566142503,
+    "lng": 30.986980111994853,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "533",
+    "isActive": true
+  }
+}

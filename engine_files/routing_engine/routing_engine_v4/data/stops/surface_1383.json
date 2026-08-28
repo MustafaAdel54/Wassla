@@ -1,0 +1,18 @@
+{
+  "id": "surface_1383",
+  "data": {
+    "name": "Epx Logistics For Transportation And Warehousing (Obour)",
+    "lat": 30.26064347360301,
+    "lng": 31.472372653754398,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1383",
+    "isActive": true
+  }
+}

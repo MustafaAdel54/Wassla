@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_VEE2OBal25115dXxx5NcX",
+  "data": {
+    "routeId": "surface_UYpQshWZml8TRw8pbOOWx",
+    "tripId": "VEE2OBal25115dXxx5NcX",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Magzar (Mariouteya)",
+    "stops": [
+      {
+        "stopId": "surface_2875",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2872",
+        "sequence": 2,
+        "arrivalSec": 21669,
+        "departureSec": 21684
+      },
+      {
+        "stopId": "surface_1827",
+        "sequence": 3,
+        "arrivalSec": 21886,
+        "departureSec": 21901
+      },
+      {
+        "stopId": "surface_1825",
+        "sequence": 4,
+        "arrivalSec": 22073,
+        "departureSec": 22088
+      },
+      {
+        "stopId": "surface_1829",
+        "sequence": 5,
+        "arrivalSec": 22187,
+        "departureSec": 22202
+      },
+      {
+        "stopId": "surface_2422",
+        "sequence": 6,
+        "arrivalSec": 22335,
+        "departureSec": 22350
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

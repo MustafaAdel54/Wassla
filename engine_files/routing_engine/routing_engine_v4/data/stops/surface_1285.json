@@ -1,0 +1,18 @@
+{
+  "id": "surface_1285",
+  "data": {
+    "name": "Wax Museum (Helwan)",
+    "lat": 29.86002108477734,
+    "lng": 31.326482255111458,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1285",
+    "isActive": true
+  }
+}

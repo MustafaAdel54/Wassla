@@ -1,0 +1,18 @@
+{
+  "id": "surface_1403",
+  "data": {
+    "name": "Al Kahraba St. (Nasr City)",
+    "lat": 30.050199215257717,
+    "lng": 31.38924147077797,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1403",
+    "isActive": true
+  }
+}

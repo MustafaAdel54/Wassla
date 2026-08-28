@@ -1,0 +1,18 @@
+{
+  "id": "surface_761",
+  "data": {
+    "name": "Bahteem",
+    "lat": 30.157246168674238,
+    "lng": 31.280693409266735,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "761",
+    "isActive": true
+  }
+}

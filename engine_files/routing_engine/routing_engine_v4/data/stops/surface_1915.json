@@ -1,0 +1,18 @@
+{
+  "id": "surface_1915",
+  "data": {
+    "name": "Education Directorate (Helwan)",
+    "lat": 29.85334518517398,
+    "lng": 31.295262655736643,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1915",
+    "isActive": true
+  }
+}

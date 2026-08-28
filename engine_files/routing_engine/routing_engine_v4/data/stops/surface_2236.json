@@ -1,0 +1,18 @@
+{
+  "id": "surface_2236",
+  "data": {
+    "name": "Al Sayeda Khadiga School (Al Zawya Al Hamra)",
+    "lat": 30.09900651553593,
+    "lng": 31.26742745032328,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2236",
+    "isActive": true
+  }
+}

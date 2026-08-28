@@ -1,0 +1,18 @@
+{
+  "id": "surface_1205",
+  "data": {
+    "name": "Doctors Tower (Nasr City)",
+    "lat": 30.055180938449045,
+    "lng": 31.352244376957234,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1205",
+    "isActive": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_BOX_6O022_O",
+  "data": {
+    "routeId": "surface_BOX_6O022",
+    "tripId": "BOX_6O022_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Industrial Zone 3",
+    "stops": [
+      {
+        "stopId": "surface_1029",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1027",
+        "sequence": 2,
+        "arrivalSec": 21651,
+        "departureSec": 21666
+      },
+      {
+        "stopId": "surface_899",
+        "sequence": 3,
+        "arrivalSec": 21791,
+        "departureSec": 21806
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

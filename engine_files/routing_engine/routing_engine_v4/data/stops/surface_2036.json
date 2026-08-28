@@ -1,0 +1,18 @@
+{
+  "id": "surface_2036",
+  "data": {
+    "name": "Abu Khater (Al Matareyya)",
+    "lat": 30.126174,
+    "lng": 31.298171,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2036",
+    "isActive": true
+  }
+}

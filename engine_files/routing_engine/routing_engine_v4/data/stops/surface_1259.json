@@ -1,0 +1,18 @@
+{
+  "id": "surface_1259",
+  "data": {
+    "name": "Sheikh Zayed Al Nahian Hospital",
+    "lat": 30.051293736308107,
+    "lng": 31.288367579495365,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1259",
+    "isActive": true
+  }
+}

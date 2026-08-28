@@ -1,0 +1,18 @@
+{
+  "id": "surface_919",
+  "data": {
+    "name": "Sheikh Zayed General Hospital",
+    "lat": 30.0405861,
+    "lng": 31.0077565,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "919",
+    "isActive": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_1161",
+  "data": {
+    "name": "1st Settlement (New Cairo) - Moneeb",
+    "shortName": "CTA 1161",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_1161",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

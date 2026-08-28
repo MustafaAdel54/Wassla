@@ -1,0 +1,16 @@
+{
+  "id": "metro_158_MZL_METRO_S",
+  "data": {
+    "name": "Mezallat",
+    "lat": 30.1040735,
+    "lng": 31.2455678,
+    "stationId": "station_metro_158_MZL_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "158_MZL_METRO_S",
+    "parentSourceId": "158_MZL_METRO",
+    "isActive": true
+  }
+}

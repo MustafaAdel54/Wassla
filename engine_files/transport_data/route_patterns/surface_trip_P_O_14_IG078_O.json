@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_IG078_O",
+  "data": {
+    "routeId": "surface_P_O_14_IG078",
+    "tripId": "P_O_14_IG078_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Tibeen",
+    "stops": [
+      {
+        "stopId": "surface_26",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2577",
+        "sequence": 2,
+        "arrivalSec": 21774,
+        "departureSec": 21789
+      },
+      {
+        "stopId": "surface_2575",
+        "sequence": 3,
+        "arrivalSec": 22027,
+        "departureSec": 22042
+      },
+      {
+        "stopId": "surface_2498",
+        "sequence": 4,
+        "arrivalSec": 22517,
+        "departureSec": 22532
+      },
+      {
+        "stopId": "surface_2740",
+        "sequence": 5,
+        "arrivalSec": 22686,
+        "departureSec": 22701
+      },
+      {
+        "stopId": "surface_25",
+        "sequence": 6,
+        "arrivalSec": 22749,
+        "departureSec": 22764
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

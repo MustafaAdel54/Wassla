@@ -1,0 +1,18 @@
+{
+  "id": "surface_1861",
+  "data": {
+    "name": "St. Antony Church (Zahraa Al Maadi)",
+    "lat": 29.9694324,
+    "lng": 31.324057300000018,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1861",
+    "isActive": true
+  }
+}

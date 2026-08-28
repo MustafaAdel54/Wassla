@@ -1,0 +1,18 @@
+{
+  "id": "surface_2614",
+  "data": {
+    "name": "Housing & Utilities Directorate (Giza)",
+    "lat": 30.001557013972537,
+    "lng": 31.204230721450234,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2614",
+    "isActive": true
+  }
+}

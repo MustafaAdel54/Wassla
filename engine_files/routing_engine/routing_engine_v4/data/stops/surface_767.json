@@ -1,0 +1,18 @@
+{
+  "id": "surface_767",
+  "data": {
+    "name": "8th District (Shorouq City)",
+    "lat": 30.16387022709309,
+    "lng": 31.605533855946288,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "767",
+    "isActive": true
+  }
+}

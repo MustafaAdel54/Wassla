@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_jWl6Q_wMOcOLnU7kaKiet",
+  "data": {
+    "routeId": "surface_PtTt3WzbrwwaHofgpaVMj",
+    "tripId": "jWl6Q_wMOcOLnU7kaKiet",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Kolleyet Al Zeraah (Ain Shams University)",
+    "stops": [
+      {
+        "stopId": "surface_1311",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2427",
+        "sequence": 2,
+        "arrivalSec": 21651,
+        "departureSec": 21666
+      },
+      {
+        "stopId": "surface_784",
+        "sequence": 3,
+        "arrivalSec": 21749,
+        "departureSec": 21764
+      },
+      {
+        "stopId": "surface_1301",
+        "sequence": 4,
+        "arrivalSec": 21812,
+        "departureSec": 21827
+      },
+      {
+        "stopId": "surface_2755",
+        "sequence": 5,
+        "arrivalSec": 21859,
+        "departureSec": 21874
+      },
+      {
+        "stopId": "surface_1300",
+        "sequence": 6,
+        "arrivalSec": 21944,
+        "departureSec": 21959
+      },
+      {
+        "stopId": "surface_1845",
+        "sequence": 7,
+        "arrivalSec": 22078,
+        "departureSec": 22093
+      },
+      {
+        "stopId": "surface_2231",
+        "sequence": 8,
+        "arrivalSec": 22340,
+        "departureSec": 22355
+      },
+      {
+        "stopId": "surface_2221",
+        "sequence": 9,
+        "arrivalSec": 22549,
+        "departureSec": 22564
+      },
+      {
+        "stopId": "surface_2517",
+        "sequence": 10,
+        "arrivalSec": 22742,
+        "departureSec": 22757
+      },
+      {
+        "stopId": "surface_95",
+        "sequence": 11,
+        "arrivalSec": 22765,
+        "departureSec": 22780
+      },
+      {
+        "stopId": "surface_1296",
+        "sequence": 12,
+        "arrivalSec": 22924,
+        "departureSec": 22939
+      },
+      {
+        "stopId": "surface_2780",
+        "sequence": 13,
+        "arrivalSec": 22954,
+        "departureSec": 22969
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

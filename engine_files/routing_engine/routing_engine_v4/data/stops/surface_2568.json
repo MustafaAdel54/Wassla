@@ -1,0 +1,18 @@
+{
+  "id": "surface_2568",
+  "data": {
+    "name": "Al Nour Mosque (Helwan Corniche)",
+    "lat": 29.813057779680467,
+    "lng": 31.30117720672315,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2568",
+    "isActive": true
+  }
+}

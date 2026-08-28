@@ -1,0 +1,18 @@
+{
+  "id": "surface_1012",
+  "data": {
+    "name": "Amr Ibn Al Aas School (Sheikh Zayed)",
+    "lat": 30.04944007064998,
+    "lng": 30.981819957554627,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1012",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1330",
+  "data": {
+    "name": "Bavaria Egypt (Gesr Al Suez)",
+    "lat": 30.132949069043164,
+    "lng": 31.378578016550133,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1330",
+    "isActive": true
+  }
+}

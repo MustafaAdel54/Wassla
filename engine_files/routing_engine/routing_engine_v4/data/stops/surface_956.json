@@ -1,0 +1,18 @@
+{
+  "id": "surface_956",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Al Hossary)",
+    "lat": 29.968900414163066,
+    "lng": 30.939139767772627,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "956",
+    "isActive": true
+  }
+}

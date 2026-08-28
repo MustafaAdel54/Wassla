@@ -1,0 +1,18 @@
+{
+  "id": "surface_1244",
+  "data": {
+    "name": "Al Hennawy Furniture (Airport Rd.)",
+    "lat": 30.124328457612386,
+    "lng": 31.376572873525785,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1244",
+    "isActive": true
+  }
+}

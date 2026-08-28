@@ -1,0 +1,18 @@
+{
+  "id": "surface_1428",
+  "data": {
+    "name": "Al Salam Tunnel Exit (Ring Rd.)",
+    "lat": 30.1484194352061,
+    "lng": 31.42572041438571,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1428",
+    "isActive": true
+  }
+}

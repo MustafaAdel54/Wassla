@@ -1,0 +1,18 @@
+{
+  "id": "surface_2884",
+  "data": {
+    "name": "Al Harania Footbridge",
+    "lat": 29.96837031119032,
+    "lng": 31.177432301445467,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2884",
+    "isActive": true
+  }
+}

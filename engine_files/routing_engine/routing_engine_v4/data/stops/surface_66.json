@@ -1,0 +1,18 @@
+{
+  "id": "surface_66",
+  "data": {
+    "name": "Faisal Tawabek",
+    "lat": 29.998228624795566,
+    "lng": 31.159379890343974,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "66",
+    "isActive": true
+  }
+}

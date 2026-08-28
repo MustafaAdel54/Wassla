@@ -1,0 +1,18 @@
+{
+  "id": "surface_2400",
+  "data": {
+    "name": "Sphinx Square",
+    "lat": 30.061678988188863,
+    "lng": 31.207417903174832,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2400",
+    "isActive": true
+  }
+}

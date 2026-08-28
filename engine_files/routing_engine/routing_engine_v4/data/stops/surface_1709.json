@@ -1,0 +1,18 @@
+{
+  "id": "surface_1709",
+  "data": {
+    "name": "Mazlaqan Ain Shams",
+    "lat": 30.133929152878434,
+    "lng": 31.32383042974295,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1709",
+    "isActive": true
+  }
+}

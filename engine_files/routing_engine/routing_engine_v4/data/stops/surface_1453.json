@@ -1,0 +1,18 @@
+{
+  "id": "surface_1453",
+  "data": {
+    "name": "Administrative Control Authority (Nozha)",
+    "lat": 30.07764083950021,
+    "lng": 31.339780800179717,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1453",
+    "isActive": true
+  }
+}

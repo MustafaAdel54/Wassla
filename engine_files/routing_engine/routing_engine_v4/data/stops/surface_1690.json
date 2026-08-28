@@ -1,0 +1,18 @@
+{
+  "id": "surface_1690",
+  "data": {
+    "name": "CIB (Al Hegaz)",
+    "lat": 30.105328,
+    "lng": 31.331973,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1690",
+    "isActive": true
+  }
+}

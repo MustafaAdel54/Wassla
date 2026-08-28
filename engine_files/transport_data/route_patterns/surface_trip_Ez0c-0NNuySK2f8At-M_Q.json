@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_Ez0c-0NNuySK2f8At-M_Q",
+  "data": {
+    "routeId": "surface_PDlizFncn7JYVajF5DkR9",
+    "tripId": "Ez0c-0NNuySK2f8At-M_Q",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Abou El Numrus",
+    "stops": [
+      {
+        "stopId": "surface_2835",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2913",
+        "sequence": 2,
+        "arrivalSec": 21927,
+        "departureSec": 21942
+      },
+      {
+        "stopId": "surface_2730",
+        "sequence": 3,
+        "arrivalSec": 22173,
+        "departureSec": 22188
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

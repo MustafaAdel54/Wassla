@@ -1,0 +1,18 @@
+{
+  "id": "surface_2562",
+  "data": {
+    "name": "Ibrahim Al Rifaie School (1st Settlement)",
+    "lat": 30.070098199999983,
+    "lng": 31.456310099999982,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2562",
+    "isActive": true
+  }
+}

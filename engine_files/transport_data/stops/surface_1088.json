@@ -1,0 +1,18 @@
+{
+  "id": "surface_1088",
+  "data": {
+    "name": "Egyptian Shooting Club Pedestrian Tunnle (Kattameya)",
+    "lat": 29.983368167286127,
+    "lng": 31.32568387708188,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1088",
+    "isActive": true
+  }
+}

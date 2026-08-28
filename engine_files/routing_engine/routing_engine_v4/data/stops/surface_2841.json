@@ -1,0 +1,18 @@
+{
+  "id": "surface_2841",
+  "data": {
+    "name": "Alf Masnaa",
+    "lat": 29.976037,
+    "lng": 31.479977,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2841",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1022",
+  "data": {
+    "name": "Tara Compound Entrance (Sheikh Zayed)",
+    "lat": 30.040054286226784,
+    "lng": 31.013706685691282,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1022",
+    "isActive": true
+  }
+}

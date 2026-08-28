@@ -1,0 +1,18 @@
+{
+  "id": "surface_1635",
+  "data": {
+    "name": "Al Tayaran St. & Khedr Al Touny St.",
+    "lat": 30.075857,
+    "lng": 31.322074,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1635",
+    "isActive": true
+  }
+}

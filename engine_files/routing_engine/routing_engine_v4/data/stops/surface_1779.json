@@ -1,0 +1,18 @@
+{
+  "id": "surface_1779",
+  "data": {
+    "name": "Saleh Sobhy (15th of May)",
+    "lat": 29.84259239999998,
+    "lng": 31.3581642,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1779",
+    "isActive": true
+  }
+}

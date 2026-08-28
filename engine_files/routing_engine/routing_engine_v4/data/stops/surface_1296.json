@@ -1,0 +1,18 @@
+{
+  "id": "surface_1296",
+  "data": {
+    "name": "Faculty of Agriculture - Ain Shams University",
+    "lat": 30.11212,
+    "lng": 31.2482,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1296",
+    "isActive": true
+  }
+}

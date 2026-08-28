@@ -1,0 +1,16 @@
+{
+  "id": "metro_118_GES_METRO",
+  "data": {
+    "name": "El-Geish",
+    "lat": 30.061716,
+    "lng": 31.26696,
+    "stationId": "station_metro_118_GES_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "118_GES_METRO",
+    "parentSourceId": "118_GES_METRO",
+    "isActive": true
+  }
+}

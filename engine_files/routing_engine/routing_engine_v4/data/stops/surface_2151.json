@@ -1,0 +1,18 @@
+{
+  "id": "surface_2151",
+  "data": {
+    "name": "Ahmed Saeed St. & Abaseyya St.",
+    "lat": 30.064055,
+    "lng": 31.272795,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2151",
+    "isActive": true
+  }
+}

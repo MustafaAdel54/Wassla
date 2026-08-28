@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_P_O_14_IC021_O",
+  "data": {
+    "routeId": "surface_P_O_14_IC021",
+    "tripId": "P_O_14_IC021_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Saqr Quraish",
+    "stops": [
+      {
+        "stopId": "surface_799",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1086",
+        "sequence": 2,
+        "arrivalSec": 21855,
+        "departureSec": 21870
+      },
+      {
+        "stopId": "surface_264",
+        "sequence": 3,
+        "arrivalSec": 21893,
+        "departureSec": 21908
+      },
+      {
+        "stopId": "surface_449",
+        "sequence": 4,
+        "arrivalSec": 21945,
+        "departureSec": 21960
+      },
+      {
+        "stopId": "surface_265",
+        "sequence": 5,
+        "arrivalSec": 22010,
+        "departureSec": 22025
+      },
+      {
+        "stopId": "surface_330",
+        "sequence": 6,
+        "arrivalSec": 22075,
+        "departureSec": 22090
+      },
+      {
+        "stopId": "surface_494",
+        "sequence": 7,
+        "arrivalSec": 22519,
+        "departureSec": 22534
+      },
+      {
+        "stopId": "surface_674",
+        "sequence": 8,
+        "arrivalSec": 22624,
+        "departureSec": 22639
+      },
+      {
+        "stopId": "surface_270",
+        "sequence": 9,
+        "arrivalSec": 22687,
+        "departureSec": 22702
+      },
+      {
+        "stopId": "surface_1589",
+        "sequence": 10,
+        "arrivalSec": 22727,
+        "departureSec": 22742
+      },
+      {
+        "stopId": "surface_671",
+        "sequence": 11,
+        "arrivalSec": 22787,
+        "departureSec": 22802
+      },
+      {
+        "stopId": "surface_2481",
+        "sequence": 12,
+        "arrivalSec": 23082,
+        "departureSec": 23097
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

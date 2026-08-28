@@ -1,0 +1,18 @@
+{
+  "id": "surface_2868",
+  "data": {
+    "name": "Badr Station (Sheikh Zayed)",
+    "lat": 30.054960350635405,
+    "lng": 30.959380223320842,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2868",
+    "isActive": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_I9feZrZq6yKe_m0_I-689",
+  "data": {
+    "routeId": "surface_THrQu8qlfqIVjyIOU9nsp",
+    "tripId": "I9feZrZq6yKe_m0_I-689",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Awwel Faisal",
+    "stops": [
+      {
+        "stopId": "surface_1261",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1961",
+        "sequence": 2,
+        "arrivalSec": 21676,
+        "departureSec": 21690
+      },
+      {
+        "stopId": "surface_1967",
+        "sequence": 3,
+        "arrivalSec": 21740,
+        "departureSec": 21754
+      },
+      {
+        "stopId": "surface_1970",
+        "sequence": 4,
+        "arrivalSec": 21860,
+        "departureSec": 21875
+      },
+      {
+        "stopId": "surface_2158",
+        "sequence": 5,
+        "arrivalSec": 21950,
+        "departureSec": 21965
+      },
+      {
+        "stopId": "surface_1933",
+        "sequence": 6,
+        "arrivalSec": 22054,
+        "departureSec": 22069
+      },
+      {
+        "stopId": "surface_1948",
+        "sequence": 7,
+        "arrivalSec": 22205,
+        "departureSec": 22220
+      },
+      {
+        "stopId": "surface_2061",
+        "sequence": 8,
+        "arrivalSec": 22260,
+        "departureSec": 22275
+      },
+      {
+        "stopId": "surface_2556",
+        "sequence": 9,
+        "arrivalSec": 22429,
+        "departureSec": 22444
+      },
+      {
+        "stopId": "surface_399",
+        "sequence": 10,
+        "arrivalSec": 22554,
+        "departureSec": 22569
+      },
+      {
+        "stopId": "surface_2545",
+        "sequence": 11,
+        "arrivalSec": 22656,
+        "departureSec": 22670
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

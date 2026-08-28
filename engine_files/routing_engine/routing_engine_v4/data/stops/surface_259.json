@@ -1,0 +1,18 @@
+{
+  "id": "surface_259",
+  "data": {
+    "name": "Fatma Al Sharbatly Mosque",
+    "lat": 30.005634,
+    "lng": 31.445208,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "259",
+    "isActive": true
+  }
+}

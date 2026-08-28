@@ -1,0 +1,18 @@
+{
+  "id": "surface_1409",
+  "data": {
+    "name": "Al Qalag (Marg)",
+    "lat": 30.177139799999985,
+    "lng": 31.3484895,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1409",
+    "isActive": true
+  }
+}

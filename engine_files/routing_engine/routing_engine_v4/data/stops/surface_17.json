@@ -1,0 +1,18 @@
+{
+  "id": "surface_17",
+  "data": {
+    "name": "Qalyoub Exit",
+    "lat": 30.14947309423047,
+    "lng": 31.23086524615832,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "17",
+    "isActive": true
+  }
+}

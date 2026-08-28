@@ -1,0 +1,18 @@
+{
+  "id": "surface_25",
+  "data": {
+    "name": "Al Tibeen",
+    "lat": 29.788189784895792,
+    "lng": 31.295833367171376,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "25",
+    "isActive": true
+  }
+}

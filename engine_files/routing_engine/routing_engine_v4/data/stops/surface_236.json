@@ -1,0 +1,18 @@
+{
+  "id": "surface_236",
+  "data": {
+    "name": "Al Rawda & Al Horreya St.",
+    "lat": 30.040493732191358,
+    "lng": 31.002905652430513,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "236",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2024",
+  "data": {
+    "name": "15th of May School (Mostorod)",
+    "lat": 30.13210452536857,
+    "lng": 31.282912460496426,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2024",
+    "isActive": true
+  }
+}

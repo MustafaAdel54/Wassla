@@ -1,0 +1,18 @@
+{
+  "id": "surface_2782",
+  "data": {
+    "name": "26th of July Corridor Exit to Alex Desert Rd.",
+    "lat": 30.048586,
+    "lng": 31.050405,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2782",
+    "isActive": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_KTNeRW7xWuvACku1TBi1-",
+  "data": {
+    "routeId": "surface_p3-8qu3UivDvTp0cckEVG",
+    "tripId": "KTNeRW7xWuvACku1TBi1-",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Kafr Tohormos",
+    "stops": [
+      {
+        "stopId": "surface_394",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2526",
+        "sequence": 2,
+        "arrivalSec": 22347,
+        "departureSec": 22362
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

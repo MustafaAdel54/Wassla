@@ -1,0 +1,98 @@
+{
+  "id": "surface_trip_P_O_14_GZ023_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ023",
+    "tripId": "P_O_14_GZ023_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Bohooth (Al Kobri Al Khashab)",
+    "stops": [
+      {
+        "stopId": "surface_2386",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_69",
+        "sequence": 2,
+        "arrivalSec": 21739,
+        "departureSec": 21754
+      },
+      {
+        "stopId": "surface_1333",
+        "sequence": 3,
+        "arrivalSec": 21919,
+        "departureSec": 21934
+      },
+      {
+        "stopId": "surface_2406",
+        "sequence": 4,
+        "arrivalSec": 22338,
+        "departureSec": 22353
+      },
+      {
+        "stopId": "surface_2402",
+        "sequence": 5,
+        "arrivalSec": 22491,
+        "departureSec": 22506
+      },
+      {
+        "stopId": "surface_2349",
+        "sequence": 6,
+        "arrivalSec": 22547,
+        "departureSec": 22562
+      },
+      {
+        "stopId": "surface_231",
+        "sequence": 7,
+        "arrivalSec": 22906,
+        "departureSec": 22921
+      },
+      {
+        "stopId": "surface_2335",
+        "sequence": 8,
+        "arrivalSec": 23010,
+        "departureSec": 23025
+      },
+      {
+        "stopId": "surface_2333",
+        "sequence": 9,
+        "arrivalSec": 23114,
+        "departureSec": 23129
+      },
+      {
+        "stopId": "surface_2331",
+        "sequence": 10,
+        "arrivalSec": 23252,
+        "departureSec": 23267
+      },
+      {
+        "stopId": "surface_2522",
+        "sequence": 11,
+        "arrivalSec": 23442,
+        "departureSec": 23456
+      },
+      {
+        "stopId": "surface_2270",
+        "sequence": 12,
+        "arrivalSec": 26028,
+        "departureSec": 26042
+      },
+      {
+        "stopId": "surface_2272",
+        "sequence": 13,
+        "arrivalSec": 26095,
+        "departureSec": 26110
+      },
+      {
+        "stopId": "surface_2259",
+        "sequence": 14,
+        "arrivalSec": 26200,
+        "departureSec": 26215
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

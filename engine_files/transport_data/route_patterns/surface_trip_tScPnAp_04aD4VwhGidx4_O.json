@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_tScPnAp_04aD4VwhGidx4_O",
+  "data": {
+    "routeId": "surface_tScPnAp_04aD4VwhGidx4",
+    "tripId": "tScPnAp_04aD4VwhGidx4_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Church (Kayan) - New Administrative Capital",
+    "stops": [
+      {
+        "stopId": "surface_1428",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_255",
+        "sequence": 2,
+        "arrivalSec": 23873,
+        "departureSec": 23888
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

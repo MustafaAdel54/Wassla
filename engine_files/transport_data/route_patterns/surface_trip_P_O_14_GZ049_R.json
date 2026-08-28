@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_O_14_GZ049_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ049",
+    "tripId": "P_O_14_GZ049_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Faisal Tawabek",
+    "stops": [
+      {
+        "stopId": "surface_206",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_399",
+        "sequence": 2,
+        "arrivalSec": 21670,
+        "departureSec": 21685
+      },
+      {
+        "stopId": "surface_2545",
+        "sequence": 3,
+        "arrivalSec": 21771,
+        "departureSec": 21786
+      },
+      {
+        "stopId": "surface_2173",
+        "sequence": 4,
+        "arrivalSec": 21825,
+        "departureSec": 21840
+      },
+      {
+        "stopId": "surface_2171",
+        "sequence": 5,
+        "arrivalSec": 22184,
+        "departureSec": 22199
+      },
+      {
+        "stopId": "surface_2169",
+        "sequence": 6,
+        "arrivalSec": 22423,
+        "departureSec": 22438
+      },
+      {
+        "stopId": "surface_2167",
+        "sequence": 7,
+        "arrivalSec": 22711,
+        "departureSec": 22726
+      },
+      {
+        "stopId": "surface_1836",
+        "sequence": 8,
+        "arrivalSec": 23041,
+        "departureSec": 23056
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1326",
+  "data": {
+    "name": "Real Estate Registration Mission (Shobra)",
+    "lat": 30.074189643277474,
+    "lng": 31.247946703040096,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1326",
+    "isActive": true
+  }
+}

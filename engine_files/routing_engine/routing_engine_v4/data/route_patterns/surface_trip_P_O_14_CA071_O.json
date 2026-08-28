@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_P_O_14_CA071_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA071",
+    "tripId": "P_O_14_CA071_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Abboud",
+    "stops": [
+      {
+        "stopId": "surface_2236",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2235",
+        "sequence": 2,
+        "arrivalSec": 21660,
+        "departureSec": 21675
+      },
+      {
+        "stopId": "surface_2238",
+        "sequence": 3,
+        "arrivalSec": 21758,
+        "departureSec": 21773
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

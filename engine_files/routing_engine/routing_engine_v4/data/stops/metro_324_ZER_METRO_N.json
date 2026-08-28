@@ -1,0 +1,16 @@
+{
+  "id": "metro_324_ZER_METRO_N",
+  "data": {
+    "name": "Kolleyyet El-Zeraa",
+    "lat": 30.1136611,
+    "lng": 31.2487543,
+    "stationId": "station_metro_324_ZER_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "324_ZER_METRO_N",
+    "parentSourceId": "324_ZER_METRO",
+    "isActive": true
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_P_O_14_IC051_O",
+  "data": {
+    "routeId": "surface_P_O_14_IC051",
+    "tripId": "P_O_14_IC051_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "New Cairo Court",
+    "stops": [
+      {
+        "stopId": "surface_1121",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_518",
+        "sequence": 2,
+        "arrivalSec": 21635,
+        "departureSec": 21650
+      },
+      {
+        "stopId": "surface_1288",
+        "sequence": 3,
+        "arrivalSec": 21874,
+        "departureSec": 21889
+      },
+      {
+        "stopId": "surface_453",
+        "sequence": 4,
+        "arrivalSec": 22093,
+        "departureSec": 22108
+      },
+      {
+        "stopId": "surface_586",
+        "sequence": 5,
+        "arrivalSec": 22440,
+        "departureSec": 22455
+      },
+      {
+        "stopId": "surface_1190",
+        "sequence": 6,
+        "arrivalSec": 22489,
+        "departureSec": 22504
+      },
+      {
+        "stopId": "surface_1069",
+        "sequence": 7,
+        "arrivalSec": 22690,
+        "departureSec": 22705
+      },
+      {
+        "stopId": "surface_359",
+        "sequence": 8,
+        "arrivalSec": 22733,
+        "departureSec": 22748
+      },
+      {
+        "stopId": "surface_360",
+        "sequence": 9,
+        "arrivalSec": 22819,
+        "departureSec": 22834
+      },
+      {
+        "stopId": "surface_802",
+        "sequence": 10,
+        "arrivalSec": 22865,
+        "departureSec": 22880
+      },
+      {
+        "stopId": "surface_593",
+        "sequence": 11,
+        "arrivalSec": 22919,
+        "departureSec": 22934
+      },
+      {
+        "stopId": "surface_1131",
+        "sequence": 12,
+        "arrivalSec": 22977,
+        "departureSec": 22992
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

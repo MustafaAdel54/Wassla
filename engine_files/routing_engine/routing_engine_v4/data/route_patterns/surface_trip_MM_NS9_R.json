@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_MM_NS9_R",
+  "data": {
+    "routeId": "surface_MM_NS9",
+    "tripId": "MM_NS9_R",
+    "serviceId": "Ground_Weekdays",
+    "directionId": "1",
+    "headsign": "1st Settlement (New Cairo)",
+    "stops": [
+      {
+        "stopId": "surface_1163",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2633",
+        "sequence": 2,
+        "arrivalSec": 21831,
+        "departureSec": 21846
+      },
+      {
+        "stopId": "surface_1159",
+        "sequence": 3,
+        "arrivalSec": 22559,
+        "departureSec": 22574
+      },
+      {
+        "stopId": "surface_1158",
+        "sequence": 4,
+        "arrivalSec": 22660,
+        "departureSec": 22675
+      },
+      {
+        "stopId": "surface_2990",
+        "sequence": 5,
+        "arrivalSec": 23002,
+        "departureSec": 23017
+      },
+      {
+        "stopId": "surface_584",
+        "sequence": 6,
+        "arrivalSec": 24628,
+        "departureSec": 24643
+      },
+      {
+        "stopId": "surface_1211",
+        "sequence": 7,
+        "arrivalSec": 24791,
+        "departureSec": 24806
+      },
+      {
+        "stopId": "surface_311",
+        "sequence": 8,
+        "arrivalSec": 24878,
+        "departureSec": 24892
+      },
+      {
+        "stopId": "surface_310",
+        "sequence": 9,
+        "arrivalSec": 24942,
+        "departureSec": 24958
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

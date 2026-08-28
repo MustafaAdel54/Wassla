@@ -1,0 +1,18 @@
+{
+  "id": "surface_1155",
+  "data": {
+    "name": "Zahraa Madinet Nasr",
+    "lat": 30.054673979571994,
+    "lng": 31.41300653433628,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1155",
+    "isActive": true
+  }
+}

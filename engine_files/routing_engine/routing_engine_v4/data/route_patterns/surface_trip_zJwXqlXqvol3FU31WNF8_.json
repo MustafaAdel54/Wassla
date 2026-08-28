@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_zJwXqlXqvol3FU31WNF8_",
+  "data": {
+    "routeId": "surface_2GAYQWfWuEdIk5hhjFe2Q",
+    "tripId": "zJwXqlXqvol3FU31WNF8_",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Bigam",
+    "stops": [
+      {
+        "stopId": "surface_2257",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2304",
+        "sequence": 2,
+        "arrivalSec": 21660,
+        "departureSec": 21675
+      },
+      {
+        "stopId": "surface_2255",
+        "sequence": 3,
+        "arrivalSec": 21753,
+        "departureSec": 21768
+      },
+      {
+        "stopId": "surface_2247",
+        "sequence": 4,
+        "arrivalSec": 21884,
+        "departureSec": 21899
+      },
+      {
+        "stopId": "surface_2249",
+        "sequence": 5,
+        "arrivalSec": 21959,
+        "departureSec": 21974
+      },
+      {
+        "stopId": "surface_2251",
+        "sequence": 6,
+        "arrivalSec": 22095,
+        "departureSec": 22110
+      },
+      {
+        "stopId": "surface_2119",
+        "sequence": 7,
+        "arrivalSec": 22156,
+        "departureSec": 22171
+      },
+      {
+        "stopId": "surface_2326",
+        "sequence": 8,
+        "arrivalSec": 22220,
+        "departureSec": 22234
+      },
+      {
+        "stopId": "surface_2806",
+        "sequence": 9,
+        "arrivalSec": 22334,
+        "departureSec": 22349
+      },
+      {
+        "stopId": "surface_2485",
+        "sequence": 10,
+        "arrivalSec": 22421,
+        "departureSec": 22436
+      },
+      {
+        "stopId": "surface_1389",
+        "sequence": 11,
+        "arrivalSec": 22594,
+        "departureSec": 22609
+      },
+      {
+        "stopId": "surface_2517",
+        "sequence": 12,
+        "arrivalSec": 22707,
+        "departureSec": 22722
+      },
+      {
+        "stopId": "surface_2831",
+        "sequence": 13,
+        "arrivalSec": 23162,
+        "departureSec": 23177
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_3032",
+  "data": {
+    "name": "Abou Zaabal",
+    "lat": 30.253528914616457,
+    "lng": 31.349594374738317,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3032",
+    "isActive": true
+  }
+}

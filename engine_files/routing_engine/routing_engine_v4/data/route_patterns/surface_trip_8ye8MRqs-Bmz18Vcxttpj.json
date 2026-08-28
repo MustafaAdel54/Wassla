@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_8ye8MRqs-Bmz18Vcxttpj",
+  "data": {
+    "routeId": "surface_-VhmbIy80una-3ZcYAtuQ",
+    "tripId": "8ye8MRqs-Bmz18Vcxttpj",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Barageel St",
+    "stops": [
+      {
+        "stopId": "surface_2757",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2551",
+        "sequence": 2,
+        "arrivalSec": 22383,
+        "departureSec": 22398
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

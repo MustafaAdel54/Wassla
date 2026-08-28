@@ -1,0 +1,18 @@
+{
+  "id": "surface_3023",
+  "data": {
+    "name": "Helwan Observatory",
+    "lat": 29.868595285273535,
+    "lng": 31.354693211870377,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3023",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1242",
+  "data": {
+    "name": "Nefertari International School",
+    "lat": 30.154018217116914,
+    "lng": 31.44347448817582,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1242",
+    "isActive": true
+  }
+}

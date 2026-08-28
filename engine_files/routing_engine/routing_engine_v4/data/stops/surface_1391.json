@@ -1,0 +1,18 @@
+{
+  "id": "surface_1391",
+  "data": {
+    "name": "Obour City Authority",
+    "lat": 30.23896133010937,
+    "lng": 31.45837312750588,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1391",
+    "isActive": true
+  }
+}

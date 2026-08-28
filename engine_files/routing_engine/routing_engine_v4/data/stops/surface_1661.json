@@ -1,0 +1,18 @@
+{
+  "id": "surface_1661",
+  "data": {
+    "name": "Port Said Square (Maadi)",
+    "lat": 29.96123801687402,
+    "lng": 31.262598188951195,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1661",
+    "isActive": true
+  }
+}

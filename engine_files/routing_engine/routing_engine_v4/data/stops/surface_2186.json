@@ -1,0 +1,18 @@
+{
+  "id": "surface_2186",
+  "data": {
+    "name": "Egyptian Agricultural Bank (Al Giza)",
+    "lat": 30.00860690539567,
+    "lng": 31.209003225415522,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2186",
+    "isActive": true
+  }
+}

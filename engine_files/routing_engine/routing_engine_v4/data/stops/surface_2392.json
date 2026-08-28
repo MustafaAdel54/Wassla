@@ -1,0 +1,18 @@
+{
+  "id": "surface_2392",
+  "data": {
+    "name": "Imbaba Station",
+    "lat": 30.077565684729628,
+    "lng": 31.221828501586177,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2392",
+    "isActive": true
+  }
+}

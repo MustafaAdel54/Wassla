@@ -1,0 +1,18 @@
+{
+  "id": "surface_117",
+  "data": {
+    "name": "Salah Al Din Square (Heliopolis)",
+    "lat": 30.0951775090822,
+    "lng": 31.33027746130258,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "117",
+    "isActive": true
+  }
+}

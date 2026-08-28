@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_O_14_CA067_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA067",
+    "tripId": "P_O_14_CA067_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Ghamra",
+    "stops": [
+      {
+        "stopId": "surface_721",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_461",
+        "sequence": 2,
+        "arrivalSec": 21689,
+        "departureSec": 21704
+      },
+      {
+        "stopId": "surface_2735",
+        "sequence": 3,
+        "arrivalSec": 21824,
+        "departureSec": 21839
+      },
+      {
+        "stopId": "surface_2154",
+        "sequence": 4,
+        "arrivalSec": 21895,
+        "departureSec": 21910
+      },
+      {
+        "stopId": "surface_2152",
+        "sequence": 5,
+        "arrivalSec": 21958,
+        "departureSec": 21973
+      },
+      {
+        "stopId": "surface_2156",
+        "sequence": 6,
+        "arrivalSec": 22027,
+        "departureSec": 22042
+      },
+      {
+        "stopId": "surface_2150",
+        "sequence": 7,
+        "arrivalSec": 22109,
+        "departureSec": 22124
+      },
+      {
+        "stopId": "surface_27",
+        "sequence": 8,
+        "arrivalSec": 22184,
+        "departureSec": 22199
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

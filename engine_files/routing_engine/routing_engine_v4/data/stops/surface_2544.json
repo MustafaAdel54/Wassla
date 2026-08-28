@@ -1,0 +1,18 @@
+{
+  "id": "surface_2544",
+  "data": {
+    "name": "Fayda Kamel",
+    "lat": 29.976042864941952,
+    "lng": 31.25828241626212,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2544",
+    "isActive": true
+  }
+}

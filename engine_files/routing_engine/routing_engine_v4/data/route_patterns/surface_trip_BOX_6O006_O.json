@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_BOX_6O006_O",
+  "data": {
+    "routeId": "surface_BOX_6O006",
+    "tripId": "BOX_6O006_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Muluk",
+    "stops": [
+      {
+        "stopId": "surface_980",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_896",
+        "sequence": 2,
+        "arrivalSec": 21667,
+        "departureSec": 21682
+      },
+      {
+        "stopId": "surface_951",
+        "sequence": 3,
+        "arrivalSec": 21750,
+        "departureSec": 21765
+      },
+      {
+        "stopId": "surface_982",
+        "sequence": 4,
+        "arrivalSec": 21795,
+        "departureSec": 21810
+      },
+      {
+        "stopId": "surface_894",
+        "sequence": 5,
+        "arrivalSec": 21915,
+        "departureSec": 21930
+      },
+      {
+        "stopId": "surface_953",
+        "sequence": 6,
+        "arrivalSec": 21975,
+        "departureSec": 21990
+      },
+      {
+        "stopId": "surface_955",
+        "sequence": 7,
+        "arrivalSec": 22148,
+        "departureSec": 22163
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

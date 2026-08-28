@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_IC038_O",
+  "data": {
+    "routeId": "surface_P_O_14_IC038",
+    "tripId": "P_O_14_IC038_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Sphinx Airport",
+    "stops": [
+      {
+        "stopId": "surface_1141",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_572",
+        "sequence": 2,
+        "arrivalSec": 21952,
+        "departureSec": 21967
+      },
+      {
+        "stopId": "surface_573",
+        "sequence": 3,
+        "arrivalSec": 22312,
+        "departureSec": 22327
+      },
+      {
+        "stopId": "surface_576",
+        "sequence": 4,
+        "arrivalSec": 22673,
+        "departureSec": 22688
+      },
+      {
+        "stopId": "surface_577",
+        "sequence": 5,
+        "arrivalSec": 22859,
+        "departureSec": 22874
+      },
+      {
+        "stopId": "surface_1136",
+        "sequence": 6,
+        "arrivalSec": 23190,
+        "departureSec": 23205
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

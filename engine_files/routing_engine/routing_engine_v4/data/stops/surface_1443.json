@@ -1,0 +1,18 @@
+{
+  "id": "surface_1443",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Abbas Al Akkad St.)",
+    "lat": 30.056221422552248,
+    "lng": 31.33823164347383,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1443",
+    "isActive": true
+  }
+}

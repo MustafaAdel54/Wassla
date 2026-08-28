@@ -1,0 +1,18 @@
+{
+  "id": "surface_1858",
+  "data": {
+    "name": "Al Kuwaiti Mosque (Zahraa Al Maadi)",
+    "lat": 29.96139827129564,
+    "lng": 31.313738215012833,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1858",
+    "isActive": true
+  }
+}

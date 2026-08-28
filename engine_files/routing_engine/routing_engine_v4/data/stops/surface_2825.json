@@ -1,0 +1,18 @@
+{
+  "id": "surface_2825",
+  "data": {
+    "name": "Teraat Al Marioteyya St.",
+    "lat": 30.03254551155938,
+    "lng": 31.12206471218092,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2825",
+    "isActive": true
+  }
+}

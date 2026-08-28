@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_900",
+  "data": {
+    "name": "Abd Al Moneim Riad - Tagneed (Al Remaya)",
+    "shortName": "CTA 900",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_900",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "metro_361_BHO_METRO_N",
+  "data": {
+    "name": "Bohooth",
+    "lat": 30.03584,
+    "lng": 31.200255,
+    "stationId": "station_metro_361_BHO_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "361_BHO_METRO_N",
+    "parentSourceId": "361_BHO_METRO",
+    "isActive": true
+  }
+}

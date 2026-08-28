@@ -1,0 +1,15 @@
+{
+  "id": "surface_MM_M7",
+  "data": {
+    "name": "Abd Al Moneim Riad - Hadayek AL Ahram (Second Gate)",
+    "shortName": "MM M7",
+    "agencyId": "surface_MM",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "MM_M7",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

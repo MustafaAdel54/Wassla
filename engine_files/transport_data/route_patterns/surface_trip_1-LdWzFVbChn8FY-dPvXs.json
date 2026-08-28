@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_1-LdWzFVbChn8FY-dPvXs",
+  "data": {
+    "routeId": "surface_wMjyQ7gRXkx7VXHzsFwCf",
+    "tripId": "1-LdWzFVbChn8FY-dPvXs",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Shari' Al Gadeed  (Bahteem)",
+    "stops": [
+      {
+        "stopId": "surface_1219",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2034",
+        "sequence": 2,
+        "arrivalSec": 21691,
+        "departureSec": 21706
+      },
+      {
+        "stopId": "surface_2036",
+        "sequence": 3,
+        "arrivalSec": 21740,
+        "departureSec": 21755
+      },
+      {
+        "stopId": "surface_2038",
+        "sequence": 4,
+        "arrivalSec": 21783,
+        "departureSec": 21798
+      },
+      {
+        "stopId": "surface_1843",
+        "sequence": 5,
+        "arrivalSec": 21918,
+        "departureSec": 21933
+      },
+      {
+        "stopId": "surface_1311",
+        "sequence": 6,
+        "arrivalSec": 22024,
+        "departureSec": 22039
+      },
+      {
+        "stopId": "surface_2427",
+        "sequence": 7,
+        "arrivalSec": 22082,
+        "departureSec": 22097
+      },
+      {
+        "stopId": "surface_784",
+        "sequence": 8,
+        "arrivalSec": 22162,
+        "departureSec": 22177
+      },
+      {
+        "stopId": "surface_1301",
+        "sequence": 9,
+        "arrivalSec": 22222,
+        "departureSec": 22237
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

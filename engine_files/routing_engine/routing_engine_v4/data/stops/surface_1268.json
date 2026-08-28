@@ -1,0 +1,18 @@
+{
+  "id": "surface_1268",
+  "data": {
+    "name": "Nour Al Islam Mosque Steps (Ring Rd.)",
+    "lat": 29.992726084739292,
+    "lng": 31.24663854156071,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1268",
+    "isActive": true
+  }
+}

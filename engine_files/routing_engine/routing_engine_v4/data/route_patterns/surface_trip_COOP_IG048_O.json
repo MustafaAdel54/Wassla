@@ -1,0 +1,104 @@
+{
+  "id": "surface_trip_COOP_IG048_O",
+  "data": {
+    "routeId": "surface_COOP_IG048",
+    "tripId": "COOP_IG048_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mazallat",
+    "stops": [
+      {
+        "stopId": "surface_1151",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1309",
+        "sequence": 2,
+        "arrivalSec": 21697,
+        "departureSec": 21712
+      },
+      {
+        "stopId": "surface_1310",
+        "sequence": 3,
+        "arrivalSec": 22387,
+        "departureSec": 22402
+      },
+      {
+        "stopId": "surface_2648",
+        "sequence": 4,
+        "arrivalSec": 22540,
+        "departureSec": 22555
+      },
+      {
+        "stopId": "surface_1848",
+        "sequence": 5,
+        "arrivalSec": 22953,
+        "departureSec": 22968
+      },
+      {
+        "stopId": "surface_2660",
+        "sequence": 6,
+        "arrivalSec": 23114,
+        "departureSec": 23129
+      },
+      {
+        "stopId": "surface_345",
+        "sequence": 7,
+        "arrivalSec": 23356,
+        "departureSec": 23371
+      },
+      {
+        "stopId": "surface_1315",
+        "sequence": 8,
+        "arrivalSec": 23417,
+        "departureSec": 23432
+      },
+      {
+        "stopId": "surface_346",
+        "sequence": 9,
+        "arrivalSec": 23500,
+        "departureSec": 23515
+      },
+      {
+        "stopId": "surface_347",
+        "sequence": 10,
+        "arrivalSec": 23632,
+        "departureSec": 23646
+      },
+      {
+        "stopId": "surface_2578",
+        "sequence": 11,
+        "arrivalSec": 23828,
+        "departureSec": 23843
+      },
+      {
+        "stopId": "surface_1298",
+        "sequence": 12,
+        "arrivalSec": 24058,
+        "departureSec": 24073
+      },
+      {
+        "stopId": "surface_2125",
+        "sequence": 13,
+        "arrivalSec": 24153,
+        "departureSec": 24168
+      },
+      {
+        "stopId": "surface_2687",
+        "sequence": 14,
+        "arrivalSec": 24403,
+        "departureSec": 24418
+      },
+      {
+        "stopId": "surface_1308",
+        "sequence": 15,
+        "arrivalSec": 24484,
+        "departureSec": 24499
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

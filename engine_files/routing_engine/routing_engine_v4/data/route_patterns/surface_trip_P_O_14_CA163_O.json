@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_P_O_14_CA163_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA163",
+    "tripId": "P_O_14_CA163_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al-Salam (10th of Ramadan)",
+    "stops": [
+      {
+        "stopId": "surface_2453",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1479",
+        "sequence": 2,
+        "arrivalSec": 22182,
+        "departureSec": 22197
+      },
+      {
+        "stopId": "surface_1385",
+        "sequence": 3,
+        "arrivalSec": 22323,
+        "departureSec": 22338
+      },
+      {
+        "stopId": "surface_1494",
+        "sequence": 4,
+        "arrivalSec": 22627,
+        "departureSec": 22642
+      },
+      {
+        "stopId": "surface_1496",
+        "sequence": 5,
+        "arrivalSec": 22693,
+        "departureSec": 22708
+      },
+      {
+        "stopId": "surface_1318",
+        "sequence": 6,
+        "arrivalSec": 22775,
+        "departureSec": 22790
+      },
+      {
+        "stopId": "surface_1244",
+        "sequence": 7,
+        "arrivalSec": 22823,
+        "departureSec": 22838
+      },
+      {
+        "stopId": "surface_1471",
+        "sequence": 8,
+        "arrivalSec": 22988,
+        "departureSec": 23003
+      },
+      {
+        "stopId": "surface_1468",
+        "sequence": 9,
+        "arrivalSec": 23072,
+        "departureSec": 23087
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 10,
+        "arrivalSec": 23328,
+        "departureSec": 23343
+      },
+      {
+        "stopId": "surface_794",
+        "sequence": 11,
+        "arrivalSec": 23449,
+        "departureSec": 23464
+      },
+      {
+        "stopId": "surface_2483",
+        "sequence": 12,
+        "arrivalSec": 24072,
+        "departureSec": 24087
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

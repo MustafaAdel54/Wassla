@@ -1,0 +1,18 @@
+{
+  "id": "surface_626",
+  "data": {
+    "name": "Ring Rd. Steps to Qalyub",
+    "lat": 30.149168926227127,
+    "lng": 31.230325150674616,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "626",
+    "isActive": true
+  }
+}

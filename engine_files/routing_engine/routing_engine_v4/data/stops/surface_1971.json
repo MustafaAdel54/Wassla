@@ -1,0 +1,18 @@
+{
+  "id": "surface_1971",
+  "data": {
+    "name": "Al Malek Al Saleh Tunnel Square",
+    "lat": 30.01614998129888,
+    "lng": 31.23402790439767,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1971",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1237",
+  "data": {
+    "name": "Mobil (Mostafa Kamel Axis & 1st Settlement)",
+    "lat": 30.058962,
+    "lng": 31.44368,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1237",
+    "isActive": true
+  }
+}

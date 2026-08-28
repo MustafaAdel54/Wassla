@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_wW_LIR9Nyv-x6L4U61qMo",
+  "data": {
+    "routeId": "surface_G78c4G-oy20XNbcMYCzxY",
+    "tripId": "wW_LIR9Nyv-x6L4U61qMo",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Dawaran Shubra",
+    "stops": [
+      {
+        "stopId": "surface_95",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1296",
+        "sequence": 2,
+        "arrivalSec": 21710,
+        "departureSec": 21725
+      },
+      {
+        "stopId": "surface_2780",
+        "sequence": 3,
+        "arrivalSec": 21735,
+        "departureSec": 21750
+      },
+      {
+        "stopId": "surface_2124",
+        "sequence": 4,
+        "arrivalSec": 21820,
+        "departureSec": 21835
+      },
+      {
+        "stopId": "surface_2532",
+        "sequence": 5,
+        "arrivalSec": 21870,
+        "departureSec": 21885
+      },
+      {
+        "stopId": "surface_1186",
+        "sequence": 6,
+        "arrivalSec": 22022,
+        "departureSec": 22037
+      },
+      {
+        "stopId": "surface_2121",
+        "sequence": 7,
+        "arrivalSec": 22111,
+        "departureSec": 22126
+      },
+      {
+        "stopId": "surface_210",
+        "sequence": 8,
+        "arrivalSec": 22180,
+        "departureSec": 22195
+      },
+      {
+        "stopId": "surface_1328",
+        "sequence": 9,
+        "arrivalSec": 22252,
+        "departureSec": 22267
+      },
+      {
+        "stopId": "surface_717",
+        "sequence": 10,
+        "arrivalSec": 22307,
+        "departureSec": 22322
+      },
+      {
+        "stopId": "surface_2296",
+        "sequence": 11,
+        "arrivalSec": 22387,
+        "departureSec": 22402
+      },
+      {
+        "stopId": "surface_716",
+        "sequence": 12,
+        "arrivalSec": 22427,
+        "departureSec": 22442
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

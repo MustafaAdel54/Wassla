@@ -1,0 +1,18 @@
+{
+  "id": "surface_3027",
+  "data": {
+    "name": "Degla Back (Badr tigers school)",
+    "lat": 29.90789,
+    "lng": 31.05126,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3027",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_296",
+  "data": {
+    "name": "Kheir Zaman (Ahmed Al Zomor St.)",
+    "lat": 30.047046286330698,
+    "lng": 31.3595084499111,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "296",
+    "isActive": true
+  }
+}

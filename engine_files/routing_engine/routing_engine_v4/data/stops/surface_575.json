@@ -1,0 +1,18 @@
+{
+  "id": "surface_575",
+  "data": {
+    "name": "Sheikh Zayed Entrance",
+    "lat": 30.086150639370793,
+    "lng": 30.963262879773556,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "575",
+    "isActive": true
+  }
+}

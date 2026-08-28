@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_u_dZFI0POW6ygsLhGxUp6",
+  "data": {
+    "routeId": "surface_RrZM9uyp0vcL4KFiRiurP",
+    "tripId": "u_dZFI0POW6ygsLhGxUp6",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Khanka",
+    "stops": [
+      {
+        "stopId": "surface_3010",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_3004",
+        "sequence": 2,
+        "arrivalSec": 22707,
+        "departureSec": 22722
+      },
+      {
+        "stopId": "surface_3003",
+        "sequence": 3,
+        "arrivalSec": 22795,
+        "departureSec": 22810
+      },
+      {
+        "stopId": "surface_2693",
+        "sequence": 4,
+        "arrivalSec": 22990,
+        "departureSec": 23005
+      },
+      {
+        "stopId": "surface_1418",
+        "sequence": 5,
+        "arrivalSec": 23147,
+        "departureSec": 23162
+      },
+      {
+        "stopId": "surface_1417",
+        "sequence": 6,
+        "arrivalSec": 23205,
+        "departureSec": 23220
+      },
+      {
+        "stopId": "surface_1416",
+        "sequence": 7,
+        "arrivalSec": 23265,
+        "departureSec": 23280
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

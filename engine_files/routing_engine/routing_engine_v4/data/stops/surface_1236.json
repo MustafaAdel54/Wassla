@@ -1,0 +1,18 @@
+{
+  "id": "surface_1236",
+  "data": {
+    "name": "Kempinski Hotel (Ring Rd.)",
+    "lat": 30.060981131537115,
+    "lng": 31.417216170472553,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1236",
+    "isActive": true
+  }
+}

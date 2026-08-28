@@ -1,0 +1,18 @@
+{
+  "id": "surface_2762",
+  "data": {
+    "name": "Ramses",
+    "lat": 30.060660176565186,
+    "lng": 31.246266924895693,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2762",
+    "isActive": true
+  }
+}

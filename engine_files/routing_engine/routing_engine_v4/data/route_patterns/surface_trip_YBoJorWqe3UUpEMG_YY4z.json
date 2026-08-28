@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_YBoJorWqe3UUpEMG_YY4z",
+  "data": {
+    "routeId": "surface_ivXdrHhB3_jqwPHGsvb9r",
+    "tripId": "YBoJorWqe3UUpEMG_YY4z",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Ain Shams Metro",
+    "stops": [
+      {
+        "stopId": "surface_5",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_781",
+        "sequence": 2,
+        "arrivalSec": 22027,
+        "departureSec": 22042
+      },
+      {
+        "stopId": "surface_2922",
+        "sequence": 3,
+        "arrivalSec": 22247,
+        "departureSec": 22262
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

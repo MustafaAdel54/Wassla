@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_yhan0PO7DkzjMYsj8IHuc",
+  "data": {
+    "routeId": "surface_wVSEsc9QL4aBYHVv-Spy9",
+    "tripId": "yhan0PO7DkzjMYsj8IHuc",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Imbaba",
+    "stops": [
+      {
+        "stopId": "surface_2523",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2332",
+        "sequence": 2,
+        "arrivalSec": 21796,
+        "departureSec": 21811
+      },
+      {
+        "stopId": "surface_2334",
+        "sequence": 3,
+        "arrivalSec": 21895,
+        "departureSec": 21910
+      },
+      {
+        "stopId": "surface_2336",
+        "sequence": 4,
+        "arrivalSec": 22272,
+        "departureSec": 22287
+      },
+      {
+        "stopId": "surface_230",
+        "sequence": 5,
+        "arrivalSec": 22394,
+        "departureSec": 22409
+      },
+      {
+        "stopId": "surface_1334",
+        "sequence": 6,
+        "arrivalSec": 22565,
+        "departureSec": 22580
+      },
+      {
+        "stopId": "surface_2403",
+        "sequence": 7,
+        "arrivalSec": 22619,
+        "departureSec": 22634
+      },
+      {
+        "stopId": "surface_2407",
+        "sequence": 8,
+        "arrivalSec": 22788,
+        "departureSec": 22803
+      },
+      {
+        "stopId": "surface_809",
+        "sequence": 9,
+        "arrivalSec": 22882,
+        "departureSec": 22897
+      },
+      {
+        "stopId": "surface_2408",
+        "sequence": 10,
+        "arrivalSec": 23047,
+        "departureSec": 23062
+      },
+      {
+        "stopId": "surface_2411",
+        "sequence": 11,
+        "arrivalSec": 23541,
+        "departureSec": 23556
+      },
+      {
+        "stopId": "surface_68",
+        "sequence": 12,
+        "arrivalSec": 23656,
+        "departureSec": 23671
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

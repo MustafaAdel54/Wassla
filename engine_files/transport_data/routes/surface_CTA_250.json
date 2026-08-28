@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_250",
+  "data": {
+    "name": "Attaba - Warraq Al Arab (Cima)",
+    "shortName": "CTA 250",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_250",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

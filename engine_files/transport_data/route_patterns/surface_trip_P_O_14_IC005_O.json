@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_P_O_14_IC005_O",
+  "data": {
+    "routeId": "surface_P_O_14_IC005",
+    "tripId": "P_O_14_IC005_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mehwar & Alex Desert Rd",
+    "stops": [
+      {
+        "stopId": "surface_2775",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_571",
+        "sequence": 2,
+        "arrivalSec": 21737,
+        "departureSec": 21752
+      },
+      {
+        "stopId": "surface_569",
+        "sequence": 3,
+        "arrivalSec": 21777,
+        "departureSec": 21792
+      },
+      {
+        "stopId": "surface_1142",
+        "sequence": 4,
+        "arrivalSec": 21887,
+        "departureSec": 21902
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

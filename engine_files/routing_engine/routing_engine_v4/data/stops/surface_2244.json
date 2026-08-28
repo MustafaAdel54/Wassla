@@ -1,0 +1,18 @@
+{
+  "id": "surface_2244",
+  "data": {
+    "name": "Al Demerdash Metro",
+    "lat": 30.077399694913275,
+    "lng": 31.276952625375447,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2244",
+    "isActive": true
+  }
+}

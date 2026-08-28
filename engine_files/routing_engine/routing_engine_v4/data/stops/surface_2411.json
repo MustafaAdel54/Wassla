@@ -1,0 +1,18 @@
+{
+  "id": "surface_2411",
+  "data": {
+    "name": "Al Sawahel Canal St.",
+    "lat": 30.075299222395774,
+    "lng": 31.21194502315812,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2411",
+    "isActive": true
+  }
+}

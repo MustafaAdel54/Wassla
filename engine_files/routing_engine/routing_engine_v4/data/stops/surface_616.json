@@ -1,0 +1,18 @@
+{
+  "id": "surface_616",
+  "data": {
+    "name": "Nahya Steps (Ring Rd.)",
+    "lat": 30.044273947411945,
+    "lng": 31.175221322655602,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "616",
+    "isActive": true
+  }
+}

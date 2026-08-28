@@ -1,0 +1,18 @@
+{
+  "id": "surface_1815",
+  "data": {
+    "name": "Cairo Pyramids Hotel (Cairo Alex Desert Rd.)",
+    "lat": 29.992447793044207,
+    "lng": 31.125385623190894,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1815",
+    "isActive": true
+  }
+}

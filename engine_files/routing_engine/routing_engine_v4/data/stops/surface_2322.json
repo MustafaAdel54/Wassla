@@ -1,0 +1,18 @@
+{
+  "id": "surface_2322",
+  "data": {
+    "name": "Ahmed Khalil St & Mogamaa Al Masanae St",
+    "lat": 30.106489071314208,
+    "lng": 31.266974724692815,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2322",
+    "isActive": true
+  }
+}

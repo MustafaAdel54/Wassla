@@ -1,0 +1,18 @@
+{
+  "id": "surface_2897",
+  "data": {
+    "name": "Dorat Al Karaz Mall",
+    "lat": 29.990593,
+    "lng": 31.537077,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2897",
+    "isActive": true
+  }
+}

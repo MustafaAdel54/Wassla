@@ -1,0 +1,18 @@
+{
+  "id": "surface_1961",
+  "data": {
+    "name": "Al Abtal Club ( Ein Al Seera)",
+    "lat": 30.016209125242145,
+    "lng": 31.250293065320633,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1961",
+    "isActive": true
+  }
+}

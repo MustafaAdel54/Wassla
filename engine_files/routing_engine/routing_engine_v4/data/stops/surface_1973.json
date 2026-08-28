@@ -1,0 +1,18 @@
+{
+  "id": "surface_1973",
+  "data": {
+    "name": "Catholic Cemetery (Misr Al Qadima)",
+    "lat": 30.013135787771578,
+    "lng": 31.233160919666187,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1973",
+    "isActive": true
+  }
+}

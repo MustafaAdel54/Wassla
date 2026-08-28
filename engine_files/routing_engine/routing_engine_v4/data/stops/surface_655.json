@@ -1,0 +1,18 @@
+{
+  "id": "surface_655",
+  "data": {
+    "name": "Constitutional Court",
+    "lat": 29.96923370803418,
+    "lng": 31.23833547333704,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "655",
+    "isActive": true
+  }
+}

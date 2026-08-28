@@ -1,0 +1,18 @@
+{
+  "id": "surface_480",
+  "data": {
+    "name": "Al Moemen Mosque",
+    "lat": 30.057322494594715,
+    "lng": 31.3720743950781,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "480",
+    "isActive": true
+  }
+}

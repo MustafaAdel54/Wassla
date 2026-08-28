@@ -1,0 +1,18 @@
+{
+  "id": "surface_290",
+  "data": {
+    "name": "Al Azhar University Southern Gate",
+    "lat": 30.051013055316492,
+    "lng": 31.320546769566118,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "290",
+    "isActive": true
+  }
+}

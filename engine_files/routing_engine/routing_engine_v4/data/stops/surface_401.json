@@ -1,0 +1,18 @@
+{
+  "id": "surface_401",
+  "data": {
+    "name": "Ragab Sons (Al Shabab St. Obour)",
+    "lat": 30.26548819087051,
+    "lng": 31.477117050767003,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "401",
+    "isActive": true
+  }
+}

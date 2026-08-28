@@ -1,0 +1,18 @@
+{
+  "id": "surface_857",
+  "data": {
+    "name": "Al Kabbani Furniture (6th of October)",
+    "lat": 29.957325392495303,
+    "lng": 30.921559780959182,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "857",
+    "isActive": true
+  }
+}

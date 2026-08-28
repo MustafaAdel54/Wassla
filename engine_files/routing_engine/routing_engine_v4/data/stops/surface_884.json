@@ -1,0 +1,18 @@
+{
+  "id": "surface_884",
+  "data": {
+    "name": "Ragab Sons 7th District (6th of October)",
+    "lat": 29.978278948714333,
+    "lng": 30.93583988557558,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "884",
+    "isActive": true
+  }
+}

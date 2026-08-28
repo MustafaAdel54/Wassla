@@ -1,0 +1,18 @@
+{
+  "id": "surface_167",
+  "data": {
+    "name": "Al Mosky (Port Said St.)",
+    "lat": 30.048029191231244,
+    "lng": 31.25491525243658,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "167",
+    "isActive": true
+  }
+}

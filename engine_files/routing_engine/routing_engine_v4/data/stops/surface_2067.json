@@ -1,0 +1,18 @@
+{
+  "id": "surface_2067",
+  "data": {
+    "name": "Al Mounira School (Downtown)",
+    "lat": 30.03255929488885,
+    "lng": 31.234664208363448,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2067",
+    "isActive": true
+  }
+}

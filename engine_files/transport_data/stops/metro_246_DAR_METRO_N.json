@@ -1,0 +1,16 @@
+{
+  "id": "metro_246_DAR_METRO_N",
+  "data": {
+    "name": "Dar El-Salam",
+    "lat": 29.9819859,
+    "lng": 31.2420434,
+    "stationId": "station_metro_246_DAR_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "246_DAR_METRO_N",
+    "parentSourceId": "246_DAR_METRO",
+    "isActive": true
+  }
+}

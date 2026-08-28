@@ -1,0 +1,18 @@
+{
+  "id": "surface_458",
+  "data": {
+    "name": "Sekket Al Waili",
+    "lat": 30.09164986545523,
+    "lng": 31.27965731579922,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "458",
+    "isActive": true
+  }
+}

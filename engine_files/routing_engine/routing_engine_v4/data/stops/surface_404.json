@@ -1,0 +1,18 @@
+{
+  "id": "surface_404",
+  "data": {
+    "name": "Al Shaheed Square (Obour)",
+    "lat": 30.258073,
+    "lng": 31.469984,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "404",
+    "isActive": true
+  }
+}

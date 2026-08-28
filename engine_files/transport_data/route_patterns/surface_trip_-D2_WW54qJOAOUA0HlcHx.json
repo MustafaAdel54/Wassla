@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_-D2_WW54qJOAOUA0HlcHx",
+  "data": {
+    "routeId": "surface_PBikgVF29mTLslC7tpYmN",
+    "tripId": "-D2_WW54qJOAOUA0HlcHx",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Khalafawy Square",
+    "stops": [
+      {
+        "stopId": "surface_29",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_720",
+        "sequence": 2,
+        "arrivalSec": 21620,
+        "departureSec": 21635
+      },
+      {
+        "stopId": "surface_718",
+        "sequence": 3,
+        "arrivalSec": 21740,
+        "departureSec": 21755
+      },
+      {
+        "stopId": "surface_2120",
+        "sequence": 4,
+        "arrivalSec": 21851,
+        "departureSec": 21866
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

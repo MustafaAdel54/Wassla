@@ -1,0 +1,18 @@
+{
+  "id": "surface_1642",
+  "data": {
+    "name": "Al Kersh Cars (Heliopolis)",
+    "lat": 30.08444567157033,
+    "lng": 31.325888753756487,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1642",
+    "isActive": true
+  }
+}

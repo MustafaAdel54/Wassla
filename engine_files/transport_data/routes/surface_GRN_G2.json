@@ -1,0 +1,15 @@
+{
+  "id": "surface_GRN_G2",
+  "data": {
+    "name": "Koleyet Al Banat - Ain Shams University - Masaken Dahshour",
+    "shortName": "Green G2",
+    "agencyId": "surface_GRN",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "GRN_G2",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1202",
+  "data": {
+    "name": "Free Zone (Nasr City)",
+    "lat": 30.035167,
+    "lng": 31.347071,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1202",
+    "isActive": true
+  }
+}

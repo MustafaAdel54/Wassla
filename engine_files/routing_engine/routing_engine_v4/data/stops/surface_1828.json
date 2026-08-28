@@ -1,0 +1,18 @@
+{
+  "id": "surface_1828",
+  "data": {
+    "name": "Al Talateeny (Al Lebeny St.)",
+    "lat": 29.982695886515316,
+    "lng": 31.15350036660089,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1828",
+    "isActive": true
+  }
+}

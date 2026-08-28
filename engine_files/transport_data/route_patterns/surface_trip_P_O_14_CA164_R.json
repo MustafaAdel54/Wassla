@@ -1,0 +1,116 @@
+{
+  "id": "surface_trip_P_O_14_CA164_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA164",
+    "tripId": "P_O_14_CA164_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Ahmed Maher Hospital",
+    "stops": [
+      {
+        "stopId": "surface_1668",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1143",
+        "sequence": 2,
+        "arrivalSec": 21888,
+        "departureSec": 21903
+      },
+      {
+        "stopId": "surface_1951",
+        "sequence": 3,
+        "arrivalSec": 21972,
+        "departureSec": 21987
+      },
+      {
+        "stopId": "surface_158",
+        "sequence": 4,
+        "arrivalSec": 22022,
+        "departureSec": 22037
+      },
+      {
+        "stopId": "surface_1953",
+        "sequence": 5,
+        "arrivalSec": 22094,
+        "departureSec": 22109
+      },
+      {
+        "stopId": "surface_1944",
+        "sequence": 6,
+        "arrivalSec": 22172,
+        "departureSec": 22187
+      },
+      {
+        "stopId": "surface_1942",
+        "sequence": 7,
+        "arrivalSec": 22239,
+        "departureSec": 22254
+      },
+      {
+        "stopId": "surface_1935",
+        "sequence": 8,
+        "arrivalSec": 22294,
+        "departureSec": 22309
+      },
+      {
+        "stopId": "surface_160",
+        "sequence": 9,
+        "arrivalSec": 22407,
+        "departureSec": 22422
+      },
+      {
+        "stopId": "surface_1940",
+        "sequence": 10,
+        "arrivalSec": 22487,
+        "departureSec": 22502
+      },
+      {
+        "stopId": "surface_2065",
+        "sequence": 11,
+        "arrivalSec": 22567,
+        "departureSec": 22582
+      },
+      {
+        "stopId": "surface_162",
+        "sequence": 12,
+        "arrivalSec": 22647,
+        "departureSec": 22662
+      },
+      {
+        "stopId": "surface_679",
+        "sequence": 13,
+        "arrivalSec": 22817,
+        "departureSec": 22832
+      },
+      {
+        "stopId": "surface_1994",
+        "sequence": 14,
+        "arrivalSec": 22867,
+        "departureSec": 22882
+      },
+      {
+        "stopId": "surface_1336",
+        "sequence": 15,
+        "arrivalSec": 22953,
+        "departureSec": 22968
+      },
+      {
+        "stopId": "surface_164",
+        "sequence": 16,
+        "arrivalSec": 23093,
+        "departureSec": 23108
+      },
+      {
+        "stopId": "surface_165",
+        "sequence": 17,
+        "arrivalSec": 23112,
+        "departureSec": 23127
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2720",
+  "data": {
+    "name": "Al Abaseyya Institute for Computer & Commercial Sciences",
+    "lat": 30.141941351561588,
+    "lng": 31.32231674092634,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2720",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1502",
+  "data": {
+    "name": "Oriental Weavers (Sheraton)",
+    "lat": 30.108177631578044,
+    "lng": 31.36551954173976,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1502",
+    "isActive": true
+  }
+}

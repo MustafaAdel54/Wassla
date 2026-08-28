@@ -1,0 +1,18 @@
+{
+  "id": "surface_2951",
+  "data": {
+    "name": "Al Sheikh Agamy (Marg)",
+    "lat": 30.19574614527656,
+    "lng": 31.352886420341925,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2951",
+    "isActive": true
+  }
+}

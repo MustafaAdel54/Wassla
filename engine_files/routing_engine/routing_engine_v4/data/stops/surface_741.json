@@ -1,0 +1,18 @@
+{
+  "id": "surface_741",
+  "data": {
+    "name": "Telecom Egypt Central (Almaza)",
+    "lat": 30.086493000329586,
+    "lng": 31.335138589278355,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "741",
+    "isActive": true
+  }
+}

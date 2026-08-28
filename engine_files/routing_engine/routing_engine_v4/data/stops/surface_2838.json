@@ -1,0 +1,18 @@
+{
+  "id": "surface_2838",
+  "data": {
+    "name": "Rehab Gate 6",
+    "lat": 30.053410662986018,
+    "lng": 31.490616428167225,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2838",
+    "isActive": true
+  }
+}

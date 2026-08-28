@@ -1,0 +1,18 @@
+{
+  "id": "surface_905",
+  "data": {
+    "name": "Americana Plaza - Sheikh Zayed",
+    "lat": 30.02826,
+    "lng": 31.01251,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "905",
+    "isActive": true
+  }
+}

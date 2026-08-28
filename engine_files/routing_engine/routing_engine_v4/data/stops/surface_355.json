@@ -1,0 +1,18 @@
+{
+  "id": "surface_355",
+  "data": {
+    "name": "New Cairo Academy (5th Settlement)",
+    "lat": 29.9935,
+    "lng": 31.43483,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "355",
+    "isActive": true
+  }
+}

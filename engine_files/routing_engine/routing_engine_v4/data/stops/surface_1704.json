@@ -1,0 +1,18 @@
+{
+  "id": "surface_1704",
+  "data": {
+    "name": "Amin Hamada St & Petroleum St.",
+    "lat": 30.1482305,
+    "lng": 31.3298765,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1704",
+    "isActive": true
+  }
+}

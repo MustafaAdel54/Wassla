@@ -1,0 +1,18 @@
+{
+  "id": "surface_2017",
+  "data": {
+    "name": "Abou Al Majd Center (Mostorod)",
+    "lat": 30.12675979999997,
+    "lng": 31.289161399999987,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2017",
+    "isActive": true
+  }
+}

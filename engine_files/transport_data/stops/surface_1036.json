@@ -1,0 +1,18 @@
+{
+  "id": "surface_1036",
+  "data": {
+    "name": "6th Of October Public Library",
+    "lat": 29.98605623593641,
+    "lng": 30.943029977756478,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1036",
+    "isActive": true
+  }
+}

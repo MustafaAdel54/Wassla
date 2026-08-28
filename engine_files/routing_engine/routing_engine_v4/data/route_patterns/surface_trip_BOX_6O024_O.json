@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_BOX_6O024_O",
+  "data": {
+    "routeId": "surface_BOX_6O024",
+    "tripId": "BOX_6O024_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Daewoo",
+    "stops": [
+      {
+        "stopId": "surface_1029",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1027",
+        "sequence": 2,
+        "arrivalSec": 21651,
+        "departureSec": 21666
+      },
+      {
+        "stopId": "surface_868",
+        "sequence": 3,
+        "arrivalSec": 21763,
+        "departureSec": 21778
+      },
+      {
+        "stopId": "surface_864",
+        "sequence": 4,
+        "arrivalSec": 21824,
+        "departureSec": 21839
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

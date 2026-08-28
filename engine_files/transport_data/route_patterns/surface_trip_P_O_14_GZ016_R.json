@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_O_14_GZ016_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ016",
+    "tripId": "P_O_14_GZ016_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Warraq",
+    "stops": [
+      {
+        "stopId": "surface_2382",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2392",
+        "sequence": 2,
+        "arrivalSec": 21669,
+        "departureSec": 21684
+      },
+      {
+        "stopId": "surface_2379",
+        "sequence": 3,
+        "arrivalSec": 21964,
+        "departureSec": 21979
+      },
+      {
+        "stopId": "surface_2377",
+        "sequence": 4,
+        "arrivalSec": 22077,
+        "departureSec": 22092
+      },
+      {
+        "stopId": "surface_2375",
+        "sequence": 5,
+        "arrivalSec": 22186,
+        "departureSec": 22200
+      },
+      {
+        "stopId": "surface_2373",
+        "sequence": 6,
+        "arrivalSec": 22276,
+        "departureSec": 22291
+      },
+      {
+        "stopId": "surface_2371",
+        "sequence": 7,
+        "arrivalSec": 22495,
+        "departureSec": 22510
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

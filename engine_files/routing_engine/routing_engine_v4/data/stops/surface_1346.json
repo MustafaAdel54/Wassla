@@ -1,0 +1,18 @@
+{
+  "id": "surface_1346",
+  "data": {
+    "name": "Holding Company For Water & Wastewater (HCWW)",
+    "lat": 30.08007872658531,
+    "lng": 31.23071397773724,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1346",
+    "isActive": true
+  }
+}

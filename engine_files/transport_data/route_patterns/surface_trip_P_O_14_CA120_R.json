@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_P_O_14_CA120_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA120",
+    "tripId": "P_O_14_CA120_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Matareya Square",
+    "stops": [
+      {
+        "stopId": "surface_2703",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2713",
+        "sequence": 2,
+        "arrivalSec": 21749,
+        "departureSec": 21764
+      },
+      {
+        "stopId": "surface_2716",
+        "sequence": 3,
+        "arrivalSec": 21827,
+        "departureSec": 21842
+      },
+      {
+        "stopId": "surface_2033",
+        "sequence": 4,
+        "arrivalSec": 22020,
+        "departureSec": 22035
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

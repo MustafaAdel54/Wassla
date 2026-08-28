@@ -1,0 +1,18 @@
+{
+  "id": "surface_1607",
+  "data": {
+    "name": "Silver Nile Social Club (Nile Corniche)",
+    "lat": 29.97854987,
+    "lng": 31.23309637,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1607",
+    "isActive": true
+  }
+}

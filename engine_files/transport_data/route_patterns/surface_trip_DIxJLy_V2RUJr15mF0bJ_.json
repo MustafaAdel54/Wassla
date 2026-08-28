@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_DIxJLy_V2RUJr15mF0bJ_",
+  "data": {
+    "routeId": "surface_XHoe5oRTlC1Ihm0e712t_",
+    "tripId": "DIxJLy_V2RUJr15mF0bJ_",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Abd Al Moneim Riad",
+    "stops": [
+      {
+        "stopId": "surface_2388",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1348",
+        "sequence": 2,
+        "arrivalSec": 21682,
+        "departureSec": 21697
+      },
+      {
+        "stopId": "surface_108",
+        "sequence": 3,
+        "arrivalSec": 21901,
+        "departureSec": 21916
+      },
+      {
+        "stopId": "surface_106",
+        "sequence": 4,
+        "arrivalSec": 21999,
+        "departureSec": 22014
+      },
+      {
+        "stopId": "surface_81",
+        "sequence": 5,
+        "arrivalSec": 22037,
+        "departureSec": 22052
+      },
+      {
+        "stopId": "surface_98",
+        "sequence": 6,
+        "arrivalSec": 22064,
+        "departureSec": 22079
+      },
+      {
+        "stopId": "surface_2360",
+        "sequence": 7,
+        "arrivalSec": 22184,
+        "departureSec": 22199
+      },
+      {
+        "stopId": "surface_2358",
+        "sequence": 8,
+        "arrivalSec": 22276,
+        "departureSec": 22291
+      },
+      {
+        "stopId": "surface_1386",
+        "sequence": 9,
+        "arrivalSec": 22382,
+        "departureSec": 22397
+      },
+      {
+        "stopId": "surface_2355",
+        "sequence": 10,
+        "arrivalSec": 22449,
+        "departureSec": 22464
+      },
+      {
+        "stopId": "surface_2356",
+        "sequence": 11,
+        "arrivalSec": 22684,
+        "departureSec": 22700
+      },
+      {
+        "stopId": "surface_2367",
+        "sequence": 12,
+        "arrivalSec": 23016,
+        "departureSec": 23030
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

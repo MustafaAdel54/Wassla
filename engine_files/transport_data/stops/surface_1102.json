@@ -1,0 +1,18 @@
+{
+  "id": "surface_1102",
+  "data": {
+    "name": "Dawaran Shubra",
+    "lat": 30.080523284205892,
+    "lng": 31.24572040032559,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1102",
+    "isActive": true
+  }
+}

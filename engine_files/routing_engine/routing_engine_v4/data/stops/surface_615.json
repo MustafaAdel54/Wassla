@@ -1,0 +1,18 @@
+{
+  "id": "surface_615",
+  "data": {
+    "name": "Bus Terminal to 6th of October",
+    "lat": 30.051308319110962,
+    "lng": 31.17757611098901,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "615",
+    "isActive": true
+  }
+}

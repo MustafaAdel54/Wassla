@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_99SS",
+  "data": {
+    "name": "Al Sayeda Aisha - Imbaba",
+    "shortName": "CTA 99ss",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_99SS",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

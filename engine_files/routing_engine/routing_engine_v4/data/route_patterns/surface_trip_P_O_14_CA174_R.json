@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_P_O_14_CA174_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA174",
+    "tripId": "P_O_14_CA174_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Fayda Kamel",
+    "stops": [
+      {
+        "stopId": "surface_2699",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2698",
+        "sequence": 2,
+        "arrivalSec": 21636,
+        "departureSec": 21651
+      },
+      {
+        "stopId": "surface_2544",
+        "sequence": 3,
+        "arrivalSec": 21779,
+        "departureSec": 21794
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

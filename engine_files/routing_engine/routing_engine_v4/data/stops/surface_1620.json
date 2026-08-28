@@ -1,0 +1,18 @@
+{
+  "id": "surface_1620",
+  "data": {
+    "name": "Saint George Church (Kotseika)",
+    "lat": 29.93509717349778,
+    "lng": 31.278315812949593,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1620",
+    "isActive": true
+  }
+}

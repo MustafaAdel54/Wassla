@@ -1,0 +1,18 @@
+{
+  "id": "surface_2798",
+  "data": {
+    "name": "Hadayek Al Qobba",
+    "lat": 30.087041,
+    "lng": 31.290429,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2798",
+    "isActive": true
+  }
+}

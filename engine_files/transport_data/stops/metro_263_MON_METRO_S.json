@@ -1,0 +1,16 @@
+{
+  "id": "metro_263_MON_METRO_S",
+  "data": {
+    "name": "El-Mounib",
+    "lat": 29.9810333,
+    "lng": 31.2123084,
+    "stationId": "station_metro_263_MON_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "263_MON_METRO_S",
+    "parentSourceId": "263_MON_METRO",
+    "isActive": true
+  }
+}

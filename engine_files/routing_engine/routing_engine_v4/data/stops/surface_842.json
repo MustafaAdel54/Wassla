@@ -1,0 +1,18 @@
+{
+  "id": "surface_842",
+  "data": {
+    "name": "Al Gezira - Sheikh Zayed",
+    "lat": 30.025005661115767,
+    "lng": 30.991013529813273,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "842",
+    "isActive": true
+  }
+}

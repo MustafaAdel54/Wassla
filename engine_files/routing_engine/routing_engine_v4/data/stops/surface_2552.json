@@ -1,0 +1,18 @@
+{
+  "id": "surface_2552",
+  "data": {
+    "name": "Barageel St.",
+    "lat": 30.075053,
+    "lng": 31.164041,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2552",
+    "isActive": true
+  }
+}

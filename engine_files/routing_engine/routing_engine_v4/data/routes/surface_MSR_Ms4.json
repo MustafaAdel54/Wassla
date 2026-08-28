@@ -1,0 +1,15 @@
+{
+  "id": "surface_MSR_Ms4",
+  "data": {
+    "name": "Masaken Dahshour - Ramses",
+    "shortName": "Minibus Ms4",
+    "agencyId": "surface_LTRA_M",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "MSR_Ms4",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

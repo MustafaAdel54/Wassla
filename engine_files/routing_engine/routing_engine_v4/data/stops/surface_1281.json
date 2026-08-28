@@ -1,0 +1,18 @@
+{
+  "id": "surface_1281",
+  "data": {
+    "name": "Al Dawagen (Nile Corniche)",
+    "lat": 29.879649972106932,
+    "lng": 31.28931361516267,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1281",
+    "isActive": true
+  }
+}

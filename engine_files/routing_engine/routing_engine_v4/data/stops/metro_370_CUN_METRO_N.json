@@ -1,0 +1,16 @@
+{
+  "id": "metro_370_CUN_METRO_N",
+  "data": {
+    "name": "Cairo University",
+    "lat": 30.026151,
+    "lng": 31.2008715,
+    "stationId": "station_metro_370_CUN_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "370_CUN_METRO_N",
+    "parentSourceId": "370_CUN_METRO",
+    "isActive": true
+  }
+}

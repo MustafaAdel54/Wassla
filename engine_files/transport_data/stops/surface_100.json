@@ -1,0 +1,18 @@
+{
+  "id": "surface_100",
+  "data": {
+    "name": "7 Omarat",
+    "lat": 30.087979996534973,
+    "lng": 31.336267486831098,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "100",
+    "isActive": true
+  }
+}

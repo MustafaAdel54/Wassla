@@ -1,0 +1,74 @@
+{
+  "id": "surface_trip_P_O_14_CA081_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA081",
+    "tripId": "P_O_14_CA081_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Sa'a Square",
+    "stops": [
+      {
+        "stopId": "surface_1499",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_109",
+        "sequence": 2,
+        "arrivalSec": 21727,
+        "departureSec": 21742
+      },
+      {
+        "stopId": "surface_1498",
+        "sequence": 3,
+        "arrivalSec": 21944,
+        "departureSec": 21959
+      },
+      {
+        "stopId": "surface_1495",
+        "sequence": 4,
+        "arrivalSec": 22054,
+        "departureSec": 22069
+      },
+      {
+        "stopId": "surface_1493",
+        "sequence": 5,
+        "arrivalSec": 22159,
+        "departureSec": 22174
+      },
+      {
+        "stopId": "surface_777",
+        "sequence": 6,
+        "arrivalSec": 22342,
+        "departureSec": 22357
+      },
+      {
+        "stopId": "surface_779",
+        "sequence": 7,
+        "arrivalSec": 22559,
+        "departureSec": 22574
+      },
+      {
+        "stopId": "surface_699",
+        "sequence": 8,
+        "arrivalSec": 22838,
+        "departureSec": 22853
+      },
+      {
+        "stopId": "surface_2454",
+        "sequence": 9,
+        "arrivalSec": 23191,
+        "departureSec": 23206
+      },
+      {
+        "stopId": "surface_1435",
+        "sequence": 10,
+        "arrivalSec": 23331,
+        "departureSec": 23346
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

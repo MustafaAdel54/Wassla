@@ -1,0 +1,18 @@
+{
+  "id": "surface_720",
+  "data": {
+    "name": "Abou Wafya Bridge",
+    "lat": 30.095648,
+    "lng": 31.265927,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "720",
+    "isActive": true
+  }
+}

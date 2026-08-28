@@ -1,0 +1,18 @@
+{
+  "id": "surface_2016",
+  "data": {
+    "name": "Dabsha ( Al Zaytoun)",
+    "lat": 30.106658,
+    "lng": 31.286913,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2016",
+    "isActive": true
+  }
+}

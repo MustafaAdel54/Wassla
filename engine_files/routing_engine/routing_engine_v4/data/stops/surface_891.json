@@ -1,0 +1,18 @@
+{
+  "id": "surface_891",
+  "data": {
+    "name": "Salamtak Labs (Dolce)",
+    "lat": 29.93419223334192,
+    "lng": 30.922284100494824,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "891",
+    "isActive": true
+  }
+}

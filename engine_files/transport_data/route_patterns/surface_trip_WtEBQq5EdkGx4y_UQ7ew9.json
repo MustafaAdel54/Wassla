@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_WtEBQq5EdkGx4y_UQ7ew9",
+  "data": {
+    "routeId": "surface_m9IKw8bdVfTvbKv5OgLgV",
+    "tripId": "WtEBQq5EdkGx4y_UQ7ew9",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Sawah Square",
+    "stops": [
+      {
+        "stopId": "surface_99",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1719",
+        "sequence": 2,
+        "arrivalSec": 21681,
+        "departureSec": 21696
+      },
+      {
+        "stopId": "surface_736",
+        "sequence": 3,
+        "arrivalSec": 21850,
+        "departureSec": 21865
+      },
+      {
+        "stopId": "surface_737",
+        "sequence": 4,
+        "arrivalSec": 21964,
+        "departureSec": 21979
+      },
+      {
+        "stopId": "surface_735",
+        "sequence": 5,
+        "arrivalSec": 22048,
+        "departureSec": 22063
+      },
+      {
+        "stopId": "surface_1384",
+        "sequence": 6,
+        "arrivalSec": 22122,
+        "departureSec": 22136
+      },
+      {
+        "stopId": "surface_734",
+        "sequence": 7,
+        "arrivalSec": 22222,
+        "departureSec": 22237
+      },
+      {
+        "stopId": "surface_141",
+        "sequence": 8,
+        "arrivalSec": 22319,
+        "departureSec": 22334
+      },
+      {
+        "stopId": "surface_142",
+        "sequence": 9,
+        "arrivalSec": 22367,
+        "departureSec": 22382
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

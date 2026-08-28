@@ -1,0 +1,18 @@
+{
+  "id": "surface_2756",
+  "data": {
+    "name": "Al Sayeda Zeinab",
+    "lat": 30.033150800000012,
+    "lng": 31.2417776,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2756",
+    "isActive": true
+  }
+}

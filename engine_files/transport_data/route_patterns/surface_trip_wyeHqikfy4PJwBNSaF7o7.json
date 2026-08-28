@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_wyeHqikfy4PJwBNSaF7o7",
+  "data": {
+    "routeId": "surface_yAI6yQ2LBxm7IO1KMcmR0",
+    "tripId": "wyeHqikfy4PJwBNSaF7o7",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Imbaba",
+    "stops": [
+      {
+        "stopId": "surface_216",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2394",
+        "sequence": 2,
+        "arrivalSec": 21653,
+        "departureSec": 21668
+      },
+      {
+        "stopId": "surface_1349",
+        "sequence": 3,
+        "arrivalSec": 21738,
+        "departureSec": 21753
+      },
+      {
+        "stopId": "surface_2387",
+        "sequence": 4,
+        "arrivalSec": 21853,
+        "departureSec": 21868
+      },
+      {
+        "stopId": "surface_2388",
+        "sequence": 5,
+        "arrivalSec": 21873,
+        "departureSec": 21888
+      },
+      {
+        "stopId": "surface_2384",
+        "sequence": 6,
+        "arrivalSec": 21959,
+        "departureSec": 21974
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

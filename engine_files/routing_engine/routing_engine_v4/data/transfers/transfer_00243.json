@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00243",
+  "data": {
+    "fromStopId": "surface_1897",
+    "toStopId": "metro_14_HOF_METRO",
+    "distanceMeters": 62.3,
+    "estimatedMinutes": 1,
+    "confidence": "high",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

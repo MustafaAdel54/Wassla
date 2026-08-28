@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_CA130_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA130",
+    "tripId": "P_O_14_CA130_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Masaken Ain Shams",
+    "stops": [
+      {
+        "stopId": "surface_2528",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1695",
+        "sequence": 2,
+        "arrivalSec": 21857,
+        "departureSec": 21872
+      },
+      {
+        "stopId": "surface_1694",
+        "sequence": 3,
+        "arrivalSec": 21911,
+        "departureSec": 21926
+      },
+      {
+        "stopId": "surface_1716",
+        "sequence": 4,
+        "arrivalSec": 21997,
+        "departureSec": 22012
+      },
+      {
+        "stopId": "surface_1714",
+        "sequence": 5,
+        "arrivalSec": 22084,
+        "departureSec": 22099
+      },
+      {
+        "stopId": "surface_1686",
+        "sequence": 6,
+        "arrivalSec": 22194,
+        "departureSec": 22210
+      },
+      {
+        "stopId": "surface_1682",
+        "sequence": 7,
+        "arrivalSec": 22280,
+        "departureSec": 22295
+      },
+      {
+        "stopId": "surface_2465",
+        "sequence": 8,
+        "arrivalSec": 22370,
+        "departureSec": 22385
+      },
+      {
+        "stopId": "surface_1677",
+        "sequence": 9,
+        "arrivalSec": 22464,
+        "departureSec": 22479
+      },
+      {
+        "stopId": "surface_1680",
+        "sequence": 10,
+        "arrivalSec": 22522,
+        "departureSec": 22537
+      },
+      {
+        "stopId": "surface_753",
+        "sequence": 11,
+        "arrivalSec": 22584,
+        "departureSec": 22599
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

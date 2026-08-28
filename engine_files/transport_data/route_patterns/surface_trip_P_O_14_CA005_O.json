@@ -1,0 +1,98 @@
+{
+  "id": "surface_trip_P_O_14_CA005_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA005",
+    "tripId": "P_O_14_CA005_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Hadaba Wosta (Moqattam)",
+    "stops": [
+      {
+        "stopId": "surface_223",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_791",
+        "sequence": 2,
+        "arrivalSec": 21707,
+        "departureSec": 21722
+      },
+      {
+        "stopId": "surface_2467",
+        "sequence": 3,
+        "arrivalSec": 21866,
+        "departureSec": 21881
+      },
+      {
+        "stopId": "surface_2468",
+        "sequence": 4,
+        "arrivalSec": 21892,
+        "departureSec": 21907
+      },
+      {
+        "stopId": "surface_1966",
+        "sequence": 5,
+        "arrivalSec": 21964,
+        "departureSec": 21979
+      },
+      {
+        "stopId": "surface_1645",
+        "sequence": 6,
+        "arrivalSec": 22049,
+        "departureSec": 22064
+      },
+      {
+        "stopId": "surface_1553",
+        "sequence": 7,
+        "arrivalSec": 22364,
+        "departureSec": 22379
+      },
+      {
+        "stopId": "surface_1551",
+        "sequence": 8,
+        "arrivalSec": 22421,
+        "departureSec": 22436
+      },
+      {
+        "stopId": "surface_1534",
+        "sequence": 9,
+        "arrivalSec": 22566,
+        "departureSec": 22581
+      },
+      {
+        "stopId": "surface_2851",
+        "sequence": 10,
+        "arrivalSec": 22624,
+        "departureSec": 22639
+      },
+      {
+        "stopId": "surface_1533",
+        "sequence": 11,
+        "arrivalSec": 22696,
+        "departureSec": 22711
+      },
+      {
+        "stopId": "surface_1531",
+        "sequence": 12,
+        "arrivalSec": 22842,
+        "departureSec": 22857
+      },
+      {
+        "stopId": "surface_1528",
+        "sequence": 13,
+        "arrivalSec": 23009,
+        "departureSec": 23024
+      },
+      {
+        "stopId": "surface_1527",
+        "sequence": 14,
+        "arrivalSec": 23032,
+        "departureSec": 23047
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

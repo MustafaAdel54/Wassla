@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_CTA_82_O",
+  "data": {
+    "routeId": "surface_CTA_82",
+    "tripId": "CTA_82_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Masarra",
+    "stops": [
+      {
+        "stopId": "surface_2291",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2289",
+        "sequence": 2,
+        "arrivalSec": 21655,
+        "departureSec": 21670
+      },
+      {
+        "stopId": "surface_2283",
+        "sequence": 3,
+        "arrivalSec": 21700,
+        "departureSec": 21715
+      },
+      {
+        "stopId": "surface_2285",
+        "sequence": 4,
+        "arrivalSec": 21740,
+        "departureSec": 21755
+      },
+      {
+        "stopId": "surface_2130",
+        "sequence": 5,
+        "arrivalSec": 21910,
+        "departureSec": 21925
+      },
+      {
+        "stopId": "surface_2293",
+        "sequence": 6,
+        "arrivalSec": 21955,
+        "departureSec": 21970
+      },
+      {
+        "stopId": "surface_2133",
+        "sequence": 7,
+        "arrivalSec": 22177,
+        "departureSec": 22192
+      },
+      {
+        "stopId": "surface_2132",
+        "sequence": 8,
+        "arrivalSec": 22197,
+        "departureSec": 22212
+      },
+      {
+        "stopId": "surface_2295",
+        "sequence": 9,
+        "arrivalSec": 22333,
+        "departureSec": 22348
+      },
+      {
+        "stopId": "surface_1327",
+        "sequence": 10,
+        "arrivalSec": 22503,
+        "departureSec": 22518
+      },
+      {
+        "stopId": "surface_2299",
+        "sequence": 11,
+        "arrivalSec": 22633,
+        "departureSec": 22648
+      },
+      {
+        "stopId": "surface_2134",
+        "sequence": 12,
+        "arrivalSec": 22697,
+        "departureSec": 22712
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

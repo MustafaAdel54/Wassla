@@ -1,0 +1,18 @@
+{
+  "id": "surface_2516",
+  "data": {
+    "name": "Jazirat Mohamed",
+    "lat": 30.112424,
+    "lng": 31.204499,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2516",
+    "isActive": true
+  }
+}

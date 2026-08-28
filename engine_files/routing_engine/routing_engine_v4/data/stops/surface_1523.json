@@ -1,0 +1,18 @@
+{
+  "id": "surface_1523",
+  "data": {
+    "name": "Eastern Weavers (Al Moqattam)",
+    "lat": 30.0106646,
+    "lng": 31.3341978,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1523",
+    "isActive": true
+  }
+}

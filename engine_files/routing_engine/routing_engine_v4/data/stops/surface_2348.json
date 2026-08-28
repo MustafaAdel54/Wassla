@@ -1,0 +1,18 @@
+{
+  "id": "surface_2348",
+  "data": {
+    "name": "Al Tarek Al Abead & Rind Rd.",
+    "lat": 30.056693298863177,
+    "lng": 31.176073466934167,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2348",
+    "isActive": true
+  }
+}

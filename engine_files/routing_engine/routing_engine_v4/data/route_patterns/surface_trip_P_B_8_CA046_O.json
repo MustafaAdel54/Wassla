@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_P_B_8_CA046_O",
+  "data": {
+    "routeId": "surface_P_B_8_CA046",
+    "tripId": "P_B_8_CA046_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Masaken Zeinhom",
+    "stops": [
+      {
+        "stopId": "surface_1093",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2001",
+        "sequence": 2,
+        "arrivalSec": 21658,
+        "departureSec": 21673
+      },
+      {
+        "stopId": "surface_810",
+        "sequence": 3,
+        "arrivalSec": 21725,
+        "departureSec": 21740
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

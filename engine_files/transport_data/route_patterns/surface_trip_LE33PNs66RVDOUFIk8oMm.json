@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_LE33PNs66RVDOUFIk8oMm",
+  "data": {
+    "routeId": "surface_UfIjTN8B9qEE30WQYajlo",
+    "tripId": "LE33PNs66RVDOUFIk8oMm",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Hamd Square",
+    "stops": [
+      {
+        "stopId": "surface_1098",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 2,
+        "arrivalSec": 21737,
+        "departureSec": 21752
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 3,
+        "arrivalSec": 21806,
+        "departureSec": 21821
+      },
+      {
+        "stopId": "surface_1213",
+        "sequence": 4,
+        "arrivalSec": 21986,
+        "departureSec": 22001
+      },
+      {
+        "stopId": "surface_431",
+        "sequence": 5,
+        "arrivalSec": 22952,
+        "departureSec": 22967
+      },
+      {
+        "stopId": "surface_598",
+        "sequence": 6,
+        "arrivalSec": 23179,
+        "departureSec": 23194
+      },
+      {
+        "stopId": "surface_2654",
+        "sequence": 7,
+        "arrivalSec": 23552,
+        "departureSec": 23567
+      },
+      {
+        "stopId": "surface_450",
+        "sequence": 8,
+        "arrivalSec": 23926,
+        "departureSec": 23941
+      },
+      {
+        "stopId": "surface_448",
+        "sequence": 9,
+        "arrivalSec": 24124,
+        "departureSec": 24139
+      },
+      {
+        "stopId": "surface_1069",
+        "sequence": 10,
+        "arrivalSec": 24194,
+        "departureSec": 24209
+      },
+      {
+        "stopId": "surface_359",
+        "sequence": 11,
+        "arrivalSec": 24244,
+        "departureSec": 24259
+      },
+      {
+        "stopId": "surface_360",
+        "sequence": 12,
+        "arrivalSec": 24337,
+        "departureSec": 24352
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

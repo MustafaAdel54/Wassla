@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_Fv7f1MMCDUnncE-sll5Wm",
+  "data": {
+    "routeId": "surface_6rjmU4VqdB1ooUUa9jZiN",
+    "tripId": "Fv7f1MMCDUnncE-sll5Wm",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Shorouq",
+    "stops": [
+      {
+        "stopId": "surface_1098",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 2,
+        "arrivalSec": 21732,
+        "departureSec": 21747
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 3,
+        "arrivalSec": 21799,
+        "departureSec": 21814
+      },
+      {
+        "stopId": "surface_1213",
+        "sequence": 4,
+        "arrivalSec": 21973,
+        "departureSec": 21988
+      },
+      {
+        "stopId": "surface_429",
+        "sequence": 5,
+        "arrivalSec": 22598,
+        "departureSec": 22613
+      },
+      {
+        "stopId": "surface_1233",
+        "sequence": 6,
+        "arrivalSec": 22866,
+        "departureSec": 22881
+      },
+      {
+        "stopId": "surface_763",
+        "sequence": 7,
+        "arrivalSec": 23521,
+        "departureSec": 23536
+      },
+      {
+        "stopId": "surface_1165",
+        "sequence": 8,
+        "arrivalSec": 23984,
+        "departureSec": 23999
+      },
+      {
+        "stopId": "surface_1167",
+        "sequence": 9,
+        "arrivalSec": 24882,
+        "departureSec": 24897
+      },
+      {
+        "stopId": "surface_1228",
+        "sequence": 10,
+        "arrivalSec": 24993,
+        "departureSec": 25008
+      },
+      {
+        "stopId": "surface_2854",
+        "sequence": 11,
+        "arrivalSec": 25149,
+        "departureSec": 25164
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

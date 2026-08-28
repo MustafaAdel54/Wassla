@@ -1,0 +1,18 @@
+{
+  "id": "surface_361",
+  "data": {
+    "name": "Al Manarah Center For International Conferences",
+    "lat": 30.018322802711957,
+    "lng": 31.386217867406124,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "361",
+    "isActive": true
+  }
+}

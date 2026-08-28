@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_H8CrHZ5kTDc97fpHQGpaG",
+  "data": {
+    "routeId": "surface_UhZhDEe_pYSBJb1XmUdHn",
+    "tripId": "H8CrHZ5kTDc97fpHQGpaG",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Ring Rd Exit to Khosous",
+    "stops": [
+      {
+        "stopId": "surface_3014",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2894",
+        "sequence": 2,
+        "arrivalSec": 22043,
+        "departureSec": 22058
+      },
+      {
+        "stopId": "surface_804",
+        "sequence": 3,
+        "arrivalSec": 22838,
+        "departureSec": 22853
+      },
+      {
+        "stopId": "surface_470",
+        "sequence": 4,
+        "arrivalSec": 22888,
+        "departureSec": 22903
+      },
+      {
+        "stopId": "surface_1193",
+        "sequence": 5,
+        "arrivalSec": 23167,
+        "departureSec": 23182
+      },
+      {
+        "stopId": "surface_583",
+        "sequence": 6,
+        "arrivalSec": 23415,
+        "departureSec": 23430
+      },
+      {
+        "stopId": "surface_1306",
+        "sequence": 7,
+        "arrivalSec": 26101,
+        "departureSec": 26116
+      },
+      {
+        "stopId": "surface_90",
+        "sequence": 8,
+        "arrivalSec": 26286,
+        "departureSec": 26301
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

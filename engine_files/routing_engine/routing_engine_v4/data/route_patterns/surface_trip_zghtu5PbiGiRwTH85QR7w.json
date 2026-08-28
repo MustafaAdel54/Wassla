@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_zghtu5PbiGiRwTH85QR7w",
+  "data": {
+    "routeId": "surface_sK63J6jAOvBBc3IX-hjeh",
+    "tripId": "zghtu5PbiGiRwTH85QR7w",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Wizarat District - New Administrative Capital",
+    "stops": [
+      {
+        "stopId": "surface_1098",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 2,
+        "arrivalSec": 21735,
+        "departureSec": 21750
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 3,
+        "arrivalSec": 21803,
+        "departureSec": 21818
+      },
+      {
+        "stopId": "surface_1213",
+        "sequence": 4,
+        "arrivalSec": 21980,
+        "departureSec": 21995
+      },
+      {
+        "stopId": "surface_429",
+        "sequence": 5,
+        "arrivalSec": 22618,
+        "departureSec": 22633
+      },
+      {
+        "stopId": "surface_1233",
+        "sequence": 6,
+        "arrivalSec": 22891,
+        "departureSec": 22906
+      },
+      {
+        "stopId": "surface_763",
+        "sequence": 7,
+        "arrivalSec": 23151,
+        "departureSec": 23166
+      },
+      {
+        "stopId": "surface_2863",
+        "sequence": 8,
+        "arrivalSec": 27460,
+        "departureSec": 27475
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

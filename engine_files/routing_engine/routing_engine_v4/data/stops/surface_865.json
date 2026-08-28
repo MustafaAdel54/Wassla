@@ -1,0 +1,18 @@
+{
+  "id": "surface_865",
+  "data": {
+    "name": "Misr for Packing (6th of October)",
+    "lat": 29.920527628902775,
+    "lng": 30.89303050108494,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "865",
+    "isActive": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_esmSbqnusJSaoYyMLnWrW",
+  "data": {
+    "routeId": "surface_XEvmtqv39IKsFQIslODQ_",
+    "tripId": "esmSbqnusJSaoYyMLnWrW",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Obour Market",
+    "stops": [
+      {
+        "stopId": "surface_2419",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2414",
+        "sequence": 2,
+        "arrivalSec": 21767,
+        "departureSec": 21782
+      },
+      {
+        "stopId": "surface_2546",
+        "sequence": 3,
+        "arrivalSec": 22241,
+        "departureSec": 22256
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

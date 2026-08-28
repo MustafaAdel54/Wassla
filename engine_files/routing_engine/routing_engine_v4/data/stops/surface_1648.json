@@ -1,0 +1,18 @@
+{
+  "id": "surface_1648",
+  "data": {
+    "name": "Manshiyat Nasser",
+    "lat": 30.038276919549652,
+    "lng": 31.27165560802906,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1648",
+    "isActive": true
+  }
+}

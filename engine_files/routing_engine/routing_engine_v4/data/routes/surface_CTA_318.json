@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_318",
+  "data": {
+    "name": "Al Nozha Al Gadida (Gesr El Suez Garage) - Cairo Airport",
+    "shortName": "CTA 318",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_318",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

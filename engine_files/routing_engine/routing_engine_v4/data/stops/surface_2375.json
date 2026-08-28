@@ -1,0 +1,18 @@
+{
+  "id": "surface_2375",
+  "data": {
+    "name": "Al Gazareen (Warraq)",
+    "lat": 30.10120520723143,
+    "lng": 31.22255481775323,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2375",
+    "isActive": true
+  }
+}

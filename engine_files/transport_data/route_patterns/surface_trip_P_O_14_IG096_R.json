@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_IG096_R",
+  "data": {
+    "routeId": "surface_P_O_14_IG096",
+    "tripId": "P_O_14_IG096_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Fayda Kamel",
+    "stops": [
+      {
+        "stopId": "surface_84",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2627",
+        "sequence": 2,
+        "arrivalSec": 21643,
+        "departureSec": 21658
+      },
+      {
+        "stopId": "surface_1947",
+        "sequence": 3,
+        "arrivalSec": 21935,
+        "departureSec": 21950
+      },
+      {
+        "stopId": "surface_51",
+        "sequence": 4,
+        "arrivalSec": 22163,
+        "departureSec": 22178
+      },
+      {
+        "stopId": "surface_1941",
+        "sequence": 5,
+        "arrivalSec": 22197,
+        "departureSec": 22212
+      },
+      {
+        "stopId": "surface_1943",
+        "sequence": 6,
+        "arrivalSec": 22275,
+        "departureSec": 22290
+      },
+      {
+        "stopId": "surface_1952",
+        "sequence": 7,
+        "arrivalSec": 22330,
+        "departureSec": 22345
+      },
+      {
+        "stopId": "surface_1950",
+        "sequence": 8,
+        "arrivalSec": 22436,
+        "departureSec": 22451
+      },
+      {
+        "stopId": "surface_1144",
+        "sequence": 9,
+        "arrivalSec": 22612,
+        "departureSec": 22627
+      },
+      {
+        "stopId": "surface_1667",
+        "sequence": 10,
+        "arrivalSec": 23077,
+        "departureSec": 23092
+      },
+      {
+        "stopId": "surface_2541",
+        "sequence": 11,
+        "arrivalSec": 23361,
+        "departureSec": 23376
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_ik5tzEa7hhd7KxVoQCkFR",
+  "data": {
+    "routeId": "surface_MXkuS2j7tp4MjRSbo-Q6f",
+    "tripId": "ik5tzEa7hhd7KxVoQCkFR",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Salam Alexandria",
+    "stops": [
+      {
+        "stopId": "surface_2419",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2414",
+        "sequence": 2,
+        "arrivalSec": 21767,
+        "departureSec": 21782
+      },
+      {
+        "stopId": "surface_2415",
+        "sequence": 3,
+        "arrivalSec": 21990,
+        "departureSec": 22005
+      },
+      {
+        "stopId": "surface_2962",
+        "sequence": 4,
+        "arrivalSec": 22103,
+        "departureSec": 22118
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

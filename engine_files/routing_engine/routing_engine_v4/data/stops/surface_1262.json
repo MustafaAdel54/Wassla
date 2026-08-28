@@ -1,0 +1,18 @@
+{
+  "id": "surface_1262",
+  "data": {
+    "name": "Magra Al Oyoun (Salah Salem)",
+    "lat": 30.0179987,
+    "lng": 31.2517629,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1262",
+    "isActive": true
+  }
+}

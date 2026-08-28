@@ -1,0 +1,18 @@
+{
+  "id": "surface_47",
+  "data": {
+    "name": "Om Bayoumi",
+    "lat": 30.1433449,
+    "lng": 31.2510331,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "47",
+    "isActive": true
+  }
+}

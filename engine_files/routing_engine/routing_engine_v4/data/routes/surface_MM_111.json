@@ -1,0 +1,15 @@
+{
+  "id": "surface_MM_111",
+  "data": {
+    "name": "Cairo Airport - Dawaran Shubra",
+    "shortName": "MM 111",
+    "agencyId": "surface_MM",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "MM_111",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

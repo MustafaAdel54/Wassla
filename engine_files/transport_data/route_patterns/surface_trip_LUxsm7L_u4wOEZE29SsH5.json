@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_LUxsm7L_u4wOEZE29SsH5",
+  "data": {
+    "routeId": "surface_VG85-qS5arY-IxZ4UXiop",
+    "tripId": "LUxsm7L_u4wOEZE29SsH5",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Saqqara Traffic Office",
+    "stops": [
+      {
+        "stopId": "surface_2884",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2886",
+        "sequence": 2,
+        "arrivalSec": 21764,
+        "departureSec": 21779
+      },
+      {
+        "stopId": "surface_2888",
+        "sequence": 3,
+        "arrivalSec": 21907,
+        "departureSec": 21922
+      },
+      {
+        "stopId": "surface_2585",
+        "sequence": 4,
+        "arrivalSec": 22120,
+        "departureSec": 22135
+      },
+      {
+        "stopId": "surface_2890",
+        "sequence": 5,
+        "arrivalSec": 22421,
+        "departureSec": 22436
+      },
+      {
+        "stopId": "surface_2583",
+        "sequence": 6,
+        "arrivalSec": 22726,
+        "departureSec": 22741
+      },
+      {
+        "stopId": "surface_71",
+        "sequence": 7,
+        "arrivalSec": 23047,
+        "departureSec": 23062
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

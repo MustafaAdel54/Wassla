@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_U1nTOikCb_V8OWUB4IVt1",
+  "data": {
+    "routeId": "surface_IQBYLZyf_eGY8fK3WVcR0",
+    "tripId": "U1nTOikCb_V8OWUB4IVt1",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Hossary",
+    "stops": [
+      {
+        "stopId": "surface_1104",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_858",
+        "sequence": 2,
+        "arrivalSec": 21650,
+        "departureSec": 21665
+      },
+      {
+        "stopId": "surface_862",
+        "sequence": 3,
+        "arrivalSec": 21695,
+        "departureSec": 21710
+      },
+      {
+        "stopId": "surface_974",
+        "sequence": 4,
+        "arrivalSec": 21755,
+        "departureSec": 21770
+      },
+      {
+        "stopId": "surface_840",
+        "sequence": 5,
+        "arrivalSec": 21855,
+        "departureSec": 21870
+      },
+      {
+        "stopId": "surface_978",
+        "sequence": 6,
+        "arrivalSec": 21905,
+        "departureSec": 21920
+      },
+      {
+        "stopId": "surface_950",
+        "sequence": 7,
+        "arrivalSec": 21943,
+        "departureSec": 21958
+      },
+      {
+        "stopId": "surface_970",
+        "sequence": 8,
+        "arrivalSec": 21988,
+        "departureSec": 22003
+      },
+      {
+        "stopId": "surface_1107",
+        "sequence": 9,
+        "arrivalSec": 22246,
+        "departureSec": 22261
+      },
+      {
+        "stopId": "surface_885",
+        "sequence": 10,
+        "arrivalSec": 22318,
+        "departureSec": 22333
+      },
+      {
+        "stopId": "surface_972",
+        "sequence": 11,
+        "arrivalSec": 22413,
+        "departureSec": 22428
+      },
+      {
+        "stopId": "surface_1040",
+        "sequence": 12,
+        "arrivalSec": 22528,
+        "departureSec": 22543
+      },
+      {
+        "stopId": "surface_1109",
+        "sequence": 13,
+        "arrivalSec": 22564,
+        "departureSec": 22579
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

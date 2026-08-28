@@ -1,0 +1,98 @@
+{
+  "id": "surface_trip_P_O_14_IC028_O",
+  "data": {
+    "routeId": "surface_P_O_14_IC028",
+    "tripId": "P_O_14_IC028_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mehwar & Alex Desert Rd",
+    "stops": [
+      {
+        "stopId": "surface_383",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1816",
+        "sequence": 2,
+        "arrivalSec": 21679,
+        "departureSec": 21694
+      },
+      {
+        "stopId": "surface_1814",
+        "sequence": 3,
+        "arrivalSec": 21750,
+        "departureSec": 21765
+      },
+      {
+        "stopId": "surface_1355",
+        "sequence": 4,
+        "arrivalSec": 21876,
+        "departureSec": 21891
+      },
+      {
+        "stopId": "surface_1227",
+        "sequence": 5,
+        "arrivalSec": 21930,
+        "departureSec": 21945
+      },
+      {
+        "stopId": "surface_609",
+        "sequence": 6,
+        "arrivalSec": 22000,
+        "departureSec": 22015
+      },
+      {
+        "stopId": "surface_1360",
+        "sequence": 7,
+        "arrivalSec": 22099,
+        "departureSec": 22114
+      },
+      {
+        "stopId": "surface_1361",
+        "sequence": 8,
+        "arrivalSec": 22218,
+        "departureSec": 22233
+      },
+      {
+        "stopId": "surface_608",
+        "sequence": 9,
+        "arrivalSec": 22280,
+        "departureSec": 22295
+      },
+      {
+        "stopId": "surface_1358",
+        "sequence": 10,
+        "arrivalSec": 22380,
+        "departureSec": 22395
+      },
+      {
+        "stopId": "surface_1357",
+        "sequence": 11,
+        "arrivalSec": 22490,
+        "departureSec": 22505
+      },
+      {
+        "stopId": "surface_610",
+        "sequence": 12,
+        "arrivalSec": 22573,
+        "departureSec": 22588
+      },
+      {
+        "stopId": "surface_1363",
+        "sequence": 13,
+        "arrivalSec": 22688,
+        "departureSec": 22703
+      },
+      {
+        "stopId": "surface_816",
+        "sequence": 14,
+        "arrivalSec": 22774,
+        "departureSec": 22789
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

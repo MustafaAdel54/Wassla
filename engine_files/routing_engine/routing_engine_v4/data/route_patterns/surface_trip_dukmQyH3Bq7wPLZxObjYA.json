@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_dukmQyH3Bq7wPLZxObjYA",
+  "data": {
+    "routeId": "surface_EbtM_hQ0jhsQyuGc5GCpz",
+    "tripId": "dukmQyH3Bq7wPLZxObjYA",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Hyper 1",
+    "stops": [
+      {
+        "stopId": "surface_932",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_916",
+        "sequence": 2,
+        "arrivalSec": 21625,
+        "departureSec": 21640
+      },
+      {
+        "stopId": "surface_914",
+        "sequence": 3,
+        "arrivalSec": 21680,
+        "departureSec": 21695
+      },
+      {
+        "stopId": "surface_1022",
+        "sequence": 4,
+        "arrivalSec": 21716,
+        "departureSec": 21731
+      },
+      {
+        "stopId": "surface_910",
+        "sequence": 5,
+        "arrivalSec": 21809,
+        "departureSec": 21824
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

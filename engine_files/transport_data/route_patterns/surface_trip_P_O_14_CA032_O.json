@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_CA032_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA032",
+    "tripId": "P_O_14_CA032_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Ain Shams Metro",
+    "stops": [
+      {
+        "stopId": "surface_2463",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2700",
+        "sequence": 2,
+        "arrivalSec": 21966,
+        "departureSec": 21981
+      },
+      {
+        "stopId": "surface_2701",
+        "sequence": 3,
+        "arrivalSec": 22086,
+        "departureSec": 22101
+      },
+      {
+        "stopId": "surface_2702",
+        "sequence": 4,
+        "arrivalSec": 22424,
+        "departureSec": 22439
+      },
+      {
+        "stopId": "surface_1710",
+        "sequence": 5,
+        "arrivalSec": 22441,
+        "departureSec": 22456
+      },
+      {
+        "stopId": "surface_2533",
+        "sequence": 6,
+        "arrivalSec": 22489,
+        "departureSec": 22504
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

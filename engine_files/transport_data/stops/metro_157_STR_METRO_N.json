@@ -1,0 +1,16 @@
+{
+  "id": "metro_157_STR_METRO_N",
+  "data": {
+    "name": "St. Teresa",
+    "lat": 30.0879569,
+    "lng": 31.2454927,
+    "stationId": "station_metro_157_STR_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "157_STR_METRO_N",
+    "parentSourceId": "157_STR_METRO",
+    "isActive": true
+  }
+}

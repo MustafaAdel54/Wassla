@@ -1,0 +1,134 @@
+{
+  "id": "metro_trip_T_L2_S",
+  "data": {
+    "routeId": "metro_L2",
+    "tripId": "T_L2_S",
+    "serviceId": "DAILY",
+    "directionId": "0",
+    "headsign": null,
+    "stops": [
+      {
+        "stopId": "metro_326_SHB_METRO_S",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "metro_324_ZER_METRO_S",
+        "sequence": 2,
+        "arrivalSec": 21735,
+        "departureSec": 21760
+      },
+      {
+        "stopId": "metro_158_MZL_METRO_S",
+        "sequence": 3,
+        "arrivalSec": 21880,
+        "departureSec": 21905
+      },
+      {
+        "stopId": "metro_157_KHL_METRO_S",
+        "sequence": 4,
+        "arrivalSec": 22025,
+        "departureSec": 22050
+      },
+      {
+        "stopId": "metro_157_STR_METRO_S",
+        "sequence": 5,
+        "arrivalSec": 22170,
+        "departureSec": 22195
+      },
+      {
+        "stopId": "metro_153_RFG_METRO_S",
+        "sequence": 6,
+        "arrivalSec": 22315,
+        "departureSec": 22340
+      },
+      {
+        "stopId": "metro_144_MSA_METRO_S",
+        "sequence": 7,
+        "arrivalSec": 22460,
+        "departureSec": 22485
+      },
+      {
+        "stopId": "metro_100_SHO_METRO_S2",
+        "sequence": 8,
+        "arrivalSec": 22605,
+        "departureSec": 22630
+      },
+      {
+        "stopId": "metro_81_ATT_METRO_S",
+        "sequence": 9,
+        "arrivalSec": 22750,
+        "departureSec": 22775
+      },
+      {
+        "stopId": "metro_69_NAG_METRO_S",
+        "sequence": 10,
+        "arrivalSec": 22895,
+        "departureSec": 22920
+      },
+      {
+        "stopId": "metro_86_SAD_METRO_S2",
+        "sequence": 11,
+        "arrivalSec": 23040,
+        "departureSec": 23065
+      },
+      {
+        "stopId": "metro_237_OPR_METRO_S",
+        "sequence": 12,
+        "arrivalSec": 23185,
+        "departureSec": 23210
+      },
+      {
+        "stopId": "metro_361_DOK_METRO_S",
+        "sequence": 13,
+        "arrivalSec": 23330,
+        "departureSec": 23355
+      },
+      {
+        "stopId": "metro_361_BHO_METRO_S",
+        "sequence": 14,
+        "arrivalSec": 23475,
+        "departureSec": 23500
+      },
+      {
+        "stopId": "metro_370_CUN_METRO_S",
+        "sequence": 15,
+        "arrivalSec": 23620,
+        "departureSec": 23645
+      },
+      {
+        "stopId": "metro_369_FAS_METRO_S",
+        "sequence": 16,
+        "arrivalSec": 23765,
+        "departureSec": 23790
+      },
+      {
+        "stopId": "metro_457_GIZ_METRO_S",
+        "sequence": 17,
+        "arrivalSec": 23910,
+        "departureSec": 23935
+      },
+      {
+        "stopId": "metro_457_OMS_METRO_S",
+        "sequence": 18,
+        "arrivalSec": 24055,
+        "departureSec": 24080
+      },
+      {
+        "stopId": "metro_457_MEK_METRO_S",
+        "sequence": 19,
+        "arrivalSec": 24200,
+        "departureSec": 24225
+      },
+      {
+        "stopId": "metro_263_MON_METRO_S",
+        "sequence": 20,
+        "arrivalSec": 24345,
+        "departureSec": 24370
+      }
+    ],
+    "source": "gtfs_metro",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2829",
+  "data": {
+    "name": "Agyad School (Betcho)",
+    "lat": 29.973534,
+    "lng": 31.329772,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2829",
+    "isActive": true
+  }
+}

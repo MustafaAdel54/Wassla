@@ -1,0 +1,18 @@
+{
+  "id": "surface_1947",
+  "data": {
+    "name": "Three Brothers Supermarket (Al Manial)",
+    "lat": 30.01582113605902,
+    "lng": 31.22226822753585,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1947",
+    "isActive": true
+  }
+}

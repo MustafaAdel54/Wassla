@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_BOX_6O023_O",
+  "data": {
+    "routeId": "surface_BOX_6O023",
+    "tripId": "BOX_6O023_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Hamada Emam",
+    "stops": [
+      {
+        "stopId": "surface_1096",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1046",
+        "sequence": 2,
+        "arrivalSec": 21929,
+        "departureSec": 21944
+      },
+      {
+        "stopId": "surface_1117",
+        "sequence": 3,
+        "arrivalSec": 21985,
+        "departureSec": 22000
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

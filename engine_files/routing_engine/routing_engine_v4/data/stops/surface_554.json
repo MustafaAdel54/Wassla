@@ -1,0 +1,18 @@
+{
+  "id": "surface_554",
+  "data": {
+    "name": "Telecom Egypt Central (6th Of October)",
+    "lat": 29.973644424725673,
+    "lng": 30.955437335539013,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "554",
+    "isActive": true
+  }
+}

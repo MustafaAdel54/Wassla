@@ -1,0 +1,16 @@
+{
+  "id": "metro_14_HOF_METRO_N",
+  "data": {
+    "name": "Wadi Hof",
+    "lat": 29.879053,
+    "lng": 31.3134384,
+    "stationId": "station_metro_14_HOF_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "14_HOF_METRO_N",
+    "parentSourceId": "14_HOF_METRO",
+    "isActive": true
+  }
+}

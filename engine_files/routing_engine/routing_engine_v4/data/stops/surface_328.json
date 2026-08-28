@@ -1,0 +1,18 @@
+{
+  "id": "surface_328",
+  "data": {
+    "name": "Al Abeet Steps (Ring Rd.)",
+    "lat": 30.067155939796823,
+    "lng": 31.174570796145698,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "328",
+    "isActive": true
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_P_O_14_GZ030_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ030",
+    "tripId": "P_O_14_GZ030_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Akher Faisal",
+    "stops": [
+      {
+        "stopId": "surface_1798",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1797",
+        "sequence": 2,
+        "arrivalSec": 21691,
+        "departureSec": 21706
+      },
+      {
+        "stopId": "surface_1800",
+        "sequence": 3,
+        "arrivalSec": 21777,
+        "departureSec": 21792
+      },
+      {
+        "stopId": "surface_1802",
+        "sequence": 4,
+        "arrivalSec": 21867,
+        "departureSec": 21882
+      },
+      {
+        "stopId": "surface_1804",
+        "sequence": 5,
+        "arrivalSec": 22053,
+        "departureSec": 22068
+      },
+      {
+        "stopId": "surface_1806",
+        "sequence": 6,
+        "arrivalSec": 22145,
+        "departureSec": 22160
+      },
+      {
+        "stopId": "surface_383",
+        "sequence": 7,
+        "arrivalSec": 22339,
+        "departureSec": 22354
+      },
+      {
+        "stopId": "surface_2790",
+        "sequence": 8,
+        "arrivalSec": 22378,
+        "departureSec": 22393
+      },
+      {
+        "stopId": "surface_1422",
+        "sequence": 9,
+        "arrivalSec": 22609,
+        "departureSec": 22624
+      },
+      {
+        "stopId": "surface_220",
+        "sequence": 10,
+        "arrivalSec": 22719,
+        "departureSec": 22734
+      },
+      {
+        "stopId": "surface_382",
+        "sequence": 11,
+        "arrivalSec": 22802,
+        "departureSec": 22817
+      },
+      {
+        "stopId": "surface_1819",
+        "sequence": 12,
+        "arrivalSec": 22957,
+        "departureSec": 22972
+      },
+      {
+        "stopId": "surface_33",
+        "sequence": 13,
+        "arrivalSec": 23028,
+        "departureSec": 23043
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

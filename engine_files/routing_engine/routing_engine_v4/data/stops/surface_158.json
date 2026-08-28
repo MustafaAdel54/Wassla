@@ -1,0 +1,18 @@
+{
+  "id": "surface_158",
+  "data": {
+    "name": "Misr Al Qadima",
+    "lat": 30.000581107739823,
+    "lng": 31.227833137402204,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "158",
+    "isActive": true
+  }
+}

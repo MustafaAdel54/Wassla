@@ -1,0 +1,18 @@
+{
+  "id": "surface_2592",
+  "data": {
+    "name": "15th of May City Authority",
+    "lat": 29.826466,
+    "lng": 31.364224,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2592",
+    "isActive": true
+  }
+}

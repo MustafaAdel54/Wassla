@@ -1,0 +1,18 @@
+{
+  "id": "surface_992",
+  "data": {
+    "name": "Export Development Authority (6th of October)",
+    "lat": 29.941169682210266,
+    "lng": 30.908896038554236,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "992",
+    "isActive": true
+  }
+}

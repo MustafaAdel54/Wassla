@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_P_O_14_CA130_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA130",
+    "tripId": "P_O_14_CA130_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Korba",
+    "stops": [
+      {
+        "stopId": "surface_2413",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2478",
+        "sequence": 2,
+        "arrivalSec": 21920,
+        "departureSec": 21935
+      },
+      {
+        "stopId": "surface_109",
+        "sequence": 3,
+        "arrivalSec": 22071,
+        "departureSec": 22086
+      },
+      {
+        "stopId": "surface_110",
+        "sequence": 4,
+        "arrivalSec": 22244,
+        "departureSec": 22259
+      },
+      {
+        "stopId": "surface_111",
+        "sequence": 5,
+        "arrivalSec": 22340,
+        "departureSec": 22355
+      },
+      {
+        "stopId": "surface_1513",
+        "sequence": 6,
+        "arrivalSec": 22552,
+        "departureSec": 22567
+      },
+      {
+        "stopId": "surface_113",
+        "sequence": 7,
+        "arrivalSec": 22583,
+        "departureSec": 22598
+      },
+      {
+        "stopId": "surface_1511",
+        "sequence": 8,
+        "arrivalSec": 22666,
+        "departureSec": 22681
+      },
+      {
+        "stopId": "surface_1692",
+        "sequence": 9,
+        "arrivalSec": 22822,
+        "departureSec": 22837
+      },
+      {
+        "stopId": "surface_1693",
+        "sequence": 10,
+        "arrivalSec": 22843,
+        "departureSec": 22858
+      },
+      {
+        "stopId": "surface_117",
+        "sequence": 11,
+        "arrivalSec": 23022,
+        "departureSec": 23037
+      },
+      {
+        "stopId": "surface_2528",
+        "sequence": 12,
+        "arrivalSec": 23240,
+        "departureSec": 23255
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

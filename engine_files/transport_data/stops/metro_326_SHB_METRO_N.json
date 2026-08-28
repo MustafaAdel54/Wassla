@@ -1,0 +1,16 @@
+{
+  "id": "metro_326_SHB_METRO_N",
+  "data": {
+    "name": "Shubra El-Kheima",
+    "lat": 30.1225145,
+    "lng": 31.244688,
+    "stationId": "station_metro_326_SHB_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "326_SHB_METRO_N",
+    "parentSourceId": "326_SHB_METRO",
+    "isActive": true
+  }
+}

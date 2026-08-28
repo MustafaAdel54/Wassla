@@ -1,0 +1,18 @@
+{
+  "id": "surface_2898",
+  "data": {
+    "name": "Al Kawthar St. & Gamal Al Din Al Banna St.",
+    "lat": 30.007935541624185,
+    "lng": 31.134934197030027,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2898",
+    "isActive": true
+  }
+}

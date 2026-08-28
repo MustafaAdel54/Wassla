@@ -1,0 +1,18 @@
+{
+  "id": "surface_2290",
+  "data": {
+    "name": "Al Wekala (Nile Courniche)",
+    "lat": 30.059109457434072,
+    "lng": 31.22797834976508,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2290",
+    "isActive": true
+  }
+}

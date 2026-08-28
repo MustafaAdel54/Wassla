@@ -1,0 +1,18 @@
+{
+  "id": "surface_1746",
+  "data": {
+    "name": "Hadayek Al Qobba Youth Center",
+    "lat": 30.089404745326583,
+    "lng": 31.28563746489639,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1746",
+    "isActive": true
+  }
+}

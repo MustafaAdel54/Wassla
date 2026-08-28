@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_BOX_6O016_R",
+  "data": {
+    "routeId": "surface_BOX_6O016",
+    "tripId": "BOX_6O016_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Total  (6th of October)",
+    "stops": [
+      {
+        "stopId": "surface_1128",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1026",
+        "sequence": 2,
+        "arrivalSec": 21689,
+        "departureSec": 21704
+      },
+      {
+        "stopId": "surface_966",
+        "sequence": 3,
+        "arrivalSec": 21736,
+        "departureSec": 21751
+      },
+      {
+        "stopId": "surface_879",
+        "sequence": 4,
+        "arrivalSec": 21797,
+        "departureSec": 21812
+      },
+      {
+        "stopId": "surface_1010",
+        "sequence": 5,
+        "arrivalSec": 22001,
+        "departureSec": 22016
+      },
+      {
+        "stopId": "surface_1043",
+        "sequence": 6,
+        "arrivalSec": 22073,
+        "departureSec": 22088
+      },
+      {
+        "stopId": "surface_878",
+        "sequence": 7,
+        "arrivalSec": 22138,
+        "departureSec": 22153
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

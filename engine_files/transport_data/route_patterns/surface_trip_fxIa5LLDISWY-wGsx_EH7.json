@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_fxIa5LLDISWY-wGsx_EH7",
+  "data": {
+    "routeId": "surface_KmVdHOhRfUX8cw29qR_Vo",
+    "tripId": "fxIa5LLDISWY-wGsx_EH7",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Saft Al Laban",
+    "stops": [
+      {
+        "stopId": "surface_44",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2825",
+        "sequence": 2,
+        "arrivalSec": 21708,
+        "departureSec": 21723
+      },
+      {
+        "stopId": "surface_2616",
+        "sequence": 3,
+        "arrivalSec": 21863,
+        "departureSec": 21878
+      },
+      {
+        "stopId": "surface_2834",
+        "sequence": 4,
+        "arrivalSec": 22073,
+        "departureSec": 22088
+      },
+      {
+        "stopId": "surface_2827",
+        "sequence": 5,
+        "arrivalSec": 22104,
+        "departureSec": 22119
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

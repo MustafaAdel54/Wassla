@@ -1,0 +1,18 @@
+{
+  "id": "surface_123",
+  "data": {
+    "name": "Al Mohandes Insurance (Ramses)",
+    "lat": 30.066645931881208,
+    "lng": 31.259782432513123,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "123",
+    "isActive": true
+  }
+}

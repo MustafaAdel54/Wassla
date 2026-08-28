@@ -1,0 +1,18 @@
+{
+  "id": "surface_802",
+  "data": {
+    "name": "Al Hamd Square Station",
+    "lat": 30.001971,
+    "lng": 31.423001,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "802",
+    "isActive": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_8X3K2M4j9c92HivoUCHtW",
+  "data": {
+    "routeId": "surface_OXsaA6ch0zWJIr-wsnU3M",
+    "tripId": "8X3K2M4j9c92HivoUCHtW",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Moassaset Al Zakah",
+    "stops": [
+      {
+        "stopId": "surface_1706",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1707",
+        "sequence": 2,
+        "arrivalSec": 21625,
+        "departureSec": 21640
+      },
+      {
+        "stopId": "surface_2706",
+        "sequence": 3,
+        "arrivalSec": 21657,
+        "departureSec": 21672
+      },
+      {
+        "stopId": "surface_1709",
+        "sequence": 4,
+        "arrivalSec": 21783,
+        "departureSec": 21798
+      },
+      {
+        "stopId": "surface_1676",
+        "sequence": 5,
+        "arrivalSec": 21965,
+        "departureSec": 21980
+      },
+      {
+        "stopId": "surface_1675",
+        "sequence": 6,
+        "arrivalSec": 21999,
+        "departureSec": 22014
+      },
+      {
+        "stopId": "surface_64",
+        "sequence": 7,
+        "arrivalSec": 22135,
+        "departureSec": 22150
+      },
+      {
+        "stopId": "surface_2920",
+        "sequence": 8,
+        "arrivalSec": 22314,
+        "departureSec": 22329
+      },
+      {
+        "stopId": "surface_2916",
+        "sequence": 9,
+        "arrivalSec": 22570,
+        "departureSec": 22585
+      },
+      {
+        "stopId": "surface_82",
+        "sequence": 10,
+        "arrivalSec": 22699,
+        "departureSec": 22714
+      },
+      {
+        "stopId": "surface_2926",
+        "sequence": 11,
+        "arrivalSec": 23122,
+        "departureSec": 23137
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

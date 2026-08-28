@@ -1,0 +1,98 @@
+{
+  "id": "surface_trip_t3Xd78G-nX2dBltV0RX-3",
+  "data": {
+    "routeId": "surface_ZqF0hj3CyZzVwb8YwhrN3",
+    "tripId": "t3Xd78G-nX2dBltV0RX-3",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Awwel Al Zawya Al Hamra",
+    "stops": [
+      {
+        "stopId": "surface_1700",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1307",
+        "sequence": 2,
+        "arrivalSec": 22050,
+        "departureSec": 22065
+      },
+      {
+        "stopId": "surface_1425",
+        "sequence": 3,
+        "arrivalSec": 22085,
+        "departureSec": 22100
+      },
+      {
+        "stopId": "surface_1223",
+        "sequence": 4,
+        "arrivalSec": 22130,
+        "departureSec": 22145
+      },
+      {
+        "stopId": "surface_1306",
+        "sequence": 5,
+        "arrivalSec": 22206,
+        "departureSec": 22222
+      },
+      {
+        "stopId": "surface_759",
+        "sequence": 6,
+        "arrivalSec": 22325,
+        "departureSec": 22340
+      },
+      {
+        "stopId": "surface_36",
+        "sequence": 7,
+        "arrivalSec": 22450,
+        "departureSec": 22465
+      },
+      {
+        "stopId": "surface_1317",
+        "sequence": 8,
+        "arrivalSec": 22880,
+        "departureSec": 22895
+      },
+      {
+        "stopId": "surface_2020",
+        "sequence": 9,
+        "arrivalSec": 23090,
+        "departureSec": 23105
+      },
+      {
+        "stopId": "surface_1743",
+        "sequence": 10,
+        "arrivalSec": 23175,
+        "departureSec": 23190
+      },
+      {
+        "stopId": "surface_1738",
+        "sequence": 11,
+        "arrivalSec": 23550,
+        "departureSec": 23565
+      },
+      {
+        "stopId": "surface_2011",
+        "sequence": 12,
+        "arrivalSec": 23648,
+        "departureSec": 23664
+      },
+      {
+        "stopId": "surface_2010",
+        "sequence": 13,
+        "arrivalSec": 23752,
+        "departureSec": 23766
+      },
+      {
+        "stopId": "surface_2008",
+        "sequence": 14,
+        "arrivalSec": 23968,
+        "departureSec": 23982
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

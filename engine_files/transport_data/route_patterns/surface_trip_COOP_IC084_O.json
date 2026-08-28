@@ -1,0 +1,266 @@
+{
+  "id": "surface_trip_COOP_IC084_O",
+  "data": {
+    "routeId": "surface_COOP_IC084",
+    "tripId": "COOP_IC084_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al-Salam (10th of Ramadan)",
+    "stops": [
+      {
+        "stopId": "surface_567",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_323",
+        "sequence": 2,
+        "arrivalSec": 21651,
+        "departureSec": 21666
+      },
+      {
+        "stopId": "surface_238",
+        "sequence": 3,
+        "arrivalSec": 21748,
+        "departureSec": 21763
+      },
+      {
+        "stopId": "surface_1083",
+        "sequence": 4,
+        "arrivalSec": 21822,
+        "departureSec": 21837
+      },
+      {
+        "stopId": "surface_325",
+        "sequence": 5,
+        "arrivalSec": 22103,
+        "departureSec": 22118
+      },
+      {
+        "stopId": "surface_619",
+        "sequence": 6,
+        "arrivalSec": 22611,
+        "departureSec": 22626
+      },
+      {
+        "stopId": "surface_240",
+        "sequence": 7,
+        "arrivalSec": 22911,
+        "departureSec": 22926
+      },
+      {
+        "stopId": "surface_241",
+        "sequence": 8,
+        "arrivalSec": 23280,
+        "departureSec": 23295
+      },
+      {
+        "stopId": "surface_242",
+        "sequence": 9,
+        "arrivalSec": 23409,
+        "departureSec": 23424
+      },
+      {
+        "stopId": "surface_327",
+        "sequence": 10,
+        "arrivalSec": 23500,
+        "departureSec": 23515
+      },
+      {
+        "stopId": "surface_328",
+        "sequence": 11,
+        "arrivalSec": 23535,
+        "departureSec": 23550
+      },
+      {
+        "stopId": "surface_329",
+        "sequence": 12,
+        "arrivalSec": 23616,
+        "departureSec": 23631
+      },
+      {
+        "stopId": "surface_331",
+        "sequence": 13,
+        "arrivalSec": 23687,
+        "departureSec": 23702
+      },
+      {
+        "stopId": "surface_333",
+        "sequence": 14,
+        "arrivalSec": 23764,
+        "departureSec": 23779
+      },
+      {
+        "stopId": "surface_622",
+        "sequence": 15,
+        "arrivalSec": 23854,
+        "departureSec": 23869
+      },
+      {
+        "stopId": "surface_335",
+        "sequence": 16,
+        "arrivalSec": 23925,
+        "departureSec": 23940
+      },
+      {
+        "stopId": "surface_336",
+        "sequence": 17,
+        "arrivalSec": 23970,
+        "departureSec": 23985
+      },
+      {
+        "stopId": "surface_623",
+        "sequence": 18,
+        "arrivalSec": 24020,
+        "departureSec": 24035
+      },
+      {
+        "stopId": "surface_2203",
+        "sequence": 19,
+        "arrivalSec": 24086,
+        "departureSec": 24101
+      },
+      {
+        "stopId": "surface_624",
+        "sequence": 20,
+        "arrivalSec": 24166,
+        "departureSec": 24181
+      },
+      {
+        "stopId": "surface_341",
+        "sequence": 21,
+        "arrivalSec": 24263,
+        "departureSec": 24278
+      },
+      {
+        "stopId": "surface_835",
+        "sequence": 22,
+        "arrivalSec": 24324,
+        "departureSec": 24339
+      },
+      {
+        "stopId": "surface_2649",
+        "sequence": 23,
+        "arrivalSec": 24369,
+        "departureSec": 24384
+      },
+      {
+        "stopId": "surface_343",
+        "sequence": 24,
+        "arrivalSec": 24545,
+        "departureSec": 24560
+      },
+      {
+        "stopId": "surface_626",
+        "sequence": 25,
+        "arrivalSec": 24829,
+        "departureSec": 24844
+      },
+      {
+        "stopId": "surface_1399",
+        "sequence": 26,
+        "arrivalSec": 24876,
+        "departureSec": 24891
+      },
+      {
+        "stopId": "surface_439",
+        "sequence": 27,
+        "arrivalSec": 24986,
+        "departureSec": 25001
+      },
+      {
+        "stopId": "surface_2217",
+        "sequence": 28,
+        "arrivalSec": 25112,
+        "departureSec": 25127
+      },
+      {
+        "stopId": "surface_1316",
+        "sequence": 29,
+        "arrivalSec": 25238,
+        "departureSec": 25253
+      },
+      {
+        "stopId": "surface_761",
+        "sequence": 30,
+        "arrivalSec": 25425,
+        "departureSec": 25440
+      },
+      {
+        "stopId": "surface_1427",
+        "sequence": 31,
+        "arrivalSec": 25702,
+        "departureSec": 25717
+      },
+      {
+        "stopId": "surface_1305",
+        "sequence": 32,
+        "arrivalSec": 25778,
+        "departureSec": 25793
+      },
+      {
+        "stopId": "surface_1222",
+        "sequence": 33,
+        "arrivalSec": 25880,
+        "departureSec": 25895
+      },
+      {
+        "stopId": "surface_1426",
+        "sequence": 34,
+        "arrivalSec": 25944,
+        "departureSec": 25959
+      },
+      {
+        "stopId": "surface_1424",
+        "sequence": 35,
+        "arrivalSec": 26004,
+        "departureSec": 26019
+      },
+      {
+        "stopId": "surface_438",
+        "sequence": 36,
+        "arrivalSec": 26082,
+        "departureSec": 26097
+      },
+      {
+        "stopId": "surface_757",
+        "sequence": 37,
+        "arrivalSec": 26171,
+        "departureSec": 26186
+      },
+      {
+        "stopId": "surface_465",
+        "sequence": 38,
+        "arrivalSec": 26363,
+        "departureSec": 26378
+      },
+      {
+        "stopId": "surface_1225",
+        "sequence": 39,
+        "arrivalSec": 26506,
+        "departureSec": 26521
+      },
+      {
+        "stopId": "surface_454",
+        "sequence": 40,
+        "arrivalSec": 26631,
+        "departureSec": 26646
+      },
+      {
+        "stopId": "surface_1429",
+        "sequence": 41,
+        "arrivalSec": 26706,
+        "departureSec": 26721
+      },
+      {
+        "stopId": "surface_435",
+        "sequence": 42,
+        "arrivalSec": 26951,
+        "departureSec": 26966
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

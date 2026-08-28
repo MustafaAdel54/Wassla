@@ -1,0 +1,18 @@
+{
+  "id": "surface_1425",
+  "data": {
+    "name": "Al Rashaah Steps (Ring Rd.)",
+    "lat": 30.163366644691802,
+    "lng": 31.323687168004998,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1425",
+    "isActive": true
+  }
+}

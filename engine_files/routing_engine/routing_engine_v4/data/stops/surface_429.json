@@ -1,0 +1,18 @@
+{
+  "id": "surface_429",
+  "data": {
+    "name": "Huckstep",
+    "lat": 30.159666762838974,
+    "lng": 31.468777191372567,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "429",
+    "isActive": true
+  }
+}

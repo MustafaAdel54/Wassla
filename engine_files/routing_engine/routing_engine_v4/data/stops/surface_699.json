@@ -1,0 +1,18 @@
+{
+  "id": "surface_699",
+  "data": {
+    "name": "Al Ahly Sporting Club (Nasr City)",
+    "lat": 30.071618745803935,
+    "lng": 31.354500472274495,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "699",
+    "isActive": true
+  }
+}

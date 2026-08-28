@@ -1,0 +1,16 @@
+{
+  "id": "metro_23_SMA_METRO_S",
+  "data": {
+    "name": "Sakanat El-Maadi",
+    "lat": 29.9533078,
+    "lng": 31.2629646,
+    "stationId": "station_metro_23_SMA_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "23_SMA_METRO_S",
+    "parentSourceId": "23_SMA_METRO",
+    "isActive": true
+  }
+}

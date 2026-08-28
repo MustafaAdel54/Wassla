@@ -1,0 +1,18 @@
+{
+  "id": "surface_2135",
+  "data": {
+    "name": "Criminal Evidence Registery (Abbaseya)",
+    "lat": 30.071948,
+    "lng": 31.287469,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2135",
+    "isActive": true
+  }
+}

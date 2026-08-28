@@ -1,0 +1,18 @@
+{
+  "id": "surface_393",
+  "data": {
+    "name": "Three Pyramids Hotel",
+    "lat": 30.0007051,
+    "lng": 31.1780754,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "393",
+    "isActive": true
+  }
+}

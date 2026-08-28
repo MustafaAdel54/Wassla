@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_pUptgmoTw1CdCtPIeENEq",
+  "data": {
+    "routeId": "surface_YC8mSQwzG7-Amd9rDuPR1",
+    "tripId": "pUptgmoTw1CdCtPIeENEq",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Kit Kat Square",
+    "stops": [
+      {
+        "stopId": "surface_2502",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2404",
+        "sequence": 2,
+        "arrivalSec": 21819,
+        "departureSec": 21834
+      },
+      {
+        "stopId": "surface_2405",
+        "sequence": 3,
+        "arrivalSec": 21892,
+        "departureSec": 21907
+      },
+      {
+        "stopId": "surface_809",
+        "sequence": 4,
+        "arrivalSec": 22068,
+        "departureSec": 22083
+      },
+      {
+        "stopId": "surface_2408",
+        "sequence": 5,
+        "arrivalSec": 22233,
+        "departureSec": 22248
+      },
+      {
+        "stopId": "surface_2412",
+        "sequence": 6,
+        "arrivalSec": 22381,
+        "departureSec": 22396
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

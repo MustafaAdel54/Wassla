@@ -1,0 +1,18 @@
+{
+  "id": "surface_1415",
+  "data": {
+    "name": "Al Batal Ahmed - Saheb Al Diwan",
+    "lat": 30.2169693,
+    "lng": 31.354764199999988,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1415",
+    "isActive": true
+  }
+}

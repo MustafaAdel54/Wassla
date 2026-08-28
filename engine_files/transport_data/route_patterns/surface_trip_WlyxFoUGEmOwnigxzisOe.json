@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_WlyxFoUGEmOwnigxzisOe",
+  "data": {
+    "routeId": "surface_p3-8qu3UivDvTp0cckEVG",
+    "tripId": "WlyxFoUGEmOwnigxzisOe",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Haram Talbeya",
+    "stops": [
+      {
+        "stopId": "surface_2527",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2169",
+        "sequence": 2,
+        "arrivalSec": 22311,
+        "departureSec": 22326
+      },
+      {
+        "stopId": "surface_2170",
+        "sequence": 3,
+        "arrivalSec": 22345,
+        "departureSec": 22360
+      },
+      {
+        "stopId": "surface_394",
+        "sequence": 4,
+        "arrivalSec": 22668,
+        "departureSec": 22683
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

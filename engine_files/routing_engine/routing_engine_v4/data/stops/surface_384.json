@@ -1,0 +1,18 @@
+{
+  "id": "surface_384",
+  "data": {
+    "name": "Al Shabrawy (Al Mansoureyya Rd.)",
+    "lat": 29.989963106354708,
+    "lng": 31.1349774910658,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "384",
+    "isActive": true
+  }
+}

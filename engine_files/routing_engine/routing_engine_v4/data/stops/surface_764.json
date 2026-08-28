@@ -1,0 +1,18 @@
+{
+  "id": "surface_764",
+  "data": {
+    "name": "Al Horreya Square (Shorouq City)",
+    "lat": 30.16886106148791,
+    "lng": 31.602582090973858,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "764",
+    "isActive": true
+  }
+}

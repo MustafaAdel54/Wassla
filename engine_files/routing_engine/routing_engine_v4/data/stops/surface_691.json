@@ -1,0 +1,18 @@
+{
+  "id": "surface_691",
+  "data": {
+    "name": "Abbaseya Bridge Entrance",
+    "lat": 30.070245,
+    "lng": 31.289957,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "691",
+    "isActive": true
+  }
+}

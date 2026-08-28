@@ -1,0 +1,18 @@
+{
+  "id": "surface_1512",
+  "data": {
+    "name": "Al Hays Pastry (Nozha St.)",
+    "lat": 30.104264588689336,
+    "lng": 31.3437508955096,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1512",
+    "isActive": true
+  }
+}

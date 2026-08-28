@@ -1,0 +1,18 @@
+{
+  "id": "surface_2158",
+  "data": {
+    "name": "Al Malek Al Saleh",
+    "lat": 30.016022271261015,
+    "lng": 31.232388580140267,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2158",
+    "isActive": true
+  }
+}

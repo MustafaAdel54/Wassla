@@ -1,0 +1,18 @@
+{
+  "id": "surface_137",
+  "data": {
+    "name": "Triumph Square",
+    "lat": 30.100482665463133,
+    "lng": 31.343648673816826,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "137",
+    "isActive": true
+  }
+}

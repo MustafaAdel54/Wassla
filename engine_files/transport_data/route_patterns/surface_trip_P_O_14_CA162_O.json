@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_O_14_CA162_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA162",
+    "tripId": "P_O_14_CA162_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "8th District (Nasr City) - Al tabba",
+    "stops": [
+      {
+        "stopId": "surface_712",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1263",
+        "sequence": 2,
+        "arrivalSec": 21682,
+        "departureSec": 21697
+      },
+      {
+        "stopId": "surface_1432",
+        "sequence": 3,
+        "arrivalSec": 21784,
+        "departureSec": 21799
+      },
+      {
+        "stopId": "surface_1205",
+        "sequence": 4,
+        "arrivalSec": 21996,
+        "departureSec": 22011
+      },
+      {
+        "stopId": "surface_482",
+        "sequence": 5,
+        "arrivalSec": 22208,
+        "departureSec": 22223
+      },
+      {
+        "stopId": "surface_485",
+        "sequence": 6,
+        "arrivalSec": 22311,
+        "departureSec": 22326
+      },
+      {
+        "stopId": "surface_480",
+        "sequence": 7,
+        "arrivalSec": 22351,
+        "departureSec": 22366
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

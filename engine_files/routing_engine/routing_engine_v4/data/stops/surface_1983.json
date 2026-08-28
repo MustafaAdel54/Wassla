@@ -1,0 +1,18 @@
+{
+  "id": "surface_1983",
+  "data": {
+    "name": "Talaat Harb Cultural Center",
+    "lat": 30.022698639333257,
+    "lng": 31.25143120896133,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1983",
+    "isActive": true
+  }
+}

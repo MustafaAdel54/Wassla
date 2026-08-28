@@ -1,0 +1,18 @@
+{
+  "id": "surface_2522",
+  "data": {
+    "name": "East Bulaq Dakrur (Nahya)",
+    "lat": 30.042836806051536,
+    "lng": 31.193749327430925,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2522",
+    "isActive": true
+  }
+}

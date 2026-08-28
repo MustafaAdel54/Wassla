@@ -1,0 +1,98 @@
+{
+  "id": "surface_trip_M4ewegTPJnhphvXipU9Dv",
+  "data": {
+    "routeId": "surface_Dnad46KxSgtz6WrdlQUHY",
+    "tripId": "M4ewegTPJnhphvXipU9Dv",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Manshiyat Nasser",
+    "stops": [
+      {
+        "stopId": "surface_1537",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_602",
+        "sequence": 2,
+        "arrivalSec": 22145,
+        "departureSec": 22160
+      },
+      {
+        "stopId": "surface_491",
+        "sequence": 3,
+        "arrivalSec": 22235,
+        "departureSec": 22250
+      },
+      {
+        "stopId": "surface_490",
+        "sequence": 4,
+        "arrivalSec": 22355,
+        "departureSec": 22370
+      },
+      {
+        "stopId": "surface_704",
+        "sequence": 5,
+        "arrivalSec": 22552,
+        "departureSec": 22567
+      },
+      {
+        "stopId": "surface_287",
+        "sequence": 6,
+        "arrivalSec": 22585,
+        "departureSec": 22600
+      },
+      {
+        "stopId": "surface_2639",
+        "sequence": 7,
+        "arrivalSec": 22684,
+        "departureSec": 22699
+      },
+      {
+        "stopId": "surface_700",
+        "sequence": 8,
+        "arrivalSec": 22753,
+        "departureSec": 22768
+      },
+      {
+        "stopId": "surface_221",
+        "sequence": 9,
+        "arrivalSec": 22891,
+        "departureSec": 22906
+      },
+      {
+        "stopId": "surface_199",
+        "sequence": 10,
+        "arrivalSec": 22928,
+        "departureSec": 22943
+      },
+      {
+        "stopId": "surface_1401",
+        "sequence": 11,
+        "arrivalSec": 23077,
+        "departureSec": 23092
+      },
+      {
+        "stopId": "surface_1260",
+        "sequence": 12,
+        "arrivalSec": 23182,
+        "departureSec": 23197
+      },
+      {
+        "stopId": "surface_1649",
+        "sequence": 13,
+        "arrivalSec": 23236,
+        "departureSec": 23251
+      },
+      {
+        "stopId": "surface_1889",
+        "sequence": 14,
+        "arrivalSec": 23316,
+        "departureSec": 23331
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

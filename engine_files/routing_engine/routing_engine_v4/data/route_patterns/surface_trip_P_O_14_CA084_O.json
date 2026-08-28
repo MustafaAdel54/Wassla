@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_O_14_CA084_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA084",
+    "tripId": "P_O_14_CA084_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Hadaba Wosta (Moqattam)",
+    "stops": [
+      {
+        "stopId": "surface_75",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_705",
+        "sequence": 2,
+        "arrivalSec": 21844,
+        "departureSec": 21859
+      },
+      {
+        "stopId": "surface_492",
+        "sequence": 3,
+        "arrivalSec": 21950,
+        "departureSec": 21965
+      },
+      {
+        "stopId": "surface_364",
+        "sequence": 4,
+        "arrivalSec": 22055,
+        "departureSec": 22070
+      },
+      {
+        "stopId": "surface_1521",
+        "sequence": 5,
+        "arrivalSec": 22265,
+        "departureSec": 22280
+      },
+      {
+        "stopId": "surface_1524",
+        "sequence": 6,
+        "arrivalSec": 22400,
+        "departureSec": 22415
+      },
+      {
+        "stopId": "surface_1526",
+        "sequence": 7,
+        "arrivalSec": 22463,
+        "departureSec": 22478
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2361",
+  "data": {
+    "name": "Al Baloun Theatre (Al Agouza)",
+    "lat": 30.059118982212823,
+    "lng": 31.215237784878944,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2361",
+    "isActive": true
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "surface_trip_CTA_80_O",
+  "data": {
+    "routeId": "surface_CTA_80",
+    "tripId": "CTA_80_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "10th District (Nasr City)",
+    "stops": [
+      {
+        "stopId": "surface_1651",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1992",
+        "sequence": 2,
+        "arrivalSec": 22091,
+        "departureSec": 22106
+      },
+      {
+        "stopId": "surface_2083",
+        "sequence": 3,
+        "arrivalSec": 22173,
+        "departureSec": 22188
+      },
+      {
+        "stopId": "surface_2084",
+        "sequence": 4,
+        "arrivalSec": 22273,
+        "departureSec": 22288
+      },
+      {
+        "stopId": "surface_1977",
+        "sequence": 5,
+        "arrivalSec": 22373,
+        "departureSec": 22388
+      },
+      {
+        "stopId": "surface_1650",
+        "sequence": 6,
+        "arrivalSec": 22904,
+        "departureSec": 22919
+      },
+      {
+        "stopId": "surface_1259",
+        "sequence": 7,
+        "arrivalSec": 22959,
+        "departureSec": 22974
+      },
+      {
+        "stopId": "surface_202",
+        "sequence": 8,
+        "arrivalSec": 23069,
+        "departureSec": 23084
+      },
+      {
+        "stopId": "surface_221",
+        "sequence": 9,
+        "arrivalSec": 23186,
+        "departureSec": 23201
+      },
+      {
+        "stopId": "surface_281",
+        "sequence": 10,
+        "arrivalSec": 23245,
+        "departureSec": 23260
+      },
+      {
+        "stopId": "surface_282",
+        "sequence": 11,
+        "arrivalSec": 23314,
+        "departureSec": 23329
+      },
+      {
+        "stopId": "surface_1767",
+        "sequence": 12,
+        "arrivalSec": 23388,
+        "departureSec": 23403
+      },
+      {
+        "stopId": "surface_285",
+        "sequence": 13,
+        "arrivalSec": 23556,
+        "departureSec": 23571
+      },
+      {
+        "stopId": "surface_702",
+        "sequence": 14,
+        "arrivalSec": 23618,
+        "departureSec": 23633
+      },
+      {
+        "stopId": "surface_284",
+        "sequence": 15,
+        "arrivalSec": 23667,
+        "departureSec": 23682
+      },
+      {
+        "stopId": "surface_288",
+        "sequence": 16,
+        "arrivalSec": 23736,
+        "departureSec": 23751
+      },
+      {
+        "stopId": "surface_289",
+        "sequence": 17,
+        "arrivalSec": 23779,
+        "departureSec": 23794
+      },
+      {
+        "stopId": "surface_291",
+        "sequence": 18,
+        "arrivalSec": 23836,
+        "departureSec": 23851
+      },
+      {
+        "stopId": "surface_1207",
+        "sequence": 19,
+        "arrivalSec": 23960,
+        "departureSec": 23976
+      },
+      {
+        "stopId": "surface_1205",
+        "sequence": 20,
+        "arrivalSec": 24197,
+        "departureSec": 24212
+      },
+      {
+        "stopId": "surface_174",
+        "sequence": 21,
+        "arrivalSec": 24280,
+        "departureSec": 24295
+      },
+      {
+        "stopId": "surface_1209",
+        "sequence": 22,
+        "arrivalSec": 24350,
+        "departureSec": 24365
+      },
+      {
+        "stopId": "surface_1430",
+        "sequence": 23,
+        "arrivalSec": 24807,
+        "departureSec": 24822
+      },
+      {
+        "stopId": "surface_301",
+        "sequence": 24,
+        "arrivalSec": 24872,
+        "departureSec": 24887
+      },
+      {
+        "stopId": "surface_1121",
+        "sequence": 25,
+        "arrivalSec": 25017,
+        "departureSec": 25032
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

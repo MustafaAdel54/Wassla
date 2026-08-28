@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_912-1048",
+  "data": {
+    "name": "7th District (Nasr City) - Moneeb",
+    "shortName": "CTA 1048",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_912-1048",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

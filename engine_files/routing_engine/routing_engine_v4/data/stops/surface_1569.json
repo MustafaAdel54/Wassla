@@ -1,0 +1,18 @@
+{
+  "id": "surface_1569",
+  "data": {
+    "name": "Total Gas Station (Autostrad)",
+    "lat": 29.98275172843088,
+    "lng": 31.28916263345702,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1569",
+    "isActive": true
+  }
+}

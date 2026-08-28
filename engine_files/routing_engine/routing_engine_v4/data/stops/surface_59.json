@@ -1,0 +1,18 @@
+{
+  "id": "surface_59",
+  "data": {
+    "name": "Bulaq Dakrur",
+    "lat": 30.0429506,
+    "lng": 31.1926082,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "59",
+    "isActive": true
+  }
+}

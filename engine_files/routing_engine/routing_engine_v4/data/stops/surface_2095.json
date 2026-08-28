@@ -1,0 +1,18 @@
+{
+  "id": "surface_2095",
+  "data": {
+    "name": "Al Darb Al Ahmar Police Station",
+    "lat": 30.037426063207363,
+    "lng": 31.252235802678797,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2095",
+    "isActive": true
+  }
+}

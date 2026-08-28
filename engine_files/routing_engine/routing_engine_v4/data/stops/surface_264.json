@@ -1,0 +1,18 @@
+{
+  "id": "surface_264",
+  "data": {
+    "name": "Bank Al Etihad (South Teseen St.)",
+    "lat": 30.016389237592776,
+    "lng": 31.420663197813326,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "264",
+    "isActive": true
+  }
+}

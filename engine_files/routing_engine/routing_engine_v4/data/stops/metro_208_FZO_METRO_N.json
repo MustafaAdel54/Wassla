@@ -1,0 +1,16 @@
+{
+  "id": "metro_208_FZO_METRO_N",
+  "data": {
+    "name": "Fair Zone",
+    "lat": 30.072963,
+    "lng": 31.30063,
+    "stationId": "station_metro_208_FZO_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "208_FZO_METRO_N",
+    "parentSourceId": "208_FZO_METRO",
+    "isActive": true
+  }
+}

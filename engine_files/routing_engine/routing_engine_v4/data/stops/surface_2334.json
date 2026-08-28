@@ -1,0 +1,18 @@
+{
+  "id": "surface_2334",
+  "data": {
+    "name": "Aden St. & Sudan St.",
+    "lat": 30.051548145105453,
+    "lng": 31.19184046523304,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2334",
+    "isActive": true
+  }
+}

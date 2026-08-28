@@ -1,0 +1,18 @@
+{
+  "id": "surface_1064",
+  "data": {
+    "name": "Al Juman",
+    "lat": 30.03435158004727,
+    "lng": 30.98276942217968,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1064",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1132",
+  "data": {
+    "name": "Mamaleek (Al Manial)",
+    "lat": 30.009726339219178,
+    "lng": 31.22600020616448,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1132",
+    "isActive": true
+  }
+}

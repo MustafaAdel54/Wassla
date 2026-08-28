@@ -1,0 +1,18 @@
+{
+  "id": "surface_1625",
+  "data": {
+    "name": "Tora Prison (Autostrad)",
+    "lat": 29.94660625288882,
+    "lng": 31.28720580727555,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1625",
+    "isActive": true
+  }
+}

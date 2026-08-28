@@ -1,0 +1,18 @@
+{
+  "id": "surface_602",
+  "data": {
+    "name": "Al Shaheed Corridor",
+    "lat": 30.02278216298863,
+    "lng": 31.344293983708045,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "602",
+    "isActive": true
+  }
+}

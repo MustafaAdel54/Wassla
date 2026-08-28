@@ -1,0 +1,74 @@
+{
+  "id": "surface_trip_Mq4cLFIjsqrG6MQyXUEYs",
+  "data": {
+    "routeId": "surface_ezg_t81DPrRfiBGLI9GbE",
+    "tripId": "Mq4cLFIjsqrG6MQyXUEYs",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Matareya Square",
+    "stops": [
+      {
+        "stopId": "surface_2710",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2711",
+        "sequence": 2,
+        "arrivalSec": 21643,
+        "departureSec": 21658
+      },
+      {
+        "stopId": "surface_2712",
+        "sequence": 3,
+        "arrivalSec": 21729,
+        "departureSec": 21744
+      },
+      {
+        "stopId": "surface_2714",
+        "sequence": 4,
+        "arrivalSec": 21877,
+        "departureSec": 21892
+      },
+      {
+        "stopId": "surface_2715",
+        "sequence": 5,
+        "arrivalSec": 21969,
+        "departureSec": 21984
+      },
+      {
+        "stopId": "surface_2717",
+        "sequence": 6,
+        "arrivalSec": 22029,
+        "departureSec": 22044
+      },
+      {
+        "stopId": "surface_2033",
+        "sequence": 7,
+        "arrivalSec": 22316,
+        "departureSec": 22331
+      },
+      {
+        "stopId": "surface_1218",
+        "sequence": 8,
+        "arrivalSec": 22412,
+        "departureSec": 22427
+      },
+      {
+        "stopId": "surface_1216",
+        "sequence": 9,
+        "arrivalSec": 22522,
+        "departureSec": 22537
+      },
+      {
+        "stopId": "surface_1217",
+        "sequence": 10,
+        "arrivalSec": 22581,
+        "departureSec": 22596
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

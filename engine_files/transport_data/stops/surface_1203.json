@@ -1,0 +1,18 @@
+{
+  "id": "surface_1203",
+  "data": {
+    "name": "Ministry Of Higher Education",
+    "lat": 30.037981,
+    "lng": 31.340521,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1203",
+    "isActive": true
+  }
+}

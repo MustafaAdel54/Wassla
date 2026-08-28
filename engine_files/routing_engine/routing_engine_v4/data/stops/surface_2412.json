@@ -1,0 +1,18 @@
+{
+  "id": "surface_2412",
+  "data": {
+    "name": "National Cardiac Institute",
+    "lat": 30.06693986082633,
+    "lng": 31.210590536938682,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2412",
+    "isActive": true
+  }
+}

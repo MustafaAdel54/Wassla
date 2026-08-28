@@ -1,0 +1,152 @@
+{
+  "id": "surface_trip_P_O_14_IG015_O",
+  "data": {
+    "routeId": "surface_P_O_14_IG015",
+    "tripId": "P_O_14_IG015_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Faisal St & Ring Rd",
+    "stops": [
+      {
+        "stopId": "surface_1091",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_228",
+        "sequence": 2,
+        "arrivalSec": 21639,
+        "departureSec": 21654
+      },
+      {
+        "stopId": "surface_2350",
+        "sequence": 3,
+        "arrivalSec": 21938,
+        "departureSec": 21953
+      },
+      {
+        "stopId": "surface_2352",
+        "sequence": 4,
+        "arrivalSec": 22335,
+        "departureSec": 22350
+      },
+      {
+        "stopId": "surface_2051",
+        "sequence": 5,
+        "arrivalSec": 22554,
+        "departureSec": 22569
+      },
+      {
+        "stopId": "surface_2047",
+        "sequence": 6,
+        "arrivalSec": 22604,
+        "departureSec": 22619
+      },
+      {
+        "stopId": "surface_2045",
+        "sequence": 7,
+        "arrivalSec": 22689,
+        "departureSec": 22704
+      },
+      {
+        "stopId": "surface_2043",
+        "sequence": 8,
+        "arrivalSec": 22774,
+        "departureSec": 22789
+      },
+      {
+        "stopId": "surface_2263",
+        "sequence": 9,
+        "arrivalSec": 22819,
+        "departureSec": 22834
+      },
+      {
+        "stopId": "surface_2261",
+        "sequence": 10,
+        "arrivalSec": 22919,
+        "departureSec": 22934
+      },
+      {
+        "stopId": "surface_2265",
+        "sequence": 11,
+        "arrivalSec": 23056,
+        "departureSec": 23071
+      },
+      {
+        "stopId": "surface_2260",
+        "sequence": 12,
+        "arrivalSec": 23126,
+        "departureSec": 23141
+      },
+      {
+        "stopId": "surface_640",
+        "sequence": 13,
+        "arrivalSec": 23319,
+        "departureSec": 23334
+      },
+      {
+        "stopId": "surface_2545",
+        "sequence": 14,
+        "arrivalSec": 23495,
+        "departureSec": 23510
+      },
+      {
+        "stopId": "surface_2173",
+        "sequence": 15,
+        "arrivalSec": 23548,
+        "departureSec": 23563
+      },
+      {
+        "stopId": "surface_2171",
+        "sequence": 16,
+        "arrivalSec": 23907,
+        "departureSec": 23922
+      },
+      {
+        "stopId": "surface_2169",
+        "sequence": 17,
+        "arrivalSec": 24146,
+        "departureSec": 24161
+      },
+      {
+        "stopId": "surface_2167",
+        "sequence": 18,
+        "arrivalSec": 24434,
+        "departureSec": 24449
+      },
+      {
+        "stopId": "surface_1836",
+        "sequence": 19,
+        "arrivalSec": 24764,
+        "departureSec": 24779
+      },
+      {
+        "stopId": "surface_65",
+        "sequence": 20,
+        "arrivalSec": 24812,
+        "departureSec": 24827
+      },
+      {
+        "stopId": "surface_2772",
+        "sequence": 21,
+        "arrivalSec": 24909,
+        "departureSec": 24924
+      },
+      {
+        "stopId": "surface_607",
+        "sequence": 22,
+        "arrivalSec": 24970,
+        "departureSec": 24985
+      },
+      {
+        "stopId": "surface_16",
+        "sequence": 23,
+        "arrivalSec": 24989,
+        "departureSec": 25004
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

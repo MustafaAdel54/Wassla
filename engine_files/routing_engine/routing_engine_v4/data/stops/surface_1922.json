@@ -1,0 +1,18 @@
+{
+  "id": "surface_1922",
+  "data": {
+    "name": "Hadayeq Helwan",
+    "lat": 29.89295449999998,
+    "lng": 31.2985739,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1922",
+    "isActive": true
+  }
+}

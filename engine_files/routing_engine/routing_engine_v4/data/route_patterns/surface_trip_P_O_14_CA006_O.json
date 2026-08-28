@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_P_O_14_CA006_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA006",
+    "tripId": "P_O_14_CA006_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Abbasseya",
+    "stops": [
+      {
+        "stopId": "surface_2468",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1966",
+        "sequence": 2,
+        "arrivalSec": 21672,
+        "departureSec": 21687
+      },
+      {
+        "stopId": "surface_1645",
+        "sequence": 3,
+        "arrivalSec": 21757,
+        "departureSec": 21772
+      },
+      {
+        "stopId": "surface_1646",
+        "sequence": 4,
+        "arrivalSec": 21777,
+        "departureSec": 21792
+      },
+      {
+        "stopId": "surface_1986",
+        "sequence": 5,
+        "arrivalSec": 21871,
+        "departureSec": 21886
+      },
+      {
+        "stopId": "surface_1989",
+        "sequence": 6,
+        "arrivalSec": 21961,
+        "departureSec": 21976
+      },
+      {
+        "stopId": "surface_1894",
+        "sequence": 7,
+        "arrivalSec": 22192,
+        "departureSec": 22207
+      },
+      {
+        "stopId": "surface_2142",
+        "sequence": 8,
+        "arrivalSec": 22272,
+        "departureSec": 22287
+      },
+      {
+        "stopId": "surface_208",
+        "sequence": 9,
+        "arrivalSec": 22444,
+        "departureSec": 22459
+      },
+      {
+        "stopId": "surface_279",
+        "sequence": 10,
+        "arrivalSec": 22517,
+        "departureSec": 22532
+      },
+      {
+        "stopId": "surface_691",
+        "sequence": 11,
+        "arrivalSec": 22615,
+        "departureSec": 22630
+      },
+      {
+        "stopId": "surface_2135",
+        "sequence": 12,
+        "arrivalSec": 22666,
+        "departureSec": 22681
+      },
+      {
+        "stopId": "surface_2503",
+        "sequence": 13,
+        "arrivalSec": 22692,
+        "departureSec": 22707
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

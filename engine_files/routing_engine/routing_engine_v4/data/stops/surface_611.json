@@ -1,0 +1,18 @@
+{
+  "id": "surface_611",
+  "data": {
+    "name": "New Giza Gate 1",
+    "lat": 30.023973633791606,
+    "lng": 31.067097527578895,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "611",
+    "isActive": true
+  }
+}

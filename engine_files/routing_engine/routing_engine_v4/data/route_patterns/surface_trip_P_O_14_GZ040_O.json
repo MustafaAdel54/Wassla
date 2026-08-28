@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_P_O_14_GZ040_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ040",
+    "tripId": "P_O_14_GZ040_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Hawamdeyya",
+    "stops": [
+      {
+        "stopId": "surface_1885",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2281",
+        "sequence": 2,
+        "arrivalSec": 21719,
+        "departureSec": 21734
+      },
+      {
+        "stopId": "surface_1883",
+        "sequence": 3,
+        "arrivalSec": 21949,
+        "departureSec": 21964
+      },
+      {
+        "stopId": "surface_2438",
+        "sequence": 4,
+        "arrivalSec": 22024,
+        "departureSec": 22039
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

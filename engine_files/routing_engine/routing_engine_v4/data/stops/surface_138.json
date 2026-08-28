@@ -1,0 +1,18 @@
+{
+  "id": "surface_138",
+  "data": {
+    "name": "Saint Fatima Square",
+    "lat": 30.105818,
+    "lng": 31.344085,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "138",
+    "isActive": true
+  }
+}

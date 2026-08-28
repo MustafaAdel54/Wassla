@@ -1,0 +1,18 @@
+{
+  "id": "surface_1362",
+  "data": {
+    "name": "National Security (Alexandria Desert Rd.)",
+    "lat": 30.04122751872274,
+    "lng": 31.055976041711613,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1362",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1674",
+  "data": {
+    "name": "Badr Land",
+    "lat": 30.12884770215198,
+    "lng": 31.367229468687796,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1674",
+    "isActive": true
+  }
+}

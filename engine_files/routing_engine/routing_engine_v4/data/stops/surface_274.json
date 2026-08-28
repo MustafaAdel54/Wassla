@@ -1,0 +1,18 @@
+{
+  "id": "surface_274",
+  "data": {
+    "name": "Al Bahr Al Aazam St. Exit Start",
+    "lat": 29.987119521417068,
+    "lng": 31.218305479188,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "274",
+    "isActive": true
+  }
+}

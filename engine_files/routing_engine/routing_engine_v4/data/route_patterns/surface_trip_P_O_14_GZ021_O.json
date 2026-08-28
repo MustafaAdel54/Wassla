@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_GZ021_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ021",
+    "tripId": "P_O_14_GZ021_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Madinat Al Talaba (Imbaba)",
+    "stops": [
+      {
+        "stopId": "surface_2259",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2273",
+        "sequence": 2,
+        "arrivalSec": 21667,
+        "departureSec": 21682
+      },
+      {
+        "stopId": "surface_2271",
+        "sequence": 3,
+        "arrivalSec": 21742,
+        "departureSec": 21757
+      },
+      {
+        "stopId": "surface_2523",
+        "sequence": 4,
+        "arrivalSec": 21845,
+        "departureSec": 21860
+      },
+      {
+        "stopId": "surface_2332",
+        "sequence": 5,
+        "arrivalSec": 22041,
+        "departureSec": 22056
+      },
+      {
+        "stopId": "surface_2334",
+        "sequence": 6,
+        "arrivalSec": 22140,
+        "departureSec": 22155
+      },
+      {
+        "stopId": "surface_2336",
+        "sequence": 7,
+        "arrivalSec": 22516,
+        "departureSec": 22531
+      },
+      {
+        "stopId": "surface_230",
+        "sequence": 8,
+        "arrivalSec": 22639,
+        "departureSec": 22654
+      },
+      {
+        "stopId": "surface_1334",
+        "sequence": 9,
+        "arrivalSec": 22810,
+        "departureSec": 22825
+      },
+      {
+        "stopId": "surface_2403",
+        "sequence": 10,
+        "arrivalSec": 22863,
+        "departureSec": 22878
+      },
+      {
+        "stopId": "surface_2407",
+        "sequence": 11,
+        "arrivalSec": 23032,
+        "departureSec": 23047
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

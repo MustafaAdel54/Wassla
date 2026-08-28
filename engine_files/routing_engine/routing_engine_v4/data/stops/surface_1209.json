@@ -1,0 +1,18 @@
+{
+  "id": "surface_1209",
+  "data": {
+    "name": "Mobil (Hassan Al Sherif St.)",
+    "lat": 30.05166851925964,
+    "lng": 31.356836146666076,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1209",
+    "isActive": true
+  }
+}

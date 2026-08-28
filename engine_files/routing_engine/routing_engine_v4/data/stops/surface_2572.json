@@ -1,0 +1,18 @@
+{
+  "id": "surface_2572",
+  "data": {
+    "name": "Mffco Helwan (Helwan Corniche)",
+    "lat": 29.83390172353685,
+    "lng": 31.29907202879468,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2572",
+    "isActive": true
+  }
+}

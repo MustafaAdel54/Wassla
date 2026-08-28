@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_P_B_8_6O027_R",
+  "data": {
+    "routeId": "surface_P_B_8_6O027",
+    "tripId": "P_B_8_6O027_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Industrial Zone 3",
+    "stops": [
+      {
+        "stopId": "surface_1128",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_517",
+        "sequence": 2,
+        "arrivalSec": 21778,
+        "departureSec": 21793
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1086",
+  "data": {
+    "name": "CIB (South Teseen St.)",
+    "lat": 30.016391,
+    "lng": 31.42306822308547,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1086",
+    "isActive": true
+  }
+}

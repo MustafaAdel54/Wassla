@@ -1,0 +1,18 @@
+{
+  "id": "surface_1572",
+  "data": {
+    "name": "Nasr St. Exit from Autostrad",
+    "lat": 29.97992745694455,
+    "lng": 31.28943685831781,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1572",
+    "isActive": true
+  }
+}

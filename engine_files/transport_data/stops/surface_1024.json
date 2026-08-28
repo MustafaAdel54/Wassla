@@ -1,0 +1,18 @@
+{
+  "id": "surface_1024",
+  "data": {
+    "name": "Cairo University (Sheikh Zayed)",
+    "lat": 30.035393587229738,
+    "lng": 31.018012771322994,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1024",
+    "isActive": true
+  }
+}

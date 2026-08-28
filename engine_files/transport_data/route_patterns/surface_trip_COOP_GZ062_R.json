@@ -1,0 +1,122 @@
+{
+  "id": "surface_trip_COOP_GZ062_R",
+  "data": {
+    "routeId": "surface_COOP_GZ062",
+    "tripId": "COOP_GZ062_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Ard El Lewaa",
+    "stops": [
+      {
+        "stopId": "surface_2482",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2525",
+        "sequence": 2,
+        "arrivalSec": 21635,
+        "departureSec": 21650
+      },
+      {
+        "stopId": "surface_2175",
+        "sequence": 3,
+        "arrivalSec": 21696,
+        "departureSec": 21711
+      },
+      {
+        "stopId": "surface_2178",
+        "sequence": 4,
+        "arrivalSec": 21745,
+        "departureSec": 21760
+      },
+      {
+        "stopId": "surface_2180",
+        "sequence": 5,
+        "arrivalSec": 21793,
+        "departureSec": 21808
+      },
+      {
+        "stopId": "surface_2182",
+        "sequence": 6,
+        "arrivalSec": 21862,
+        "departureSec": 21877
+      },
+      {
+        "stopId": "surface_2268",
+        "sequence": 7,
+        "arrivalSec": 21918,
+        "departureSec": 21933
+      },
+      {
+        "stopId": "surface_2267",
+        "sequence": 8,
+        "arrivalSec": 21955,
+        "departureSec": 21970
+      },
+      {
+        "stopId": "surface_46",
+        "sequence": 9,
+        "arrivalSec": 22005,
+        "departureSec": 22020
+      },
+      {
+        "stopId": "surface_639",
+        "sequence": 10,
+        "arrivalSec": 22045,
+        "departureSec": 22060
+      },
+      {
+        "stopId": "surface_2682",
+        "sequence": 11,
+        "arrivalSec": 22105,
+        "departureSec": 22120
+      },
+      {
+        "stopId": "surface_2260",
+        "sequence": 12,
+        "arrivalSec": 22320,
+        "departureSec": 22335
+      },
+      {
+        "stopId": "surface_2273",
+        "sequence": 13,
+        "arrivalSec": 22370,
+        "departureSec": 22385
+      },
+      {
+        "stopId": "surface_2271",
+        "sequence": 14,
+        "arrivalSec": 22435,
+        "departureSec": 22450
+      },
+      {
+        "stopId": "surface_2523",
+        "sequence": 15,
+        "arrivalSec": 22527,
+        "departureSec": 22542
+      },
+      {
+        "stopId": "surface_2332",
+        "sequence": 16,
+        "arrivalSec": 22680,
+        "departureSec": 22695
+      },
+      {
+        "stopId": "surface_2334",
+        "sequence": 17,
+        "arrivalSec": 22771,
+        "departureSec": 22786
+      },
+      {
+        "stopId": "surface_2336",
+        "sequence": 18,
+        "arrivalSec": 22934,
+        "departureSec": 22949
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_P_O_14_IC045_O",
+  "data": {
+    "routeId": "surface_P_O_14_IC045",
+    "tripId": "P_O_14_IC045_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Zahraa Madinet Nasr",
+    "stops": [
+      {
+        "stopId": "surface_582",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_584",
+        "sequence": 2,
+        "arrivalSec": 21708,
+        "departureSec": 21723
+      },
+      {
+        "stopId": "surface_1211",
+        "sequence": 3,
+        "arrivalSec": 21869,
+        "departureSec": 21884
+      },
+      {
+        "stopId": "surface_311",
+        "sequence": 4,
+        "arrivalSec": 21941,
+        "departureSec": 21956
+      },
+      {
+        "stopId": "surface_310",
+        "sequence": 5,
+        "arrivalSec": 21986,
+        "departureSec": 22001
+      },
+      {
+        "stopId": "surface_309",
+        "sequence": 6,
+        "arrivalSec": 22132,
+        "departureSec": 22147
+      },
+      {
+        "stopId": "surface_308",
+        "sequence": 7,
+        "arrivalSec": 22259,
+        "departureSec": 22274
+      },
+      {
+        "stopId": "surface_1072",
+        "sequence": 8,
+        "arrivalSec": 22329,
+        "departureSec": 22344
+      },
+      {
+        "stopId": "surface_837",
+        "sequence": 9,
+        "arrivalSec": 22487,
+        "departureSec": 22502
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

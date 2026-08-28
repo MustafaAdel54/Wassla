@@ -1,0 +1,18 @@
+{
+  "id": "surface_1871",
+  "data": {
+    "name": "Aba Al Kassem Mosque (Autostrad)",
+    "lat": 29.932963517560992,
+    "lng": 31.288089968192928,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1871",
+    "isActive": true
+  }
+}

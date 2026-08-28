@@ -1,0 +1,18 @@
+{
+  "id": "surface_1160",
+  "data": {
+    "name": "Carrefour (Shorouq City)",
+    "lat": 30.173825786282652,
+    "lng": 31.59186440027629,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1160",
+    "isActive": true
+  }
+}

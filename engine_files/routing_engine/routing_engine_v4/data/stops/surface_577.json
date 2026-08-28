@@ -1,0 +1,18 @@
+{
+  "id": "surface_577",
+  "data": {
+    "name": "SODIC (Sheikh Zayed)",
+    "lat": 30.077298242821016,
+    "lng": 30.94820874676731,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "577",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2110",
+  "data": {
+    "name": "Bab Al Shaereyya Girls Elementary School",
+    "lat": 30.061933398507673,
+    "lng": 31.261352637301805,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2110",
+    "isActive": true
+  }
+}

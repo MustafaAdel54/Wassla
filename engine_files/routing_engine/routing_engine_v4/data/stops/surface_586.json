@@ -1,0 +1,18 @@
+{
+  "id": "surface_586",
+  "data": {
+    "name": "West Golf (Kattameya)",
+    "lat": 29.999191503959587,
+    "lng": 31.40061008936552,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "586",
+    "isActive": true
+  }
+}

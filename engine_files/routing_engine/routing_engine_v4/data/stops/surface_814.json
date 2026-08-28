@@ -1,0 +1,18 @@
+{
+  "id": "surface_814",
+  "data": {
+    "name": "Masraweya",
+    "lat": 30.025292695158303,
+    "lng": 31.47552848246455,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "814",
+    "isActive": true
+  }
+}

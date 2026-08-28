@@ -1,0 +1,18 @@
+{
+  "id": "surface_1573",
+  "data": {
+    "name": "Autostrad Tunnel",
+    "lat": 29.978850983293004,
+    "lng": 31.289939263048733,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1573",
+    "isActive": true
+  }
+}

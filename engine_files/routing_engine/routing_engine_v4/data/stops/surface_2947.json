@@ -1,0 +1,18 @@
+{
+  "id": "surface_2947",
+  "data": {
+    "name": "Omar Ibn Abd El Aziz St. & Al Sekka Al Hadid",
+    "lat": 29.839274902455557,
+    "lng": 31.31599059409213,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2947",
+    "isActive": true
+  }
+}

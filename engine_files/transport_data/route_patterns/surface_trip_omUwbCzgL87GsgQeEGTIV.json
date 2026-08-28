@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_omUwbCzgL87GsgQeEGTIV",
+  "data": {
+    "routeId": "surface_xHDTuKEcNGya_6TEqky9R",
+    "tripId": "omUwbCzgL87GsgQeEGTIV",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Qanatir Al Khayriyyah",
+    "stops": [
+      {
+        "stopId": "surface_349",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2692",
+        "sequence": 2,
+        "arrivalSec": 21685,
+        "departureSec": 21700
+      },
+      {
+        "stopId": "surface_1847",
+        "sequence": 3,
+        "arrivalSec": 21735,
+        "departureSec": 21750
+      },
+      {
+        "stopId": "surface_1398",
+        "sequence": 4,
+        "arrivalSec": 21894,
+        "departureSec": 21909
+      },
+      {
+        "stopId": "surface_1838",
+        "sequence": 5,
+        "arrivalSec": 22061,
+        "departureSec": 22076
+      },
+      {
+        "stopId": "surface_2901",
+        "sequence": 6,
+        "arrivalSec": 22405,
+        "departureSec": 22420
+      },
+      {
+        "stopId": "surface_2903",
+        "sequence": 7,
+        "arrivalSec": 23288,
+        "departureSec": 23303
+      },
+      {
+        "stopId": "surface_2902",
+        "sequence": 8,
+        "arrivalSec": 23661,
+        "departureSec": 23676
+      },
+      {
+        "stopId": "surface_2907",
+        "sequence": 9,
+        "arrivalSec": 24022,
+        "departureSec": 24037
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

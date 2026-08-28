@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00487",
+  "data": {
+    "fromStopId": "surface_2706",
+    "toStopId": "metro_232_NKH_METRO_N",
+    "distanceMeters": 235.3,
+    "estimatedMinutes": 3,
+    "confidence": "low",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

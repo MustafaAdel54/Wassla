@@ -1,0 +1,18 @@
+{
+  "id": "surface_1539",
+  "data": {
+    "name": "Water Plant 2 (Asmarat)",
+    "lat": 29.997971871250652,
+    "lng": 31.33201144987275,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1539",
+    "isActive": true
+  }
+}

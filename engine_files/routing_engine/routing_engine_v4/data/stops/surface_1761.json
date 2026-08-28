@@ -1,0 +1,18 @@
+{
+  "id": "surface_1761",
+  "data": {
+    "name": "Al Maqreezy St. & Gesr Al Suez St.",
+    "lat": 30.089795586548636,
+    "lng": 31.3037662252644,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1761",
+    "isActive": true
+  }
+}

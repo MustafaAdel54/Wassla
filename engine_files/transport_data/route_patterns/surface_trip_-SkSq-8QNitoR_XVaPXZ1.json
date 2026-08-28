@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_-SkSq-8QNitoR_XVaPXZ1",
+  "data": {
+    "routeId": "surface_n12_wD90lp64_mH8N3fRH",
+    "tripId": "-SkSq-8QNitoR_XVaPXZ1",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Isbiko",
+    "stops": [
+      {
+        "stopId": "surface_3010",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_3008",
+        "sequence": 2,
+        "arrivalSec": 21645,
+        "departureSec": 21660
+      },
+      {
+        "stopId": "surface_3007",
+        "sequence": 3,
+        "arrivalSec": 21670,
+        "departureSec": 21685
+      },
+      {
+        "stopId": "surface_2956",
+        "sequence": 4,
+        "arrivalSec": 21685,
+        "departureSec": 21700
+      },
+      {
+        "stopId": "surface_2957",
+        "sequence": 5,
+        "arrivalSec": 21750,
+        "departureSec": 21765
+      },
+      {
+        "stopId": "surface_2961",
+        "sequence": 6,
+        "arrivalSec": 21872,
+        "departureSec": 21887
+      },
+      {
+        "stopId": "surface_2963",
+        "sequence": 7,
+        "arrivalSec": 21956,
+        "departureSec": 21971
+      },
+      {
+        "stopId": "surface_2441",
+        "sequence": 8,
+        "arrivalSec": 22014,
+        "departureSec": 22029
+      },
+      {
+        "stopId": "surface_3006",
+        "sequence": 9,
+        "arrivalSec": 22037,
+        "departureSec": 22052
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

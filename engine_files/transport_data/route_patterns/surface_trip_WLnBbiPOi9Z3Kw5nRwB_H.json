@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_WLnBbiPOi9Z3Kw5nRwB_H",
+  "data": {
+    "routeId": "surface_koG8Hv7ojxwoLFo8eXvTW",
+    "tripId": "WLnBbiPOi9Z3Kw5nRwB_H",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Isko",
+    "stops": [
+      {
+        "stopId": "surface_95",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2222",
+        "sequence": 2,
+        "arrivalSec": 21971,
+        "departureSec": 21986
+      },
+      {
+        "stopId": "surface_2232",
+        "sequence": 3,
+        "arrivalSec": 22267,
+        "departureSec": 22282
+      },
+      {
+        "stopId": "surface_2906",
+        "sequence": 4,
+        "arrivalSec": 22548,
+        "departureSec": 22563
+      },
+      {
+        "stopId": "surface_1302",
+        "sequence": 5,
+        "arrivalSec": 22877,
+        "departureSec": 22892
+      },
+      {
+        "stopId": "surface_2430",
+        "sequence": 6,
+        "arrivalSec": 23005,
+        "departureSec": 23020
+      },
+      {
+        "stopId": "surface_1303",
+        "sequence": 7,
+        "arrivalSec": 23195,
+        "departureSec": 23210
+      },
+      {
+        "stopId": "surface_762",
+        "sequence": 8,
+        "arrivalSec": 23336,
+        "departureSec": 23351
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

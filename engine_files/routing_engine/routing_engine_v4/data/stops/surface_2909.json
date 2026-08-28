@@ -1,0 +1,18 @@
+{
+  "id": "surface_2909",
+  "data": {
+    "name": "Al Gomhoreya St. & Al Masraf St.",
+    "lat": 30.23708721650976,
+    "lng": 31.356897534986658,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2909",
+    "isActive": true
+  }
+}

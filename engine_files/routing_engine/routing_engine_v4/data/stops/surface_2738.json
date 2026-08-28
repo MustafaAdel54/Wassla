@@ -1,0 +1,18 @@
+{
+  "id": "surface_2738",
+  "data": {
+    "name": "Awwel Al Eshreen (Zenin)",
+    "lat": 30.030329,
+    "lng": 31.183429,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2738",
+    "isActive": true
+  }
+}

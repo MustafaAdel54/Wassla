@@ -1,0 +1,18 @@
+{
+  "id": "surface_1134",
+  "data": {
+    "name": "Al Manial",
+    "lat": 30.0284308,
+    "lng": 31.2242992,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1134",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_439",
+  "data": {
+    "name": "Madbah Steps (Ring Rd.)",
+    "lat": 30.149701,
+    "lng": 31.242952,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "439",
+    "isActive": true
+  }
+}

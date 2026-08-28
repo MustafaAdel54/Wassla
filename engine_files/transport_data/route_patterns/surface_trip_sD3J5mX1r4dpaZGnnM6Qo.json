@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_sD3J5mX1r4dpaZGnnM6Qo",
+  "data": {
+    "routeId": "surface_GHSOgF6amUGK8ac9n6HDF",
+    "tripId": "sD3J5mX1r4dpaZGnnM6Qo",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Cairo Airport",
+    "stops": [
+      {
+        "stopId": "surface_464",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1472",
+        "sequence": 2,
+        "arrivalSec": 21703,
+        "departureSec": 21718
+      },
+      {
+        "stopId": "surface_462",
+        "sequence": 3,
+        "arrivalSec": 21774,
+        "departureSec": 21789
+      },
+      {
+        "stopId": "surface_1243",
+        "sequence": 4,
+        "arrivalSec": 21988,
+        "departureSec": 22003
+      },
+      {
+        "stopId": "surface_1319",
+        "sequence": 5,
+        "arrivalSec": 22057,
+        "departureSec": 22072
+      },
+      {
+        "stopId": "surface_1495",
+        "sequence": 6,
+        "arrivalSec": 22192,
+        "departureSec": 22207
+      },
+      {
+        "stopId": "surface_1493",
+        "sequence": 7,
+        "arrivalSec": 22256,
+        "departureSec": 22271
+      },
+      {
+        "stopId": "surface_1465",
+        "sequence": 8,
+        "arrivalSec": 22622,
+        "departureSec": 22637
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

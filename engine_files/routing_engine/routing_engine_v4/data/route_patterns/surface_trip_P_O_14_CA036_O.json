@@ -1,0 +1,104 @@
+{
+  "id": "surface_trip_P_O_14_CA036_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA036",
+    "tripId": "P_O_14_CA036_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "8th District (Nasr City) - Al tabba",
+    "stops": [
+      {
+        "stopId": "surface_751",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_112",
+        "sequence": 2,
+        "arrivalSec": 21695,
+        "departureSec": 21710
+      },
+      {
+        "stopId": "surface_139",
+        "sequence": 3,
+        "arrivalSec": 21715,
+        "departureSec": 21730
+      },
+      {
+        "stopId": "surface_1513",
+        "sequence": 4,
+        "arrivalSec": 21773,
+        "departureSec": 21788
+      },
+      {
+        "stopId": "surface_113",
+        "sequence": 5,
+        "arrivalSec": 21804,
+        "departureSec": 21819
+      },
+      {
+        "stopId": "surface_1511",
+        "sequence": 6,
+        "arrivalSec": 21888,
+        "departureSec": 21903
+      },
+      {
+        "stopId": "surface_114",
+        "sequence": 7,
+        "arrivalSec": 21968,
+        "departureSec": 21983
+      },
+      {
+        "stopId": "surface_747",
+        "sequence": 8,
+        "arrivalSec": 22039,
+        "departureSec": 22054
+      },
+      {
+        "stopId": "surface_1504",
+        "sequence": 9,
+        "arrivalSec": 22094,
+        "departureSec": 22109
+      },
+      {
+        "stopId": "surface_6",
+        "sequence": 10,
+        "arrivalSec": 22119,
+        "departureSec": 22134
+      },
+      {
+        "stopId": "surface_699",
+        "sequence": 11,
+        "arrivalSec": 22384,
+        "departureSec": 22399
+      },
+      {
+        "stopId": "surface_2673",
+        "sequence": 12,
+        "arrivalSec": 22594,
+        "departureSec": 22609
+      },
+      {
+        "stopId": "surface_482",
+        "sequence": 13,
+        "arrivalSec": 22819,
+        "departureSec": 22834
+      },
+      {
+        "stopId": "surface_485",
+        "sequence": 14,
+        "arrivalSec": 22921,
+        "departureSec": 22936
+      },
+      {
+        "stopId": "surface_480",
+        "sequence": 15,
+        "arrivalSec": 22961,
+        "departureSec": 22976
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

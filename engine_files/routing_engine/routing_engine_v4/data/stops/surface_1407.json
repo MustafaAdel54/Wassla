@@ -1,0 +1,18 @@
+{
+  "id": "surface_1407",
+  "data": {
+    "name": "Soap Factory (Marg)",
+    "lat": 30.171863110744688,
+    "lng": 31.34514135790371,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1407",
+    "isActive": true
+  }
+}

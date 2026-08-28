@@ -1,0 +1,18 @@
+{
+  "id": "surface_1002",
+  "data": {
+    "name": "Mazar Mall",
+    "lat": 30.053303971246983,
+    "lng": 30.96169091447397,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1002",
+    "isActive": true
+  }
+}

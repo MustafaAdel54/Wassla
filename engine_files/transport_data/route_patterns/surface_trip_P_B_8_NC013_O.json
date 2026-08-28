@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_B_8_NC013_O",
+  "data": {
+    "routeId": "surface_P_B_8_NC013",
+    "tripId": "P_B_8_NC013_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Hamd Square",
+    "stops": [
+      {
+        "stopId": "surface_806",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1394",
+        "sequence": 2,
+        "arrivalSec": 21633,
+        "departureSec": 21648
+      },
+      {
+        "stopId": "surface_448",
+        "sequence": 3,
+        "arrivalSec": 21698,
+        "departureSec": 21713
+      },
+      {
+        "stopId": "surface_1069",
+        "sequence": 4,
+        "arrivalSec": 21764,
+        "departureSec": 21779
+      },
+      {
+        "stopId": "surface_359",
+        "sequence": 5,
+        "arrivalSec": 21807,
+        "departureSec": 21822
+      },
+      {
+        "stopId": "surface_360",
+        "sequence": 6,
+        "arrivalSec": 21892,
+        "departureSec": 21907
+      },
+      {
+        "stopId": "surface_802",
+        "sequence": 7,
+        "arrivalSec": 21938,
+        "departureSec": 21953
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1093",
+  "data": {
+    "name": "Abou Al Reesh",
+    "lat": 30.0284273,
+    "lng": 31.2369848,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1093",
+    "isActive": true
+  }
+}

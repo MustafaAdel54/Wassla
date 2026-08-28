@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_HrIgrp0G06upXMX5xTVHL",
+  "data": {
+    "routeId": "surface_VG85-qS5arY-IxZ4UXiop",
+    "tripId": "HrIgrp0G06upXMX5xTVHL",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Haram & Marioteya",
+    "stops": [
+      {
+        "stopId": "surface_70",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2584",
+        "sequence": 2,
+        "arrivalSec": 21881,
+        "departureSec": 21896
+      },
+      {
+        "stopId": "surface_2845",
+        "sequence": 3,
+        "arrivalSec": 22237,
+        "departureSec": 22252
+      },
+      {
+        "stopId": "surface_2586",
+        "sequence": 4,
+        "arrivalSec": 22570,
+        "departureSec": 22585
+      },
+      {
+        "stopId": "surface_2891",
+        "sequence": 5,
+        "arrivalSec": 22675,
+        "departureSec": 22690
+      },
+      {
+        "stopId": "surface_2889",
+        "sequence": 6,
+        "arrivalSec": 22773,
+        "departureSec": 22788
+      },
+      {
+        "stopId": "surface_2887",
+        "sequence": 7,
+        "arrivalSec": 22939,
+        "departureSec": 22954
+      },
+      {
+        "stopId": "surface_2943",
+        "sequence": 8,
+        "arrivalSec": 23181,
+        "departureSec": 23196
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

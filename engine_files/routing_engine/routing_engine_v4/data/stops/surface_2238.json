@@ -1,0 +1,18 @@
+{
+  "id": "surface_2238",
+  "data": {
+    "name": "Abu Bakr Al Sediq St. & Teraat Al Dakat St.",
+    "lat": 30.10334705461922,
+    "lng": 31.261017441359236,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2238",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1216",
+  "data": {
+    "name": "Al Matareyya Square Station",
+    "lat": 30.11504133,
+    "lng": 31.30606261,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1216",
+    "isActive": true
+  }
+}

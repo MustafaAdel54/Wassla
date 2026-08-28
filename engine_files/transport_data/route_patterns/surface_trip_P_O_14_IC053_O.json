@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_P_O_14_IC053_O",
+  "data": {
+    "routeId": "surface_P_O_14_IC053",
+    "tripId": "P_O_14_IC053_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Gas (Banks Area)",
+    "stops": [
+      {
+        "stopId": "surface_672",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1287",
+        "sequence": 2,
+        "arrivalSec": 21695,
+        "departureSec": 21710
+      },
+      {
+        "stopId": "surface_673",
+        "sequence": 3,
+        "arrivalSec": 21756,
+        "departureSec": 21771
+      },
+      {
+        "stopId": "surface_496",
+        "sequence": 4,
+        "arrivalSec": 21832,
+        "departureSec": 21847
+      },
+      {
+        "stopId": "surface_676",
+        "sequence": 5,
+        "arrivalSec": 21901,
+        "departureSec": 21916
+      },
+      {
+        "stopId": "surface_269",
+        "sequence": 6,
+        "arrivalSec": 21977,
+        "departureSec": 21992
+      },
+      {
+        "stopId": "surface_268",
+        "sequence": 7,
+        "arrivalSec": 22060,
+        "departureSec": 22075
+      },
+      {
+        "stopId": "surface_493",
+        "sequence": 8,
+        "arrivalSec": 22206,
+        "departureSec": 22221
+      },
+      {
+        "stopId": "surface_3022",
+        "sequence": 9,
+        "arrivalSec": 22372,
+        "departureSec": 22387
+      },
+      {
+        "stopId": "surface_267",
+        "sequence": 10,
+        "arrivalSec": 22676,
+        "departureSec": 22691
+      },
+      {
+        "stopId": "surface_450",
+        "sequence": 11,
+        "arrivalSec": 22752,
+        "departureSec": 22766
+      },
+      {
+        "stopId": "surface_266",
+        "sequence": 12,
+        "arrivalSec": 22800,
+        "departureSec": 22815
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_466",
+  "data": {
+    "name": "Al Gazaer Exit (Ring Rd.)",
+    "lat": 30.165887953629433,
+    "lng": 31.35916384123138,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "466",
+    "isActive": true
+  }
+}

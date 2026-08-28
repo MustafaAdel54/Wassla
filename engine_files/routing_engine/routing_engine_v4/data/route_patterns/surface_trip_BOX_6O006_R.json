@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_BOX_6O006_R",
+  "data": {
+    "routeId": "surface_BOX_6O006",
+    "tripId": "BOX_6O006_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Hossary",
+    "stops": [
+      {
+        "stopId": "surface_955",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_954",
+        "sequence": 2,
+        "arrivalSec": 21725,
+        "departureSec": 21740
+      },
+      {
+        "stopId": "surface_893",
+        "sequence": 3,
+        "arrivalSec": 21784,
+        "departureSec": 21799
+      },
+      {
+        "stopId": "surface_983",
+        "sequence": 4,
+        "arrivalSec": 21904,
+        "departureSec": 21919
+      },
+      {
+        "stopId": "surface_952",
+        "sequence": 5,
+        "arrivalSec": 21949,
+        "departureSec": 21964
+      },
+      {
+        "stopId": "surface_895",
+        "sequence": 6,
+        "arrivalSec": 22033,
+        "departureSec": 22048
+      },
+      {
+        "stopId": "surface_981",
+        "sequence": 7,
+        "arrivalSec": 22101,
+        "departureSec": 22116
+      },
+      {
+        "stopId": "surface_979",
+        "sequence": 8,
+        "arrivalSec": 22166,
+        "departureSec": 22181
+      },
+      {
+        "stopId": "surface_1111",
+        "sequence": 9,
+        "arrivalSec": 22217,
+        "departureSec": 22232
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

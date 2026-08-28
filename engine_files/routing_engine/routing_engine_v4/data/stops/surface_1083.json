@@ -1,0 +1,18 @@
+{
+  "id": "surface_1083",
+  "data": {
+    "name": "Royal City Gate (Sheikh Zayed)",
+    "lat": 30.032829228174894,
+    "lng": 31.029007064838098,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1083",
+    "isActive": true
+  }
+}

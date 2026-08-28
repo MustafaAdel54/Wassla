@@ -1,0 +1,110 @@
+{
+  "id": "surface_trip_h15g_H31JAZgnoHG1Q2U_",
+  "data": {
+    "routeId": "surface_s9b5Iic4NtV_eorQzj73e",
+    "tripId": "h15g_H31JAZgnoHG1Q2U_",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Cairo Alexandria Agriculture Road",
+    "stops": [
+      {
+        "stopId": "surface_756",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_455",
+        "sequence": 2,
+        "arrivalSec": 21720,
+        "departureSec": 21734
+      },
+      {
+        "stopId": "surface_1224",
+        "sequence": 3,
+        "arrivalSec": 21829,
+        "departureSec": 21844
+      },
+      {
+        "stopId": "surface_466",
+        "sequence": 4,
+        "arrivalSec": 21901,
+        "departureSec": 21916
+      },
+      {
+        "stopId": "surface_758",
+        "sequence": 5,
+        "arrivalSec": 22172,
+        "departureSec": 22187
+      },
+      {
+        "stopId": "surface_1307",
+        "sequence": 6,
+        "arrivalSec": 22294,
+        "departureSec": 22309
+      },
+      {
+        "stopId": "surface_1425",
+        "sequence": 7,
+        "arrivalSec": 22329,
+        "departureSec": 22344
+      },
+      {
+        "stopId": "surface_1223",
+        "sequence": 8,
+        "arrivalSec": 22374,
+        "departureSec": 22389
+      },
+      {
+        "stopId": "surface_1306",
+        "sequence": 9,
+        "arrivalSec": 22451,
+        "departureSec": 22466
+      },
+      {
+        "stopId": "surface_759",
+        "sequence": 10,
+        "arrivalSec": 22569,
+        "departureSec": 22584
+      },
+      {
+        "stopId": "surface_760",
+        "sequence": 11,
+        "arrivalSec": 22709,
+        "departureSec": 22724
+      },
+      {
+        "stopId": "surface_2218",
+        "sequence": 12,
+        "arrivalSec": 22818,
+        "departureSec": 22833
+      },
+      {
+        "stopId": "surface_2216",
+        "sequence": 13,
+        "arrivalSec": 22906,
+        "departureSec": 22921
+      },
+      {
+        "stopId": "surface_440",
+        "sequence": 14,
+        "arrivalSec": 22958,
+        "departureSec": 22973
+      },
+      {
+        "stopId": "surface_1400",
+        "sequence": 15,
+        "arrivalSec": 23329,
+        "departureSec": 23344
+      },
+      {
+        "stopId": "surface_2512",
+        "sequence": 16,
+        "arrivalSec": 23414,
+        "departureSec": 23429
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "surface_COOP_IC044",
+  "data": {
+    "name": "New Marg - Rehab - Gate 13 - 12",
+    "shortName": "Minibus",
+    "agencyId": "surface_COOP",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "COOP_IC044",
+    "routeType": "3",
+    "continuousPickup": "0",
+    "continuousDropOff": "0",
+    "isActive": true
+  }
+}

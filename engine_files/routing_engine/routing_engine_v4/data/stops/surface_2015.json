@@ -1,0 +1,18 @@
+{
+  "id": "surface_2015",
+  "data": {
+    "name": "Amiriyyah",
+    "lat": 30.1075068,
+    "lng": 31.2900788,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2015",
+    "isActive": true
+  }
+}

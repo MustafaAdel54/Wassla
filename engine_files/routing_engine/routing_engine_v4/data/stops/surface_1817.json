@@ -1,0 +1,18 @@
+{
+  "id": "surface_1817",
+  "data": {
+    "name": "Faisal St.",
+    "lat": 29.9904812,
+    "lng": 31.1353424,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1817",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1734",
+  "data": {
+    "name": "Hadayeq Al Zaytoun School (Al Matareyya St.)",
+    "lat": 30.109704756530252,
+    "lng": 31.303926186646134,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1734",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1825",
+  "data": {
+    "name": "KFC (Al Lebeny St.)",
+    "lat": 29.986548513035434,
+    "lng": 31.150272641197983,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1825",
+    "isActive": true
+  }
+}

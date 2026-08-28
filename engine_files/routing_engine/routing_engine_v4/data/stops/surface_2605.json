@@ -1,0 +1,18 @@
+{
+  "id": "surface_2605",
+  "data": {
+    "name": "Al Kahraba Housing Complex",
+    "lat": 29.872653799999977,
+    "lng": 31.2893344,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2605",
+    "isActive": true
+  }
+}

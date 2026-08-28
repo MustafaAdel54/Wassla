@@ -1,0 +1,18 @@
+{
+  "id": "surface_875",
+  "data": {
+    "name": "Misr University for Sciences and Technology (MUST)",
+    "lat": 29.997503401444597,
+    "lng": 30.964961478499802,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "875",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2508",
+  "data": {
+    "name": "Masaken Al Shrouq",
+    "lat": 30.0701634,
+    "lng": 31.3685259,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2508",
+    "isActive": true
+  }
+}

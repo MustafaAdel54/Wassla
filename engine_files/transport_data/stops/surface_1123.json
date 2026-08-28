@@ -1,0 +1,18 @@
+{
+  "id": "surface_1123",
+  "data": {
+    "name": "Kattameya",
+    "lat": 29.97486941531198,
+    "lng": 31.394905680968048,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1123",
+    "isActive": true
+  }
+}

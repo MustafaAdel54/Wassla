@@ -1,0 +1,18 @@
+{
+  "id": "surface_1545",
+  "data": {
+    "name": "Ammar Bin Yasser School (Al Moqattam)",
+    "lat": 30.002646204375186,
+    "lng": 31.33008069143715,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1545",
+    "isActive": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "surface_MM_NS5",
+  "data": {
+    "name": "Abbasseya - Al Shorouq Water",
+    "shortName": "MM NS5",
+    "agencyId": "surface_MM",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "MM_NS5",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

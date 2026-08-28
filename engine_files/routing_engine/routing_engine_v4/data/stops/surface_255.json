@@ -1,0 +1,18 @@
+{
+  "id": "surface_255",
+  "data": {
+    "name": "Al Nahda Square (5th Settlement)",
+    "lat": 29.99891965513009,
+    "lng": 31.468252757947653,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "255",
+    "isActive": true
+  }
+}

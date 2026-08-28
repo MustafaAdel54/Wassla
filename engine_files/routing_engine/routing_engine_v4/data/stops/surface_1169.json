@@ -1,0 +1,18 @@
+{
+  "id": "surface_1169",
+  "data": {
+    "name": "May Fair Village (Shorouq City)",
+    "lat": 30.13284746985926,
+    "lng": 31.601209337850385,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1169",
+    "isActive": true
+  }
+}

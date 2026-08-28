@@ -1,0 +1,18 @@
+{
+  "id": "surface_2373",
+  "data": {
+    "name": "Al Warraq Ferry",
+    "lat": 30.105005666847642,
+    "lng": 31.22054469614192,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2373",
+    "isActive": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_GZ045_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ045",
+    "tripId": "P_O_14_GZ045_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Imbaba",
+    "stops": [
+      {
+        "stopId": "surface_2912",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2208",
+        "sequence": 2,
+        "arrivalSec": 21916,
+        "departureSec": 21931
+      },
+      {
+        "stopId": "surface_2211",
+        "sequence": 3,
+        "arrivalSec": 22092,
+        "departureSec": 22107
+      },
+      {
+        "stopId": "surface_2736",
+        "sequence": 4,
+        "arrivalSec": 22177,
+        "departureSec": 22192
+      },
+      {
+        "stopId": "surface_2213",
+        "sequence": 5,
+        "arrivalSec": 22208,
+        "departureSec": 22223
+      },
+      {
+        "stopId": "surface_2386",
+        "sequence": 6,
+        "arrivalSec": 22302,
+        "departureSec": 22317
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

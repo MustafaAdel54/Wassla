@@ -1,0 +1,18 @@
+{
+  "id": "surface_2955",
+  "data": {
+    "name": "Al Kerdasi Schools (Marg)",
+    "lat": 30.20749424491619,
+    "lng": 31.356346453703615,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2955",
+    "isActive": true
+  }
+}

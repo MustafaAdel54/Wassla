@@ -1,0 +1,18 @@
+{
+  "id": "surface_415",
+  "data": {
+    "name": "Ahmed Oraby Square (Obour)",
+    "lat": 30.223508152943186,
+    "lng": 31.45842327614698,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "415",
+    "isActive": true
+  }
+}

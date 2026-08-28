@@ -1,0 +1,18 @@
+{
+  "id": "surface_1465",
+  "data": {
+    "name": "Coop (Cairo Airport)",
+    "lat": 30.12299055677149,
+    "lng": 31.398747464553484,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1465",
+    "isActive": true
+  }
+}

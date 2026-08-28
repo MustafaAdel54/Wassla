@@ -1,0 +1,18 @@
+{
+  "id": "surface_2881",
+  "data": {
+    "name": "Al Kahraba St. & Al Wahat Road",
+    "lat": 29.94553965883653,
+    "lng": 30.94861306960018,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2881",
+    "isActive": true
+  }
+}

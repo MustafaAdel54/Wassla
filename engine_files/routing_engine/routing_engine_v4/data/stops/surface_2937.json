@@ -1,0 +1,18 @@
+{
+  "id": "surface_2937",
+  "data": {
+    "name": "Giza Park (Bashtil)",
+    "lat": 30.07676754960916,
+    "lng": 31.193061877153124,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2937",
+    "isActive": true
+  }
+}

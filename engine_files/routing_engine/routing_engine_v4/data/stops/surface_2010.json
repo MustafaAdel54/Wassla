@@ -1,0 +1,18 @@
+{
+  "id": "surface_2010",
+  "data": {
+    "name": "Al Anabeeb - Waili",
+    "lat": 30.100046456018646,
+    "lng": 31.278884178045903,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2010",
+    "isActive": true
+  }
+}

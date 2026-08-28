@@ -1,0 +1,18 @@
+{
+  "id": "surface_2461",
+  "data": {
+    "name": "Arab Tuweila",
+    "lat": 30.1394491,
+    "lng": 31.3156648,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2461",
+    "isActive": true
+  }
+}

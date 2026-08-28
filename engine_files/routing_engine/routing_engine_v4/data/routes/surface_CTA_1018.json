@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_1018",
+  "data": {
+    "name": "3rd Settlement  (New Cairo) - Ahmed Helmy",
+    "shortName": "CTA 1018",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_1018",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1508",
+  "data": {
+    "name": "Al Galaa Bridge",
+    "lat": 30.094827,
+    "lng": 31.342428,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1508",
+    "isActive": true
+  }
+}

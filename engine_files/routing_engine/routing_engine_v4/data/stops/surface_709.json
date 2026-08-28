@@ -1,0 +1,18 @@
+{
+  "id": "surface_709",
+  "data": {
+    "name": "Health Insurance Hospital (Nasr City)",
+    "lat": 30.05950012957474,
+    "lng": 31.326232828762826,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "709",
+    "isActive": true
+  }
+}

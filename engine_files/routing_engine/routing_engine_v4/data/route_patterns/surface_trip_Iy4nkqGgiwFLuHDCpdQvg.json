@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_Iy4nkqGgiwFLuHDCpdQvg",
+  "data": {
+    "routeId": "surface_EbtM_hQ0jhsQyuGc5GCpz",
+    "tripId": "Iy4nkqGgiwFLuHDCpdQvg",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "CIC",
+    "stops": [
+      {
+        "stopId": "surface_1059",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1024",
+        "sequence": 2,
+        "arrivalSec": 21730,
+        "departureSec": 21745
+      },
+      {
+        "stopId": "surface_913",
+        "sequence": 3,
+        "arrivalSec": 21803,
+        "departureSec": 21818
+      },
+      {
+        "stopId": "surface_940",
+        "sequence": 4,
+        "arrivalSec": 21836,
+        "departureSec": 21851
+      },
+      {
+        "stopId": "surface_922",
+        "sequence": 5,
+        "arrivalSec": 21889,
+        "departureSec": 21904
+      },
+      {
+        "stopId": "surface_932",
+        "sequence": 6,
+        "arrivalSec": 21939,
+        "departureSec": 21954
+      },
+      {
+        "stopId": "surface_944",
+        "sequence": 7,
+        "arrivalSec": 22218,
+        "departureSec": 22233
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

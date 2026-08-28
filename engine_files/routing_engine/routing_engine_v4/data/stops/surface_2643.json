@@ -1,0 +1,18 @@
+{
+  "id": "surface_2643",
+  "data": {
+    "name": "Zenin",
+    "lat": 30.03044179999998,
+    "lng": 31.18341969999998,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2643",
+    "isActive": true
+  }
+}

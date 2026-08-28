@@ -1,0 +1,18 @@
+{
+  "id": "surface_636",
+  "data": {
+    "name": "Cairo University Bridge",
+    "lat": 30.028325,
+    "lng": 31.216492,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "636",
+    "isActive": true
+  }
+}

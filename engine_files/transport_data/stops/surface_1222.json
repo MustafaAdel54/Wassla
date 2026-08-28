@@ -1,0 +1,18 @@
+{
+  "id": "surface_1222",
+  "data": {
+    "name": "Al Amir Steps (Ring Rd.)",
+    "lat": 30.163438174452523,
+    "lng": 31.318550568582285,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1222",
+    "isActive": true
+  }
+}

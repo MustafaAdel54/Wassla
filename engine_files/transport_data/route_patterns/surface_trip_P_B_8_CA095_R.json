@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_P_B_8_CA095_R",
+  "data": {
+    "routeId": "surface_P_B_8_CA095",
+    "tripId": "P_B_8_CA095_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "New Marg",
+    "stops": [
+      {
+        "stopId": "surface_42",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_9",
+        "sequence": 2,
+        "arrivalSec": 22204,
+        "departureSec": 22219
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

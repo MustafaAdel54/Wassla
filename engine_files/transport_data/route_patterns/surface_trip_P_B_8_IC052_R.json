@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_B_8_IC052_R",
+  "data": {
+    "routeId": "surface_P_B_8_IC052",
+    "tripId": "P_B_8_IC052_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "10th District (Nasr City)",
+    "stops": [
+      {
+        "stopId": "surface_1122",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_356",
+        "sequence": 2,
+        "arrivalSec": 21616,
+        "departureSec": 21631
+      },
+      {
+        "stopId": "surface_587",
+        "sequence": 3,
+        "arrivalSec": 21831,
+        "departureSec": 21846
+      },
+      {
+        "stopId": "surface_585",
+        "sequence": 4,
+        "arrivalSec": 22020,
+        "departureSec": 22035
+      },
+      {
+        "stopId": "surface_2972",
+        "sequence": 5,
+        "arrivalSec": 22394,
+        "departureSec": 22409
+      },
+      {
+        "stopId": "surface_2975",
+        "sequence": 6,
+        "arrivalSec": 22855,
+        "departureSec": 22870
+      },
+      {
+        "stopId": "surface_171",
+        "sequence": 7,
+        "arrivalSec": 22963,
+        "departureSec": 22978
+      },
+      {
+        "stopId": "surface_1121",
+        "sequence": 8,
+        "arrivalSec": 22983,
+        "departureSec": 22998
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2940",
+  "data": {
+    "name": "Sekka Hadid St. Pedesterian Bridge",
+    "lat": 29.96794325354925,
+    "lng": 31.22456984550332,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2940",
+    "isActive": true
+  }
+}

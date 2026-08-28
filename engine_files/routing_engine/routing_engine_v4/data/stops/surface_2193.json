@@ -1,0 +1,18 @@
+{
+  "id": "surface_2193",
+  "data": {
+    "name": "Pharaonic Village (Al Bahr Al Aazam St.)",
+    "lat": 29.99727004598651,
+    "lng": 31.214639717841234,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2193",
+    "isActive": true
+  }
+}

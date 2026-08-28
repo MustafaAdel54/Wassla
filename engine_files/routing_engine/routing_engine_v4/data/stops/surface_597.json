@@ -1,0 +1,18 @@
+{
+  "id": "surface_597",
+  "data": {
+    "name": "Porto Cairo Mall",
+    "lat": 30.065454413079557,
+    "lng": 31.422123350442316,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "597",
+    "isActive": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_P_O_14_SZ010_R",
+  "data": {
+    "routeId": "surface_P_O_14_SZ010",
+    "tripId": "P_O_14_SZ010_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Zayed 2000",
+    "stops": [
+      {
+        "stopId": "surface_1059",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_898",
+        "sequence": 2,
+        "arrivalSec": 21726,
+        "departureSec": 21741
+      },
+      {
+        "stopId": "surface_897",
+        "sequence": 3,
+        "arrivalSec": 21822,
+        "departureSec": 21837
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_938",
+  "data": {
+    "name": "Rihana Plaza (Sheikh Zayed)",
+    "lat": 30.051924165112187,
+    "lng": 31.003776500491238,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "938",
+    "isActive": true
+  }
+}

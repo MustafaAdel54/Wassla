@@ -1,0 +1,18 @@
+{
+  "id": "surface_1949",
+  "data": {
+    "name": "Alfa Lab (Al Manial)",
+    "lat": 30.023282060883524,
+    "lng": 31.22588586346187,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1949",
+    "isActive": true
+  }
+}

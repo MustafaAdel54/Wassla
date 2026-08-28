@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_0XH65TTO7WRUIai9uQs54",
+  "data": {
+    "routeId": "surface_MUrGLjBAM0T83fv3U3Mqa",
+    "tripId": "0XH65TTO7WRUIai9uQs54",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Haram Areesh (Sahl Hamza)",
+    "stops": [
+      {
+        "stopId": "surface_2270",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2272",
+        "sequence": 2,
+        "arrivalSec": 21668,
+        "departureSec": 21683
+      },
+      {
+        "stopId": "surface_640",
+        "sequence": 3,
+        "arrivalSec": 21903,
+        "departureSec": 21918
+      },
+      {
+        "stopId": "surface_642",
+        "sequence": 4,
+        "arrivalSec": 21994,
+        "departureSec": 22009
+      },
+      {
+        "stopId": "surface_398",
+        "sequence": 5,
+        "arrivalSec": 22057,
+        "departureSec": 22072
+      },
+      {
+        "stopId": "surface_2164",
+        "sequence": 6,
+        "arrivalSec": 22239,
+        "departureSec": 22254
+      },
+      {
+        "stopId": "surface_2165",
+        "sequence": 7,
+        "arrivalSec": 22391,
+        "departureSec": 22406
+      },
+      {
+        "stopId": "surface_395",
+        "sequence": 8,
+        "arrivalSec": 22658,
+        "departureSec": 22673
+      },
+      {
+        "stopId": "surface_394",
+        "sequence": 9,
+        "arrivalSec": 22803,
+        "departureSec": 22818
+      },
+      {
+        "stopId": "surface_393",
+        "sequence": 10,
+        "arrivalSec": 22921,
+        "departureSec": 22936
+      },
+      {
+        "stopId": "surface_392",
+        "sequence": 11,
+        "arrivalSec": 23044,
+        "departureSec": 23059
+      },
+      {
+        "stopId": "surface_390",
+        "sequence": 12,
+        "arrivalSec": 23245,
+        "departureSec": 23260
+      },
+      {
+        "stopId": "surface_2310",
+        "sequence": 13,
+        "arrivalSec": 23331,
+        "departureSec": 23346
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

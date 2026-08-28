@@ -1,0 +1,18 @@
+{
+  "id": "surface_2710",
+  "data": {
+    "name": "Al Shaarawy (Arbean St.)",
+    "lat": 30.135316,
+    "lng": 31.315007,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2710",
+    "isActive": true
+  }
+}

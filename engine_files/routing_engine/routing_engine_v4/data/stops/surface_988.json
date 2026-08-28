@@ -1,0 +1,18 @@
+{
+  "id": "surface_988",
+  "data": {
+    "name": "Yellow Kiosk (6th of October)",
+    "lat": 29.93423779428304,
+    "lng": 30.91498864665688,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "988",
+    "isActive": true
+  }
+}

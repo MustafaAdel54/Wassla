@@ -1,0 +1,16 @@
+{
+  "id": "metro_226_AIN_METRO",
+  "data": {
+    "name": "Ain Shams",
+    "lat": 30.1310007,
+    "lng": 31.3191247,
+    "stationId": "station_metro_226_AIN_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "226_AIN_METRO",
+    "parentSourceId": "226_AIN_METRO",
+    "isActive": true
+  }
+}

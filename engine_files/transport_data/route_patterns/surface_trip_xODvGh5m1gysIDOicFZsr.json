@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_xODvGh5m1gysIDOicFZsr",
+  "data": {
+    "routeId": "surface_h8hJSqxjvR_DV1rkw2S5k",
+    "tripId": "xODvGh5m1gysIDOicFZsr",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Bulaq Al Dakrur",
+    "stops": [
+      {
+        "stopId": "surface_225",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_227",
+        "sequence": 2,
+        "arrivalSec": 21747,
+        "departureSec": 21762
+      },
+      {
+        "stopId": "surface_2366",
+        "sequence": 3,
+        "arrivalSec": 21851,
+        "departureSec": 21866
+      },
+      {
+        "stopId": "surface_2357",
+        "sequence": 4,
+        "arrivalSec": 21916,
+        "departureSec": 21931
+      },
+      {
+        "stopId": "surface_2339",
+        "sequence": 5,
+        "arrivalSec": 22137,
+        "departureSec": 22152
+      },
+      {
+        "stopId": "surface_2341",
+        "sequence": 6,
+        "arrivalSec": 22256,
+        "departureSec": 22271
+      },
+      {
+        "stopId": "surface_2396",
+        "sequence": 7,
+        "arrivalSec": 22395,
+        "departureSec": 22410
+      },
+      {
+        "stopId": "surface_2342",
+        "sequence": 8,
+        "arrivalSec": 22493,
+        "departureSec": 22508
+      },
+      {
+        "stopId": "surface_2329",
+        "sequence": 9,
+        "arrivalSec": 22610,
+        "departureSec": 22625
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

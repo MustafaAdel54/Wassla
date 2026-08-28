@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_CTA_15_O",
+  "data": {
+    "routeId": "surface_CTA_15",
+    "tripId": "CTA_15_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Saft Al Laban",
+    "stops": [
+      {
+        "stopId": "surface_1091",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_228",
+        "sequence": 2,
+        "arrivalSec": 21620,
+        "departureSec": 21635
+      },
+      {
+        "stopId": "surface_666",
+        "sequence": 3,
+        "arrivalSec": 21758,
+        "departureSec": 21773
+      },
+      {
+        "stopId": "surface_665",
+        "sequence": 4,
+        "arrivalSec": 21839,
+        "departureSec": 21854
+      },
+      {
+        "stopId": "surface_1134",
+        "sequence": 5,
+        "arrivalSec": 22124,
+        "departureSec": 22139
+      },
+      {
+        "stopId": "surface_637",
+        "sequence": 6,
+        "arrivalSec": 22211,
+        "departureSec": 22226
+      },
+      {
+        "stopId": "surface_46",
+        "sequence": 7,
+        "arrivalSec": 22318,
+        "departureSec": 22333
+      },
+      {
+        "stopId": "surface_639",
+        "sequence": 8,
+        "arrivalSec": 22367,
+        "departureSec": 22382
+      },
+      {
+        "stopId": "surface_2683",
+        "sequence": 9,
+        "arrivalSec": 22423,
+        "departureSec": 22438
+      },
+      {
+        "stopId": "surface_2935",
+        "sequence": 10,
+        "arrivalSec": 22801,
+        "departureSec": 22816
+      },
+      {
+        "stopId": "surface_2827",
+        "sequence": 11,
+        "arrivalSec": 22878,
+        "departureSec": 22893
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

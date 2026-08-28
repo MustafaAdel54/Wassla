@@ -1,0 +1,18 @@
+{
+  "id": "surface_1001",
+  "data": {
+    "name": "City Scape Mall (6th of October)",
+    "lat": 29.963872513923356,
+    "lng": 30.9273,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1001",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2292",
+  "data": {
+    "name": "Nile Towers (Nile Corniche)",
+    "lat": 30.07255813727024,
+    "lng": 31.227270139186764,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2292",
+    "isActive": true
+  }
+}

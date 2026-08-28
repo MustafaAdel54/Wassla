@@ -1,0 +1,18 @@
+{
+  "id": "surface_1650",
+  "data": {
+    "name": "Mazlaqan Al Deweqa",
+    "lat": 30.049547471721166,
+    "lng": 31.286484454189115,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1650",
+    "isActive": true
+  }
+}

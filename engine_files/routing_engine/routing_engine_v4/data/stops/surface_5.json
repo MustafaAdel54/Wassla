@@ -1,0 +1,18 @@
+{
+  "id": "surface_5",
+  "data": {
+    "name": "Al Nozha Al Gadeeda",
+    "lat": 30.1290789,
+    "lng": 31.3617408,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "5",
+    "isActive": true
+  }
+}

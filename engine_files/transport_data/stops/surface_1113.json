@@ -1,0 +1,18 @@
+{
+  "id": "surface_1113",
+  "data": {
+    "name": "Hossary Station",
+    "lat": 29.971908347025696,
+    "lng": 30.944083592054906,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1113",
+    "isActive": true
+  }
+}

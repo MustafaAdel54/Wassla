@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_gfPIlccDp7gHHN0ee2DIi",
+  "data": {
+    "routeId": "surface_AWvboTfFAFIfUgBcz8N8_",
+    "tripId": "gfPIlccDp7gHHN0ee2DIi",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Isaaf",
+    "stops": [
+      {
+        "stopId": "surface_2389",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2388",
+        "sequence": 2,
+        "arrivalSec": 21656,
+        "departureSec": 21671
+      },
+      {
+        "stopId": "surface_1348",
+        "sequence": 3,
+        "arrivalSec": 21738,
+        "departureSec": 21753
+      },
+      {
+        "stopId": "surface_107",
+        "sequence": 4,
+        "arrivalSec": 21834,
+        "departureSec": 21849
+      },
+      {
+        "stopId": "surface_2294",
+        "sequence": 5,
+        "arrivalSec": 21931,
+        "departureSec": 21946
+      },
+      {
+        "stopId": "surface_2287",
+        "sequence": 6,
+        "arrivalSec": 22131,
+        "departureSec": 22146
+      },
+      {
+        "stopId": "surface_2093",
+        "sequence": 7,
+        "arrivalSec": 22426,
+        "departureSec": 22441
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

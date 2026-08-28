@@ -1,0 +1,18 @@
+{
+  "id": "surface_2235",
+  "data": {
+    "name": "Al Zawya Youth Center",
+    "lat": 30.101630302574844,
+    "lng": 31.265745365308202,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2235",
+    "isActive": true
+  }
+}

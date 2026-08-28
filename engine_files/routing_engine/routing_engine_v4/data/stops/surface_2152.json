@@ -1,0 +1,18 @@
+{
+  "id": "surface_2152",
+  "data": {
+    "name": "Misr Petroleum (Port Said St.)",
+    "lat": 30.08355820785894,
+    "lng": 31.271982240657326,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2152",
+    "isActive": true
+  }
+}

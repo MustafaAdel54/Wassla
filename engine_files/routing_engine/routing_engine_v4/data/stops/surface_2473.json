@@ -1,0 +1,18 @@
+{
+  "id": "surface_2473",
+  "data": {
+    "name": "Cairo Airport",
+    "lat": 30.1201982,
+    "lng": 31.3983155,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2473",
+    "isActive": true
+  }
+}

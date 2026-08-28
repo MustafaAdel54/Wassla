@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_cGCjWACEI93MBIW0wcbmU",
+  "data": {
+    "routeId": "surface_su06bTr5aMUAnkdk3YTAJ",
+    "tripId": "cGCjWACEI93MBIW0wcbmU",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "AUC Bus",
+    "stops": [
+      {
+        "stopId": "surface_89",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 2,
+        "arrivalSec": 22945,
+        "departureSec": 22960
+      },
+      {
+        "stopId": "surface_3021",
+        "sequence": 3,
+        "arrivalSec": 23549,
+        "departureSec": 23564
+      },
+      {
+        "stopId": "surface_1157",
+        "sequence": 4,
+        "arrivalSec": 24080,
+        "departureSec": 24095
+      },
+      {
+        "stopId": "surface_1073",
+        "sequence": 5,
+        "arrivalSec": 24241,
+        "departureSec": 24256
+      },
+      {
+        "stopId": "surface_307",
+        "sequence": 6,
+        "arrivalSec": 24306,
+        "departureSec": 24321
+      },
+      {
+        "stopId": "surface_1071",
+        "sequence": 7,
+        "arrivalSec": 24546,
+        "departureSec": 24561
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

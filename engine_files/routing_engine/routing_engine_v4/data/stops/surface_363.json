@@ -1,0 +1,18 @@
+{
+  "id": "surface_363",
+  "data": {
+    "name": "Cemeteries (Maadi)",
+    "lat": 30.021177,
+    "lng": 31.346271,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "363",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2545",
+  "data": {
+    "name": "Awwal Faisal",
+    "lat": 30.0139442,
+    "lng": 31.19923190000001,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2545",
+    "isActive": true
+  }
+}

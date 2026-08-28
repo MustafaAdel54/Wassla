@@ -1,0 +1,18 @@
+{
+  "id": "surface_455",
+  "data": {
+    "name": "Nadi Al Baraka Steps (Ring Rd.)",
+    "lat": 30.165896,
+    "lng": 31.383301,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "455",
+    "isActive": true
+  }
+}

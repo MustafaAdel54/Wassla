@@ -1,0 +1,18 @@
+{
+  "id": "surface_2555",
+  "data": {
+    "name": "Awsim",
+    "lat": 30.125386679668903,
+    "lng": 31.134063010489886,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2555",
+    "isActive": true
+  }
+}

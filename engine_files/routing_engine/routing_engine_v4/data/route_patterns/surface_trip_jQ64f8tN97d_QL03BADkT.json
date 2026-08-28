@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_jQ64f8tN97d_QL03BADkT",
+  "data": {
+    "routeId": "surface_U12iA-JAJn3HecabkdSeW",
+    "tripId": "jQ64f8tN97d_QL03BADkT",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Warraq",
+    "stops": [
+      {
+        "stopId": "surface_2392",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2379",
+        "sequence": 2,
+        "arrivalSec": 21969,
+        "departureSec": 21984
+      },
+      {
+        "stopId": "surface_2377",
+        "sequence": 3,
+        "arrivalSec": 22088,
+        "departureSec": 22103
+      },
+      {
+        "stopId": "surface_2375",
+        "sequence": 4,
+        "arrivalSec": 22196,
+        "departureSec": 22211
+      },
+      {
+        "stopId": "surface_2373",
+        "sequence": 5,
+        "arrivalSec": 22285,
+        "departureSec": 22300
+      },
+      {
+        "stopId": "surface_2371",
+        "sequence": 6,
+        "arrivalSec": 22496,
+        "departureSec": 22510
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

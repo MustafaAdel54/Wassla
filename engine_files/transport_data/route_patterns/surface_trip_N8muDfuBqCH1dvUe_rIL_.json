@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_N8muDfuBqCH1dvUe_rIL_",
+  "data": {
+    "routeId": "surface_79A4DBdhOZXDQqFQNdq_5",
+    "tripId": "N8muDfuBqCH1dvUe_rIL_",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Carrefour - Maadi",
+    "stops": [
+      {
+        "stopId": "surface_1144",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_650",
+        "sequence": 2,
+        "arrivalSec": 22003,
+        "departureSec": 22018
+      },
+      {
+        "stopId": "surface_1269",
+        "sequence": 3,
+        "arrivalSec": 22096,
+        "departureSec": 22111
+      },
+      {
+        "stopId": "surface_1270",
+        "sequence": 4,
+        "arrivalSec": 22131,
+        "departureSec": 22146
+      },
+      {
+        "stopId": "surface_652",
+        "sequence": 5,
+        "arrivalSec": 22222,
+        "departureSec": 22237
+      },
+      {
+        "stopId": "surface_1277",
+        "sequence": 6,
+        "arrivalSec": 22429,
+        "departureSec": 22444
+      },
+      {
+        "stopId": "surface_271",
+        "sequence": 7,
+        "arrivalSec": 22765,
+        "departureSec": 22780
+      },
+      {
+        "stopId": "surface_1588",
+        "sequence": 8,
+        "arrivalSec": 22840,
+        "departureSec": 22855
+      },
+      {
+        "stopId": "surface_1087",
+        "sequence": 9,
+        "arrivalSec": 22923,
+        "departureSec": 22938
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

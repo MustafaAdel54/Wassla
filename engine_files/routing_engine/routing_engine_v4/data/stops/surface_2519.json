@@ -1,0 +1,18 @@
+{
+  "id": "surface_2519",
+  "data": {
+    "name": "Moneeb",
+    "lat": 29.983364,
+    "lng": 31.21092040000001,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2519",
+    "isActive": true
+  }
+}

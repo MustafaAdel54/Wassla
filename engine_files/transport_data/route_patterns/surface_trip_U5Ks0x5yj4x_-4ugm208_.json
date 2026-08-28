@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_U5Ks0x5yj4x_-4ugm208_",
+  "data": {
+    "routeId": "surface_lXqxNN6vXSyk0IYiGiSVf",
+    "tripId": "U5Ks0x5yj4x_-4ugm208_",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Kafr Al Shurafa",
+    "stops": [
+      {
+        "stopId": "surface_2788",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_9",
+        "sequence": 2,
+        "arrivalSec": 21621,
+        "departureSec": 21636
+      },
+      {
+        "stopId": "surface_96",
+        "sequence": 3,
+        "arrivalSec": 21900,
+        "departureSec": 21915
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

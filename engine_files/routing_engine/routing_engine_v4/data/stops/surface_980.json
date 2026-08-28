@@ -1,0 +1,18 @@
+{
+  "id": "surface_980",
+  "data": {
+    "name": "Al Hegaz Mall (6th of October)",
+    "lat": 29.964190503987243,
+    "lng": 30.95095598097122,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "980",
+    "isActive": true
+  }
+}

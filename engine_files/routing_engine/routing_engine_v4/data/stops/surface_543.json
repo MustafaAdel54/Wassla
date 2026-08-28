@@ -1,0 +1,18 @@
+{
+  "id": "surface_543",
+  "data": {
+    "name": "Hilton Pyramids Golf (Dreamland)",
+    "lat": 29.961553504669382,
+    "lng": 31.044986380832675,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "543",
+    "isActive": true
+  }
+}

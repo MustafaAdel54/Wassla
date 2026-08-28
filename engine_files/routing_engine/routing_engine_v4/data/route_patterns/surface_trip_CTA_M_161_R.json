@@ -1,0 +1,164 @@
+{
+  "id": "surface_trip_CTA_M_161_R",
+  "data": {
+    "routeId": "surface_CTA_M_161",
+    "tripId": "CTA_M_161_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Orabi Bridge",
+    "stops": [
+      {
+        "stopId": "surface_2678",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1505",
+        "sequence": 2,
+        "arrivalSec": 22014,
+        "departureSec": 22029
+      },
+      {
+        "stopId": "surface_747",
+        "sequence": 3,
+        "arrivalSec": 22093,
+        "departureSec": 22108
+      },
+      {
+        "stopId": "surface_1692",
+        "sequence": 4,
+        "arrivalSec": 22206,
+        "departureSec": 22221
+      },
+      {
+        "stopId": "surface_2816",
+        "sequence": 5,
+        "arrivalSec": 22370,
+        "departureSec": 22385
+      },
+      {
+        "stopId": "surface_748",
+        "sequence": 6,
+        "arrivalSec": 22423,
+        "departureSec": 22438
+      },
+      {
+        "stopId": "surface_749",
+        "sequence": 7,
+        "arrivalSec": 22491,
+        "departureSec": 22506
+      },
+      {
+        "stopId": "surface_1721",
+        "sequence": 8,
+        "arrivalSec": 22561,
+        "departureSec": 22576
+      },
+      {
+        "stopId": "surface_1215",
+        "sequence": 9,
+        "arrivalSec": 22605,
+        "departureSec": 22620
+      },
+      {
+        "stopId": "surface_1725",
+        "sequence": 10,
+        "arrivalSec": 22656,
+        "departureSec": 22671
+      },
+      {
+        "stopId": "surface_1219",
+        "sequence": 11,
+        "arrivalSec": 22860,
+        "departureSec": 22875
+      },
+      {
+        "stopId": "surface_2034",
+        "sequence": 12,
+        "arrivalSec": 22956,
+        "departureSec": 22971
+      },
+      {
+        "stopId": "surface_2036",
+        "sequence": 13,
+        "arrivalSec": 23033,
+        "departureSec": 23048
+      },
+      {
+        "stopId": "surface_2038",
+        "sequence": 14,
+        "arrivalSec": 23076,
+        "departureSec": 23091
+      },
+      {
+        "stopId": "surface_1843",
+        "sequence": 15,
+        "arrivalSec": 23131,
+        "departureSec": 23146
+      },
+      {
+        "stopId": "surface_1311",
+        "sequence": 16,
+        "arrivalSec": 23228,
+        "departureSec": 23243
+      },
+      {
+        "stopId": "surface_2427",
+        "sequence": 17,
+        "arrivalSec": 23279,
+        "departureSec": 23294
+      },
+      {
+        "stopId": "surface_784",
+        "sequence": 18,
+        "arrivalSec": 23377,
+        "departureSec": 23392
+      },
+      {
+        "stopId": "surface_1301",
+        "sequence": 19,
+        "arrivalSec": 23440,
+        "departureSec": 23455
+      },
+      {
+        "stopId": "surface_2755",
+        "sequence": 20,
+        "arrivalSec": 23487,
+        "departureSec": 23502
+      },
+      {
+        "stopId": "surface_1300",
+        "sequence": 21,
+        "arrivalSec": 23572,
+        "departureSec": 23587
+      },
+      {
+        "stopId": "surface_1845",
+        "sequence": 22,
+        "arrivalSec": 23706,
+        "departureSec": 23721
+      },
+      {
+        "stopId": "surface_2231",
+        "sequence": 23,
+        "arrivalSec": 23968,
+        "departureSec": 23983
+      },
+      {
+        "stopId": "surface_2221",
+        "sequence": 24,
+        "arrivalSec": 24177,
+        "departureSec": 24192
+      },
+      {
+        "stopId": "surface_2517",
+        "sequence": 25,
+        "arrivalSec": 24370,
+        "departureSec": 24385
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

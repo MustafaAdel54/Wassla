@@ -1,0 +1,18 @@
+{
+  "id": "surface_2301",
+  "data": {
+    "name": "Misr Bank (Shobra St.)",
+    "lat": 30.06905389868189,
+    "lng": 31.2450203549539,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2301",
+    "isActive": true
+  }
+}

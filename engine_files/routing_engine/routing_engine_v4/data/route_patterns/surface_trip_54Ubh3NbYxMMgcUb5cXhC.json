@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_54Ubh3NbYxMMgcUb5cXhC",
+  "data": {
+    "routeId": "surface_dOSjy2LRc3erAam81oIco",
+    "tripId": "54Ubh3NbYxMMgcUb5cXhC",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Applied Arts - Cairo University",
+    "stops": [
+      {
+        "stopId": "surface_44",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2896",
+        "sequence": 2,
+        "arrivalSec": 21695,
+        "departureSec": 21710
+      },
+      {
+        "stopId": "surface_2899",
+        "sequence": 3,
+        "arrivalSec": 21715,
+        "departureSec": 21730
+      },
+      {
+        "stopId": "surface_2616",
+        "sequence": 4,
+        "arrivalSec": 21905,
+        "departureSec": 21920
+      },
+      {
+        "stopId": "surface_2448",
+        "sequence": 5,
+        "arrivalSec": 22150,
+        "departureSec": 22165
+      },
+      {
+        "stopId": "surface_2643",
+        "sequence": 6,
+        "arrivalSec": 22262,
+        "departureSec": 22277
+      },
+      {
+        "stopId": "surface_2681",
+        "sequence": 7,
+        "arrivalSec": 22449,
+        "departureSec": 22464
+      },
+      {
+        "stopId": "surface_2684",
+        "sequence": 8,
+        "arrivalSec": 22476,
+        "departureSec": 22491
+      },
+      {
+        "stopId": "surface_638",
+        "sequence": 9,
+        "arrivalSec": 22536,
+        "departureSec": 22551
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

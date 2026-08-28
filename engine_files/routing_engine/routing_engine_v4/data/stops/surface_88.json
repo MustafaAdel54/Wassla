@@ -1,0 +1,18 @@
+{
+  "id": "surface_88",
+  "data": {
+    "name": "Al Khanka Local Unit",
+    "lat": 30.22323204469004,
+    "lng": 31.35928636138636,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "88",
+    "isActive": true
+  }
+}

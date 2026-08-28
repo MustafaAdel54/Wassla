@@ -1,0 +1,18 @@
+{
+  "id": "surface_2214",
+  "data": {
+    "name": "Al Qawmeya Al Arabeya St.",
+    "lat": 30.093389470023773,
+    "lng": 31.20850151402317,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2214",
+    "isActive": true
+  }
+}

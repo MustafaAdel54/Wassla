@@ -1,0 +1,16 @@
+{
+  "id": "metro_81_ATT_METRO_E",
+  "data": {
+    "name": "Attaba",
+    "lat": 30.0531353784271,
+    "lng": 31.2469660616293,
+    "stationId": "station_metro_81_ATT_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "81_ATT_METRO_E",
+    "parentSourceId": "81_ATT_METRO",
+    "isActive": true
+  }
+}

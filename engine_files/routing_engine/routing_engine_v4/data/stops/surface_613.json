@@ -1,0 +1,18 @@
+{
+  "id": "surface_613",
+  "data": {
+    "name": "Nour City steps (Ring Rd.)",
+    "lat": 30.012594548545064,
+    "lng": 31.155395610881484,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "613",
+    "isActive": true
+  }
+}

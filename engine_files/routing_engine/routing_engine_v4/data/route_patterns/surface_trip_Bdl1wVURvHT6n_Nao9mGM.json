@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_Bdl1wVURvHT6n_Nao9mGM",
+  "data": {
+    "routeId": "surface_MgUeZY5IH7DhXn9qFpvGl",
+    "tripId": "Bdl1wVURvHT6n_Nao9mGM",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Qism El Hadayek",
+    "stops": [
+      {
+        "stopId": "surface_1748",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2801",
+        "sequence": 2,
+        "arrivalSec": 21706,
+        "departureSec": 21721
+      },
+      {
+        "stopId": "surface_1292",
+        "sequence": 3,
+        "arrivalSec": 21888,
+        "departureSec": 21903
+      },
+      {
+        "stopId": "surface_2803",
+        "sequence": 4,
+        "arrivalSec": 21917,
+        "departureSec": 21932
+      },
+      {
+        "stopId": "surface_2444",
+        "sequence": 5,
+        "arrivalSec": 22022,
+        "departureSec": 22037
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

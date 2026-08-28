@@ -1,0 +1,18 @@
+{
+  "id": "surface_378",
+  "data": {
+    "name": "Hadayek Al Ahram Gate 3",
+    "lat": 29.94853708868621,
+    "lng": 31.09528747260159,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "378",
+    "isActive": true
+  }
+}

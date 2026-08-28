@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_GZ037_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ037",
+    "tripId": "P_O_14_GZ037_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Barageel St",
+    "stops": [
+      {
+        "stopId": "surface_81",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_98",
+        "sequence": 2,
+        "arrivalSec": 21627,
+        "departureSec": 21642
+      },
+      {
+        "stopId": "surface_2401",
+        "sequence": 3,
+        "arrivalSec": 21767,
+        "departureSec": 21782
+      },
+      {
+        "stopId": "surface_2409",
+        "sequence": 4,
+        "arrivalSec": 21870,
+        "departureSec": 21886
+      },
+      {
+        "stopId": "surface_2405",
+        "sequence": 5,
+        "arrivalSec": 22030,
+        "departureSec": 22044
+      },
+      {
+        "stopId": "surface_2787",
+        "sequence": 6,
+        "arrivalSec": 22232,
+        "departureSec": 22246
+      },
+      {
+        "stopId": "surface_2500",
+        "sequence": 7,
+        "arrivalSec": 22350,
+        "departureSec": 22366
+      },
+      {
+        "stopId": "surface_621",
+        "sequence": 8,
+        "arrivalSec": 22682,
+        "departureSec": 22696
+      },
+      {
+        "stopId": "surface_332",
+        "sequence": 9,
+        "arrivalSec": 22752,
+        "departureSec": 22766
+      },
+      {
+        "stopId": "surface_648",
+        "sequence": 10,
+        "arrivalSec": 22826,
+        "departureSec": 22842
+      },
+      {
+        "stopId": "surface_2552",
+        "sequence": 11,
+        "arrivalSec": 23130,
+        "departureSec": 23146
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

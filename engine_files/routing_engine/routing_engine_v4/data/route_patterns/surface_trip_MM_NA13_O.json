@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_MM_NA13_O",
+  "data": {
+    "routeId": "surface_MM_NA13",
+    "tripId": "MM_NA13_O",
+    "serviceId": "Ground_Weekdays",
+    "directionId": "0",
+    "headsign": "10th of Ramadan City",
+    "stops": [
+      {
+        "stopId": "surface_2979",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2980",
+        "sequence": 2,
+        "arrivalSec": 24517,
+        "departureSec": 24532
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

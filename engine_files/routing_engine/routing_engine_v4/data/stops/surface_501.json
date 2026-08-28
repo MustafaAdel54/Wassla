@@ -1,0 +1,18 @@
+{
+  "id": "surface_501",
+  "data": {
+    "name": "Al Magzar Al Aali (Autostrad)",
+    "lat": 30.002608386477746,
+    "lng": 31.27449918192136,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "501",
+    "isActive": true
+  }
+}

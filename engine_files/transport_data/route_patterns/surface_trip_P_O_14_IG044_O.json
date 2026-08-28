@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_P_O_14_IG044_O",
+  "data": {
+    "routeId": "surface_P_O_14_IG044",
+    "tripId": "P_O_14_IG044_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mostorod Ring Rd",
+    "stops": [
+      {
+        "stopId": "surface_1307",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1425",
+        "sequence": 2,
+        "arrivalSec": 21635,
+        "departureSec": 21650
+      },
+      {
+        "stopId": "surface_1223",
+        "sequence": 3,
+        "arrivalSec": 21680,
+        "departureSec": 21695
+      },
+      {
+        "stopId": "surface_1306",
+        "sequence": 4,
+        "arrivalSec": 21756,
+        "departureSec": 21772
+      },
+      {
+        "stopId": "surface_759",
+        "sequence": 5,
+        "arrivalSec": 21875,
+        "departureSec": 21890
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

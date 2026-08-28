@@ -1,0 +1,18 @@
+{
+  "id": "surface_2974",
+  "data": {
+    "name": "June 30th Stadium",
+    "lat": 30.02179332,
+    "lng": 31.37230672,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2974",
+    "isActive": true
+  }
+}

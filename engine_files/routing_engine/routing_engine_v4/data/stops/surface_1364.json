@@ -1,0 +1,18 @@
+{
+  "id": "surface_1364",
+  "data": {
+    "name": "Galleria 40",
+    "lat": 30.015417301148673,
+    "lng": 31.001556854864596,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1364",
+    "isActive": true
+  }
+}

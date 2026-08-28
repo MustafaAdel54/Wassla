@@ -1,0 +1,18 @@
+{
+  "id": "surface_872",
+  "data": {
+    "name": "Vodafone Square",
+    "lat": 29.951480422869516,
+    "lng": 30.9121361988411,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "872",
+    "isActive": true
+  }
+}

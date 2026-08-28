@@ -1,0 +1,18 @@
+{
+  "id": "surface_1127",
+  "data": {
+    "name": "Laylat Al Qadr Station",
+    "lat": 29.946622629973447,
+    "lng": 30.90480238982266,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1127",
+    "isActive": true
+  }
+}

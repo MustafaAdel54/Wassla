@@ -1,0 +1,18 @@
+{
+  "id": "surface_1712",
+  "data": {
+    "name": "Al Naam Square (Ain Shams)",
+    "lat": 30.1216699,
+    "lng": 31.31796830000001,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1712",
+    "isActive": true
+  }
+}

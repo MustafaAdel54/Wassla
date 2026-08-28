@@ -1,0 +1,18 @@
+{
+  "id": "surface_1551",
+  "data": {
+    "name": "Al Nafoura Square (Al Moqattam)",
+    "lat": 30.015162642238213,
+    "lng": 31.28143499267701,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1551",
+    "isActive": true
+  }
+}

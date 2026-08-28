@@ -1,0 +1,18 @@
+{
+  "id": "surface_1199",
+  "data": {
+    "name": "Green Hills Club",
+    "lat": 30.163180286199832,
+    "lng": 31.63424873059401,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1199",
+    "isActive": true
+  }
+}

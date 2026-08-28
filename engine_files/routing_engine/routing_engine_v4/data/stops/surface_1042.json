@@ -1,0 +1,18 @@
+{
+  "id": "surface_1042",
+  "data": {
+    "name": "Magda Square",
+    "lat": 29.9756305,
+    "lng": 30.9421857,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1042",
+    "isActive": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_BOX_6O028_R",
+  "data": {
+    "routeId": "surface_BOX_6O028",
+    "tripId": "BOX_6O028_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Mostaqbal Entrance",
+    "stops": [
+      {
+        "stopId": "surface_902",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_892",
+        "sequence": 2,
+        "arrivalSec": 21719,
+        "departureSec": 21734
+      },
+      {
+        "stopId": "surface_891",
+        "sequence": 3,
+        "arrivalSec": 22775,
+        "departureSec": 22790
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

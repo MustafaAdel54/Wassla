@@ -1,0 +1,18 @@
+{
+  "id": "surface_2114",
+  "data": {
+    "name": "Mobil (Al Khalafawy)",
+    "lat": 30.093779800676515,
+    "lng": 31.23624331253449,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2114",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1207",
+  "data": {
+    "name": "Rahma Mosque (Mostafa Al Nahas St.)",
+    "lat": 30.053057319447312,
+    "lng": 31.332744436017975,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1207",
+    "isActive": true
+  }
+}

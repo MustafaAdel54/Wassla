@@ -1,0 +1,18 @@
+{
+  "id": "surface_1652",
+  "data": {
+    "name": "Imam Al Shafei Mosque (Basateen Rd.)",
+    "lat": 30.012344866113402,
+    "lng": 31.2621758,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1652",
+    "isActive": true
+  }
+}

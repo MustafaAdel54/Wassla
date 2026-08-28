@@ -1,0 +1,18 @@
+{
+  "id": "surface_6",
+  "data": {
+    "name": "Masaken Almaza",
+    "lat": 30.090158154317407,
+    "lng": 31.348622956778193,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "6",
+    "isActive": true
+  }
+}

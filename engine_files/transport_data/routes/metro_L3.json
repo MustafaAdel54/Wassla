@@ -1,0 +1,15 @@
+{
+  "id": "metro_L3",
+  "data": {
+    "name": "Metro Line 3",
+    "shortName": "M3",
+    "agencyId": "metro_NAT",
+    "transportMode": "metro",
+    "source": "gtfs_metro",
+    "sourceId": "L3",
+    "routeType": "1",
+    "color": null,
+    "textColor": null,
+    "isActive": true
+  }
+}

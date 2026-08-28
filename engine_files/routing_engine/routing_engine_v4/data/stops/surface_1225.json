@@ -1,0 +1,18 @@
+{
+  "id": "surface_1225",
+  "data": {
+    "name": "Al Moassasa Steps (Ring Rd.)",
+    "lat": 30.166741113282175,
+    "lng": 31.371679205289723,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1225",
+    "isActive": true
+  }
+}

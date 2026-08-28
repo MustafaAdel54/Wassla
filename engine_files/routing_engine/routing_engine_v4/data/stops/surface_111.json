@@ -1,0 +1,18 @@
+{
+  "id": "surface_111",
+  "data": {
+    "name": "National Institute for Occupational Safety and Health (Al Amn Al Senaey)",
+    "lat": 30.11313358458763,
+    "lng": 31.348195374657855,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "111",
+    "isActive": true
+  }
+}

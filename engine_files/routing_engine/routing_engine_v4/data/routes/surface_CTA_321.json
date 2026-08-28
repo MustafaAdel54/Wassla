@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_321",
+  "data": {
+    "name": "Khanka - New Marg",
+    "shortName": "CTA 321",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_321",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

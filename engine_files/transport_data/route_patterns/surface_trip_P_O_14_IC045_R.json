@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_P_O_14_IC045_R",
+  "data": {
+    "routeId": "surface_P_O_14_IC045",
+    "tripId": "P_O_14_IC045_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Rehab - Gate 13 - 12",
+    "stops": [
+      {
+        "stopId": "surface_581",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1238",
+        "sequence": 2,
+        "arrivalSec": 21749,
+        "departureSec": 21764
+      },
+      {
+        "stopId": "surface_309",
+        "sequence": 3,
+        "arrivalSec": 21830,
+        "departureSec": 21845
+      },
+      {
+        "stopId": "surface_824",
+        "sequence": 4,
+        "arrivalSec": 21893,
+        "departureSec": 21908
+      },
+      {
+        "stopId": "surface_1071",
+        "sequence": 5,
+        "arrivalSec": 21993,
+        "departureSec": 22008
+      },
+      {
+        "stopId": "surface_1070",
+        "sequence": 6,
+        "arrivalSec": 22043,
+        "departureSec": 22058
+      },
+      {
+        "stopId": "surface_1210",
+        "sequence": 7,
+        "arrivalSec": 22158,
+        "departureSec": 22173
+      },
+      {
+        "stopId": "surface_830",
+        "sequence": 8,
+        "arrivalSec": 22319,
+        "departureSec": 22334
+      },
+      {
+        "stopId": "surface_583",
+        "sequence": 9,
+        "arrivalSec": 22431,
+        "departureSec": 22446
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

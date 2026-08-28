@@ -1,0 +1,18 @@
+{
+  "id": "surface_2201",
+  "data": {
+    "name": "Sakiat Mekki Metro",
+    "lat": 29.994571827602286,
+    "lng": 31.209177482712434,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2201",
+    "isActive": true
+  }
+}

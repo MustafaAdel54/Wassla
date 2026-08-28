@@ -1,0 +1,18 @@
+{
+  "id": "surface_657",
+  "data": {
+    "name": "Maasara Autostrad",
+    "lat": 29.91309370663686,
+    "lng": 31.297924209326442,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "657",
+    "isActive": true
+  }
+}

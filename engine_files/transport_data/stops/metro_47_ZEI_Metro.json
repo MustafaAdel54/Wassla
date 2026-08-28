@@ -1,0 +1,16 @@
+{
+  "id": "metro_47_ZEI_Metro",
+  "data": {
+    "name": "Al-Sayeda Zeinab",
+    "lat": 30.02924,
+    "lng": 31.235429,
+    "stationId": "station_metro_47_ZEI_Metro",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "47_ZEI_Metro",
+    "parentSourceId": "47_ZEI_Metro",
+    "isActive": true
+  }
+}

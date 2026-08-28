@@ -1,0 +1,18 @@
+{
+  "id": "surface_1839",
+  "data": {
+    "name": "Total Gas Station Bassous ( Ring Rd. )",
+    "lat": 30.140024123409052,
+    "lng": 31.206122529816273,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1839",
+    "isActive": true
+  }
+}

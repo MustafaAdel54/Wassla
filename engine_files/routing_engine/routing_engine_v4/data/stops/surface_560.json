@@ -1,0 +1,18 @@
+{
+  "id": "surface_560",
+  "data": {
+    "name": "Dar Al Foad Hospital (6th of October)",
+    "lat": 29.999297808700113,
+    "lng": 30.96688912967065,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "560",
+    "isActive": true
+  }
+}

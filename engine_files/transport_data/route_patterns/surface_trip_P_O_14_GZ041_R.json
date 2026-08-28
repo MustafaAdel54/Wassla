@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_GZ041_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ041",
+    "tripId": "P_O_14_GZ041_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Badrasheen",
+    "stops": [
+      {
+        "stopId": "surface_2742",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2576",
+        "sequence": 2,
+        "arrivalSec": 22406,
+        "departureSec": 22421
+      },
+      {
+        "stopId": "surface_2577",
+        "sequence": 3,
+        "arrivalSec": 22666,
+        "departureSec": 22681
+      },
+      {
+        "stopId": "surface_26",
+        "sequence": 4,
+        "arrivalSec": 22844,
+        "departureSec": 22859
+      },
+      {
+        "stopId": "surface_2278",
+        "sequence": 5,
+        "arrivalSec": 22890,
+        "departureSec": 22905
+      },
+      {
+        "stopId": "surface_2279",
+        "sequence": 6,
+        "arrivalSec": 22909,
+        "departureSec": 22924
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

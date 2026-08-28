@@ -1,0 +1,18 @@
+{
+  "id": "surface_313",
+  "data": {
+    "name": "Al Tawheed Mosque (1st Settlement)",
+    "lat": 30.061686755821288,
+    "lng": 31.461777241009216,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "313",
+    "isActive": true
+  }
+}

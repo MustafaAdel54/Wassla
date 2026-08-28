@@ -1,0 +1,18 @@
+{
+  "id": "surface_2713",
+  "data": {
+    "name": "Al Matareyya Central",
+    "lat": 30.12980554395093,
+    "lng": 31.312162972142044,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2713",
+    "isActive": true
+  }
+}

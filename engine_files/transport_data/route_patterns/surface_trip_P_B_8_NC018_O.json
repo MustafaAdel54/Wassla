@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_P_B_8_NC018_O",
+  "data": {
+    "routeId": "surface_P_B_8_NC018",
+    "tripId": "P_B_8_NC018_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "New Cairo Academy",
+    "stops": [
+      {
+        "stopId": "surface_1097",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_353",
+        "sequence": 2,
+        "arrivalSec": 21623,
+        "departureSec": 21638
+      },
+      {
+        "stopId": "surface_475",
+        "sequence": 3,
+        "arrivalSec": 21693,
+        "departureSec": 21708
+      },
+      {
+        "stopId": "surface_1068",
+        "sequence": 4,
+        "arrivalSec": 21813,
+        "departureSec": 21828
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

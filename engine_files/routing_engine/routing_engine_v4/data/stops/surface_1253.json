@@ -1,0 +1,18 @@
+{
+  "id": "surface_1253",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Al Nozha St)",
+    "lat": 30.09027311436882,
+    "lng": 31.341446115102542,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1253",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1151",
+  "data": {
+    "name": "Qalyub",
+    "lat": 30.181371,
+    "lng": 31.199924,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1151",
+    "isActive": true
+  }
+}

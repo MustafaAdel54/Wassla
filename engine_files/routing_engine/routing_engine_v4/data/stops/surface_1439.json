@@ -1,0 +1,18 @@
+{
+  "id": "surface_1439",
+  "data": {
+    "name": "Wonder Land Mall (Abbas Al Akkad St.)",
+    "lat": 30.048222352239595,
+    "lng": 31.339416811662925,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1439",
+    "isActive": true
+  }
+}

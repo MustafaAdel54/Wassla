@@ -1,0 +1,18 @@
+{
+  "id": "surface_1327",
+  "data": {
+    "name": "The Good Shepherd Hospital",
+    "lat": 30.076737429578657,
+    "lng": 31.245197942892826,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1327",
+    "isActive": true
+  }
+}

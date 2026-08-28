@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_baZXV2ZAVAlV2IhH2uK3S",
+  "data": {
+    "routeId": "surface_Ogi2rh_OlSM2h_wvvLGkk",
+    "tripId": "baZXV2ZAVAlV2IhH2uK3S",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Masaken Ain Shams",
+    "stops": [
+      {
+        "stopId": "surface_1677",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1680",
+        "sequence": 2,
+        "arrivalSec": 21658,
+        "departureSec": 21673
+      },
+      {
+        "stopId": "surface_753",
+        "sequence": 3,
+        "arrivalSec": 21720,
+        "departureSec": 21735
+      },
+      {
+        "stopId": "surface_781",
+        "sequence": 4,
+        "arrivalSec": 22005,
+        "departureSec": 22020
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

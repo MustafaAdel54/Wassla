@@ -1,0 +1,18 @@
+{
+  "id": "surface_2440",
+  "data": {
+    "name": "Basrawy",
+    "lat": 30.083415499999987,
+    "lng": 31.20639160000001,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2440",
+    "isActive": true
+  }
+}

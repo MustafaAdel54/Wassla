@@ -1,0 +1,18 @@
+{
+  "id": "surface_267",
+  "data": {
+    "name": "South Teseen St. Entrance",
+    "lat": 30.01301085984456,
+    "lng": 31.401003964223,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "267",
+    "isActive": true
+  }
+}

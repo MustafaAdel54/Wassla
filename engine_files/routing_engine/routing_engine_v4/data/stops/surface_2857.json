@@ -1,0 +1,18 @@
+{
+  "id": "surface_2857",
+  "data": {
+    "name": "Metro (Misr Helwan Rd.)",
+    "lat": 29.964836284247426,
+    "lng": 31.249016125950718,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2857",
+    "isActive": true
+  }
+}

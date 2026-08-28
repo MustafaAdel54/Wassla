@@ -1,0 +1,18 @@
+{
+  "id": "surface_538",
+  "data": {
+    "name": "Wadi Degla Sporting Club (6th of October)",
+    "lat": 29.9726845525907,
+    "lng": 31.005682401582785,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "538",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1461",
+  "data": {
+    "name": "Pepsico (Nasr City)",
+    "lat": 30.038673,
+    "lng": 31.346431,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1461",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_952",
+  "data": {
+    "name": "Al Fayrouz Center (6th of October)",
+    "lat": 29.957411672381852,
+    "lng": 30.94230633402655,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "952",
+    "isActive": true
+  }
+}

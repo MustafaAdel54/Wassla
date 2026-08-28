@@ -1,0 +1,18 @@
+{
+  "id": "surface_1026",
+  "data": {
+    "name": "Laylat Al Qadr Entrance",
+    "lat": 29.948961743570393,
+    "lng": 30.902270580227228,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1026",
+    "isActive": true
+  }
+}

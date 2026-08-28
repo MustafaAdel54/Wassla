@@ -1,0 +1,18 @@
+{
+  "id": "surface_2791",
+  "data": {
+    "name": "Nazlet Al Ashtar Post Office",
+    "lat": 29.951668376093444,
+    "lng": 31.199818262807376,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2791",
+    "isActive": true
+  }
+}

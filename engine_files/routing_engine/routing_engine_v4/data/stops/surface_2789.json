@@ -1,0 +1,18 @@
+{
+  "id": "surface_2789",
+  "data": {
+    "name": "New Marg",
+    "lat": 30.164436,
+    "lng": 31.338857,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2789",
+    "isActive": true
+  }
+}

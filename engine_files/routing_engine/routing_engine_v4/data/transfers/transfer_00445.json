@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00445",
+  "data": {
+    "fromStopId": "surface_2543",
+    "toStopId": "metro_23_MAD_METRO_N",
+    "distanceMeters": 177.4,
+    "estimatedMinutes": 2,
+    "confidence": "low",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

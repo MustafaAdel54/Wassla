@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_KHcngevQOr4Uw_ISBtSWC",
+  "data": {
+    "routeId": "surface_2eCfQDCqolqzBE6SOlWnJ",
+    "tripId": "KHcngevQOr4Uw_ISBtSWC",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Nozha Al Gadida (Gesr El Suez Garage)",
+    "stops": [
+      {
+        "stopId": "surface_2922",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2413",
+        "sequence": 2,
+        "arrivalSec": 22112,
+        "departureSec": 22127
+      },
+      {
+        "stopId": "surface_4",
+        "sequence": 3,
+        "arrivalSec": 22261,
+        "departureSec": 22276
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

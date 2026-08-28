@@ -1,0 +1,18 @@
+{
+  "id": "surface_2944",
+  "data": {
+    "name": "Helwan Station",
+    "lat": 29.854126339894815,
+    "lng": 31.331590747060098,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2944",
+    "isActive": true
+  }
+}

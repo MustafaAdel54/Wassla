@@ -1,0 +1,18 @@
+{
+  "id": "surface_541",
+  "data": {
+    "name": "Egyptian Media Production City",
+    "lat": 29.969402802589247,
+    "lng": 31.01783009610558,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "541",
+    "isActive": true
+  }
+}

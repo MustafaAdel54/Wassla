@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_PWCFW_a8c-PDr7QO6PoJe_O",
+  "data": {
+    "routeId": "surface_PWCFW_a8c-PDr7QO6PoJe",
+    "tripId": "PWCFW_a8c-PDr7QO6PoJe_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Badr City",
+    "stops": [
+      {
+        "stopId": "surface_17",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1399",
+        "sequence": 2,
+        "arrivalSec": 21637,
+        "departureSec": 21652
+      },
+      {
+        "stopId": "surface_2217",
+        "sequence": 3,
+        "arrivalSec": 21794,
+        "departureSec": 21809
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 4,
+        "arrivalSec": 23337,
+        "departureSec": 23352
+      },
+      {
+        "stopId": "surface_2991",
+        "sequence": 5,
+        "arrivalSec": 25929,
+        "departureSec": 25944
+      },
+      {
+        "stopId": "surface_2618",
+        "sequence": 6,
+        "arrivalSec": 26080,
+        "departureSec": 26095
+      },
+      {
+        "stopId": "surface_2620",
+        "sequence": 7,
+        "arrivalSec": 26311,
+        "departureSec": 26326
+      },
+      {
+        "stopId": "surface_2493",
+        "sequence": 8,
+        "arrivalSec": 26846,
+        "departureSec": 26861
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

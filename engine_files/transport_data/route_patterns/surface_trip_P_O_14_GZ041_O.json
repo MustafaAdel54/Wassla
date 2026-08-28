@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_GZ041_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ041",
+    "tripId": "P_O_14_GZ041_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mazghuna",
+    "stops": [
+      {
+        "stopId": "surface_2279",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2278",
+        "sequence": 2,
+        "arrivalSec": 21643,
+        "departureSec": 21658
+      },
+      {
+        "stopId": "surface_2910",
+        "sequence": 3,
+        "arrivalSec": 21700,
+        "departureSec": 21715
+      },
+      {
+        "stopId": "surface_2577",
+        "sequence": 4,
+        "arrivalSec": 22020,
+        "departureSec": 22035
+      },
+      {
+        "stopId": "surface_2575",
+        "sequence": 5,
+        "arrivalSec": 22277,
+        "departureSec": 22292
+      },
+      {
+        "stopId": "surface_2741",
+        "sequence": 6,
+        "arrivalSec": 23073,
+        "departureSec": 23088
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

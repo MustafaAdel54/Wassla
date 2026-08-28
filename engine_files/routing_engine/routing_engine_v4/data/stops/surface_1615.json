@@ -1,0 +1,18 @@
+{
+  "id": "surface_1615",
+  "data": {
+    "name": "Al Shorouq Club (Nile Corniche)",
+    "lat": 29.945821585300806,
+    "lng": 31.269641729882217,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1615",
+    "isActive": true
+  }
+}

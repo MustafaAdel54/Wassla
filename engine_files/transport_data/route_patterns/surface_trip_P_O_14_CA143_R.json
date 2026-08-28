@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_P_O_14_CA143_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA143",
+    "tripId": "P_O_14_CA143_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Hadaek EL Kobba",
+    "stops": [
+      {
+        "stopId": "surface_1746",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1748",
+        "sequence": 2,
+        "arrivalSec": 21795,
+        "departureSec": 21810
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

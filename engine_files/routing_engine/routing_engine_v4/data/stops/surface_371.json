@@ -1,0 +1,18 @@
+{
+  "id": "surface_371",
+  "data": {
+    "name": "Al Salam Mosque (Wahat Rd.)",
+    "lat": 29.96430512498368,
+    "lng": 31.034731419849493,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "371",
+    "isActive": true
+  }
+}

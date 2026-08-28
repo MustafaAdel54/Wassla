@@ -1,0 +1,18 @@
+{
+  "id": "surface_2741",
+  "data": {
+    "name": "Mazghuna",
+    "lat": 29.74476,
+    "lng": 31.26125,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2741",
+    "isActive": true
+  }
+}

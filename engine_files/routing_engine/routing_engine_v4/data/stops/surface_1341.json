@@ -1,0 +1,18 @@
+{
+  "id": "surface_1341",
+  "data": {
+    "name": "Mankaraa Gate (Hadayek Al Ahram)",
+    "lat": 29.95373045656001,
+    "lng": 31.10398881963737,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1341",
+    "isActive": true
+  }
+}

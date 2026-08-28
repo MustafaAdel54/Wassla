@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_DGJ1HD3uZfKF47ayfFXqz",
+  "data": {
+    "routeId": "surface_fyAW0vltVKbZBO8k2gEAB",
+    "tripId": "DGJ1HD3uZfKF47ayfFXqz",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Abou Zaabal",
+    "stops": [
+      {
+        "stopId": "surface_1427",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2697",
+        "sequence": 2,
+        "arrivalSec": 22093,
+        "departureSec": 22108
+      },
+      {
+        "stopId": "surface_2696",
+        "sequence": 3,
+        "arrivalSec": 22371,
+        "departureSec": 22386
+      },
+      {
+        "stopId": "surface_2695",
+        "sequence": 4,
+        "arrivalSec": 22510,
+        "departureSec": 22525
+      },
+      {
+        "stopId": "surface_92",
+        "sequence": 5,
+        "arrivalSec": 22835,
+        "departureSec": 22850
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

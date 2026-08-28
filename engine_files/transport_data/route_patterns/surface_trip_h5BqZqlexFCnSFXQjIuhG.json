@@ -1,0 +1,110 @@
+{
+  "id": "surface_trip_h5BqZqlexFCnSFXQjIuhG",
+  "data": {
+    "routeId": "surface_sKigzosL3Acf4HBsP24lt",
+    "tripId": "h5BqZqlexFCnSFXQjIuhG",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Hamd Square",
+    "stops": [
+      {
+        "stopId": "surface_751",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1253",
+        "sequence": 2,
+        "arrivalSec": 21890,
+        "departureSec": 21905
+      },
+      {
+        "stopId": "surface_1455",
+        "sequence": 3,
+        "arrivalSec": 21947,
+        "departureSec": 21962
+      },
+      {
+        "stopId": "surface_741",
+        "sequence": 4,
+        "arrivalSec": 22068,
+        "departureSec": 22083
+      },
+      {
+        "stopId": "surface_742",
+        "sequence": 5,
+        "arrivalSec": 22094,
+        "departureSec": 22109
+      },
+      {
+        "stopId": "surface_743",
+        "sequence": 6,
+        "arrivalSec": 22182,
+        "departureSec": 22197
+      },
+      {
+        "stopId": "surface_2675",
+        "sequence": 7,
+        "arrivalSec": 22358,
+        "departureSec": 22373
+      },
+      {
+        "stopId": "surface_2677",
+        "sequence": 8,
+        "arrivalSec": 22451,
+        "departureSec": 22466
+      },
+      {
+        "stopId": "surface_2729",
+        "sequence": 9,
+        "arrivalSec": 22591,
+        "departureSec": 22606
+      },
+      {
+        "stopId": "surface_2939",
+        "sequence": 10,
+        "arrivalSec": 22706,
+        "departureSec": 22721
+      },
+      {
+        "stopId": "surface_598",
+        "sequence": 11,
+        "arrivalSec": 23230,
+        "departureSec": 23245
+      },
+      {
+        "stopId": "surface_2654",
+        "sequence": 12,
+        "arrivalSec": 23405,
+        "departureSec": 23420
+      },
+      {
+        "stopId": "surface_586",
+        "sequence": 13,
+        "arrivalSec": 23877,
+        "departureSec": 23892
+      },
+      {
+        "stopId": "surface_1190",
+        "sequence": 14,
+        "arrivalSec": 23926,
+        "departureSec": 23941
+      },
+      {
+        "stopId": "surface_588",
+        "sequence": 15,
+        "arrivalSec": 24026,
+        "departureSec": 24041
+      },
+      {
+        "stopId": "surface_589",
+        "sequence": 16,
+        "arrivalSec": 24126,
+        "departureSec": 24141
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

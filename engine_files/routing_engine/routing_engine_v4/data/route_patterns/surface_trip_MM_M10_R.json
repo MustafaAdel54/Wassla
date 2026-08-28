@@ -1,0 +1,266 @@
+{
+  "id": "surface_trip_MM_M10_R",
+  "data": {
+    "routeId": "surface_MM_M10",
+    "tripId": "MM_M10_R",
+    "serviceId": "Ground_Weekdays",
+    "directionId": "1",
+    "headsign": "Abd Al Moneim Riad",
+    "stops": [
+      {
+        "stopId": "surface_1047",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_867",
+        "sequence": 2,
+        "arrivalSec": 21707,
+        "departureSec": 21722
+      },
+      {
+        "stopId": "surface_1032",
+        "sequence": 3,
+        "arrivalSec": 21775,
+        "departureSec": 21790
+      },
+      {
+        "stopId": "surface_1019",
+        "sequence": 4,
+        "arrivalSec": 21844,
+        "departureSec": 21859
+      },
+      {
+        "stopId": "surface_1074",
+        "sequence": 5,
+        "arrivalSec": 21931,
+        "departureSec": 21946
+      },
+      {
+        "stopId": "surface_1031",
+        "sequence": 6,
+        "arrivalSec": 21990,
+        "departureSec": 22005
+      },
+      {
+        "stopId": "surface_1075",
+        "sequence": 7,
+        "arrivalSec": 22048,
+        "departureSec": 22063
+      },
+      {
+        "stopId": "surface_1076",
+        "sequence": 8,
+        "arrivalSec": 22111,
+        "departureSec": 22126
+      },
+      {
+        "stopId": "surface_1077",
+        "sequence": 9,
+        "arrivalSec": 22161,
+        "departureSec": 22176
+      },
+      {
+        "stopId": "surface_1078",
+        "sequence": 10,
+        "arrivalSec": 22253,
+        "departureSec": 22268
+      },
+      {
+        "stopId": "surface_1079",
+        "sequence": 11,
+        "arrivalSec": 22310,
+        "departureSec": 22325
+      },
+      {
+        "stopId": "surface_563",
+        "sequence": 12,
+        "arrivalSec": 22426,
+        "departureSec": 22441
+      },
+      {
+        "stopId": "surface_1080",
+        "sequence": 13,
+        "arrivalSec": 22478,
+        "departureSec": 22493
+      },
+      {
+        "stopId": "surface_1369",
+        "sequence": 14,
+        "arrivalSec": 22549,
+        "departureSec": 22564
+      },
+      {
+        "stopId": "surface_1367",
+        "sequence": 15,
+        "arrivalSec": 22641,
+        "departureSec": 22656
+      },
+      {
+        "stopId": "surface_882",
+        "sequence": 16,
+        "arrivalSec": 22752,
+        "departureSec": 22767
+      },
+      {
+        "stopId": "surface_1051",
+        "sequence": 17,
+        "arrivalSec": 22846,
+        "departureSec": 22861
+      },
+      {
+        "stopId": "surface_1081",
+        "sequence": 18,
+        "arrivalSec": 22948,
+        "departureSec": 22963
+      },
+      {
+        "stopId": "surface_1084",
+        "sequence": 19,
+        "arrivalSec": 23030,
+        "departureSec": 23045
+      },
+      {
+        "stopId": "surface_325",
+        "sequence": 20,
+        "arrivalSec": 23229,
+        "departureSec": 23244
+      },
+      {
+        "stopId": "surface_619",
+        "sequence": 21,
+        "arrivalSec": 23510,
+        "departureSec": 23525
+      },
+      {
+        "stopId": "surface_240",
+        "sequence": 22,
+        "arrivalSec": 23670,
+        "departureSec": 23685
+      },
+      {
+        "stopId": "surface_241",
+        "sequence": 23,
+        "arrivalSec": 23914,
+        "departureSec": 23929
+      },
+      {
+        "stopId": "surface_242",
+        "sequence": 24,
+        "arrivalSec": 24112,
+        "departureSec": 24128
+      },
+      {
+        "stopId": "surface_243",
+        "sequence": 25,
+        "arrivalSec": 24211,
+        "departureSec": 24226
+      },
+      {
+        "stopId": "surface_244",
+        "sequence": 26,
+        "arrivalSec": 24422,
+        "departureSec": 24438
+      },
+      {
+        "stopId": "surface_2487",
+        "sequence": 27,
+        "arrivalSec": 24491,
+        "departureSec": 24506
+      },
+      {
+        "stopId": "surface_1140",
+        "sequence": 28,
+        "arrivalSec": 24542,
+        "departureSec": 24556
+      },
+      {
+        "stopId": "surface_1138",
+        "sequence": 29,
+        "arrivalSec": 24584,
+        "departureSec": 24599
+      },
+      {
+        "stopId": "surface_2398",
+        "sequence": 30,
+        "arrivalSec": 24685,
+        "departureSec": 24700
+      },
+      {
+        "stopId": "surface_246",
+        "sequence": 31,
+        "arrivalSec": 24748,
+        "departureSec": 24763
+      },
+      {
+        "stopId": "surface_247",
+        "sequence": 32,
+        "arrivalSec": 25096,
+        "departureSec": 25111
+      },
+      {
+        "stopId": "surface_228",
+        "sequence": 33,
+        "arrivalSec": 25360,
+        "departureSec": 25375
+      },
+      {
+        "stopId": "surface_229",
+        "sequence": 34,
+        "arrivalSec": 25436,
+        "departureSec": 25451
+      },
+      {
+        "stopId": "surface_276",
+        "sequence": 35,
+        "arrivalSec": 25560,
+        "departureSec": 25575
+      },
+      {
+        "stopId": "surface_146",
+        "sequence": 36,
+        "arrivalSec": 25654,
+        "departureSec": 25669
+      },
+      {
+        "stopId": "surface_153",
+        "sequence": 37,
+        "arrivalSec": 25772,
+        "departureSec": 25787
+      },
+      {
+        "stopId": "surface_249",
+        "sequence": 38,
+        "arrivalSec": 25898,
+        "departureSec": 25913
+      },
+      {
+        "stopId": "surface_222",
+        "sequence": 39,
+        "arrivalSec": 25966,
+        "departureSec": 25981
+      },
+      {
+        "stopId": "surface_2088",
+        "sequence": 40,
+        "arrivalSec": 26079,
+        "departureSec": 26094
+      },
+      {
+        "stopId": "surface_225",
+        "sequence": 41,
+        "arrivalSec": 26124,
+        "departureSec": 26139
+      },
+      {
+        "stopId": "surface_227",
+        "sequence": 42,
+        "arrivalSec": 26240,
+        "departureSec": 26255
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

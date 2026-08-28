@@ -1,0 +1,16 @@
+{
+  "id": "metro_161_ABB_METRO",
+  "data": {
+    "name": "Abbassiya",
+    "lat": 30.0697625,
+    "lng": 31.2807798,
+    "stationId": "station_metro_161_ABB_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "161_ABB_METRO",
+    "parentSourceId": "161_ABB_METRO",
+    "isActive": true
+  }
+}

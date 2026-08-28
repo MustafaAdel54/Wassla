@@ -1,0 +1,16 @@
+{
+  "id": "metro_10_HLW_METRO_N",
+  "data": {
+    "name": "Helwan",
+    "lat": 29.848824,
+    "lng": 31.334252,
+    "stationId": "station_metro_10_HLW_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "10_HLW_METRO_N",
+    "parentSourceId": "10_HLW_METRO",
+    "isActive": true
+  }
+}

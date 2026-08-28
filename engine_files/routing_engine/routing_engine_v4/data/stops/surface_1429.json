@@ -1,0 +1,18 @@
+{
+  "id": "surface_1429",
+  "data": {
+    "name": "Abo Sir Steps (Ring Rd.)",
+    "lat": 30.164620097312316,
+    "lng": 31.38841915529879,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1429",
+    "isActive": true
+  }
+}

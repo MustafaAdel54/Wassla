@@ -1,0 +1,18 @@
+{
+  "id": "surface_2330",
+  "data": {
+    "name": "Duty Free (Gameat Al Dowal St.)",
+    "lat": 30.04715,
+    "lng": 31.196345,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2330",
+    "isActive": true
+  }
+}

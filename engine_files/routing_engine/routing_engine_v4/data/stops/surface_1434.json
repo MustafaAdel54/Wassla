@@ -1,0 +1,18 @@
+{
+  "id": "surface_1434",
+  "data": {
+    "name": "Al Saa Square",
+    "lat": 30.06942,
+    "lng": 31.338237,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1434",
+    "isActive": true
+  }
+}

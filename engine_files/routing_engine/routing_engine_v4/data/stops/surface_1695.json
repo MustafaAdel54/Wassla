@@ -1,0 +1,18 @@
+{
+  "id": "surface_1695",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Merryland)",
+    "lat": 30.10057828472497,
+    "lng": 31.324721807641858,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1695",
+    "isActive": true
+  }
+}

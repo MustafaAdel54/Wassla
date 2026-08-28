@@ -1,0 +1,18 @@
+{
+  "id": "surface_1451",
+  "data": {
+    "name": "Al Ahly Sporting Club",
+    "lat": 30.071227069042916,
+    "lng": 31.35467101675552,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1451",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1655",
+  "data": {
+    "name": "Zohour City (Basateen Rd.)",
+    "lat": 29.993923511793696,
+    "lng": 31.266551048491287,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1655",
+    "isActive": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_z9gMU2rbSGj8okrDsKHUw",
+  "data": {
+    "routeId": "surface_yyGnaQQgQqV2mgxb-3iuX",
+    "tripId": "z9gMU2rbSGj8okrDsKHUw",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Saqqara",
+    "stops": [
+      {
+        "stopId": "surface_2279",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2277",
+        "sequence": 2,
+        "arrivalSec": 21810,
+        "departureSec": 21825
+      },
+      {
+        "stopId": "surface_2276",
+        "sequence": 3,
+        "arrivalSec": 22129,
+        "departureSec": 22144
+      },
+      {
+        "stopId": "surface_2275",
+        "sequence": 4,
+        "arrivalSec": 22641,
+        "departureSec": 22656
+      },
+      {
+        "stopId": "surface_70",
+        "sequence": 5,
+        "arrivalSec": 22885,
+        "departureSec": 22900
+      },
+      {
+        "stopId": "surface_71",
+        "sequence": 6,
+        "arrivalSec": 22933,
+        "departureSec": 22948
+      },
+      {
+        "stopId": "surface_2274",
+        "sequence": 7,
+        "arrivalSec": 23241,
+        "departureSec": 23256
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

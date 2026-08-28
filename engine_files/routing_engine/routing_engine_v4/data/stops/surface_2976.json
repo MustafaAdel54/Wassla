@@ -1,0 +1,18 @@
+{
+  "id": "surface_2976",
+  "data": {
+    "name": "Dar Misr - 6th of October",
+    "lat": 29.94596538530978,
+    "lng": 31.02572861506336,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2976",
+    "isActive": true
+  }
+}

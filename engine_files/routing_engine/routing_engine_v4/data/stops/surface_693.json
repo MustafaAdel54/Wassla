@@ -1,0 +1,18 @@
+{
+  "id": "surface_693",
+  "data": {
+    "name": "Al Azhar Pedestrian Bridge",
+    "lat": 30.060998905143595,
+    "lng": 31.307324873460622,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "693",
+    "isActive": true
+  }
+}

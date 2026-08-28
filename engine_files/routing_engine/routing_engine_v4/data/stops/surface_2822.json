@@ -1,0 +1,18 @@
+{
+  "id": "surface_2822",
+  "data": {
+    "name": "Gamaat Rd. (Obour)",
+    "lat": 30.14219208050506,
+    "lng": 31.691246559560433,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2822",
+    "isActive": true
+  }
+}

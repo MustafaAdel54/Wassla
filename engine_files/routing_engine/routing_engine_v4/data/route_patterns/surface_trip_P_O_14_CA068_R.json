@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_O_14_CA068_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA068",
+    "tripId": "P_O_14_CA068_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Zawya Al Hamra",
+    "stops": [
+      {
+        "stopId": "surface_2121",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1295",
+        "sequence": 2,
+        "arrivalSec": 21760,
+        "departureSec": 21775
+      },
+      {
+        "stopId": "surface_1313",
+        "sequence": 3,
+        "arrivalSec": 21791,
+        "departureSec": 21806
+      },
+      {
+        "stopId": "surface_730",
+        "sequence": 4,
+        "arrivalSec": 21924,
+        "departureSec": 21939
+      },
+      {
+        "stopId": "surface_2322",
+        "sequence": 5,
+        "arrivalSec": 22009,
+        "departureSec": 22024
+      },
+      {
+        "stopId": "surface_2235",
+        "sequence": 6,
+        "arrivalSec": 22076,
+        "departureSec": 22091
+      },
+      {
+        "stopId": "surface_29",
+        "sequence": 7,
+        "arrivalSec": 22193,
+        "departureSec": 22208
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

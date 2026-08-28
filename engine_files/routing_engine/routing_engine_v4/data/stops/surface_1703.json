@@ -1,0 +1,18 @@
+{
+  "id": "surface_1703",
+  "data": {
+    "name": "Petroleum Square (Al Marg)",
+    "lat": 30.149547356518994,
+    "lng": 31.328136844031157,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1703",
+    "isActive": true
+  }
+}

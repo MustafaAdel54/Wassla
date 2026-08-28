@@ -1,0 +1,18 @@
+{
+  "id": "surface_1773",
+  "data": {
+    "name": "Helwan University",
+    "lat": 29.86940236490341,
+    "lng": 31.320697398970587,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1773",
+    "isActive": true
+  }
+}

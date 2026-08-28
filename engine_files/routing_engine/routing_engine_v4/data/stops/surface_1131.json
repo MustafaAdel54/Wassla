@@ -1,0 +1,18 @@
+{
+  "id": "surface_1131",
+  "data": {
+    "name": "New Cairo Court Station",
+    "lat": 30.0044709,
+    "lng": 31.4258416,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1131",
+    "isActive": true
+  }
+}

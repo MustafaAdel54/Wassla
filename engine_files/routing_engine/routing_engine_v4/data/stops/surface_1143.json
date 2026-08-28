@@ -1,0 +1,18 @@
+{
+  "id": "surface_1143",
+  "data": {
+    "name": "Zahraa Metro",
+    "lat": 29.995082603299583,
+    "lng": 31.231227838104843,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1143",
+    "isActive": true
+  }
+}

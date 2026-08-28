@@ -1,0 +1,18 @@
+{
+  "id": "surface_2965",
+  "data": {
+    "name": "Al Omraneyya Al Gadida",
+    "lat": 29.988540172833087,
+    "lng": 31.189411420863546,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2965",
+    "isActive": true
+  }
+}

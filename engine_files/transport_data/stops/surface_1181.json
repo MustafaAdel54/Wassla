@@ -1,0 +1,18 @@
+{
+  "id": "surface_1181",
+  "data": {
+    "name": "Al Tawheed Wal Nour (10th of Ramadan)",
+    "lat": 30.28019230305633,
+    "lng": 31.748812183215527,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1181",
+    "isActive": true
+  }
+}

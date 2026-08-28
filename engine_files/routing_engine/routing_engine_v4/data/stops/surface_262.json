@@ -1,0 +1,18 @@
+{
+  "id": "surface_262",
+  "data": {
+    "name": "Air Force Hospital",
+    "lat": 30.016421189509614,
+    "lng": 31.433526639227985,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "262",
+    "isActive": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_u2kCvkJhyUAQnnu8Sj6SO",
+  "data": {
+    "routeId": "surface_-lI1f278TKfnCnumdD48V",
+    "tripId": "u2kCvkJhyUAQnnu8Sj6SO",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Znen (Awwel Al Eshreen)",
+    "stops": [
+      {
+        "stopId": "surface_2681",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2642",
+        "sequence": 2,
+        "arrivalSec": 21801,
+        "departureSec": 21816
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

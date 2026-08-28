@@ -1,0 +1,18 @@
+{
+  "id": "surface_181",
+  "data": {
+    "name": "Armed Forces Medical Complex (Kobry Al Qobba)",
+    "lat": 30.0859268723094,
+    "lng": 31.298040528116605,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "181",
+    "isActive": true
+  }
+}

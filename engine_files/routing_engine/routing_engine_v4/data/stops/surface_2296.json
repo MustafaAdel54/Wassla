@@ -1,0 +1,18 @@
+{
+  "id": "surface_2296",
+  "data": {
+    "name": "Al Sahel Fire Department",
+    "lat": 30.0854735,
+    "lng": 31.2453102,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2296",
+    "isActive": true
+  }
+}

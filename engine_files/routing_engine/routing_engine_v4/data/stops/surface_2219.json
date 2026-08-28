@@ -1,0 +1,18 @@
+{
+  "id": "surface_2219",
+  "data": {
+    "name": "Masaken Al Wehda",
+    "lat": 30.11950664457972,
+    "lng": 31.258416965925754,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2219",
+    "isActive": true
+  }
+}

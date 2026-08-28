@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_fdh7xAiMWXVvvGtAAwcSh",
+  "data": {
+    "routeId": "surface_YC8mSQwzG7-Amd9rDuPR1",
+    "tripId": "fdh7xAiMWXVvvGtAAwcSh",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Bashtil El Balad",
+    "stops": [
+      {
+        "stopId": "surface_81",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2500",
+        "sequence": 2,
+        "arrivalSec": 22028,
+        "departureSec": 22043
+      },
+      {
+        "stopId": "surface_80",
+        "sequence": 3,
+        "arrivalSec": 22615,
+        "departureSec": 22630
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

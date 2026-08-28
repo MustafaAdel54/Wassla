@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_1CVc7raPnIXvjdgIQv2wA",
+  "data": {
+    "routeId": "surface_aJY-YEz8s6i0ojLZgEitA",
+    "tripId": "1CVc7raPnIXvjdgIQv2wA",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Kilo 4 & Half",
+    "stops": [
+      {
+        "stopId": "surface_751",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_747",
+        "sequence": 2,
+        "arrivalSec": 21900,
+        "departureSec": 21915
+      },
+      {
+        "stopId": "surface_1504",
+        "sequence": 3,
+        "arrivalSec": 21955,
+        "departureSec": 21970
+      },
+      {
+        "stopId": "surface_6",
+        "sequence": 4,
+        "arrivalSec": 21980,
+        "departureSec": 21995
+      },
+      {
+        "stopId": "surface_2675",
+        "sequence": 5,
+        "arrivalSec": 22300,
+        "departureSec": 22315
+      },
+      {
+        "stopId": "surface_2677",
+        "sequence": 6,
+        "arrivalSec": 22393,
+        "departureSec": 22408
+      },
+      {
+        "stopId": "surface_2729",
+        "sequence": 7,
+        "arrivalSec": 22533,
+        "departureSec": 22548
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

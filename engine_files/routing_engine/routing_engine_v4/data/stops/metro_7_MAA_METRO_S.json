@@ -1,0 +1,16 @@
+{
+  "id": "metro_7_MAA_METRO_S",
+  "data": {
+    "name": "El-Maasara",
+    "lat": 29.9063622,
+    "lng": 31.2995338,
+    "stationId": "station_metro_7_MAA_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "7_MAA_METRO_S",
+    "parentSourceId": "7_MAA_METRO",
+    "isActive": true
+  }
+}

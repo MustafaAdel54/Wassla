@@ -1,0 +1,18 @@
+{
+  "id": "surface_1490",
+  "data": {
+    "name": "Mobil Gas Station (Abdel Hameed Badawy St.)",
+    "lat": 30.104605014208754,
+    "lng": 31.378260109675654,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1490",
+    "isActive": true
+  }
+}

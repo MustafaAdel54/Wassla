@@ -1,0 +1,18 @@
+{
+  "id": "surface_307",
+  "data": {
+    "name": "Emerald (New Cairo)",
+    "lat": 30.052741925643655,
+    "lng": 31.430484850078635,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "307",
+    "isActive": true
+  }
+}

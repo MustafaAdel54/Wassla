@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_M_100",
+  "data": {
+    "name": "Cairo Airport - Lebanon Square",
+    "shortName": "Minibus 100",
+    "agencyId": "surface_CTA_M",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_M_100",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

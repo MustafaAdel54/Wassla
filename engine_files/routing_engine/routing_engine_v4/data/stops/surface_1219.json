@@ -1,0 +1,18 @@
+{
+  "id": "surface_1219",
+  "data": {
+    "name": "Al Matareyya Educational Hospital",
+    "lat": 30.118302563171174,
+    "lng": 31.30414518314749,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1219",
+    "isActive": true
+  }
+}

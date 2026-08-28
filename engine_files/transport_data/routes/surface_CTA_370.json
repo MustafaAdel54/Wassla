@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_370",
+  "data": {
+    "name": "Abbasseya - Badr (Sheikh Zayed)",
+    "shortName": "CTA 370",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_370",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

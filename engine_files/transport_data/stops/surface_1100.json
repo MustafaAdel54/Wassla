@@ -1,0 +1,18 @@
+{
+  "id": "surface_1100",
+  "data": {
+    "name": "Bank Area Station (5th Settlement)",
+    "lat": 30.016949037119904,
+    "lng": 31.427849995546488,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1100",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1106",
+  "data": {
+    "name": "11th District Exit (Sheikh Zayed)",
+    "lat": 30.049054330322956,
+    "lng": 30.97692456459862,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1106",
+    "isActive": true
+  }
+}

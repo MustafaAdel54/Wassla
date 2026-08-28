@@ -1,0 +1,18 @@
+{
+  "id": "surface_1213",
+  "data": {
+    "name": "Ahmed Galal Military Passage",
+    "lat": 30.141208855681743,
+    "lng": 31.436773246829596,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1213",
+    "isActive": true
+  }
+}

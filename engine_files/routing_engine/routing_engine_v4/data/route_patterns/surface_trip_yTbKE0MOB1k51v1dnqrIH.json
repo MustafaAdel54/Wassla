@@ -1,0 +1,176 @@
+{
+  "id": "surface_trip_yTbKE0MOB1k51v1dnqrIH",
+  "data": {
+    "routeId": "surface_f_ndpqhZbBLRF7rSyRerB",
+    "tripId": "yTbKE0MOB1k51v1dnqrIH",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Haram Areesh (Sahl Hamza)",
+    "stops": [
+      {
+        "stopId": "surface_828",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_366",
+        "sequence": 2,
+        "arrivalSec": 21685,
+        "departureSec": 21700
+      },
+      {
+        "stopId": "surface_222",
+        "sequence": 3,
+        "arrivalSec": 21792,
+        "departureSec": 21808
+      },
+      {
+        "stopId": "surface_2088",
+        "sequence": 4,
+        "arrivalSec": 21901,
+        "departureSec": 21916
+      },
+      {
+        "stopId": "surface_225",
+        "sequence": 5,
+        "arrivalSec": 21948,
+        "departureSec": 21964
+      },
+      {
+        "stopId": "surface_227",
+        "sequence": 6,
+        "arrivalSec": 22096,
+        "departureSec": 22110
+      },
+      {
+        "stopId": "surface_2366",
+        "sequence": 7,
+        "arrivalSec": 22200,
+        "departureSec": 22214
+      },
+      {
+        "stopId": "surface_2357",
+        "sequence": 8,
+        "arrivalSec": 22264,
+        "departureSec": 22280
+      },
+      {
+        "stopId": "surface_2327",
+        "sequence": 9,
+        "arrivalSec": 22438,
+        "departureSec": 22452
+      },
+      {
+        "stopId": "surface_2055",
+        "sequence": 10,
+        "arrivalSec": 22606,
+        "departureSec": 22622
+      },
+      {
+        "stopId": "surface_2057",
+        "sequence": 11,
+        "arrivalSec": 22658,
+        "departureSec": 22672
+      },
+      {
+        "stopId": "surface_635",
+        "sequence": 12,
+        "arrivalSec": 22811,
+        "departureSec": 22826
+      },
+      {
+        "stopId": "surface_2181",
+        "sequence": 13,
+        "arrivalSec": 22871,
+        "departureSec": 22886
+      },
+      {
+        "stopId": "surface_2179",
+        "sequence": 14,
+        "arrivalSec": 22938,
+        "departureSec": 22952
+      },
+      {
+        "stopId": "surface_2177",
+        "sequence": 15,
+        "arrivalSec": 22972,
+        "departureSec": 22988
+      },
+      {
+        "stopId": "surface_2176",
+        "sequence": 16,
+        "arrivalSec": 23024,
+        "departureSec": 23039
+      },
+      {
+        "stopId": "surface_10",
+        "sequence": 17,
+        "arrivalSec": 23059,
+        "departureSec": 23074
+      },
+      {
+        "stopId": "surface_206",
+        "sequence": 18,
+        "arrivalSec": 23162,
+        "departureSec": 23177
+      },
+      {
+        "stopId": "surface_2476",
+        "sequence": 19,
+        "arrivalSec": 23238,
+        "departureSec": 23253
+      },
+      {
+        "stopId": "surface_2164",
+        "sequence": 20,
+        "arrivalSec": 23464,
+        "departureSec": 23479
+      },
+      {
+        "stopId": "surface_2165",
+        "sequence": 21,
+        "arrivalSec": 23616,
+        "departureSec": 23631
+      },
+      {
+        "stopId": "surface_395",
+        "sequence": 22,
+        "arrivalSec": 23883,
+        "departureSec": 23898
+      },
+      {
+        "stopId": "surface_394",
+        "sequence": 23,
+        "arrivalSec": 24028,
+        "departureSec": 24043
+      },
+      {
+        "stopId": "surface_393",
+        "sequence": 24,
+        "arrivalSec": 24146,
+        "departureSec": 24161
+      },
+      {
+        "stopId": "surface_392",
+        "sequence": 25,
+        "arrivalSec": 24270,
+        "departureSec": 24284
+      },
+      {
+        "stopId": "surface_390",
+        "sequence": 26,
+        "arrivalSec": 24470,
+        "departureSec": 24486
+      },
+      {
+        "stopId": "surface_2310",
+        "sequence": 27,
+        "arrivalSec": 24556,
+        "departureSec": 24571
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

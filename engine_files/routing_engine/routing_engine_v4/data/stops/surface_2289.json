@@ -1,0 +1,18 @@
+{
+  "id": "surface_2289",
+  "data": {
+    "name": "Al Ahli Bank (Courniche Boulaq)",
+    "lat": 30.062213599999986,
+    "lng": 31.227352899999985,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2289",
+    "isActive": true
+  }
+}

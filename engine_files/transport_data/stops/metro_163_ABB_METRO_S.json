@@ -1,0 +1,16 @@
+{
+  "id": "metro_163_ABB_METRO_S",
+  "data": {
+    "name": "Abdou Pasha",
+    "lat": 30.064673,
+    "lng": 31.274853,
+    "stationId": "station_metro_163_ABB_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "163_ABB_METRO_S",
+    "parentSourceId": "163_ABB_METRO",
+    "isActive": true
+  }
+}

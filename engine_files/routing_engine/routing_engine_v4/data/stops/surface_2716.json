@@ -1,0 +1,18 @@
+{
+  "id": "surface_2716",
+  "data": {
+    "name": "Mohamedan Light Hospital (Ain Shams)",
+    "lat": 30.126793,
+    "lng": 31.308013,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2716",
+    "isActive": true
+  }
+}

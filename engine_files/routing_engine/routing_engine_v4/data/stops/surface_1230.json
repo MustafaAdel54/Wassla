@@ -1,0 +1,18 @@
+{
+  "id": "surface_1230",
+  "data": {
+    "name": "Dar Misr Square (Shorouq City)",
+    "lat": 30.16456939331448,
+    "lng": 31.64023852775,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1230",
+    "isActive": true
+  }
+}

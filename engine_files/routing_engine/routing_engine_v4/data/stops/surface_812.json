@@ -1,0 +1,18 @@
+{
+  "id": "surface_812",
+  "data": {
+    "name": "Mashaal (Haram)",
+    "lat": 29.992138841293993,
+    "lng": 31.130269834256534,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "812",
+    "isActive": true
+  }
+}

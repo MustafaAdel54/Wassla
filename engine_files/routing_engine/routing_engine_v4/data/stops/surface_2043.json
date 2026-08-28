@@ -1,0 +1,18 @@
+{
+  "id": "surface_2043",
+  "data": {
+    "name": "Dokki Metro",
+    "lat": 30.03862670452103,
+    "lng": 31.212916172178794,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2043",
+    "isActive": true
+  }
+}

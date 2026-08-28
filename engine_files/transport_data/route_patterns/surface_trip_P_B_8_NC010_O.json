@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_B_8_NC010_O",
+  "data": {
+    "routeId": "surface_P_B_8_NC010",
+    "tripId": "P_B_8_NC010_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Mostafa Mosque",
+    "stops": [
+      {
+        "stopId": "surface_263",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_801",
+        "sequence": 2,
+        "arrivalSec": 21660,
+        "departureSec": 21675
+      },
+      {
+        "stopId": "surface_514",
+        "sequence": 3,
+        "arrivalSec": 21731,
+        "departureSec": 21746
+      },
+      {
+        "stopId": "surface_260",
+        "sequence": 4,
+        "arrivalSec": 21865,
+        "departureSec": 21880
+      },
+      {
+        "stopId": "surface_259",
+        "sequence": 5,
+        "arrivalSec": 21985,
+        "departureSec": 22000
+      },
+      {
+        "stopId": "surface_2843",
+        "sequence": 6,
+        "arrivalSec": 22046,
+        "departureSec": 22061
+      },
+      {
+        "stopId": "surface_790",
+        "sequence": 7,
+        "arrivalSec": 22110,
+        "departureSec": 22125
+      },
+      {
+        "stopId": "surface_2842",
+        "sequence": 8,
+        "arrivalSec": 22140,
+        "departureSec": 22155
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_3",
+  "data": {
+    "name": "Saad Zaghloul Metro",
+    "lat": 30.03650289492416,
+    "lng": 31.240369501124952,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3",
+    "isActive": true
+  }
+}

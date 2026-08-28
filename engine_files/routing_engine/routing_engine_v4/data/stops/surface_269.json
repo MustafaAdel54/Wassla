@@ -1,0 +1,18 @@
+{
+  "id": "surface_269",
+  "data": {
+    "name": "Baron Mall Pedestrian Bridge (Ring Rd.)",
+    "lat": 29.981975379907897,
+    "lng": 31.338407702173598,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "269",
+    "isActive": true
+  }
+}

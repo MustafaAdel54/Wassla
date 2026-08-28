@@ -1,0 +1,18 @@
+{
+  "id": "surface_2577",
+  "data": {
+    "name": "Al Tarfaya (Dahshour)",
+    "lat": 29.8305,
+    "lng": 31.27494,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2577",
+    "isActive": true
+  }
+}

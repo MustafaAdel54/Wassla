@@ -1,0 +1,18 @@
+{
+  "id": "surface_1979",
+  "data": {
+    "name": "Al Moqattam Hospital",
+    "lat": 30.020576829019358,
+    "lng": 31.243595854003715,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1979",
+    "isActive": true
+  }
+}

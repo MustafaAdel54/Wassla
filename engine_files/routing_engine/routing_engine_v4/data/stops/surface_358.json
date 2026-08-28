@@ -1,0 +1,18 @@
+{
+  "id": "surface_358",
+  "data": {
+    "name": "Al Saraya Mall (5th Settlement)",
+    "lat": 29.996315741812456,
+    "lng": 31.430637142391802,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "358",
+    "isActive": true
+  }
+}

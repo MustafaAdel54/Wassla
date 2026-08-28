@@ -1,0 +1,18 @@
+{
+  "id": "surface_299",
+  "data": {
+    "name": "Al Mothalath (Ahmed Al Zomor St.)",
+    "lat": 30.04828786011393,
+    "lng": 31.37138914985867,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "299",
+    "isActive": true
+  }
+}

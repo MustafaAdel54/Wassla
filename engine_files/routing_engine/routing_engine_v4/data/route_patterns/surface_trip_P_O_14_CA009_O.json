@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_O_14_CA009_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA009",
+    "tripId": "P_O_14_CA009_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Attaba",
+    "stops": [
+      {
+        "stopId": "surface_223",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2666",
+        "sequence": 2,
+        "arrivalSec": 21819,
+        "departureSec": 21834
+      },
+      {
+        "stopId": "surface_2667",
+        "sequence": 3,
+        "arrivalSec": 21878,
+        "departureSec": 21893
+      },
+      {
+        "stopId": "surface_2096",
+        "sequence": 4,
+        "arrivalSec": 22010,
+        "departureSec": 22025
+      },
+      {
+        "stopId": "surface_168",
+        "sequence": 5,
+        "arrivalSec": 22096,
+        "departureSec": 22111
+      },
+      {
+        "stopId": "surface_166",
+        "sequence": 6,
+        "arrivalSec": 22207,
+        "departureSec": 22222
+      },
+      {
+        "stopId": "surface_2074",
+        "sequence": 7,
+        "arrivalSec": 22325,
+        "departureSec": 22340
+      },
+      {
+        "stopId": "surface_2727",
+        "sequence": 8,
+        "arrivalSec": 22366,
+        "departureSec": 22381
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

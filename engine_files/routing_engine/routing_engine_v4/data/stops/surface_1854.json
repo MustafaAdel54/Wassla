@@ -1,0 +1,18 @@
+{
+  "id": "surface_1854",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Autostrad Maadi)",
+    "lat": 29.961705620106894,
+    "lng": 31.287447069777432,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1854",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1282",
+  "data": {
+    "name": "Icon for Construction And Development",
+    "lat": 29.893797681986072,
+    "lng": 31.3155685829559,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1282",
+    "isActive": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_P_O_14_CA150_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA150",
+    "tripId": "P_O_14_CA150_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Ramses",
+    "stops": [
+      {
+        "stopId": "surface_797",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2097",
+        "sequence": 2,
+        "arrivalSec": 21715,
+        "departureSec": 21730
+      },
+      {
+        "stopId": "surface_2762",
+        "sequence": 3,
+        "arrivalSec": 21823,
+        "departureSec": 21838
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

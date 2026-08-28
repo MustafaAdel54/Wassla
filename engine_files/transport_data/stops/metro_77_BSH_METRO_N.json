@@ -1,0 +1,16 @@
+{
+  "id": "metro_77_BSH_METRO_N",
+  "data": {
+    "name": "Bab El-Shaaria",
+    "lat": 30.0539026,
+    "lng": 31.2560177,
+    "stationId": "station_metro_77_BSH_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "77_BSH_METRO_N",
+    "parentSourceId": "77_BSH_METRO",
+    "isActive": true
+  }
+}

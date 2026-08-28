@@ -1,0 +1,18 @@
+{
+  "id": "surface_689",
+  "data": {
+    "name": "Abbaseya",
+    "lat": 30.0733336,
+    "lng": 31.2846986,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "689",
+    "isActive": true
+  }
+}

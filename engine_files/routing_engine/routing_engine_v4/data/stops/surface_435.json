@@ -1,0 +1,18 @@
+{
+  "id": "surface_435",
+  "data": {
+    "name": "Al Salam",
+    "lat": 30.154972991281447,
+    "lng": 31.408949348259014,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "435",
+    "isActive": true
+  }
+}

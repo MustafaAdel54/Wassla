@@ -1,0 +1,18 @@
+{
+  "id": "surface_316",
+  "data": {
+    "name": "Didi Mall (1st Settlement)",
+    "lat": 30.070581532316194,
+    "lng": 31.452254851959335,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "316",
+    "isActive": true
+  }
+}

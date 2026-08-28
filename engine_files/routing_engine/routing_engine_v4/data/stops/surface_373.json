@@ -1,0 +1,18 @@
+{
+  "id": "surface_373",
+  "data": {
+    "name": "Al Ashgar District",
+    "lat": 29.958163473297006,
+    "lng": 31.06736560474829,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "373",
+    "isActive": true
+  }
+}

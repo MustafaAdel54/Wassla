@@ -1,0 +1,18 @@
+{
+  "id": "surface_432",
+  "data": {
+    "name": "Ismailiya Desert Rd. & Belbeis Desert Rd.",
+    "lat": 30.150515,
+    "lng": 31.429752,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "432",
+    "isActive": true
+  }
+}

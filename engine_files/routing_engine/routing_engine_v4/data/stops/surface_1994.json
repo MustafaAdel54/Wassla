@@ -1,0 +1,18 @@
+{
+  "id": "surface_1994",
+  "data": {
+    "name": "Qadry Basha (Al Sayeda Zeinab)",
+    "lat": 30.03323,
+    "lng": 31.2456876,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1994",
+    "isActive": true
+  }
+}

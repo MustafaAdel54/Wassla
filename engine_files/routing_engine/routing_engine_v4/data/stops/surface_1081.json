@@ -1,0 +1,18 @@
+{
+  "id": "surface_1081",
+  "data": {
+    "name": "Hyper One (Sheikh Zayed)",
+    "lat": 30.029541799999983,
+    "lng": 31.0242384,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1081",
+    "isActive": true
+  }
+}

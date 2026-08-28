@@ -1,0 +1,18 @@
+{
+  "id": "surface_1760",
+  "data": {
+    "name": "Scoial Services School (Roxy)",
+    "lat": 30.091329200495178,
+    "lng": 31.30994419935918,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1760",
+    "isActive": true
+  }
+}

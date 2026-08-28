@@ -1,0 +1,18 @@
+{
+  "id": "surface_1047",
+  "data": {
+    "name": "6th Of October University",
+    "lat": 29.975695972373604,
+    "lng": 30.949853319741568,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1047",
+    "isActive": true
+  }
+}

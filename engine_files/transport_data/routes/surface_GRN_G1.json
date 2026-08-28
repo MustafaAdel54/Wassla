@@ -1,0 +1,15 @@
+{
+  "id": "surface_GRN_G1",
+  "data": {
+    "name": "7th District (Nasr City) - Masaken Dahshour",
+    "shortName": "Green G1",
+    "agencyId": "surface_GRN",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "GRN_G1",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

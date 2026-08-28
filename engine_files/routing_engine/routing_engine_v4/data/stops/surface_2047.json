@@ -1,0 +1,18 @@
+{
+  "id": "surface_2047",
+  "data": {
+    "name": "Faisal Islamic Bank (Tahrir St.)",
+    "lat": 30.039766281226623,
+    "lng": 31.218121035985064,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2047",
+    "isActive": true
+  }
+}

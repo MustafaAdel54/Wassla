@@ -1,0 +1,40 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() { return request.auth != null; }
+    function isOwner(userId) { return signedIn() && request.auth.uid == userId; }
+
+    // Read-only transport data. Writes should come through the importer/admin tooling.
+    match /agencies/{id} { allow read: if true; allow write: if false; }
+    match /stations/{id} { allow read: if true; allow write: if false; }
+    match /stops/{id} { allow read: if true; allow write: if false; }
+    match /routes/{id} { allow read: if true; allow write: if false; }
+    match /route_patterns/{id} { allow read: if true; allow write: if false; }
+    match /transfers/{id} { allow read: if true; allow write: if false; }
+
+    match /users/{userId} {
+      allow read: if isOwner(userId);
+      allow create: if isOwner(userId);
+      allow update: if isOwner(userId);
+      allow delete: if false;
+    }
+
+    match /community_routes/{id} {
+      allow read: if true;
+      allow create: if signedIn() && request.resource.data.createdBy == request.auth.uid;
+      allow update, delete: if signedIn() && resource.data.createdBy == request.auth.uid;
+    }
+
+    match /route_confirmations/{id} {
+      allow read: if true;
+      allow create: if signedIn() && request.resource.data.userId == request.auth.uid;
+      allow update, delete: if false;
+    }
+
+    match /route_reports/{id} {
+      allow read: if true;
+      allow create: if signedIn() && request.resource.data.userId == request.auth.uid;
+      allow update, delete: if false;
+    }
+  }
+}

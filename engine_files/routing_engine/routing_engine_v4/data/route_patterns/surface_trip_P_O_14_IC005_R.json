@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_P_O_14_IC005_R",
+  "data": {
+    "routeId": "surface_P_O_14_IC005",
+    "tripId": "P_O_14_IC005_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Smart Village",
+    "stops": [
+      {
+        "stopId": "surface_1141",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2782",
+        "sequence": 2,
+        "arrivalSec": 21650,
+        "departureSec": 21665
+      },
+      {
+        "stopId": "surface_570",
+        "sequence": 3,
+        "arrivalSec": 21822,
+        "departureSec": 21837
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

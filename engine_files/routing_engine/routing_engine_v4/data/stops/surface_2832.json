@@ -1,0 +1,18 @@
+{
+  "id": "surface_2832",
+  "data": {
+    "name": "Al Bassous",
+    "lat": 30.13372973861229,
+    "lng": 31.212517090845196,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2832",
+    "isActive": true
+  }
+}

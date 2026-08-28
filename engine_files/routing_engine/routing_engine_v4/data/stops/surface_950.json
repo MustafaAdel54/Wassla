@@ -1,0 +1,18 @@
+{
+  "id": "surface_950",
+  "data": {
+    "name": "Gamal Abd Al Nasser St. in Bashayer (6th of October)",
+    "lat": 29.9699762,
+    "lng": 30.9160665,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "950",
+    "isActive": true
+  }
+}

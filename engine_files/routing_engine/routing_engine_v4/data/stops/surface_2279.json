@@ -1,0 +1,18 @@
+{
+  "id": "surface_2279",
+  "data": {
+    "name": "Badrasheen Bus Station",
+    "lat": 29.8474,
+    "lng": 31.27606,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2279",
+    "isActive": true
+  }
+}

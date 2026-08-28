@@ -1,0 +1,18 @@
+{
+  "id": "surface_2900",
+  "data": {
+    "name": "Total Abou Al Gheit Rd.",
+    "lat": 30.181444225068837,
+    "lng": 31.171906577143968,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2900",
+    "isActive": true
+  }
+}

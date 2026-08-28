@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_B_8_CA149_O",
+  "data": {
+    "routeId": "surface_P_B_8_CA149",
+    "tripId": "P_B_8_CA149_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Abdullah El Refaey",
+    "stops": [
+      {
+        "stopId": "surface_2535",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_64",
+        "sequence": 2,
+        "arrivalSec": 21747,
+        "departureSec": 21762
+      },
+      {
+        "stopId": "surface_2920",
+        "sequence": 3,
+        "arrivalSec": 21827,
+        "departureSec": 21842
+      },
+      {
+        "stopId": "surface_2916",
+        "sequence": 4,
+        "arrivalSec": 21932,
+        "departureSec": 21947
+      },
+      {
+        "stopId": "surface_82",
+        "sequence": 5,
+        "arrivalSec": 22010,
+        "departureSec": 22025
+      },
+      {
+        "stopId": "surface_3034",
+        "sequence": 6,
+        "arrivalSec": 22068,
+        "departureSec": 22083
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

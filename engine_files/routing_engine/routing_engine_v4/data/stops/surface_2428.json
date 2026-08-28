@@ -1,0 +1,18 @@
+{
+  "id": "surface_2428",
+  "data": {
+    "name": "Al Shari' Al Gadeed (Bahteem)",
+    "lat": 30.135191,
+    "lng": 31.270918,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2428",
+    "isActive": true
+  }
+}

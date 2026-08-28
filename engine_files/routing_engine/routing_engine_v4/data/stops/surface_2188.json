@@ -1,0 +1,18 @@
+{
+  "id": "surface_2188",
+  "data": {
+    "name": "Om Al Masryeen Metro",
+    "lat": 30.00551001961391,
+    "lng": 31.208848100544184,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2188",
+    "isActive": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_NLhnFN-AZLG1wVpotyGX4",
+  "data": {
+    "routeId": "surface_zB2dG9TMv7AhP64pVaI2B",
+    "tripId": "NLhnFN-AZLG1wVpotyGX4",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Zahraa Madinet Nasr",
+    "stops": [
+      {
+        "stopId": "surface_304",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_305",
+        "sequence": 2,
+        "arrivalSec": 21681,
+        "departureSec": 21696
+      },
+      {
+        "stopId": "surface_169",
+        "sequence": 3,
+        "arrivalSec": 21806,
+        "departureSec": 21821
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

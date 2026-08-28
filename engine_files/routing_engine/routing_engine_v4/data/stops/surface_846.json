@@ -1,0 +1,18 @@
+{
+  "id": "surface_846",
+  "data": {
+    "name": "Asaer Al Fardous (6th of October)",
+    "lat": 29.95117612483227,
+    "lng": 30.900498934253665,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "846",
+    "isActive": true
+  }
+}

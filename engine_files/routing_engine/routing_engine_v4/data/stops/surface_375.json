@@ -1,0 +1,18 @@
+{
+  "id": "surface_375",
+  "data": {
+    "name": "Ebny Baitak (Wahat Rd.)",
+    "lat": 29.955968230060197,
+    "lng": 31.07861747787833,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "375",
+    "isActive": true
+  }
+}

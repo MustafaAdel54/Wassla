@@ -1,0 +1,18 @@
+{
+  "id": "surface_737",
+  "data": {
+    "name": "Teraat Al Gabal St.",
+    "lat": 30.101853192994202,
+    "lng": 31.305701097970008,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "737",
+    "isActive": true
+  }
+}

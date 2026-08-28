@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_oh5QdEhlMfv9RI2IlguZe",
+  "data": {
+    "routeId": "surface_LpiM9b8bL-w2_OYYAi9OZ",
+    "tripId": "oh5QdEhlMfv9RI2IlguZe",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Bulaq Al Dakrur",
+    "stops": [
+      {
+        "stopId": "surface_2259",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2273",
+        "sequence": 2,
+        "arrivalSec": 21667,
+        "departureSec": 21682
+      },
+      {
+        "stopId": "surface_2271",
+        "sequence": 3,
+        "arrivalSec": 21742,
+        "departureSec": 21757
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

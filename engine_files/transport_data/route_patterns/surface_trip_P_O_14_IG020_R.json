@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_P_O_14_IG020_R",
+  "data": {
+    "routeId": "surface_P_O_14_IG020",
+    "tripId": "P_O_14_IG020_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Abou Al Reesh",
+    "stops": [
+      {
+        "stopId": "surface_636",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1133",
+        "sequence": 2,
+        "arrivalSec": 21678,
+        "departureSec": 21693
+      },
+      {
+        "stopId": "surface_663",
+        "sequence": 3,
+        "arrivalSec": 21830,
+        "departureSec": 21845
+      },
+      {
+        "stopId": "surface_207",
+        "sequence": 4,
+        "arrivalSec": 22069,
+        "departureSec": 22084
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

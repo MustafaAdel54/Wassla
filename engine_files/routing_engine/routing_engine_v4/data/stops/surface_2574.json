@@ -1,0 +1,18 @@
+{
+  "id": "surface_2574",
+  "data": {
+    "name": "Badr Pharmacy (Helwan Corniche)",
+    "lat": 29.816460530831165,
+    "lng": 31.30071021875766,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2574",
+    "isActive": true
+  }
+}

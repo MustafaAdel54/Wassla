@@ -1,0 +1,18 @@
+{
+  "id": "surface_1821",
+  "data": {
+    "name": "Total (Haram Marioteya)",
+    "lat": 29.99084952418166,
+    "lng": 31.15237749109477,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1821",
+    "isActive": true
+  }
+}

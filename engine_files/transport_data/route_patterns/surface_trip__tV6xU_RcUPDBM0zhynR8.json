@@ -1,0 +1,152 @@
+{
+  "id": "surface_trip__tV6xU_RcUPDBM0zhynR8",
+  "data": {
+    "routeId": "surface_YiqckBVvySeTMxSuhIb93",
+    "tripId": "_tV6xU_RcUPDBM0zhynR8",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Abd Al Moneim Riad",
+    "stops": [
+      {
+        "stopId": "surface_1404",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1597",
+        "sequence": 2,
+        "arrivalSec": 21792,
+        "departureSec": 21807
+      },
+      {
+        "stopId": "surface_2786",
+        "sequence": 3,
+        "arrivalSec": 21985,
+        "departureSec": 22000
+      },
+      {
+        "stopId": "surface_2699",
+        "sequence": 4,
+        "arrivalSec": 22045,
+        "departureSec": 22060
+      },
+      {
+        "stopId": "surface_1603",
+        "sequence": 5,
+        "arrivalSec": 22180,
+        "departureSec": 22195
+      },
+      {
+        "stopId": "surface_1605",
+        "sequence": 6,
+        "arrivalSec": 22328,
+        "departureSec": 22343
+      },
+      {
+        "stopId": "surface_1600",
+        "sequence": 7,
+        "arrivalSec": 22382,
+        "departureSec": 22397
+      },
+      {
+        "stopId": "surface_1601",
+        "sequence": 8,
+        "arrivalSec": 22428,
+        "departureSec": 22443
+      },
+      {
+        "stopId": "surface_155",
+        "sequence": 9,
+        "arrivalSec": 22822,
+        "departureSec": 22838
+      },
+      {
+        "stopId": "surface_1276",
+        "sequence": 10,
+        "arrivalSec": 22900,
+        "departureSec": 22914
+      },
+      {
+        "stopId": "surface_1607",
+        "sequence": 11,
+        "arrivalSec": 22954,
+        "departureSec": 22970
+      },
+      {
+        "stopId": "surface_156",
+        "sequence": 12,
+        "arrivalSec": 23008,
+        "departureSec": 23022
+      },
+      {
+        "stopId": "surface_157",
+        "sequence": 13,
+        "arrivalSec": 23076,
+        "departureSec": 23092
+      },
+      {
+        "stopId": "surface_1951",
+        "sequence": 14,
+        "arrivalSec": 23244,
+        "departureSec": 23260
+      },
+      {
+        "stopId": "surface_158",
+        "sequence": 15,
+        "arrivalSec": 23294,
+        "departureSec": 23310
+      },
+      {
+        "stopId": "surface_1953",
+        "sequence": 16,
+        "arrivalSec": 23366,
+        "departureSec": 23382
+      },
+      {
+        "stopId": "surface_1944",
+        "sequence": 17,
+        "arrivalSec": 23444,
+        "departureSec": 23460
+      },
+      {
+        "stopId": "surface_1942",
+        "sequence": 18,
+        "arrivalSec": 23512,
+        "departureSec": 23526
+      },
+      {
+        "stopId": "surface_1935",
+        "sequence": 19,
+        "arrivalSec": 23566,
+        "departureSec": 23582
+      },
+      {
+        "stopId": "surface_160",
+        "sequence": 20,
+        "arrivalSec": 23680,
+        "departureSec": 23694
+      },
+      {
+        "stopId": "surface_1939",
+        "sequence": 21,
+        "arrivalSec": 23762,
+        "departureSec": 23778
+      },
+      {
+        "stopId": "surface_2062",
+        "sequence": 22,
+        "arrivalSec": 24000,
+        "departureSec": 24015
+      },
+      {
+        "stopId": "surface_2064",
+        "sequence": 23,
+        "arrivalSec": 24177,
+        "departureSec": 24192
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

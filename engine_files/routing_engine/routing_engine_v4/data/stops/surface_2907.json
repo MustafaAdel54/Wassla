@@ -1,0 +1,18 @@
+{
+  "id": "surface_2907",
+  "data": {
+    "name": "Al Qanater Al Khayriya",
+    "lat": 30.194876,
+    "lng": 31.133083,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2907",
+    "isActive": true
+  }
+}

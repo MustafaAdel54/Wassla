@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_BOX_6O028_O",
+  "data": {
+    "routeId": "surface_BOX_6O028",
+    "tripId": "BOX_6O028_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Masaken Othman (6th of October)",
+    "stops": [
+      {
+        "stopId": "surface_1149",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_870",
+        "sequence": 2,
+        "arrivalSec": 21825,
+        "departureSec": 21840
+      },
+      {
+        "stopId": "surface_902",
+        "sequence": 3,
+        "arrivalSec": 22271,
+        "departureSec": 22286
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

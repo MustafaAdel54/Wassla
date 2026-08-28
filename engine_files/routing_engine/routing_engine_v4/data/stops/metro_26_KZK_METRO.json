@@ -1,0 +1,16 @@
+{
+  "id": "metro_26_KZK_METRO",
+  "data": {
+    "name": "Kozzika",
+    "lat": 29.9364531,
+    "lng": 31.2814236,
+    "stationId": "station_metro_26_KZK_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "26_KZK_METRO",
+    "parentSourceId": "26_KZK_METRO",
+    "isActive": true
+  }
+}

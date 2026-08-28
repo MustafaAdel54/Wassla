@@ -1,0 +1,18 @@
+{
+  "id": "surface_2714",
+  "data": {
+    "name": "Turnery Mechanical Workshop (Al Matareyya)",
+    "lat": 30.130396696790164,
+    "lng": 31.31046860869645,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2714",
+    "isActive": true
+  }
+}

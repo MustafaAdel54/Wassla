@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_PWCFW_a8c-PDr7QO6PoJe_R",
+  "data": {
+    "routeId": "surface_PWCFW_a8c-PDr7QO6PoJe",
+    "tripId": "PWCFW_a8c-PDr7QO6PoJe_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Qalyoub Exit",
+    "stops": [
+      {
+        "stopId": "surface_2493",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2867",
+        "sequence": 2,
+        "arrivalSec": 21823,
+        "departureSec": 21838
+      },
+      {
+        "stopId": "surface_2621",
+        "sequence": 3,
+        "arrivalSec": 21997,
+        "departureSec": 22012
+      },
+      {
+        "stopId": "surface_2619",
+        "sequence": 4,
+        "arrivalSec": 22088,
+        "departureSec": 22103
+      },
+      {
+        "stopId": "surface_2617",
+        "sequence": 5,
+        "arrivalSec": 22716,
+        "departureSec": 22731
+      },
+      {
+        "stopId": "surface_1306",
+        "sequence": 6,
+        "arrivalSec": 26551,
+        "departureSec": 26566
+      },
+      {
+        "stopId": "surface_760",
+        "sequence": 7,
+        "arrivalSec": 26858,
+        "departureSec": 26873
+      },
+      {
+        "stopId": "surface_2216",
+        "sequence": 8,
+        "arrivalSec": 27040,
+        "departureSec": 27055
+      },
+      {
+        "stopId": "surface_440",
+        "sequence": 9,
+        "arrivalSec": 27092,
+        "departureSec": 27107
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

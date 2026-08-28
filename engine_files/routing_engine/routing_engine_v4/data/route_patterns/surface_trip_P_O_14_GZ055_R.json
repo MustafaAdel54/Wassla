@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_O_14_GZ055_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ055",
+    "tripId": "P_O_14_GZ055_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Shabramant",
+    "stops": [
+      {
+        "stopId": "surface_2794",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2744",
+        "sequence": 2,
+        "arrivalSec": 21621,
+        "departureSec": 21636
+      },
+      {
+        "stopId": "surface_2743",
+        "sequence": 3,
+        "arrivalSec": 21642,
+        "departureSec": 21657
+      },
+      {
+        "stopId": "surface_2793",
+        "sequence": 4,
+        "arrivalSec": 21849,
+        "departureSec": 21864
+      },
+      {
+        "stopId": "surface_2792",
+        "sequence": 5,
+        "arrivalSec": 21940,
+        "departureSec": 21955
+      },
+      {
+        "stopId": "surface_2791",
+        "sequence": 6,
+        "arrivalSec": 22114,
+        "departureSec": 22129
+      },
+      {
+        "stopId": "surface_2835",
+        "sequence": 7,
+        "arrivalSec": 22265,
+        "departureSec": 22280
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

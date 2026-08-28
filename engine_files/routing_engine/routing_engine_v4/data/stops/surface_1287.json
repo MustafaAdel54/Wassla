@@ -1,0 +1,18 @@
+{
+  "id": "surface_1287",
+  "data": {
+    "name": "Cairo Economic Court (Ring Rd.)",
+    "lat": 29.987778,
+    "lng": 31.303753,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1287",
+    "isActive": true
+  }
+}

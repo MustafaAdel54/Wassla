@@ -1,0 +1,18 @@
+{
+  "id": "surface_407",
+  "data": {
+    "name": "Plaza Club (Obour)",
+    "lat": 30.252202429932094,
+    "lng": 31.463654707039588,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "407",
+    "isActive": true
+  }
+}

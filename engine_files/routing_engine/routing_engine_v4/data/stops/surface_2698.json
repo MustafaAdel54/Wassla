@@ -1,0 +1,18 @@
+{
+  "id": "surface_2698",
+  "data": {
+    "name": "Ahmed Zaki St. (Maadi)",
+    "lat": 29.96462858441083,
+    "lng": 31.260936887962096,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2698",
+    "isActive": true
+  }
+}

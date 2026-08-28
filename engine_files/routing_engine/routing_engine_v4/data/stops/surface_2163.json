@@ -1,0 +1,18 @@
+{
+  "id": "surface_2163",
+  "data": {
+    "name": "Arts Academy (Al Omraneyya )",
+    "lat": 29.99834991,
+    "lng": 31.20017052,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2163",
+    "isActive": true
+  }
+}

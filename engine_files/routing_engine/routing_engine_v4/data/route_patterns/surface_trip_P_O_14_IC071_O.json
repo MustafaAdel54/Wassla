@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_IC071_O",
+  "data": {
+    "routeId": "surface_P_O_14_IC071",
+    "tripId": "P_O_14_IC071_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Helwan Metro",
+    "stops": [
+      {
+        "stopId": "surface_1793",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1792",
+        "sequence": 2,
+        "arrivalSec": 21672,
+        "departureSec": 21687
+      },
+      {
+        "stopId": "surface_2591",
+        "sequence": 3,
+        "arrivalSec": 22124,
+        "departureSec": 22139
+      },
+      {
+        "stopId": "surface_2933",
+        "sequence": 4,
+        "arrivalSec": 22322,
+        "departureSec": 22337
+      },
+      {
+        "stopId": "surface_2602",
+        "sequence": 5,
+        "arrivalSec": 22605,
+        "departureSec": 22620
+      },
+      {
+        "stopId": "surface_1774",
+        "sequence": 6,
+        "arrivalSec": 22836,
+        "departureSec": 22851
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

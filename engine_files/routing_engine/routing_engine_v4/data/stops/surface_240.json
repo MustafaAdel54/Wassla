@@ -1,0 +1,18 @@
+{
+  "id": "surface_240",
+  "data": {
+    "name": "Al Marioteya Rd. & 26th of July Corridor",
+    "lat": 30.064991511439576,
+    "lng": 31.12640373427918,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "240",
+    "isActive": true
+  }
+}

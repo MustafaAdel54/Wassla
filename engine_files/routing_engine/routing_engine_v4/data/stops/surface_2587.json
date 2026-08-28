@@ -1,0 +1,18 @@
+{
+  "id": "surface_2587",
+  "data": {
+    "name": "Ragab Sons (Al Magzar Mariouteya)",
+    "lat": 29.976965825742553,
+    "lng": 31.16219370024728,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2587",
+    "isActive": true
+  }
+}

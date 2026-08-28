@@ -1,0 +1,18 @@
+{
+  "id": "surface_1016",
+  "data": {
+    "name": "Al Yasmine Compound Gate 3 (Sheikh Zayed)",
+    "lat": 30.0526522205671,
+    "lng": 30.990991983601262,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1016",
+    "isActive": true
+  }
+}

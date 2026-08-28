@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_O_14_IG056_O",
+  "data": {
+    "routeId": "surface_P_O_14_IG056",
+    "tripId": "P_O_14_IG056_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Kolleyet Al Zeraah (Ain Shams University)",
+    "stops": [
+      {
+        "stopId": "surface_1843",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1311",
+        "sequence": 2,
+        "arrivalSec": 21706,
+        "departureSec": 21721
+      },
+      {
+        "stopId": "surface_2427",
+        "sequence": 3,
+        "arrivalSec": 21765,
+        "departureSec": 21780
+      },
+      {
+        "stopId": "surface_784",
+        "sequence": 4,
+        "arrivalSec": 21844,
+        "departureSec": 21859
+      },
+      {
+        "stopId": "surface_1301",
+        "sequence": 5,
+        "arrivalSec": 21904,
+        "departureSec": 21919
+      },
+      {
+        "stopId": "surface_1845",
+        "sequence": 6,
+        "arrivalSec": 22167,
+        "departureSec": 22182
+      },
+      {
+        "stopId": "surface_2231",
+        "sequence": 7,
+        "arrivalSec": 22294,
+        "departureSec": 22309
+      },
+      {
+        "stopId": "surface_2221",
+        "sequence": 8,
+        "arrivalSec": 22399,
+        "departureSec": 22414
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

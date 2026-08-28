@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_XVQbEYXGijXqhWsDJIFQS",
+  "data": {
+    "routeId": "surface_yW2PB6nRIGF3AW92oa9Kq",
+    "tripId": "XVQbEYXGijXqhWsDJIFQS",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Sheikh Zayed General Hospital",
+    "stops": [
+      {
+        "stopId": "surface_1024",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1061",
+        "sequence": 2,
+        "arrivalSec": 21734,
+        "departureSec": 21749
+      },
+      {
+        "stopId": "surface_1065",
+        "sequence": 3,
+        "arrivalSec": 21787,
+        "departureSec": 21802
+      },
+      {
+        "stopId": "surface_943",
+        "sequence": 4,
+        "arrivalSec": 21839,
+        "departureSec": 21854
+      },
+      {
+        "stopId": "surface_1021",
+        "sequence": 5,
+        "arrivalSec": 21884,
+        "departureSec": 21899
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_PmWJUPOFpmKcT200Qq2Xd",
+  "data": {
+    "routeId": "surface_5n-gry5iuNS4TUoZAFqXI",
+    "tripId": "PmWJUPOFpmKcT200Qq2Xd",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Rehab - Gate 6",
+    "stops": [
+      {
+        "stopId": "surface_1098",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 2,
+        "arrivalSec": 21735,
+        "departureSec": 21750
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 3,
+        "arrivalSec": 21803,
+        "departureSec": 21818
+      },
+      {
+        "stopId": "surface_1213",
+        "sequence": 4,
+        "arrivalSec": 21980,
+        "departureSec": 21995
+      },
+      {
+        "stopId": "surface_3021",
+        "sequence": 5,
+        "arrivalSec": 22931,
+        "departureSec": 22946
+      },
+      {
+        "stopId": "surface_3018",
+        "sequence": 6,
+        "arrivalSec": 23050,
+        "departureSec": 23065
+      },
+      {
+        "stopId": "surface_582",
+        "sequence": 7,
+        "arrivalSec": 23499,
+        "departureSec": 23514
+      },
+      {
+        "stopId": "surface_584",
+        "sequence": 8,
+        "arrivalSec": 23619,
+        "departureSec": 23634
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

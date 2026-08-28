@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_990",
+  "data": {
+    "name": "Masaken Ain Shams - Motseian",
+    "shortName": "CTA 990",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_990",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

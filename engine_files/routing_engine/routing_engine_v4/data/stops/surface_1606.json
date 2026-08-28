@@ -1,0 +1,18 @@
+{
+  "id": "surface_1606",
+  "data": {
+    "name": "Maadi Military Hospital",
+    "lat": 29.967925,
+    "lng": 31.239506,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1606",
+    "isActive": true
+  }
+}

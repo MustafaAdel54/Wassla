@@ -1,0 +1,18 @@
+{
+  "id": "surface_3025",
+  "data": {
+    "name": "Masaken dahshour terminal",
+    "lat": 29.8916,
+    "lng": 31.06489,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3025",
+    "isActive": true
+  }
+}

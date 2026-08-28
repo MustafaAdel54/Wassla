@@ -1,0 +1,18 @@
+{
+  "id": "surface_216",
+  "data": {
+    "name": "Imbaba Fevers Hospital",
+    "lat": 30.083833598369992,
+    "lng": 31.225987459903525,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "216",
+    "isActive": true
+  }
+}

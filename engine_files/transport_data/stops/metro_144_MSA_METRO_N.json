@@ -1,0 +1,16 @@
+{
+  "id": "metro_144_MSA_METRO_N",
+  "data": {
+    "name": "Masarra",
+    "lat": 30.0708952,
+    "lng": 31.2451011,
+    "stationId": "station_metro_144_MSA_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "144_MSA_METRO_N",
+    "parentSourceId": "144_MSA_METRO",
+    "isActive": true
+  }
+}

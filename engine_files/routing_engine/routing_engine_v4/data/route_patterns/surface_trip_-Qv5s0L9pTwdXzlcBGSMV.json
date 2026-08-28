@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_-Qv5s0L9pTwdXzlcBGSMV",
+  "data": {
+    "routeId": "surface_oBfdc8gljJblvRbAa0dmX",
+    "tripId": "-Qv5s0L9pTwdXzlcBGSMV",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "7th District (Nasr City)",
+    "stops": [
+      {
+        "stopId": "surface_300",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_299",
+        "sequence": 2,
+        "arrivalSec": 21646,
+        "departureSec": 21661
+      },
+      {
+        "stopId": "surface_298",
+        "sequence": 3,
+        "arrivalSec": 21712,
+        "departureSec": 21727
+      },
+      {
+        "stopId": "surface_1459",
+        "sequence": 4,
+        "arrivalSec": 22174,
+        "departureSec": 22189
+      },
+      {
+        "stopId": "surface_203",
+        "sequence": 5,
+        "arrivalSec": 22253,
+        "departureSec": 22268
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

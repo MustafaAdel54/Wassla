@@ -1,0 +1,18 @@
+{
+  "id": "surface_2182",
+  "data": {
+    "name": "Faculty of Engineering (Cairo University)",
+    "lat": 30.02497002183266,
+    "lng": 31.21103679967561,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2182",
+    "isActive": true
+  }
+}

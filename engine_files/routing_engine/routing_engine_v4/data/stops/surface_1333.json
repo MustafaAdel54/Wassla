@@ -1,0 +1,18 @@
+{
+  "id": "surface_1333",
+  "data": {
+    "name": "Vodafone (Imbaba)",
+    "lat": 30.07212617039917,
+    "lng": 31.209367965291506,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1333",
+    "isActive": true
+  }
+}

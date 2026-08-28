@@ -1,0 +1,18 @@
+{
+  "id": "surface_629",
+  "data": {
+    "name": "Ministry Of Youth And Sports",
+    "lat": 30.060810924112005,
+    "lng": 31.205017720094993,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "629",
+    "isActive": true
+  }
+}

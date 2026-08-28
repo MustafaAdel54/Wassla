@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_794",
+  "data": {
+    "name": "Giza Square - Masaken Sheraton",
+    "shortName": "CTA 794",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_794",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

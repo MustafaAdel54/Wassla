@@ -1,0 +1,18 @@
+{
+  "id": "surface_904",
+  "data": {
+    "name": "Ceramica Cleopatra (Sheikh Zayed)",
+    "lat": 30.025882197509656,
+    "lng": 31.016517484391887,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "904",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_757",
+  "data": {
+    "name": "Ring Rd. Steps to New Marg",
+    "lat": 30.163392839827154,
+    "lng": 31.341467841946834,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "757",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_132",
+  "data": {
+    "name": "Al Itihadeya",
+    "lat": 30.0903,
+    "lng": 31.319857,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "132",
+    "isActive": true
+  }
+}

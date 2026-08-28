@@ -1,0 +1,74 @@
+{
+  "id": "surface_trip_P_O_14_CA085_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA085",
+    "tripId": "P_O_14_CA085_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "7th District (Nasr City)",
+    "stops": [
+      {
+        "stopId": "surface_723",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2798",
+        "sequence": 2,
+        "arrivalSec": 21633,
+        "departureSec": 21648
+      },
+      {
+        "stopId": "surface_2029",
+        "sequence": 3,
+        "arrivalSec": 21803,
+        "departureSec": 21818
+      },
+      {
+        "stopId": "surface_725",
+        "sequence": 4,
+        "arrivalSec": 21873,
+        "departureSec": 21888
+      },
+      {
+        "stopId": "surface_695",
+        "sequence": 5,
+        "arrivalSec": 22089,
+        "departureSec": 22104
+      },
+      {
+        "stopId": "surface_12",
+        "sequence": 6,
+        "arrivalSec": 22319,
+        "departureSec": 22334
+      },
+      {
+        "stopId": "surface_512",
+        "sequence": 7,
+        "arrivalSec": 22351,
+        "departureSec": 22366
+      },
+      {
+        "stopId": "surface_290",
+        "sequence": 8,
+        "arrivalSec": 22398,
+        "departureSec": 22413
+      },
+      {
+        "stopId": "surface_289",
+        "sequence": 9,
+        "arrivalSec": 22467,
+        "departureSec": 22482
+      },
+      {
+        "stopId": "surface_75",
+        "sequence": 10,
+        "arrivalSec": 22621,
+        "departureSec": 22636
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

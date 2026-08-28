@@ -1,0 +1,18 @@
+{
+  "id": "surface_2388",
+  "data": {
+    "name": "Kabdet Al Prince (Imbaba)",
+    "lat": 30.0806589,
+    "lng": 31.2192667,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2388",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_571",
+  "data": {
+    "name": "Smart Village",
+    "lat": 30.06364644762095,
+    "lng": 31.02406097720327,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "571",
+    "isActive": true
+  }
+}

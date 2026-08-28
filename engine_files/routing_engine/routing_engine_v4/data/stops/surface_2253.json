@@ -1,0 +1,18 @@
+{
+  "id": "surface_2253",
+  "data": {
+    "name": "Coop (Nasr Al Islam Square)",
+    "lat": 30.08814193617412,
+    "lng": 31.2536082620611,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2253",
+    "isActive": true
+  }
+}

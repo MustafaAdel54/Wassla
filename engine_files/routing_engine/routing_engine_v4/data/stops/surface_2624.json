@@ -1,0 +1,18 @@
+{
+  "id": "surface_2624",
+  "data": {
+    "name": "Egyptian Russian University",
+    "lat": 30.1397519,
+    "lng": 31.717984800000014,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2624",
+    "isActive": true
+  }
+}

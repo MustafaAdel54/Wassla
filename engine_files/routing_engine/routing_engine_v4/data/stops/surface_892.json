@@ -1,0 +1,18 @@
+{
+  "id": "surface_892",
+  "data": {
+    "name": "Al Hedaya Mosque (6th of October)",
+    "lat": 29.928030387998128,
+    "lng": 30.94319125706115,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "892",
+    "isActive": true
+  }
+}

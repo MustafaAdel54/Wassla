@@ -1,0 +1,18 @@
+{
+  "id": "surface_1233",
+  "data": {
+    "name": "Misr International University (MIU) (Obour)",
+    "lat": 30.166184060802873,
+    "lng": 31.49231613849565,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1233",
+    "isActive": true
+  }
+}

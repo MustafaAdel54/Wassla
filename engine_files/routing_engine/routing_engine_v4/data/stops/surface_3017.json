@@ -1,0 +1,18 @@
+{
+  "id": "surface_3017",
+  "data": {
+    "name": "Mohamed Naguib Axis intersection",
+    "lat": 30.08326462965672,
+    "lng": 31.470764735678078,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3017",
+    "isActive": true
+  }
+}

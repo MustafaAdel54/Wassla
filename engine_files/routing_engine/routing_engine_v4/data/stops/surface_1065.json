@@ -1,0 +1,18 @@
+{
+  "id": "surface_1065",
+  "data": {
+    "name": "Azhari Institute",
+    "lat": 30.037364364072985,
+    "lng": 31.009300844035543,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1065",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1034",
+  "data": {
+    "name": "Al Hekma Pharmaceutical Company - 6th of October",
+    "lat": 29.933573033974984,
+    "lng": 30.89070302820026,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1034",
+    "isActive": true
+  }
+}

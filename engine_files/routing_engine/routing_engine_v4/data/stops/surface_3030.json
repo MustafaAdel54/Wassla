@@ -1,0 +1,18 @@
+{
+  "id": "surface_3030",
+  "data": {
+    "name": "Masaken Dahshour - Hassan Mall",
+    "lat": 29.924421747164534,
+    "lng": 31.030285617452698,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3030",
+    "isActive": true
+  }
+}

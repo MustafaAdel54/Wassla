@@ -1,0 +1,18 @@
+{
+  "id": "surface_2402",
+  "data": {
+    "name": "Giza Directorate of Health Affairs",
+    "lat": 30.067879,
+    "lng": 31.1934722,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2402",
+    "isActive": true
+  }
+}

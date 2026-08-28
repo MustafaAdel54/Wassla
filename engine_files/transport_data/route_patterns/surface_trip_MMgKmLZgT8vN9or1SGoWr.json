@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_MMgKmLZgT8vN9or1SGoWr",
+  "data": {
+    "routeId": "surface_K1dlRvEAwUViQaG-pJKjN",
+    "tripId": "MMgKmLZgT8vN9or1SGoWr",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "New Marg",
+    "stops": [
+      {
+        "stopId": "surface_756",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_455",
+        "sequence": 2,
+        "arrivalSec": 21672,
+        "departureSec": 21687
+      },
+      {
+        "stopId": "surface_1224",
+        "sequence": 3,
+        "arrivalSec": 21801,
+        "departureSec": 21816
+      },
+      {
+        "stopId": "surface_466",
+        "sequence": 4,
+        "arrivalSec": 21939,
+        "departureSec": 21954
+      },
+      {
+        "stopId": "surface_437",
+        "sequence": 5,
+        "arrivalSec": 22153,
+        "departureSec": 22168
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

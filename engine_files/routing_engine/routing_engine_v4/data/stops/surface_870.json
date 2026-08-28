@@ -1,0 +1,18 @@
+{
+  "id": "surface_870",
+  "data": {
+    "name": "Al Nour Mosque (6th of October)",
+    "lat": 29.9233461,
+    "lng": 30.935284099999986,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "870",
+    "isActive": true
+  }
+}

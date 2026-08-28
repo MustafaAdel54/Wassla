@@ -1,0 +1,18 @@
+{
+  "id": "surface_1497",
+  "data": {
+    "name": "Al Sayeda Khadija Mosque",
+    "lat": 30.11773024889941,
+    "lng": 31.355620333197667,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1497",
+    "isActive": true
+  }
+}

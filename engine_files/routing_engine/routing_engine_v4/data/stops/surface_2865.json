@@ -1,0 +1,18 @@
+{
+  "id": "surface_2865",
+  "data": {
+    "name": "R2 (New Administrative Capital)",
+    "lat": 30.02463,
+    "lng": 31.677358,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2865",
+    "isActive": true
+  }
+}

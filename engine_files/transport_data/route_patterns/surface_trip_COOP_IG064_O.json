@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_COOP_IG064_O",
+  "data": {
+    "routeId": "surface_COOP_IG064",
+    "tripId": "COOP_IG064_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Imbaba",
+    "stops": [
+      {
+        "stopId": "surface_828",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2282",
+        "sequence": 2,
+        "arrivalSec": 21695,
+        "departureSec": 21710
+      },
+      {
+        "stopId": "surface_2286",
+        "sequence": 3,
+        "arrivalSec": 21781,
+        "departureSec": 21796
+      },
+      {
+        "stopId": "surface_2728",
+        "sequence": 4,
+        "arrivalSec": 22001,
+        "departureSec": 22016
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

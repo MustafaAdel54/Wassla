@@ -1,0 +1,18 @@
+{
+  "id": "surface_1758",
+  "data": {
+    "name": "Al Nady St. & Al Khalifa Al Mamoun St.",
+    "lat": 30.09050135,
+    "lng": 31.31238555,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1758",
+    "isActive": true
+  }
+}

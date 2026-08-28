@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_WsYcWvIy1KsmM6MWP4vnx",
+  "data": {
+    "routeId": "surface_fKnTlCkWALIgjxXU63NNV",
+    "tripId": "WsYcWvIy1KsmM6MWP4vnx",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Shabramant",
+    "stops": [
+      {
+        "stopId": "surface_2424",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2589",
+        "sequence": 2,
+        "arrivalSec": 21632,
+        "departureSec": 21647
+      },
+      {
+        "stopId": "surface_2884",
+        "sequence": 3,
+        "arrivalSec": 21887,
+        "departureSec": 21902
+      },
+      {
+        "stopId": "surface_2886",
+        "sequence": 4,
+        "arrivalSec": 22051,
+        "departureSec": 22066
+      },
+      {
+        "stopId": "surface_2888",
+        "sequence": 5,
+        "arrivalSec": 22193,
+        "departureSec": 22208
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

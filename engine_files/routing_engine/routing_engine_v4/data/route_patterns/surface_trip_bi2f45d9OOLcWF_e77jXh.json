@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_bi2f45d9OOLcWF_e77jXh",
+  "data": {
+    "routeId": "surface_miikEkLkL-jQKBoSrb6mE",
+    "tripId": "bi2f45d9OOLcWF_e77jXh",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Sheikh Mansour",
+    "stops": [
+      {
+        "stopId": "surface_9",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2534",
+        "sequence": 2,
+        "arrivalSec": 21737,
+        "departureSec": 21752
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

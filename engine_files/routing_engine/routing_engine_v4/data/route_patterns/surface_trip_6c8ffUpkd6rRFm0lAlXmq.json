@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_6c8ffUpkd6rRFm0lAlXmq",
+  "data": {
+    "routeId": "surface_Z2RSwdOqb-nYzFdq9dXUL",
+    "tripId": "6c8ffUpkd6rRFm0lAlXmq",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Moassasa",
+    "stops": [
+      {
+        "stopId": "surface_2370",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2372",
+        "sequence": 2,
+        "arrivalSec": 21745,
+        "departureSec": 21760
+      },
+      {
+        "stopId": "surface_2374",
+        "sequence": 3,
+        "arrivalSec": 21823,
+        "departureSec": 21838
+      },
+      {
+        "stopId": "surface_2376",
+        "sequence": 4,
+        "arrivalSec": 21932,
+        "departureSec": 21947
+      },
+      {
+        "stopId": "surface_2378",
+        "sequence": 5,
+        "arrivalSec": 22051,
+        "departureSec": 22066
+      },
+      {
+        "stopId": "surface_2115",
+        "sequence": 6,
+        "arrivalSec": 22286,
+        "departureSec": 22301
+      },
+      {
+        "stopId": "surface_2113",
+        "sequence": 7,
+        "arrivalSec": 22329,
+        "departureSec": 22344
+      },
+      {
+        "stopId": "surface_2688",
+        "sequence": 8,
+        "arrivalSec": 22430,
+        "departureSec": 22445
+      },
+      {
+        "stopId": "surface_2126",
+        "sequence": 9,
+        "arrivalSec": 22629,
+        "departureSec": 22644
+      },
+      {
+        "stopId": "surface_2112",
+        "sequence": 10,
+        "arrivalSec": 22689,
+        "departureSec": 22704
+      },
+      {
+        "stopId": "surface_2691",
+        "sequence": 11,
+        "arrivalSec": 22902,
+        "departureSec": 22917
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

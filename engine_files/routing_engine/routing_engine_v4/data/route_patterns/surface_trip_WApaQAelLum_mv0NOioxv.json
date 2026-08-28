@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_WApaQAelLum_mv0NOioxv",
+  "data": {
+    "routeId": "surface_67VWfBwz-LVqC7OxaN5Cj",
+    "tripId": "WApaQAelLum_mv0NOioxv",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Kerdasa",
+    "stops": [
+      {
+        "stopId": "surface_1119",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2873",
+        "sequence": 2,
+        "arrivalSec": 21707,
+        "departureSec": 21722
+      },
+      {
+        "stopId": "surface_2874",
+        "sequence": 3,
+        "arrivalSec": 21770,
+        "departureSec": 21785
+      },
+      {
+        "stopId": "surface_2898",
+        "sequence": 4,
+        "arrivalSec": 21930,
+        "departureSec": 21945
+      },
+      {
+        "stopId": "surface_2899",
+        "sequence": 5,
+        "arrivalSec": 22236,
+        "departureSec": 22251
+      },
+      {
+        "stopId": "surface_43",
+        "sequence": 6,
+        "arrivalSec": 22348,
+        "departureSec": 22363
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

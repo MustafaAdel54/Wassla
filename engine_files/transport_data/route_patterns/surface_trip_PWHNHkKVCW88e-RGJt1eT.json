@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_PWHNHkKVCW88e-RGJt1eT",
+  "data": {
+    "routeId": "surface_c3UcQoq3-K4VbxrHfMQ55",
+    "tripId": "PWHNHkKVCW88e-RGJt1eT",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Orabi Bridge",
+    "stops": [
+      {
+        "stopId": "surface_2785",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2784",
+        "sequence": 2,
+        "arrivalSec": 21670,
+        "departureSec": 21685
+      },
+      {
+        "stopId": "surface_2783",
+        "sequence": 3,
+        "arrivalSec": 21741,
+        "departureSec": 21756
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

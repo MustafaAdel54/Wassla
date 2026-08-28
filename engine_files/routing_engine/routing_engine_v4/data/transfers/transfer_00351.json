@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00351",
+  "data": {
+    "fromStopId": "surface_2260",
+    "toStopId": "metro_361_BHO_METRO_N",
+    "distanceMeters": 157.4,
+    "estimatedMinutes": 2,
+    "confidence": "medium",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

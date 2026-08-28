@@ -1,0 +1,18 @@
+{
+  "id": "surface_340",
+  "data": {
+    "name": "Al Bosta Steps (Ring Rd.)",
+    "lat": 30.11304160868902,
+    "lng": 31.20312803922039,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "340",
+    "isActive": true
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_P_O_14_IG021_R",
+  "data": {
+    "routeId": "surface_P_O_14_IG021",
+    "tripId": "P_O_14_IG021_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Abou Al Reesh",
+    "stops": [
+      {
+        "stopId": "surface_206",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2482",
+        "sequence": 2,
+        "arrivalSec": 21621,
+        "departureSec": 21636
+      },
+      {
+        "stopId": "surface_2525",
+        "sequence": 3,
+        "arrivalSec": 21678,
+        "departureSec": 21692
+      },
+      {
+        "stopId": "surface_2175",
+        "sequence": 4,
+        "arrivalSec": 21728,
+        "departureSec": 21743
+      },
+      {
+        "stopId": "surface_2178",
+        "sequence": 5,
+        "arrivalSec": 21768,
+        "departureSec": 21783
+      },
+      {
+        "stopId": "surface_2180",
+        "sequence": 6,
+        "arrivalSec": 21803,
+        "departureSec": 21818
+      },
+      {
+        "stopId": "surface_2182",
+        "sequence": 7,
+        "arrivalSec": 21898,
+        "departureSec": 21913
+      },
+      {
+        "stopId": "surface_2268",
+        "sequence": 8,
+        "arrivalSec": 21958,
+        "departureSec": 21973
+      },
+      {
+        "stopId": "surface_1947",
+        "sequence": 9,
+        "arrivalSec": 22244,
+        "departureSec": 22259
+      },
+      {
+        "stopId": "surface_660",
+        "sequence": 10,
+        "arrivalSec": 22343,
+        "departureSec": 22358
+      },
+      {
+        "stopId": "surface_661",
+        "sequence": 11,
+        "arrivalSec": 22359,
+        "departureSec": 22374
+      },
+      {
+        "stopId": "surface_207",
+        "sequence": 12,
+        "arrivalSec": 22499,
+        "departureSec": 22514
+      },
+      {
+        "stopId": "surface_14",
+        "sequence": 13,
+        "arrivalSec": 22612,
+        "departureSec": 22627
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

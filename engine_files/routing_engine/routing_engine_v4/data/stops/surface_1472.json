@@ -1,0 +1,18 @@
+{
+  "id": "surface_1472",
+  "data": {
+    "name": "Herafyeen Bridge Exit",
+    "lat": 30.138833,
+    "lng": 31.396959,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1472",
+    "isActive": true
+  }
+}

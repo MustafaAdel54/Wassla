@@ -1,0 +1,18 @@
+{
+  "id": "surface_756",
+  "data": {
+    "name": "Ring Rd. Exit to Al Salam",
+    "lat": 30.164644906198813,
+    "lng": 31.389011932508453,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "756",
+    "isActive": true
+  }
+}

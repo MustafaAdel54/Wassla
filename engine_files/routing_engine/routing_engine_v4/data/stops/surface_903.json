@@ -1,0 +1,18 @@
+{
+  "id": "surface_903",
+  "data": {
+    "name": "Total  (6th of October)",
+    "lat": 29.9325883,
+    "lng": 30.8771063,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "903",
+    "isActive": true
+  }
+}

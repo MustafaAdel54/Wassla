@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_ooHweOWxZIodk8abGIza4",
+  "data": {
+    "routeId": "surface_Y2QwurrDMngNWrnsgPUTv",
+    "tripId": "ooHweOWxZIodk8abGIza4",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Moassaset Al Zakah",
+    "stops": [
+      {
+        "stopId": "surface_2483",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_756",
+        "sequence": 2,
+        "arrivalSec": 21845,
+        "departureSec": 21860
+      },
+      {
+        "stopId": "surface_40",
+        "sequence": 3,
+        "arrivalSec": 21922,
+        "departureSec": 21937
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

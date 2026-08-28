@@ -1,0 +1,18 @@
+{
+  "id": "surface_1933",
+  "data": {
+    "name": "Al Malek Al Saleh Bridge",
+    "lat": 30.015966,
+    "lng": 31.22862,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1933",
+    "isActive": true
+  }
+}

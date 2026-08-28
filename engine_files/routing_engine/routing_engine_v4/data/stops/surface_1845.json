@@ -1,0 +1,18 @@
+{
+  "id": "surface_1845",
+  "data": {
+    "name": "Al Sawalha Complex (Al Sekka Al Hadeed St.)",
+    "lat": 30.128976599999962,
+    "lng": 31.270410699999985,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1845",
+    "isActive": true
+  }
+}

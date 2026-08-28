@@ -1,0 +1,18 @@
+{
+  "id": "surface_305",
+  "data": {
+    "name": "Sun Mall",
+    "lat": 30.050422702174977,
+    "lng": 31.39276269778299,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "305",
+    "isActive": true
+  }
+}

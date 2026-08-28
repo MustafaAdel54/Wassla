@@ -1,0 +1,134 @@
+{
+  "id": "surface_trip_6zW5Bpa7hoj6UU_keV_0X",
+  "data": {
+    "routeId": "surface_zhdTDeTPdK8yAT1I8NTLw",
+    "tripId": "6zW5Bpa7hoj6UU_keV_0X",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Masallah Al Gadeda (Matareyya)",
+    "stops": [
+      {
+        "stopId": "surface_2100",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2302",
+        "sequence": 2,
+        "arrivalSec": 21727,
+        "departureSec": 21742
+      },
+      {
+        "stopId": "surface_1326",
+        "sequence": 3,
+        "arrivalSec": 21803,
+        "departureSec": 21818
+      },
+      {
+        "stopId": "surface_2305",
+        "sequence": 4,
+        "arrivalSec": 21881,
+        "departureSec": 21896
+      },
+      {
+        "stopId": "surface_2307",
+        "sequence": 5,
+        "arrivalSec": 21931,
+        "departureSec": 21946
+      },
+      {
+        "stopId": "surface_212",
+        "sequence": 6,
+        "arrivalSec": 22023,
+        "departureSec": 22038
+      },
+      {
+        "stopId": "surface_2128",
+        "sequence": 7,
+        "arrivalSec": 22106,
+        "departureSec": 22121
+      },
+      {
+        "stopId": "surface_2297",
+        "sequence": 8,
+        "arrivalSec": 22156,
+        "departureSec": 22171
+      },
+      {
+        "stopId": "surface_2127",
+        "sequence": 9,
+        "arrivalSec": 22246,
+        "departureSec": 22261
+      },
+      {
+        "stopId": "surface_2686",
+        "sequence": 10,
+        "arrivalSec": 22341,
+        "departureSec": 22356
+      },
+      {
+        "stopId": "surface_30",
+        "sequence": 11,
+        "arrivalSec": 22440,
+        "departureSec": 22455
+      },
+      {
+        "stopId": "surface_2122",
+        "sequence": 12,
+        "arrivalSec": 22543,
+        "departureSec": 22558
+      },
+      {
+        "stopId": "surface_143",
+        "sequence": 13,
+        "arrivalSec": 22576,
+        "departureSec": 22591
+      },
+      {
+        "stopId": "surface_2766",
+        "sequence": 14,
+        "arrivalSec": 22709,
+        "departureSec": 22724
+      },
+      {
+        "stopId": "surface_2324",
+        "sequence": 15,
+        "arrivalSec": 22781,
+        "departureSec": 22796
+      },
+      {
+        "stopId": "surface_2321",
+        "sequence": 16,
+        "arrivalSec": 23144,
+        "departureSec": 23159
+      },
+      {
+        "stopId": "surface_731",
+        "sequence": 17,
+        "arrivalSec": 23227,
+        "departureSec": 23242
+      },
+      {
+        "stopId": "surface_1742",
+        "sequence": 18,
+        "arrivalSec": 23625,
+        "departureSec": 23640
+      },
+      {
+        "stopId": "surface_2023",
+        "sequence": 19,
+        "arrivalSec": 23758,
+        "departureSec": 23773
+      },
+      {
+        "stopId": "surface_2018",
+        "sequence": 20,
+        "arrivalSec": 23945,
+        "departureSec": 23960
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

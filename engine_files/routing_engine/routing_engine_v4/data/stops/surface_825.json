@@ -1,0 +1,18 @@
+{
+  "id": "surface_825",
+  "data": {
+    "name": "Police Academy (Taha Hussein Axis)",
+    "lat": 30.037804998563388,
+    "lng": 31.40961943016915,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "825",
+    "isActive": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "metro_178_DZT_METRO_S",
+  "data": {
+    "name": "Hadayeq El-Zaitoun",
+    "lat": 30.1059577,
+    "lng": 31.3103968,
+    "stationId": "station_metro_178_DZT_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "178_DZT_METRO_S",
+    "parentSourceId": "178_DZT_METRO",
+    "isActive": true
+  }
+}

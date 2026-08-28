@@ -1,0 +1,18 @@
+{
+  "id": "surface_1305",
+  "data": {
+    "name": "Othman Steps (Ring Rd.)",
+    "lat": 30.16297276846231,
+    "lng": 31.309877701368396,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1305",
+    "isActive": true
+  }
+}

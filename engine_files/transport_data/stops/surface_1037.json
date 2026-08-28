@@ -1,0 +1,18 @@
+{
+  "id": "surface_1037",
+  "data": {
+    "name": "7th District (6th of October)",
+    "lat": 29.9832668,
+    "lng": 30.9394609,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1037",
+    "isActive": true
+  }
+}

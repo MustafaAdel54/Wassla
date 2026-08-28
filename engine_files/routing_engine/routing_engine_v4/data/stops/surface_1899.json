@@ -1,0 +1,18 @@
+{
+  "id": "surface_1899",
+  "data": {
+    "name": "Al Safa School (Wadi Hof)",
+    "lat": 29.88638179858689,
+    "lng": 31.30355756625661,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1899",
+    "isActive": true
+  }
+}

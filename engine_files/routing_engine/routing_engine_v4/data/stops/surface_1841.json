@@ -1,0 +1,18 @@
+{
+  "id": "surface_1841",
+  "data": {
+    "name": "Mostorod",
+    "lat": 30.13000830872988,
+    "lng": 31.29174767673362,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1841",
+    "isActive": true
+  }
+}

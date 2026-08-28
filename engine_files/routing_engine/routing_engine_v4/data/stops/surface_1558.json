@@ -1,0 +1,18 @@
+{
+  "id": "surface_1558",
+  "data": {
+    "name": "Al Maadi Company St. and Al Gazaer St.",
+    "lat": 29.98505807738528,
+    "lng": 31.273769637392693,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1558",
+    "isActive": true
+  }
+}

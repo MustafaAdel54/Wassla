@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_MM_NS9_O",
+  "data": {
+    "routeId": "surface_MM_NS9",
+    "tripId": "MM_NS9_O",
+    "serviceId": "Ground_Weekdays",
+    "directionId": "0",
+    "headsign": "Al Shorouq Water",
+    "stops": [
+      {
+        "stopId": "surface_1071",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1070",
+        "sequence": 2,
+        "arrivalSec": 21660,
+        "departureSec": 21675
+      },
+      {
+        "stopId": "surface_1210",
+        "sequence": 3,
+        "arrivalSec": 21790,
+        "departureSec": 21805
+      },
+      {
+        "stopId": "surface_830",
+        "sequence": 4,
+        "arrivalSec": 21950,
+        "departureSec": 21965
+      },
+      {
+        "stopId": "surface_583",
+        "sequence": 5,
+        "arrivalSec": 22062,
+        "departureSec": 22077
+      },
+      {
+        "stopId": "surface_546",
+        "sequence": 6,
+        "arrivalSec": 24575,
+        "departureSec": 24590
+      },
+      {
+        "stopId": "surface_1164",
+        "sequence": 7,
+        "arrivalSec": 24795,
+        "departureSec": 24810
+      },
+      {
+        "stopId": "surface_768",
+        "sequence": 8,
+        "arrivalSec": 24841,
+        "departureSec": 24856
+      },
+      {
+        "stopId": "surface_769",
+        "sequence": 9,
+        "arrivalSec": 24877,
+        "departureSec": 24892
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

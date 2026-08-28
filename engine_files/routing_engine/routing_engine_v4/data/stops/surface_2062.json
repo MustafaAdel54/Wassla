@@ -1,0 +1,18 @@
+{
+  "id": "surface_2062",
+  "data": {
+    "name": "Roz Al Youssef Magazine (Garden City)",
+    "lat": 30.03509494194579,
+    "lng": 31.233832816919072,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2062",
+    "isActive": true
+  }
+}

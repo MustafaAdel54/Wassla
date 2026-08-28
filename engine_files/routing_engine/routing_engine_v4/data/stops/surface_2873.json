@@ -1,0 +1,18 @@
+{
+  "id": "surface_2873",
+  "data": {
+    "name": "Marioteya Tunnel Exit",
+    "lat": 29.994794043217762,
+    "lng": 31.144960936069815,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2873",
+    "isActive": true
+  }
+}

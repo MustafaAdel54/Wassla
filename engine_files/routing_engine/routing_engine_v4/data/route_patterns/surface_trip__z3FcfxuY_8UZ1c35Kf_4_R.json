@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip__z3FcfxuY_8UZ1c35Kf_4_R",
+  "data": {
+    "routeId": "surface__z3FcfxuY_8UZ1c35Kf_4",
+    "tripId": "_z3FcfxuY_8UZ1c35Kf_4_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Remaya (New Mashaal)",
+    "stops": [
+      {
+        "stopId": "surface_44",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2896",
+        "sequence": 2,
+        "arrivalSec": 21695,
+        "departureSec": 21710
+      },
+      {
+        "stopId": "surface_2885",
+        "sequence": 3,
+        "arrivalSec": 21987,
+        "departureSec": 22002
+      },
+      {
+        "stopId": "surface_2875",
+        "sequence": 4,
+        "arrivalSec": 22232,
+        "departureSec": 22247
+      },
+      {
+        "stopId": "surface_2872",
+        "sequence": 5,
+        "arrivalSec": 22297,
+        "departureSec": 22312
+      },
+      {
+        "stopId": "surface_1834",
+        "sequence": 6,
+        "arrivalSec": 22442,
+        "departureSec": 22457
+      },
+      {
+        "stopId": "surface_1832",
+        "sequence": 7,
+        "arrivalSec": 22501,
+        "departureSec": 22516
+      },
+      {
+        "stopId": "surface_1817",
+        "sequence": 8,
+        "arrivalSec": 22576,
+        "departureSec": 22591
+      },
+      {
+        "stopId": "surface_1",
+        "sequence": 9,
+        "arrivalSec": 22646,
+        "departureSec": 22661
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_1021",
+  "data": {
+    "name": "8th District (Nasr City) - Al tabba - Imbaba",
+    "shortName": "CTA 1021",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_1021",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

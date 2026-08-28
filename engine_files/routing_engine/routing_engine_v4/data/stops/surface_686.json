@@ -1,0 +1,18 @@
+{
+  "id": "surface_686",
+  "data": {
+    "name": "Mohamed Naguib Metro Station",
+    "lat": 30.045362,
+    "lng": 31.244032,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "686",
+    "isActive": true
+  }
+}

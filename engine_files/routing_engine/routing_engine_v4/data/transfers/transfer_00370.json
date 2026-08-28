@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00370",
+  "data": {
+    "fromStopId": "surface_1748",
+    "toStopId": "metro_180_KQO_METRO_S",
+    "distanceMeters": 177.7,
+    "estimatedMinutes": 2,
+    "confidence": "low",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

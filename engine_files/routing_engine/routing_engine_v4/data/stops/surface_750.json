@@ -1,0 +1,18 @@
+{
+  "id": "surface_750",
+  "data": {
+    "name": "Adminstration Of Mobilization And Recruitment",
+    "lat": 30.106350319223434,
+    "lng": 31.323846786958445,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "750",
+    "isActive": true
+  }
+}

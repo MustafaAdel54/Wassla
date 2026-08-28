@@ -1,0 +1,18 @@
+{
+  "id": "surface_483",
+  "data": {
+    "name": "Pizza Hut (Mostafa Al Nahas St.)",
+    "lat": 30.056811002627054,
+    "lng": 31.365113080712703,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "483",
+    "isActive": true
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "surface_trip_MM_M9_O",
+  "data": {
+    "routeId": "surface_MM_M9",
+    "tripId": "MM_M9_O",
+    "serviceId": "Ground_Weekdays",
+    "directionId": "0",
+    "headsign": "El Itihad Square (Maadi)",
+    "stops": [
+      {
+        "stopId": "surface_1195",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_470",
+        "sequence": 2,
+        "arrivalSec": 21660,
+        "departureSec": 21675
+      },
+      {
+        "stopId": "surface_813",
+        "sequence": 3,
+        "arrivalSec": 21736,
+        "departureSec": 21751
+      },
+      {
+        "stopId": "surface_1192",
+        "sequence": 4,
+        "arrivalSec": 21863,
+        "departureSec": 21878
+      },
+      {
+        "stopId": "surface_468",
+        "sequence": 5,
+        "arrivalSec": 21990,
+        "departureSec": 22005
+      },
+      {
+        "stopId": "surface_261",
+        "sequence": 6,
+        "arrivalSec": 22147,
+        "departureSec": 22162
+      },
+      {
+        "stopId": "surface_262",
+        "sequence": 7,
+        "arrivalSec": 22245,
+        "departureSec": 22260
+      },
+      {
+        "stopId": "surface_800",
+        "sequence": 8,
+        "arrivalSec": 22340,
+        "departureSec": 22355
+      },
+      {
+        "stopId": "surface_801",
+        "sequence": 9,
+        "arrivalSec": 22410,
+        "departureSec": 22425
+      },
+      {
+        "stopId": "surface_594",
+        "sequence": 10,
+        "arrivalSec": 22604,
+        "departureSec": 22619
+      },
+      {
+        "stopId": "surface_587",
+        "sequence": 11,
+        "arrivalSec": 22773,
+        "departureSec": 22788
+      },
+      {
+        "stopId": "surface_585",
+        "sequence": 12,
+        "arrivalSec": 22968,
+        "departureSec": 22983
+      },
+      {
+        "stopId": "surface_675",
+        "sequence": 13,
+        "arrivalSec": 23613,
+        "departureSec": 23628
+      },
+      {
+        "stopId": "surface_495",
+        "sequence": 14,
+        "arrivalSec": 23683,
+        "departureSec": 23698
+      },
+      {
+        "stopId": "surface_1587",
+        "sequence": 15,
+        "arrivalSec": 23856,
+        "departureSec": 23871
+      },
+      {
+        "stopId": "surface_1590",
+        "sequence": 16,
+        "arrivalSec": 23906,
+        "departureSec": 23921
+      },
+      {
+        "stopId": "surface_2481",
+        "sequence": 17,
+        "arrivalSec": 24250,
+        "departureSec": 24265
+      },
+      {
+        "stopId": "surface_1568",
+        "sequence": 18,
+        "arrivalSec": 24328,
+        "departureSec": 24343
+      },
+      {
+        "stopId": "surface_1562",
+        "sequence": 19,
+        "arrivalSec": 24437,
+        "departureSec": 24452
+      },
+      {
+        "stopId": "surface_1404",
+        "sequence": 20,
+        "arrivalSec": 24659,
+        "departureSec": 24674
+      },
+      {
+        "stopId": "surface_31",
+        "sequence": 21,
+        "arrivalSec": 24679,
+        "departureSec": 24694
+      },
+      {
+        "stopId": "surface_1661",
+        "sequence": 22,
+        "arrivalSec": 24867,
+        "departureSec": 24882
+      },
+      {
+        "stopId": "surface_2699",
+        "sequence": 23,
+        "arrivalSec": 24926,
+        "departureSec": 24941
+      },
+      {
+        "stopId": "surface_1603",
+        "sequence": 24,
+        "arrivalSec": 25071,
+        "departureSec": 25086
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_B_8_6O019_R",
+  "data": {
+    "routeId": "surface_P_B_8_6O019",
+    "tripId": "P_B_8_6O019_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "6th District - 6th of October (Al Souq Al Qadeem)",
+    "stops": [
+      {
+        "stopId": "surface_1130",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_986",
+        "sequence": 2,
+        "arrivalSec": 21655,
+        "departureSec": 21670
+      },
+      {
+        "stopId": "surface_992",
+        "sequence": 3,
+        "arrivalSec": 21725,
+        "departureSec": 21740
+      },
+      {
+        "stopId": "surface_989",
+        "sequence": 4,
+        "arrivalSec": 21809,
+        "departureSec": 21824
+      },
+      {
+        "stopId": "surface_987",
+        "sequence": 5,
+        "arrivalSec": 21874,
+        "departureSec": 21889
+      },
+      {
+        "stopId": "surface_993",
+        "sequence": 6,
+        "arrivalSec": 21939,
+        "departureSec": 21954
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

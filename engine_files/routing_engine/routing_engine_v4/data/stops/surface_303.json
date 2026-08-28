@@ -1,0 +1,18 @@
+{
+  "id": "surface_303",
+  "data": {
+    "name": "Al Nour Mosque (Nasr City)",
+    "lat": 30.04985119889923,
+    "lng": 31.386004777491607,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "303",
+    "isActive": true
+  }
+}

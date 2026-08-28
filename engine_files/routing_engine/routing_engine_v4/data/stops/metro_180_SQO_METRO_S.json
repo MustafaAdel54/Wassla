@@ -1,0 +1,16 @@
+{
+  "id": "metro_180_SQO_METRO_S",
+  "data": {
+    "name": "Saray El-Qobba",
+    "lat": 30.09772,
+    "lng": 31.3044691,
+    "stationId": "station_metro_180_SQO_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "180_SQO_METRO_S",
+    "parentSourceId": "180_SQO_METRO",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2127",
+  "data": {
+    "name": "Saint Teresa Metro",
+    "lat": 30.089281401368186,
+    "lng": 31.24534087995878,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2127",
+    "isActive": true
+  }
+}

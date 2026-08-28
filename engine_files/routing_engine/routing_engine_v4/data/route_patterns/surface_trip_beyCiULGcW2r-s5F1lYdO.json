@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_beyCiULGcW2r-s5F1lYdO",
+  "data": {
+    "routeId": "surface_RsaOPeERsjGuuC6Q-S_FU",
+    "tripId": "beyCiULGcW2r-s5F1lYdO",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Matareya Square",
+    "stops": [
+      {
+        "stopId": "surface_2719",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2461",
+        "sequence": 2,
+        "arrivalSec": 21938,
+        "departureSec": 21953
+      },
+      {
+        "stopId": "surface_2710",
+        "sequence": 3,
+        "arrivalSec": 22061,
+        "departureSec": 22076
+      },
+      {
+        "stopId": "surface_2711",
+        "sequence": 4,
+        "arrivalSec": 22101,
+        "departureSec": 22116
+      },
+      {
+        "stopId": "surface_2712",
+        "sequence": 5,
+        "arrivalSec": 22166,
+        "departureSec": 22181
+      },
+      {
+        "stopId": "surface_2713",
+        "sequence": 6,
+        "arrivalSec": 22355,
+        "departureSec": 22370
+      },
+      {
+        "stopId": "surface_2715",
+        "sequence": 7,
+        "arrivalSec": 22473,
+        "departureSec": 22488
+      },
+      {
+        "stopId": "surface_2717",
+        "sequence": 8,
+        "arrivalSec": 22508,
+        "departureSec": 22523
+      },
+      {
+        "stopId": "surface_2718",
+        "sequence": 9,
+        "arrivalSec": 22573,
+        "departureSec": 22588
+      },
+      {
+        "stopId": "surface_2036",
+        "sequence": 10,
+        "arrivalSec": 22743,
+        "departureSec": 22758
+      },
+      {
+        "stopId": "surface_2035",
+        "sequence": 11,
+        "arrivalSec": 22777,
+        "departureSec": 22792
+      },
+      {
+        "stopId": "surface_2033",
+        "sequence": 12,
+        "arrivalSec": 22873,
+        "departureSec": 22888
+      },
+      {
+        "stopId": "surface_1218",
+        "sequence": 13,
+        "arrivalSec": 23000,
+        "departureSec": 23015
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1399",
+  "data": {
+    "name": "Ring Road Entrance from Cairo Alexandria Agriculture Rd.",
+    "lat": 30.14941253208017,
+    "lng": 31.233467488971897,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1399",
+    "isActive": true
+  }
+}

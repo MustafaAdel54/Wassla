@@ -1,0 +1,18 @@
+{
+  "id": "surface_2218",
+  "data": {
+    "name": "Ring Rd. Pedestrian Ezbet Anwar",
+    "lat": 30.150349963525326,
+    "lng": 31.265002654734424,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2218",
+    "isActive": true
+  }
+}

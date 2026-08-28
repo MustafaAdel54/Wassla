@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00401",
+  "data": {
+    "fromStopId": "surface_2183",
+    "toStopId": "metro_457_GIZ_METRO_N",
+    "distanceMeters": 196.6,
+    "estimatedMinutes": 2,
+    "confidence": "low",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

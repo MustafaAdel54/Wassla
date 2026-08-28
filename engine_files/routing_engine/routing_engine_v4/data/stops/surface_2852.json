@@ -1,0 +1,18 @@
+{
+  "id": "surface_2852",
+  "data": {
+    "name": "Al Horeyya Rd. (Badr)",
+    "lat": 30.13239,
+    "lng": 31.717039,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2852",
+    "isActive": true
+  }
+}

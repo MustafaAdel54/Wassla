@@ -1,0 +1,18 @@
+{
+  "id": "surface_2216",
+  "data": {
+    "name": "Shobra  Banha St. & Ring Rd.",
+    "lat": 30.14971079715407,
+    "lng": 31.254259248198508,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2216",
+    "isActive": true
+  }
+}

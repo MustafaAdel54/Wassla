@@ -1,0 +1,98 @@
+{
+  "id": "surface_trip_fBLJdaHxf5gpiYgjt9-TZ",
+  "data": {
+    "routeId": "surface_su06bTr5aMUAnkdk3YTAJ",
+    "tripId": "fBLJdaHxf5gpiYgjt9-TZ",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Ring Rd Exit to Khosous",
+    "stops": [
+      {
+        "stopId": "surface_3014",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2894",
+        "sequence": 2,
+        "arrivalSec": 22043,
+        "departureSec": 22058
+      },
+      {
+        "stopId": "surface_2838",
+        "sequence": 3,
+        "arrivalSec": 23029,
+        "departureSec": 23044
+      },
+      {
+        "stopId": "surface_310",
+        "sequence": 4,
+        "arrivalSec": 23437,
+        "departureSec": 23452
+      },
+      {
+        "stopId": "surface_308",
+        "sequence": 5,
+        "arrivalSec": 23765,
+        "departureSec": 23780
+      },
+      {
+        "stopId": "surface_1072",
+        "sequence": 6,
+        "arrivalSec": 23884,
+        "departureSec": 23899
+      },
+      {
+        "stopId": "surface_837",
+        "sequence": 7,
+        "arrivalSec": 24043,
+        "departureSec": 24058
+      },
+      {
+        "stopId": "surface_2547",
+        "sequence": 8,
+        "arrivalSec": 24074,
+        "departureSec": 24089
+      },
+      {
+        "stopId": "surface_1235",
+        "sequence": 9,
+        "arrivalSec": 24119,
+        "departureSec": 24134
+      },
+      {
+        "stopId": "surface_597",
+        "sequence": 10,
+        "arrivalSec": 24169,
+        "departureSec": 24184
+      },
+      {
+        "stopId": "surface_1478",
+        "sequence": 11,
+        "arrivalSec": 24334,
+        "departureSec": 24349
+      },
+      {
+        "stopId": "surface_1212",
+        "sequence": 12,
+        "arrivalSec": 24775,
+        "departureSec": 24790
+      },
+      {
+        "stopId": "surface_1306",
+        "sequence": 13,
+        "arrivalSec": 26153,
+        "departureSec": 26168
+      },
+      {
+        "stopId": "surface_90",
+        "sequence": 14,
+        "arrivalSec": 26337,
+        "departureSec": 26352
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

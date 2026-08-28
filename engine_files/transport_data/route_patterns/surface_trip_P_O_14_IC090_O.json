@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_IC090_O",
+  "data": {
+    "routeId": "surface_P_O_14_IC090",
+    "tripId": "P_O_14_IC090_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "10th of Ramadan City",
+    "stops": [
+      {
+        "stopId": "surface_1159",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1170",
+        "sequence": 2,
+        "arrivalSec": 21690,
+        "departureSec": 21705
+      },
+      {
+        "stopId": "surface_1160",
+        "sequence": 3,
+        "arrivalSec": 21895,
+        "departureSec": 21910
+      },
+      {
+        "stopId": "surface_1165",
+        "sequence": 4,
+        "arrivalSec": 22044,
+        "departureSec": 22059
+      },
+      {
+        "stopId": "surface_2982",
+        "sequence": 5,
+        "arrivalSec": 22289,
+        "departureSec": 22304
+      },
+      {
+        "stopId": "surface_1177",
+        "sequence": 6,
+        "arrivalSec": 22757,
+        "departureSec": 22772
+      },
+      {
+        "stopId": "surface_1178",
+        "sequence": 7,
+        "arrivalSec": 23343,
+        "departureSec": 23358
+      },
+      {
+        "stopId": "surface_1182",
+        "sequence": 8,
+        "arrivalSec": 23567,
+        "departureSec": 23582
+      },
+      {
+        "stopId": "surface_1324",
+        "sequence": 9,
+        "arrivalSec": 23687,
+        "departureSec": 23702
+      },
+      {
+        "stopId": "surface_1180",
+        "sequence": 10,
+        "arrivalSec": 23798,
+        "departureSec": 23813
+      },
+      {
+        "stopId": "surface_2979",
+        "sequence": 11,
+        "arrivalSec": 23820,
+        "departureSec": 23835
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

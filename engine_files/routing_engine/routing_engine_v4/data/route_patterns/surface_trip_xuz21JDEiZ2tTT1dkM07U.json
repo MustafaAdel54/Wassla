@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_xuz21JDEiZ2tTT1dkM07U",
+  "data": {
+    "routeId": "surface_zRAXMgMRMVRhmAULPLo0R",
+    "tripId": "xuz21JDEiZ2tTT1dkM07U",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Saad Zaghloul Metro",
+    "stops": [
+      {
+        "stopId": "surface_223",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_682",
+        "sequence": 2,
+        "arrivalSec": 21762,
+        "departureSec": 21777
+      },
+      {
+        "stopId": "surface_1996",
+        "sequence": 3,
+        "arrivalSec": 21863,
+        "departureSec": 21878
+      },
+      {
+        "stopId": "surface_163",
+        "sequence": 4,
+        "arrivalSec": 21952,
+        "departureSec": 21967
+      },
+      {
+        "stopId": "surface_2756",
+        "sequence": 5,
+        "arrivalSec": 22018,
+        "departureSec": 22033
+      },
+      {
+        "stopId": "surface_3",
+        "sequence": 6,
+        "arrivalSec": 22238,
+        "departureSec": 22253
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

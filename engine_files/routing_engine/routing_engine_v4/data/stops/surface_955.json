@@ -1,0 +1,18 @@
+{
+  "id": "surface_955",
+  "data": {
+    "name": "Al Muluk",
+    "lat": 29.942482,
+    "lng": 30.9197564,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "955",
+    "isActive": true
+  }
+}

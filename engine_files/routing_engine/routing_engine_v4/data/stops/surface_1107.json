@@ -1,0 +1,18 @@
+{
+  "id": "surface_1107",
+  "data": {
+    "name": "8th District (6th of October)",
+    "lat": 29.97485407545856,
+    "lng": 30.931739474167443,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1107",
+    "isActive": true
+  }
+}

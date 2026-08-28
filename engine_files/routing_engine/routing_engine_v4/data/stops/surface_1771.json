@@ -1,0 +1,18 @@
+{
+  "id": "surface_1771",
+  "data": {
+    "name": "Audi Bank (Salah Salem St.)",
+    "lat": 30.076578766067364,
+    "lng": 31.30984025004951,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1771",
+    "isActive": true
+  }
+}

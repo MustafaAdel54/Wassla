@@ -1,0 +1,18 @@
+{
+  "id": "surface_1432",
+  "data": {
+    "name": "Makram Ebeid St. & Mostafa Al Nahas St.",
+    "lat": 30.055137774213406,
+    "lng": 31.34620839488838,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1432",
+    "isActive": true
+  }
+}

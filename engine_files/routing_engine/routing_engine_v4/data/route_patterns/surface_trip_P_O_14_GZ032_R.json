@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_P_O_14_GZ032_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ032",
+    "tripId": "P_O_14_GZ032_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Kerdasa",
+    "stops": [
+      {
+        "stopId": "surface_62",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_44",
+        "sequence": 2,
+        "arrivalSec": 21805,
+        "departureSec": 21820
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

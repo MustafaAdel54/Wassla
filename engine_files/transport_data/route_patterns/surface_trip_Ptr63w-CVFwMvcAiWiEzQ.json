@@ -1,0 +1,74 @@
+{
+  "id": "surface_trip_Ptr63w-CVFwMvcAiWiEzQ",
+  "data": {
+    "routeId": "surface_VcyJ3Cygkrd6BpKY5hhzC",
+    "tripId": "Ptr63w-CVFwMvcAiWiEzQ",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Maadi Metro",
+    "stops": [
+      {
+        "stopId": "surface_1559",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1627",
+        "sequence": 2,
+        "arrivalSec": 21637,
+        "departureSec": 21652
+      },
+      {
+        "stopId": "surface_1671",
+        "sequence": 3,
+        "arrivalSec": 21781,
+        "departureSec": 21796
+      },
+      {
+        "stopId": "surface_1566",
+        "sequence": 4,
+        "arrivalSec": 21846,
+        "departureSec": 21861
+      },
+      {
+        "stopId": "surface_2489",
+        "sequence": 5,
+        "arrivalSec": 22039,
+        "departureSec": 22054
+      },
+      {
+        "stopId": "surface_1597",
+        "sequence": 6,
+        "arrivalSec": 22348,
+        "departureSec": 22363
+      },
+      {
+        "stopId": "surface_2786",
+        "sequence": 7,
+        "arrivalSec": 22541,
+        "departureSec": 22556
+      },
+      {
+        "stopId": "surface_2699",
+        "sequence": 8,
+        "arrivalSec": 22601,
+        "departureSec": 22616
+      },
+      {
+        "stopId": "surface_1603",
+        "sequence": 9,
+        "arrivalSec": 22737,
+        "departureSec": 22752
+      },
+      {
+        "stopId": "surface_1663",
+        "sequence": 10,
+        "arrivalSec": 22858,
+        "departureSec": 22873
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

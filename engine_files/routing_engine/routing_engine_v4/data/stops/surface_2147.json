@@ -1,0 +1,18 @@
+{
+  "id": "surface_2147",
+  "data": {
+    "name": "Ahmed Saaed Bridge Entrance",
+    "lat": 30.07075061392535,
+    "lng": 31.272880756680543,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2147",
+    "isActive": true
+  }
+}

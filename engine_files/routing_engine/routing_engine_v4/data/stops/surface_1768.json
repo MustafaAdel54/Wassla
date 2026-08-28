@@ -1,0 +1,18 @@
+{
+  "id": "surface_1768",
+  "data": {
+    "name": "Al Azhar University Hospital (Nasr City)",
+    "lat": 30.054255198951687,
+    "lng": 31.3120988222643,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1768",
+    "isActive": true
+  }
+}

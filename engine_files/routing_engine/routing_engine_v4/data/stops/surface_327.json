@@ -1,0 +1,18 @@
+{
+  "id": "surface_327",
+  "data": {
+    "name": "26th of July Corridor Entrance from Ring Rd.",
+    "lat": 30.06384562799675,
+    "lng": 31.174369154571956,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "327",
+    "isActive": true
+  }
+}

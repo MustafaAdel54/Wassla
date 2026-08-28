@@ -1,0 +1,18 @@
+{
+  "id": "surface_770",
+  "data": {
+    "name": "Youth Housing (Shorouq City)",
+    "lat": 30.165657,
+    "lng": 31.64692,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "770",
+    "isActive": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_aaee-vekfz_--Z1WL3nIm",
+  "data": {
+    "routeId": "surface_HRKfVI0GjLKHq6o9ulFba",
+    "tripId": "aaee-vekfz_--Z1WL3nIm",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mazlaqan Al Deweqa",
+    "stops": [
+      {
+        "stopId": "surface_208",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_692",
+        "sequence": 2,
+        "arrivalSec": 21660,
+        "departureSec": 21675
+      },
+      {
+        "stopId": "surface_199",
+        "sequence": 3,
+        "arrivalSec": 21786,
+        "departureSec": 21801
+      },
+      {
+        "stopId": "surface_1401",
+        "sequence": 4,
+        "arrivalSec": 21886,
+        "departureSec": 21901
+      },
+      {
+        "stopId": "surface_1260",
+        "sequence": 5,
+        "arrivalSec": 22021,
+        "departureSec": 22036
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

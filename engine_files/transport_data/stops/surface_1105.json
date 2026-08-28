@@ -1,0 +1,18 @@
+{
+  "id": "surface_1105",
+  "data": {
+    "name": "11th District (Sheikh Zayed)",
+    "lat": 30.043605503986747,
+    "lng": 30.96856753584317,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1105",
+    "isActive": true
+  }
+}

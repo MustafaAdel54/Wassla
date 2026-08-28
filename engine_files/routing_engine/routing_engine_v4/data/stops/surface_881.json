@@ -1,0 +1,18 @@
+{
+  "id": "surface_881",
+  "data": {
+    "name": "Red Kiosk (6th of October)",
+    "lat": 29.966006984109146,
+    "lng": 30.91788689614095,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "881",
+    "isActive": true
+  }
+}

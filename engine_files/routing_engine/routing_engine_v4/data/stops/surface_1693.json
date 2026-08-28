@@ -1,0 +1,18 @@
+{
+  "id": "surface_1693",
+  "data": {
+    "name": "El Nasr English School (Heliopolis)",
+    "lat": 30.10112475959531,
+    "lng": 31.33253,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1693",
+    "isActive": true
+  }
+}

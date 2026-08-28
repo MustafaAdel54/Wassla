@@ -1,0 +1,18 @@
+{
+  "id": "surface_1801",
+  "data": {
+    "name": "Mohamed Khattab Pharmacy (Kerdasa)",
+    "lat": 30.02994909999999,
+    "lng": 31.104385899999983,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1801",
+    "isActive": true
+  }
+}

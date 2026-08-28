@@ -1,0 +1,18 @@
+{
+  "id": "surface_1351",
+  "data": {
+    "name": "Manshiyat Al Bakri Steps (Ring Rd.)",
+    "lat": 30.011125590158002,
+    "lng": 31.14575096640377,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1351",
+    "isActive": true
+  }
+}

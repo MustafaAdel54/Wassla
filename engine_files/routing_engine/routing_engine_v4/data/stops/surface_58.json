@@ -1,0 +1,18 @@
+{
+  "id": "surface_58",
+  "data": {
+    "name": "El Kafr (Birak Al Khiyam)",
+    "lat": 30.045743,
+    "lng": 31.157123299999988,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "58",
+    "isActive": true
+  }
+}

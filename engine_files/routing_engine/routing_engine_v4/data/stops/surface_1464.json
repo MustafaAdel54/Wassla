@@ -1,0 +1,18 @@
+{
+  "id": "surface_1464",
+  "data": {
+    "name": "Hall 4 (Cairo Airport)",
+    "lat": 30.124031219411933,
+    "lng": 31.39774615474792,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1464",
+    "isActive": true
+  }
+}

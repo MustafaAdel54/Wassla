@@ -1,0 +1,18 @@
+{
+  "id": "surface_102",
+  "data": {
+    "name": "Bus Stop 43 (Al Matareyya)",
+    "lat": 30.1268,
+    "lng": 31.31628,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "102",
+    "isActive": true
+  }
+}

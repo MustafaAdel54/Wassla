@@ -1,0 +1,18 @@
+{
+  "id": "surface_1046",
+  "data": {
+    "name": "Al Hoda Factory (6th of October)",
+    "lat": 29.9116097,
+    "lng": 30.897757299999984,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1046",
+    "isActive": true
+  }
+}

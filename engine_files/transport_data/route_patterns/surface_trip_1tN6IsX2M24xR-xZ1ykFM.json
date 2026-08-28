@@ -1,0 +1,74 @@
+{
+  "id": "surface_trip_1tN6IsX2M24xR-xZ1ykFM",
+  "data": {
+    "routeId": "surface_Ci3EuISJ24C8rXJIGK05p",
+    "tripId": "1tN6IsX2M24xR-xZ1ykFM",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Nahda City",
+    "stops": [
+      {
+        "stopId": "surface_465",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1225",
+        "sequence": 2,
+        "arrivalSec": 21742,
+        "departureSec": 21757
+      },
+      {
+        "stopId": "surface_454",
+        "sequence": 3,
+        "arrivalSec": 21987,
+        "departureSec": 22002
+      },
+      {
+        "stopId": "surface_1429",
+        "sequence": 4,
+        "arrivalSec": 22048,
+        "departureSec": 22063
+      },
+      {
+        "stopId": "surface_435",
+        "sequence": 5,
+        "arrivalSec": 22253,
+        "departureSec": 22268
+      },
+      {
+        "stopId": "surface_1469",
+        "sequence": 6,
+        "arrivalSec": 22459,
+        "departureSec": 22474
+      },
+      {
+        "stopId": "surface_464",
+        "sequence": 7,
+        "arrivalSec": 22588,
+        "departureSec": 22603
+      },
+      {
+        "stopId": "surface_1468",
+        "sequence": 8,
+        "arrivalSec": 22617,
+        "departureSec": 22632
+      },
+      {
+        "stopId": "surface_793",
+        "sequence": 9,
+        "arrivalSec": 22822,
+        "departureSec": 22838
+      },
+      {
+        "stopId": "surface_2818",
+        "sequence": 10,
+        "arrivalSec": 23312,
+        "departureSec": 23328
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

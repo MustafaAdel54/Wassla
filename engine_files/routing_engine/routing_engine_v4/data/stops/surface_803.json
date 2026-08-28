@@ -1,0 +1,18 @@
+{
+  "id": "surface_803",
+  "data": {
+    "name": "1st Settlement Hospital",
+    "lat": 30.072158894120225,
+    "lng": 31.45289513238143,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "803",
+    "isActive": true
+  }
+}

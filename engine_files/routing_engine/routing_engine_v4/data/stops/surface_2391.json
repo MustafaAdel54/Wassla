@@ -1,0 +1,18 @@
+{
+  "id": "surface_2391",
+  "data": {
+    "name": "East Imbaba",
+    "lat": 30.07764246739693,
+    "lng": 31.2217711698198,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2391",
+    "isActive": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_WnbKuRHQM3BfQvqG2hMfL",
+  "data": {
+    "routeId": "surface_HZd1EesltJ445uu9I6wbH",
+    "tripId": "WnbKuRHQM3BfQvqG2hMfL",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Awwel Al Zawya Al Hamra",
+    "stops": [
+      {
+        "stopId": "surface_1748",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_722",
+        "sequence": 2,
+        "arrivalSec": 21705,
+        "departureSec": 21720
+      },
+      {
+        "stopId": "surface_457",
+        "sequence": 3,
+        "arrivalSec": 21843,
+        "departureSec": 21858
+      },
+      {
+        "stopId": "surface_459",
+        "sequence": 4,
+        "arrivalSec": 21956,
+        "departureSec": 21971
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

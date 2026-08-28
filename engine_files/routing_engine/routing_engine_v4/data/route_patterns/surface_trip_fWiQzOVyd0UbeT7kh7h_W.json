@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_fWiQzOVyd0UbeT7kh7h_W",
+  "data": {
+    "routeId": "surface_5QND291boJ53-oQki3hmz",
+    "tripId": "fWiQzOVyd0UbeT7kh7h_W",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Nahda City",
+    "stops": [
+      {
+        "stopId": "surface_2419",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2414",
+        "sequence": 2,
+        "arrivalSec": 21767,
+        "departureSec": 21782
+      },
+      {
+        "stopId": "surface_2546",
+        "sequence": 3,
+        "arrivalSec": 22241,
+        "departureSec": 22256
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

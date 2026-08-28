@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_P_O_14_6O029_R",
+  "data": {
+    "routeId": "surface_P_O_14_6O029",
+    "tripId": "P_O_14_6O029_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Dolce",
+    "stops": [
+      {
+        "stopId": "surface_1130",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_986",
+        "sequence": 2,
+        "arrivalSec": 21785,
+        "departureSec": 21800
+      },
+      {
+        "stopId": "surface_992",
+        "sequence": 3,
+        "arrivalSec": 21855,
+        "departureSec": 21870
+      },
+      {
+        "stopId": "surface_989",
+        "sequence": 4,
+        "arrivalSec": 21962,
+        "departureSec": 21977
+      },
+      {
+        "stopId": "surface_987",
+        "sequence": 5,
+        "arrivalSec": 22017,
+        "departureSec": 22032
+      },
+      {
+        "stopId": "surface_993",
+        "sequence": 6,
+        "arrivalSec": 22130,
+        "departureSec": 22145
+      },
+      {
+        "stopId": "surface_1149",
+        "sequence": 7,
+        "arrivalSec": 22225,
+        "departureSec": 22240
+      },
+      {
+        "stopId": "surface_891",
+        "sequence": 8,
+        "arrivalSec": 22280,
+        "departureSec": 22295
+      },
+      {
+        "stopId": "surface_996",
+        "sequence": 9,
+        "arrivalSec": 22325,
+        "departureSec": 22340
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

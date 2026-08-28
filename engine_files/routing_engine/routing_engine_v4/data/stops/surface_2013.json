@@ -1,0 +1,18 @@
+{
+  "id": "surface_2013",
+  "data": {
+    "name": "Al Garage - Sawah",
+    "lat": 30.10565742329518,
+    "lng": 31.281426131076653,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2013",
+    "isActive": true
+  }
+}

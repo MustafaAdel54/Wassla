@@ -1,0 +1,18 @@
+{
+  "id": "surface_362",
+  "data": {
+    "name": "Military Cemetery (El-Moshir Tantawy Axis)",
+    "lat": 30.02270283185404,
+    "lng": 31.352621000201893,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "362",
+    "isActive": true
+  }
+}

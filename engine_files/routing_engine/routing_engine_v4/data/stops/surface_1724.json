@@ -1,0 +1,18 @@
+{
+  "id": "surface_1724",
+  "data": {
+    "name": "Al Aziz Bellah St. &  Selim Al Awwal St.",
+    "lat": 30.10249664364989,
+    "lng": 31.310328447797435,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1724",
+    "isActive": true
+  }
+}

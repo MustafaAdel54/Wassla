@@ -1,0 +1,18 @@
+{
+  "id": "surface_2994",
+  "data": {
+    "name": "Obour Market - South",
+    "lat": 30.160854573674165,
+    "lng": 31.468397226049493,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2994",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1254",
+  "data": {
+    "name": "Al Orouba Tunnel",
+    "lat": 30.085856407002094,
+    "lng": 31.323011411761378,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1254",
+    "isActive": true
+  }
+}

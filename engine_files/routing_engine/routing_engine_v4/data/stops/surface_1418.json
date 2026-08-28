@@ -1,0 +1,18 @@
+{
+  "id": "surface_1418",
+  "data": {
+    "name": "Al Khankah Police Station",
+    "lat": 30.22834,
+    "lng": 31.3622,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1418",
+    "isActive": true
+  }
+}

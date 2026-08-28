@@ -1,0 +1,18 @@
+{
+  "id": "surface_2576",
+  "data": {
+    "name": "Al Maraziq",
+    "lat": 29.8083,
+    "lng": 31.27276,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2576",
+    "isActive": true
+  }
+}

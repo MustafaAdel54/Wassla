@@ -1,0 +1,16 @@
+{
+  "id": "metro_457_MEK_METRO_N",
+  "data": {
+    "name": "Sakiat Mekki",
+    "lat": 29.9955669,
+    "lng": 31.2084889,
+    "stationId": "station_metro_457_MEK_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "457_MEK_METRO_N",
+    "parentSourceId": "457_MEK_METRO",
+    "isActive": true
+  }
+}

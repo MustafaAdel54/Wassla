@@ -1,0 +1,18 @@
+{
+  "id": "surface_2533",
+  "data": {
+    "name": "Ain Shams Metro",
+    "lat": 30.130778,
+    "lng": 31.3196422,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2533",
+    "isActive": true
+  }
+}

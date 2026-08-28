@@ -1,0 +1,18 @@
+{
+  "id": "surface_2001",
+  "data": {
+    "name": "Berm Al Tounsi St ( Abou Al Reesh )",
+    "lat": 30.0258231,
+    "lng": 31.2401321,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2001",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2696",
+  "data": {
+    "name": "Kafr Hamza Mill",
+    "lat": 30.220135280764623,
+    "lng": 31.327739530045324,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2696",
+    "isActive": true
+  }
+}

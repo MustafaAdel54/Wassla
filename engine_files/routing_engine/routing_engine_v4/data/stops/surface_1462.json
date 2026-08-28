@@ -1,0 +1,18 @@
+{
+  "id": "surface_1462",
+  "data": {
+    "name": "Al Toob Al Ramly",
+    "lat": 30.037226,
+    "lng": 31.359314,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1462",
+    "isActive": true
+  }
+}

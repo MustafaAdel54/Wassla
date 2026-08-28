@@ -1,0 +1,16 @@
+{
+  "id": "metro_223_MAT_METRO_N",
+  "data": {
+    "name": "El-Matareyya",
+    "lat": 30.1208952,
+    "lng": 31.3137335,
+    "stationId": "station_metro_223_MAT_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "223_MAT_METRO_N",
+    "parentSourceId": "223_MAT_METRO",
+    "isActive": true
+  }
+}

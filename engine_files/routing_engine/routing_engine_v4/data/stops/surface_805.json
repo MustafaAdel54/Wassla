@@ -1,0 +1,18 @@
+{
+  "id": "surface_805",
+  "data": {
+    "name": "Future University in Egypt (FUE)",
+    "lat": 30.02523511275653,
+    "lng": 31.490546576250164,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "805",
+    "isActive": true
+  }
+}

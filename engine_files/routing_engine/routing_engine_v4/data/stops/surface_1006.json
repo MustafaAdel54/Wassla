@@ -1,0 +1,18 @@
+{
+  "id": "surface_1006",
+  "data": {
+    "name": "Culture & Science City (6th of October)",
+    "lat": 29.956316588997794,
+    "lng": 30.913296279074633,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1006",
+    "isActive": true
+  }
+}

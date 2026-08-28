@@ -1,0 +1,18 @@
+{
+  "id": "surface_367",
+  "data": {
+    "name": "Ramses Railway Station",
+    "lat": 30.0619561,
+    "lng": 31.2480172,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "367",
+    "isActive": true
+  }
+}

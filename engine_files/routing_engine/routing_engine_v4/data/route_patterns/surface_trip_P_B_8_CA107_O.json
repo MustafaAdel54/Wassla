@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_P_B_8_CA107_O",
+  "data": {
+    "routeId": "surface_P_B_8_CA107",
+    "tripId": "P_B_8_CA107_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mazlaqan Ain Shams",
+    "stops": [
+      {
+        "stopId": "surface_754",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_781",
+        "sequence": 2,
+        "arrivalSec": 21751,
+        "departureSec": 21766
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

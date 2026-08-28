@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_7FtEZSMO30FZlKhX7ykFP",
+  "data": {
+    "routeId": "surface_l-EKz6sq8PlM9bMdDXqUY",
+    "tripId": "7FtEZSMO30FZlKhX7ykFP",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "10th District (Nasr City)",
+    "stops": [
+      {
+        "stopId": "surface_1098",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 2,
+        "arrivalSec": 21735,
+        "departureSec": 21750
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 3,
+        "arrivalSec": 21803,
+        "departureSec": 21818
+      },
+      {
+        "stopId": "surface_1213",
+        "sequence": 4,
+        "arrivalSec": 21980,
+        "departureSec": 21995
+      },
+      {
+        "stopId": "surface_431",
+        "sequence": 5,
+        "arrivalSec": 22457,
+        "departureSec": 22472
+      },
+      {
+        "stopId": "surface_598",
+        "sequence": 6,
+        "arrivalSec": 22567,
+        "departureSec": 22582
+      },
+      {
+        "stopId": "surface_306",
+        "sequence": 7,
+        "arrivalSec": 22730,
+        "departureSec": 22745
+      },
+      {
+        "stopId": "surface_93",
+        "sequence": 8,
+        "arrivalSec": 22801,
+        "departureSec": 22816
+      },
+      {
+        "stopId": "surface_170",
+        "sequence": 9,
+        "arrivalSec": 22856,
+        "departureSec": 22871
+      },
+      {
+        "stopId": "surface_1403",
+        "sequence": 10,
+        "arrivalSec": 23006,
+        "departureSec": 23021
+      },
+      {
+        "stopId": "surface_303",
+        "sequence": 11,
+        "arrivalSec": 23065,
+        "departureSec": 23080
+      },
+      {
+        "stopId": "surface_714",
+        "sequence": 12,
+        "arrivalSec": 23299,
+        "departureSec": 23314
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

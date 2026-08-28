@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_IG021_O",
+  "data": {
+    "routeId": "surface_P_O_14_IG021",
+    "tripId": "P_O_14_IG021_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Giza Square",
+    "stops": [
+      {
+        "stopId": "surface_664",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1134",
+        "sequence": 2,
+        "arrivalSec": 21775,
+        "departureSec": 21790
+      },
+      {
+        "stopId": "surface_637",
+        "sequence": 3,
+        "arrivalSec": 21846,
+        "departureSec": 21861
+      },
+      {
+        "stopId": "surface_2765",
+        "sequence": 4,
+        "arrivalSec": 22048,
+        "departureSec": 22063
+      },
+      {
+        "stopId": "surface_86",
+        "sequence": 5,
+        "arrivalSec": 22084,
+        "departureSec": 22099
+      },
+      {
+        "stopId": "surface_2482",
+        "sequence": 6,
+        "arrivalSec": 22102,
+        "departureSec": 22117
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

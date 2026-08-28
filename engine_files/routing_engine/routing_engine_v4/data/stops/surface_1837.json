@@ -1,0 +1,18 @@
+{
+  "id": "surface_1837",
+  "data": {
+    "name": "Gas Tech Gas Station ( Faisal St.)",
+    "lat": 29.998429580857703,
+    "lng": 31.159916458298312,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1837",
+    "isActive": true
+  }
+}

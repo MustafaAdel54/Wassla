@@ -1,0 +1,18 @@
+{
+  "id": "surface_2222",
+  "data": {
+    "name": "Crystal Asfour ( Masaken Al Wehda )",
+    "lat": 30.120151513536268,
+    "lng": 31.258314459154445,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2222",
+    "isActive": true
+  }
+}

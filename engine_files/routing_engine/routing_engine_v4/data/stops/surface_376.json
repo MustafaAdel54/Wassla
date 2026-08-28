@@ -1,0 +1,18 @@
+{
+  "id": "surface_376",
+  "data": {
+    "name": "Ahram Gardens Resort (6th of October)",
+    "lat": 29.951688541681047,
+    "lng": 31.0877637905725,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "376",
+    "isActive": true
+  }
+}

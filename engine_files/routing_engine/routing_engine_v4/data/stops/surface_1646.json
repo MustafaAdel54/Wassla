@@ -1,0 +1,18 @@
+{
+  "id": "surface_1646",
+  "data": {
+    "name": "Moqattam Entrance from Salah Salem",
+    "lat": 30.030361,
+    "lng": 31.2668749,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1646",
+    "isActive": true
+  }
+}

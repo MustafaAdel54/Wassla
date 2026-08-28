@@ -1,0 +1,18 @@
+{
+  "id": "surface_3002",
+  "data": {
+    "name": "Mafareq",
+    "lat": 30.232750022134983,
+    "lng": 31.391230066404944,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3002",
+    "isActive": true
+  }
+}

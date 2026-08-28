@@ -1,0 +1,16 @@
+{
+  "id": "metro_157_KHL_METRO_N",
+  "data": {
+    "name": "Khalafawy",
+    "lat": 30.0978453,
+    "lng": 31.2449992,
+    "stationId": "station_metro_157_KHL_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "157_KHL_METRO_N",
+    "parentSourceId": "157_KHL_METRO",
+    "isActive": true
+  }
+}

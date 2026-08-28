@@ -1,0 +1,18 @@
+{
+  "id": "surface_1115",
+  "data": {
+    "name": "1st Settlement Station",
+    "lat": 30.064577099510124,
+    "lng": 31.449131443924937,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1115",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2049",
+  "data": {
+    "name": "Judges Club (Al Dokki)",
+    "lat": 30.04289,
+    "lng": 31.219188,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2049",
+    "isActive": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_VOzBhvL9Yj-5M10S2hfp_",
+  "data": {
+    "routeId": "surface_G78c4G-oy20XNbcMYCzxY",
+    "tripId": "VOzBhvL9Yj-5M10S2hfp_",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Orabi Bridge",
+    "stops": [
+      {
+        "stopId": "surface_2128",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2297",
+        "sequence": 2,
+        "arrivalSec": 21655,
+        "departureSec": 21670
+      },
+      {
+        "stopId": "surface_2127",
+        "sequence": 3,
+        "arrivalSec": 21738,
+        "departureSec": 21753
+      },
+      {
+        "stopId": "surface_2686",
+        "sequence": 4,
+        "arrivalSec": 21798,
+        "departureSec": 21813
+      },
+      {
+        "stopId": "surface_30",
+        "sequence": 5,
+        "arrivalSec": 21873,
+        "departureSec": 21888
+      },
+      {
+        "stopId": "surface_2122",
+        "sequence": 6,
+        "arrivalSec": 22000,
+        "departureSec": 22015
+      },
+      {
+        "stopId": "surface_2117",
+        "sequence": 7,
+        "arrivalSec": 22084,
+        "departureSec": 22099
+      },
+      {
+        "stopId": "surface_2123",
+        "sequence": 8,
+        "arrivalSec": 22156,
+        "departureSec": 22171
+      },
+      {
+        "stopId": "surface_1297",
+        "sequence": 9,
+        "arrivalSec": 22285,
+        "departureSec": 22300
+      },
+      {
+        "stopId": "surface_1389",
+        "sequence": 10,
+        "arrivalSec": 22452,
+        "departureSec": 22467
+      },
+      {
+        "stopId": "surface_2517",
+        "sequence": 11,
+        "arrivalSec": 22565,
+        "departureSec": 22580
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

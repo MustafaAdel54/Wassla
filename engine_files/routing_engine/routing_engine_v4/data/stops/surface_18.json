@@ -1,0 +1,18 @@
+{
+  "id": "surface_18",
+  "data": {
+    "name": "Masaken Betcho",
+    "lat": 29.969469,
+    "lng": 31.3297255,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "18",
+    "isActive": true
+  }
+}

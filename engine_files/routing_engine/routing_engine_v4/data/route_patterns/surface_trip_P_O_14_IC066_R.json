@@ -1,0 +1,116 @@
+{
+  "id": "surface_trip_P_O_14_IC066_R",
+  "data": {
+    "routeId": "surface_P_O_14_IC066",
+    "tripId": "P_O_14_IC066_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Hegaz (Obour Police )",
+    "stops": [
+      {
+        "stopId": "surface_3013",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1098",
+        "sequence": 2,
+        "arrivalSec": 21627,
+        "departureSec": 21642
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 3,
+        "arrivalSec": 21764,
+        "departureSec": 21779
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 4,
+        "arrivalSec": 21834,
+        "departureSec": 21849
+      },
+      {
+        "stopId": "surface_1213",
+        "sequence": 5,
+        "arrivalSec": 22011,
+        "departureSec": 22026
+      },
+      {
+        "stopId": "surface_429",
+        "sequence": 6,
+        "arrivalSec": 22666,
+        "departureSec": 22681
+      },
+      {
+        "stopId": "surface_427",
+        "sequence": 7,
+        "arrivalSec": 22842,
+        "departureSec": 22857
+      },
+      {
+        "stopId": "surface_425",
+        "sequence": 8,
+        "arrivalSec": 22905,
+        "departureSec": 22920
+      },
+      {
+        "stopId": "surface_2635",
+        "sequence": 9,
+        "arrivalSec": 23012,
+        "departureSec": 23027
+      },
+      {
+        "stopId": "surface_422",
+        "sequence": 10,
+        "arrivalSec": 23075,
+        "departureSec": 23090
+      },
+      {
+        "stopId": "surface_1320",
+        "sequence": 11,
+        "arrivalSec": 23183,
+        "departureSec": 23198
+      },
+      {
+        "stopId": "surface_418",
+        "sequence": 12,
+        "arrivalSec": 23230,
+        "departureSec": 23245
+      },
+      {
+        "stopId": "surface_417",
+        "sequence": 13,
+        "arrivalSec": 23285,
+        "departureSec": 23300
+      },
+      {
+        "stopId": "surface_415",
+        "sequence": 14,
+        "arrivalSec": 23480,
+        "departureSec": 23495
+      },
+      {
+        "stopId": "surface_413",
+        "sequence": 15,
+        "arrivalSec": 23603,
+        "departureSec": 23618
+      },
+      {
+        "stopId": "surface_1323",
+        "sequence": 16,
+        "arrivalSec": 23669,
+        "departureSec": 23684
+      },
+      {
+        "stopId": "surface_1171",
+        "sequence": 17,
+        "arrivalSec": 23784,
+        "departureSec": 23799
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

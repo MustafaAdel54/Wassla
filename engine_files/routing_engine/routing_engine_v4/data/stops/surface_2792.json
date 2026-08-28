@@ -1,0 +1,18 @@
+{
+  "id": "surface_2792",
+  "data": {
+    "name": "Abu Al Nomros Police Station",
+    "lat": 29.9580602,
+    "lng": 31.2128636,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2792",
+    "isActive": true
+  }
+}

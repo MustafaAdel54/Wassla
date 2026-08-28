@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_vVcgD2JTe21Zaahlos0TS",
+  "data": {
+    "routeId": "surface_EwqAOaw248bX7cqrouzx3",
+    "tripId": "vVcgD2JTe21Zaahlos0TS",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Masallah Al Gadeda (Matareyya)",
+    "stops": [
+      {
+        "stopId": "surface_1748",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_737",
+        "sequence": 2,
+        "arrivalSec": 21849,
+        "departureSec": 21864
+      },
+      {
+        "stopId": "surface_735",
+        "sequence": 3,
+        "arrivalSec": 21933,
+        "departureSec": 21948
+      },
+      {
+        "stopId": "surface_1384",
+        "sequence": 4,
+        "arrivalSec": 22006,
+        "departureSec": 22022
+      },
+      {
+        "stopId": "surface_2040",
+        "sequence": 5,
+        "arrivalSec": 22380,
+        "departureSec": 22395
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

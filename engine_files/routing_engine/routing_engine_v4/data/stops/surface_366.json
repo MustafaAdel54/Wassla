@@ -1,0 +1,18 @@
+{
+  "id": "surface_366",
+  "data": {
+    "name": "Ahmed Oraby St.",
+    "lat": 30.0607042,
+    "lng": 31.2426602,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "366",
+    "isActive": true
+  }
+}

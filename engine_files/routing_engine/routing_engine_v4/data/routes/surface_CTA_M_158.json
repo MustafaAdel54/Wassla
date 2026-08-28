@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_M_158",
+  "data": {
+    "name": "Abd Al Moneim Riad - Cairo Airport",
+    "shortName": "Minibus 158",
+    "agencyId": "surface_CTA_M",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_M_158",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

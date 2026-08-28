@@ -1,0 +1,18 @@
+{
+  "id": "surface_1639",
+  "data": {
+    "name": "Al Sayeda Safeya Mosque (Salah Salem St.)",
+    "lat": 30.08378929547985,
+    "lng": 31.321436116741996,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1639",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_16",
+  "data": {
+    "name": "Faisal",
+    "lat": 29.99368960000001,
+    "lng": 31.14714929999998,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "16",
+    "isActive": true
+  }
+}

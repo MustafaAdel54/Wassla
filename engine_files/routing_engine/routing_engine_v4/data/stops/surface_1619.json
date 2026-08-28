@@ -1,0 +1,18 @@
+{
+  "id": "surface_1619",
+  "data": {
+    "name": "Abd Al Moneim Riad Mosque (Nile Corniche)",
+    "lat": 29.937573078486487,
+    "lng": 31.27645712385918,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1619",
+    "isActive": true
+  }
+}

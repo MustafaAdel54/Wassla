@@ -1,0 +1,18 @@
+{
+  "id": "surface_72",
+  "data": {
+    "name": "Lotus (5th Settlement)",
+    "lat": 30.02684,
+    "lng": 31.49883,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "72",
+    "isActive": true
+  }
+}

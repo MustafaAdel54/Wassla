@@ -1,0 +1,18 @@
+{
+  "id": "surface_2196",
+  "data": {
+    "name": "Pasta Factory Steps (Ring Rd.)",
+    "lat": 29.984680532802294,
+    "lng": 31.203981024681344,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2196",
+    "isActive": true
+  }
+}

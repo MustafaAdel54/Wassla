@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_P_O_14_CA152_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA152",
+    "tripId": "P_O_14_CA152_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Sharabeya",
+    "stops": [
+      {
+        "stopId": "surface_154",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2460",
+        "sequence": 2,
+        "arrivalSec": 21660,
+        "departureSec": 21675
+      },
+      {
+        "stopId": "surface_2100",
+        "sequence": 3,
+        "arrivalSec": 21736,
+        "departureSec": 21751
+      },
+      {
+        "stopId": "surface_2245",
+        "sequence": 4,
+        "arrivalSec": 22054,
+        "departureSec": 22069
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

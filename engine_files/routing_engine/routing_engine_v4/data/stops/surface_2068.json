@@ -1,0 +1,18 @@
+{
+  "id": "surface_2068",
+  "data": {
+    "name": "Talaat Harb Square (Downtown)",
+    "lat": 30.0477809,
+    "lng": 31.2386805,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2068",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_792",
+  "data": {
+    "name": "Salam Station (10th of Ramadan Station)",
+    "lat": 30.1477191850442,
+    "lng": 31.420723639978405,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "792",
+    "isActive": true
+  }
+}

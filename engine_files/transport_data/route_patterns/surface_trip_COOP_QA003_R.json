@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_COOP_QA003_R",
+  "data": {
+    "routeId": "surface_COOP_QA003",
+    "tripId": "COOP_QA003_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Qalyoub El Balad",
+    "stops": [
+      {
+        "stopId": "surface_2579",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_348",
+        "sequence": 2,
+        "arrivalSec": 21633,
+        "departureSec": 21648
+      },
+      {
+        "stopId": "surface_2804",
+        "sequence": 3,
+        "arrivalSec": 21677,
+        "departureSec": 21692
+      },
+      {
+        "stopId": "surface_349",
+        "sequence": 4,
+        "arrivalSec": 21844,
+        "departureSec": 21859
+      },
+      {
+        "stopId": "surface_2692",
+        "sequence": 5,
+        "arrivalSec": 22053,
+        "departureSec": 22068
+      },
+      {
+        "stopId": "surface_1847",
+        "sequence": 6,
+        "arrivalSec": 22130,
+        "departureSec": 22145
+      },
+      {
+        "stopId": "surface_2661",
+        "sequence": 7,
+        "arrivalSec": 22485,
+        "departureSec": 22500
+      },
+      {
+        "stopId": "surface_1849",
+        "sequence": 8,
+        "arrivalSec": 22584,
+        "departureSec": 22599
+      },
+      {
+        "stopId": "surface_2647",
+        "sequence": 9,
+        "arrivalSec": 22875,
+        "departureSec": 22890
+      },
+      {
+        "stopId": "surface_2646",
+        "sequence": 10,
+        "arrivalSec": 23158,
+        "departureSec": 23173
+      },
+      {
+        "stopId": "surface_2645",
+        "sequence": 11,
+        "arrivalSec": 23739,
+        "departureSec": 23754
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

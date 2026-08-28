@@ -1,0 +1,18 @@
+{
+  "id": "surface_1117",
+  "data": {
+    "name": "Hamada Emam - Industrial Zone 2",
+    "lat": 29.9094552,
+    "lng": 30.8944067,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1117",
+    "isActive": true
+  }
+}

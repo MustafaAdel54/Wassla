@@ -1,0 +1,18 @@
+{
+  "id": "surface_914",
+  "data": {
+    "name": "Al Nozha St. & 30 St. (Sheikh Zayed)",
+    "lat": 30.04194410269723,
+    "lng": 31.01204826291067,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "914",
+    "isActive": true
+  }
+}

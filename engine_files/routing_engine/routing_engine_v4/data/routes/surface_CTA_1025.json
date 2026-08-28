@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_1025",
+  "data": {
+    "name": "15th of May - Abd Al Moneim Riad",
+    "shortName": "CTA 1025",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_1025",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1790",
+  "data": {
+    "name": "Saad Zaghloul St & Anwar Al Sadat St.",
+    "lat": 29.8237544,
+    "lng": 31.3731632,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1790",
+    "isActive": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_eDQpPLpIxKX6KJR50Ej4x",
+  "data": {
+    "routeId": "surface_c3UcQoq3-K4VbxrHfMQ55",
+    "tripId": "eDQpPLpIxKX6KJR50Ej4x",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Om Bayoumi (Mintay)",
+    "stops": [
+      {
+        "stopId": "surface_2797",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2796",
+        "sequence": 2,
+        "arrivalSec": 21670,
+        "departureSec": 21685
+      },
+      {
+        "stopId": "surface_2795",
+        "sequence": 3,
+        "arrivalSec": 21740,
+        "departureSec": 21755
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

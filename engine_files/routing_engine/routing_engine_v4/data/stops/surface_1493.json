@@ -1,0 +1,18 @@
+{
+  "id": "surface_1493",
+  "data": {
+    "name": "Oasis Mall (Sheraton)",
+    "lat": 30.1091102,
+    "lng": 31.3717073,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1493",
+    "isActive": true
+  }
+}

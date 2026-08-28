@@ -1,0 +1,18 @@
+{
+  "id": "surface_151",
+  "data": {
+    "name": "Imbaba Police Station",
+    "lat": 30.074943077619622,
+    "lng": 31.222086786966713,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "151",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1666",
+  "data": {
+    "name": "Dar Al Salam Police Station",
+    "lat": 29.971968,
+    "lng": 31.246912,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1666",
+    "isActive": true
+  }
+}

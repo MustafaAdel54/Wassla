@@ -1,0 +1,18 @@
+{
+  "id": "surface_2566",
+  "data": {
+    "name": "Coop Gas Station (Helwan Corniche)",
+    "lat": 29.808479061403744,
+    "lng": 31.301844488642057,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2566",
+    "isActive": true
+  }
+}

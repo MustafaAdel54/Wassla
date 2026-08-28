@@ -1,0 +1,18 @@
+{
+  "id": "surface_1",
+  "data": {
+    "name": "Al Remaya Square",
+    "lat": 29.9903806,
+    "lng": 31.1335309,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1",
+    "isActive": true
+  }
+}

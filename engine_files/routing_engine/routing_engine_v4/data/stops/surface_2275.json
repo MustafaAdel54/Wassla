@@ -1,0 +1,18 @@
+{
+  "id": "surface_2275",
+  "data": {
+    "name": "Agricultural Center (Badrasheen)",
+    "lat": 29.851396816153578,
+    "lng": 31.24744317132537,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2275",
+    "isActive": true
+  }
+}

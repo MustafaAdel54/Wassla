@@ -1,0 +1,18 @@
+{
+  "id": "surface_2317",
+  "data": {
+    "name": "Al Ward St. & Al Mansoureyya Rd.",
+    "lat": 29.967726899999988,
+    "lng": 31.1466278,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2317",
+    "isActive": true
+  }
+}

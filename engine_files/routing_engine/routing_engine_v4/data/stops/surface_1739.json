@@ -1,0 +1,18 @@
+{
+  "id": "surface_1739",
+  "data": {
+    "name": "Al Sawah Square",
+    "lat": 30.10839345084718,
+    "lng": 31.283170690140587,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1739",
+    "isActive": true
+  }
+}

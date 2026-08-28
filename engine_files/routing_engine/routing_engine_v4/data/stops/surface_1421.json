@@ -1,0 +1,18 @@
+{
+  "id": "surface_1421",
+  "data": {
+    "name": "Al Khanka Terminal",
+    "lat": 30.21999951824685,
+    "lng": 31.37168952219476,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1421",
+    "isActive": true
+  }
+}

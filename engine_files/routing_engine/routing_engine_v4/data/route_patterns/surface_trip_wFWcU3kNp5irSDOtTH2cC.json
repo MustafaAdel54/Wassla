@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_wFWcU3kNp5irSDOtTH2cC",
+  "data": {
+    "routeId": "surface_bxHMMd-JyQtEEVzZqhYxF",
+    "tripId": "wFWcU3kNp5irSDOtTH2cC",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Qawmeya Arabeya",
+    "stops": [
+      {
+        "stopId": "surface_2212",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2210",
+        "sequence": 2,
+        "arrivalSec": 21832,
+        "departureSec": 21847
+      },
+      {
+        "stopId": "surface_2912",
+        "sequence": 3,
+        "arrivalSec": 22017,
+        "departureSec": 22032
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

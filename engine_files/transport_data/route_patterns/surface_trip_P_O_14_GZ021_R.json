@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_O_14_GZ021_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ021",
+    "tripId": "P_O_14_GZ021_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Bohooth (Al Kobri Al Khashab)",
+    "stops": [
+      {
+        "stopId": "surface_2406",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2402",
+        "sequence": 2,
+        "arrivalSec": 21753,
+        "departureSec": 21768
+      },
+      {
+        "stopId": "surface_2349",
+        "sequence": 3,
+        "arrivalSec": 21808,
+        "departureSec": 21824
+      },
+      {
+        "stopId": "surface_231",
+        "sequence": 4,
+        "arrivalSec": 22168,
+        "departureSec": 22183
+      },
+      {
+        "stopId": "surface_2335",
+        "sequence": 5,
+        "arrivalSec": 22272,
+        "departureSec": 22287
+      },
+      {
+        "stopId": "surface_2333",
+        "sequence": 6,
+        "arrivalSec": 22376,
+        "departureSec": 22391
+      },
+      {
+        "stopId": "surface_2331",
+        "sequence": 7,
+        "arrivalSec": 22514,
+        "departureSec": 22529
+      },
+      {
+        "stopId": "surface_2259",
+        "sequence": 8,
+        "arrivalSec": 22733,
+        "departureSec": 22748
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

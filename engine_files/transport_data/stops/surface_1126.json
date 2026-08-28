@@ -1,0 +1,18 @@
+{
+  "id": "surface_1126",
+  "data": {
+    "name": "Kattameya Church",
+    "lat": 29.98218590195313,
+    "lng": 31.416798483685934,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1126",
+    "isActive": true
+  }
+}

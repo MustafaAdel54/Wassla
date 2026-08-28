@@ -1,0 +1,18 @@
+{
+  "id": "surface_2950",
+  "data": {
+    "name": "Al Wahab Mosque St. (Marg)",
+    "lat": 30.198530353335155,
+    "lng": 31.353641774129315,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2950",
+    "isActive": true
+  }
+}

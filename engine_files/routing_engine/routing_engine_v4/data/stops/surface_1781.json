@@ -1,0 +1,18 @@
+{
+  "id": "surface_1781",
+  "data": {
+    "name": "Oil Libya Gas Station (Sadat Square)",
+    "lat": 29.841766387743164,
+    "lng": 31.375080836771794,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1781",
+    "isActive": true
+  }
+}

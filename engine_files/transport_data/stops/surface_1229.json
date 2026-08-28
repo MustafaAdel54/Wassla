@@ -1,0 +1,18 @@
+{
+  "id": "surface_1229",
+  "data": {
+    "name": "Al Waha Compound (Shorouq City)",
+    "lat": 30.143535974010337,
+    "lng": 31.66190314033932,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1229",
+    "isActive": true
+  }
+}

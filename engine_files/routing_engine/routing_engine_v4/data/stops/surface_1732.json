@@ -1,0 +1,18 @@
+{
+  "id": "surface_1732",
+  "data": {
+    "name": "Omar Ibn Al Khattab Mosque (Al Matareyya St.)",
+    "lat": 30.108008015177983,
+    "lng": 31.303547192309534,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1732",
+    "isActive": true
+  }
+}

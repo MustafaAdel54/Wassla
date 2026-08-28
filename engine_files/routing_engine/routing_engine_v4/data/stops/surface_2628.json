@@ -1,0 +1,18 @@
+{
+  "id": "surface_2628",
+  "data": {
+    "name": "Warraq Al Arab",
+    "lat": 30.095678,
+    "lng": 31.214838,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2628",
+    "isActive": true
+  }
+}

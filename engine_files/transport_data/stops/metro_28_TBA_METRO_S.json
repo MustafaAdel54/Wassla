@@ -1,0 +1,16 @@
+{
+  "id": "metro_28_TBA_METRO_S",
+  "data": {
+    "name": "Tora El-Balad",
+    "lat": 29.9467168,
+    "lng": 31.2728834,
+    "stationId": "station_metro_28_TBA_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "28_TBA_METRO_S",
+    "parentSourceId": "28_TBA_METRO",
+    "isActive": true
+  }
+}

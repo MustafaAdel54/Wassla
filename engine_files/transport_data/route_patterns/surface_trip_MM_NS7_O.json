@@ -1,0 +1,98 @@
+{
+  "id": "surface_trip_MM_NS7_O",
+  "data": {
+    "routeId": "surface_MM_NS7",
+    "tripId": "MM_NS7_O",
+    "serviceId": "Ground_Weekdays",
+    "directionId": "0",
+    "headsign": "Saray Al Qobba",
+    "stops": [
+      {
+        "stopId": "surface_1159",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1158",
+        "sequence": 2,
+        "arrivalSec": 21699,
+        "departureSec": 21714
+      },
+      {
+        "stopId": "surface_2678",
+        "sequence": 3,
+        "arrivalSec": 24272,
+        "departureSec": 24287
+      },
+      {
+        "stopId": "surface_699",
+        "sequence": 4,
+        "arrivalSec": 24549,
+        "departureSec": 24564
+      },
+      {
+        "stopId": "surface_2454",
+        "sequence": 5,
+        "arrivalSec": 24973,
+        "departureSec": 24988
+      },
+      {
+        "stopId": "surface_1453",
+        "sequence": 6,
+        "arrivalSec": 25202,
+        "departureSec": 25217
+      },
+      {
+        "stopId": "surface_1252",
+        "sequence": 7,
+        "arrivalSec": 25509,
+        "departureSec": 25524
+      },
+      {
+        "stopId": "surface_1507",
+        "sequence": 8,
+        "arrivalSec": 25570,
+        "departureSec": 25585
+      },
+      {
+        "stopId": "surface_1506",
+        "sequence": 9,
+        "arrivalSec": 25629,
+        "departureSec": 25644
+      },
+      {
+        "stopId": "surface_100",
+        "sequence": 10,
+        "arrivalSec": 25708,
+        "departureSec": 25723
+      },
+      {
+        "stopId": "surface_2846",
+        "sequence": 11,
+        "arrivalSec": 25782,
+        "departureSec": 25797
+      },
+      {
+        "stopId": "surface_119",
+        "sequence": 12,
+        "arrivalSec": 26059,
+        "departureSec": 26074
+      },
+      {
+        "stopId": "surface_85",
+        "sequence": 13,
+        "arrivalSec": 26243,
+        "departureSec": 26258
+      },
+      {
+        "stopId": "surface_736",
+        "sequence": 14,
+        "arrivalSec": 26582,
+        "departureSec": 26597
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

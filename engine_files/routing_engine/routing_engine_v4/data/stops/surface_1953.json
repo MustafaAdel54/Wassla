@@ -1,0 +1,18 @@
+{
+  "id": "surface_1953",
+  "data": {
+    "name": "Misr Al Qadima Post Office",
+    "lat": 30.005592266745932,
+    "lng": 31.226488367859563,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1953",
+    "isActive": true
+  }
+}

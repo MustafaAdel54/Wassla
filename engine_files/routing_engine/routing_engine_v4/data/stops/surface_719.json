@@ -1,0 +1,18 @@
+{
+  "id": "surface_719",
+  "data": {
+    "name": "Khalafawi Square",
+    "lat": 30.097776910212733,
+    "lng": 31.249241883781682,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "719",
+    "isActive": true
+  }
+}

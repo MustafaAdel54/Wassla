@@ -1,0 +1,18 @@
+{
+  "id": "surface_142",
+  "data": {
+    "name": "Port Said St. (Al Sawah)",
+    "lat": 30.10769214215253,
+    "lng": 31.283999210908394,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "142",
+    "isActive": true
+  }
+}

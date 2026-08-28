@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_B_8_NC014_R",
+  "data": {
+    "routeId": "surface_P_B_8_NC014",
+    "tripId": "P_B_8_NC014_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Shabab Entrance",
+    "stops": [
+      {
+        "stopId": "surface_1123",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_596",
+        "sequence": 2,
+        "arrivalSec": 21638,
+        "departureSec": 21653
+      },
+      {
+        "stopId": "surface_1188",
+        "sequence": 3,
+        "arrivalSec": 21791,
+        "departureSec": 21806
+      },
+      {
+        "stopId": "surface_1125",
+        "sequence": 4,
+        "arrivalSec": 22049,
+        "departureSec": 22064
+      },
+      {
+        "stopId": "surface_1377",
+        "sequence": 5,
+        "arrivalSec": 22108,
+        "departureSec": 22123
+      },
+      {
+        "stopId": "surface_831",
+        "sequence": 6,
+        "arrivalSec": 22170,
+        "departureSec": 22185
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

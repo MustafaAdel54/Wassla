@@ -1,0 +1,18 @@
+{
+  "id": "surface_1808",
+  "data": {
+    "name": "Al Shabab (Al Tagneed)",
+    "lat": 29.9842122,
+    "lng": 31.1113474,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1808",
+    "isActive": true
+  }
+}

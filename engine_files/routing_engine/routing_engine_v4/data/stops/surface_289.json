@@ -1,0 +1,18 @@
+{
+  "id": "surface_289",
+  "data": {
+    "name": "Ashrafco Tyres (Nasr City)",
+    "lat": 30.050445210981934,
+    "lng": 31.319397266217596,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "289",
+    "isActive": true
+  }
+}

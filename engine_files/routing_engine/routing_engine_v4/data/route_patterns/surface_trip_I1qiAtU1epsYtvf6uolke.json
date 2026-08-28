@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_I1qiAtU1epsYtvf6uolke",
+  "data": {
+    "routeId": "surface_QD4B-vIsagxeF82oSJvMs",
+    "tripId": "I1qiAtU1epsYtvf6uolke",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Moassasa",
+    "stops": [
+      {
+        "stopId": "surface_2832",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2915",
+        "sequence": 2,
+        "arrivalSec": 21743,
+        "departureSec": 21758
+      },
+      {
+        "stopId": "surface_789",
+        "sequence": 3,
+        "arrivalSec": 22054,
+        "departureSec": 22069
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

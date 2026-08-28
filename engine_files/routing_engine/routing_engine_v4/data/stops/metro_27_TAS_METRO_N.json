@@ -1,0 +1,16 @@
+{
+  "id": "metro_27_TAS_METRO_N",
+  "data": {
+    "name": "Tora El-Asmant",
+    "lat": 29.9259651,
+    "lng": 31.2875497,
+    "stationId": "station_metro_27_TAS_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "27_TAS_METRO_N",
+    "parentSourceId": "27_TAS_METRO",
+    "isActive": true
+  }
+}

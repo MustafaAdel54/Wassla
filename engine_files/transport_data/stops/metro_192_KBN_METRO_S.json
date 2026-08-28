@@ -1,0 +1,16 @@
+{
+  "id": "metro_192_KBN_METRO_S",
+  "data": {
+    "name": "Koleyet El-Banat",
+    "lat": 30.084163,
+    "lng": 31.329012,
+    "stationId": "station_metro_192_KBN_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "192_KBN_METRO_S",
+    "parentSourceId": "192_KBN_METRO",
+    "isActive": true
+  }
+}

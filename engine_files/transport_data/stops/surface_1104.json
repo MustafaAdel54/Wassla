@@ -1,0 +1,18 @@
+{
+  "id": "surface_1104",
+  "data": {
+    "name": "11th District (6th of October)",
+    "lat": 29.9627771,
+    "lng": 30.901794800000015,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1104",
+    "isActive": true
+  }
+}

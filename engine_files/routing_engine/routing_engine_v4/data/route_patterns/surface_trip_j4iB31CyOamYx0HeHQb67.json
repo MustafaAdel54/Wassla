@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_j4iB31CyOamYx0HeHQb67",
+  "data": {
+    "routeId": "surface_yyGnaQQgQqV2mgxb-3iuX",
+    "tripId": "j4iB31CyOamYx0HeHQb67",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Badrasheen",
+    "stops": [
+      {
+        "stopId": "surface_2274",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_71",
+        "sequence": 2,
+        "arrivalSec": 21884,
+        "departureSec": 21899
+      },
+      {
+        "stopId": "surface_70",
+        "sequence": 3,
+        "arrivalSec": 21987,
+        "departureSec": 22002
+      },
+      {
+        "stopId": "surface_2275",
+        "sequence": 4,
+        "arrivalSec": 22237,
+        "departureSec": 22252
+      },
+      {
+        "stopId": "surface_2276",
+        "sequence": 5,
+        "arrivalSec": 22695,
+        "departureSec": 22710
+      },
+      {
+        "stopId": "surface_2277",
+        "sequence": 6,
+        "arrivalSec": 23093,
+        "departureSec": 23108
+      },
+      {
+        "stopId": "surface_2278",
+        "sequence": 7,
+        "arrivalSec": 23258,
+        "departureSec": 23273
+      },
+      {
+        "stopId": "surface_2279",
+        "sequence": 8,
+        "arrivalSec": 23277,
+        "departureSec": 23292
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

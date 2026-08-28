@@ -1,0 +1,18 @@
+{
+  "id": "surface_2957",
+  "data": {
+    "name": "Masaken Al Abd (Al Salam)",
+    "lat": 30.16998883654797,
+    "lng": 31.40888637883089,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2957",
+    "isActive": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_P_B_8_IC070_R",
+  "data": {
+    "routeId": "surface_P_B_8_IC070",
+    "tripId": "P_B_8_IC070_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "1st Settlement (New Cairo)",
+    "stops": [
+      {
+        "stopId": "surface_837",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2547",
+        "sequence": 2,
+        "arrivalSec": 21631,
+        "departureSec": 21646
+      },
+      {
+        "stopId": "surface_1235",
+        "sequence": 3,
+        "arrivalSec": 21708,
+        "departureSec": 21723
+      },
+      {
+        "stopId": "surface_597",
+        "sequence": 4,
+        "arrivalSec": 21790,
+        "departureSec": 21805
+      },
+      {
+        "stopId": "surface_581",
+        "sequence": 5,
+        "arrivalSec": 21939,
+        "departureSec": 21954
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

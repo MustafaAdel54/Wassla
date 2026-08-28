@@ -1,0 +1,18 @@
+{
+  "id": "surface_185",
+  "data": {
+    "name": "Al Geish Square",
+    "lat": 30.062182446634935,
+    "lng": 31.267786145100676,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "185",
+    "isActive": true
+  }
+}

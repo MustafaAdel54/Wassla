@@ -1,0 +1,18 @@
+{
+  "id": "surface_170",
+  "data": {
+    "name": "Zahraa Nasr City",
+    "lat": 30.051454027267216,
+    "lng": 31.39992473919613,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "170",
+    "isActive": true
+  }
+}

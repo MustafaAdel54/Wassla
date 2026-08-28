@@ -1,0 +1,18 @@
+{
+  "id": "surface_2510",
+  "data": {
+    "name": "Tolip (Zahraa Nasr City)",
+    "lat": 30.0516274,
+    "lng": 31.4046377,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2510",
+    "isActive": true
+  }
+}

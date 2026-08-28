@@ -1,0 +1,18 @@
+{
+  "id": "surface_1856",
+  "data": {
+    "name": "Khair Zaman (Zahraa Al Maadi)",
+    "lat": 29.961248822124002,
+    "lng": 31.289582272631602,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1856",
+    "isActive": true
+  }
+}

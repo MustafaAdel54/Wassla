@@ -1,0 +1,18 @@
+{
+  "id": "surface_320",
+  "data": {
+    "name": "Al Motamayez Entrance (6th of October)",
+    "lat": 29.99574291240786,
+    "lng": 30.96219091263706,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "320",
+    "isActive": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_P_O_14_QA006_R",
+  "data": {
+    "routeId": "surface_P_O_14_QA006",
+    "tripId": "P_O_14_QA006_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Khanka",
+    "stops": [
+      {
+        "stopId": "surface_2442",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2909",
+        "sequence": 2,
+        "arrivalSec": 21859,
+        "departureSec": 21874
+      },
+      {
+        "stopId": "surface_1417",
+        "sequence": 3,
+        "arrivalSec": 21964,
+        "departureSec": 21979
+      },
+      {
+        "stopId": "surface_1416",
+        "sequence": 4,
+        "arrivalSec": 22024,
+        "departureSec": 22039
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

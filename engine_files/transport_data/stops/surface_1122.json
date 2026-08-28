@@ -1,0 +1,18 @@
+{
+  "id": "surface_1122",
+  "data": {
+    "name": "New Cairo Academy",
+    "lat": 29.9933122,
+    "lng": 31.4344949,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1122",
+    "isActive": true
+  }
+}

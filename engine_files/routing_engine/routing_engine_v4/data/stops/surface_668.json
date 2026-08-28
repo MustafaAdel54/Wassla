@@ -1,0 +1,18 @@
+{
+  "id": "surface_668",
+  "data": {
+    "name": "Souq Bab Al Louq",
+    "lat": 30.045209319329473,
+    "lng": 31.239719130502863,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "668",
+    "isActive": true
+  }
+}

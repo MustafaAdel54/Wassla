@@ -1,0 +1,15 @@
+{
+  "id": "surface_COOP_IC024",
+  "data": {
+    "name": "Al-Salam (10th of Ramadan) - Gas (Banks Area)",
+    "shortName": "Minibus",
+    "agencyId": "surface_COOP",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "COOP_IC024",
+    "routeType": "3",
+    "continuousPickup": "0",
+    "continuousDropOff": "0",
+    "isActive": true
+  }
+}

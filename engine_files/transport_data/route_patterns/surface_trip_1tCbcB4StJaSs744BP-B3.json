@@ -1,0 +1,176 @@
+{
+  "id": "surface_trip_1tCbcB4StJaSs744BP-B3",
+  "data": {
+    "routeId": "surface_eMaHcYlisvFxLtiCbDGRM",
+    "tripId": "1tCbcB4StJaSs744BP-B3",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Abd Al Moneim Riad",
+    "stops": [
+      {
+        "stopId": "surface_2015",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_141",
+        "sequence": 2,
+        "arrivalSec": 21712,
+        "departureSec": 21727
+      },
+      {
+        "stopId": "surface_142",
+        "sequence": 3,
+        "arrivalSec": 21767,
+        "departureSec": 21782
+      },
+      {
+        "stopId": "surface_1740",
+        "sequence": 4,
+        "arrivalSec": 21842,
+        "departureSec": 21857
+      },
+      {
+        "stopId": "surface_732",
+        "sequence": 5,
+        "arrivalSec": 21937,
+        "departureSec": 21952
+      },
+      {
+        "stopId": "surface_2320",
+        "sequence": 6,
+        "arrivalSec": 22044,
+        "departureSec": 22058
+      },
+      {
+        "stopId": "surface_729",
+        "sequence": 7,
+        "arrivalSec": 22188,
+        "departureSec": 22204
+      },
+      {
+        "stopId": "surface_2323",
+        "sequence": 8,
+        "arrivalSec": 22247,
+        "departureSec": 22262
+      },
+      {
+        "stopId": "surface_1314",
+        "sequence": 9,
+        "arrivalSec": 22322,
+        "departureSec": 22337
+      },
+      {
+        "stopId": "surface_1312",
+        "sequence": 10,
+        "arrivalSec": 22386,
+        "departureSec": 22402
+      },
+      {
+        "stopId": "surface_728",
+        "sequence": 11,
+        "arrivalSec": 22566,
+        "departureSec": 22582
+      },
+      {
+        "stopId": "surface_2121",
+        "sequence": 12,
+        "arrivalSec": 22682,
+        "departureSec": 22696
+      },
+      {
+        "stopId": "surface_210",
+        "sequence": 13,
+        "arrivalSec": 22806,
+        "departureSec": 22822
+      },
+      {
+        "stopId": "surface_1328",
+        "sequence": 14,
+        "arrivalSec": 22898,
+        "departureSec": 22914
+      },
+      {
+        "stopId": "surface_717",
+        "sequence": 15,
+        "arrivalSec": 23012,
+        "departureSec": 23026
+      },
+      {
+        "stopId": "surface_2296",
+        "sequence": 16,
+        "arrivalSec": 23112,
+        "departureSec": 23128
+      },
+      {
+        "stopId": "surface_716",
+        "sequence": 17,
+        "arrivalSec": 23158,
+        "departureSec": 23172
+      },
+      {
+        "stopId": "surface_715",
+        "sequence": 18,
+        "arrivalSec": 23294,
+        "departureSec": 23308
+      },
+      {
+        "stopId": "surface_1327",
+        "sequence": 19,
+        "arrivalSec": 23440,
+        "departureSec": 23456
+      },
+      {
+        "stopId": "surface_2301",
+        "sequence": 20,
+        "arrivalSec": 23704,
+        "departureSec": 23718
+      },
+      {
+        "stopId": "surface_365",
+        "sequence": 21,
+        "arrivalSec": 23790,
+        "departureSec": 23806
+      },
+      {
+        "stopId": "surface_125",
+        "sequence": 22,
+        "arrivalSec": 23872,
+        "departureSec": 23888
+      },
+      {
+        "stopId": "surface_366",
+        "sequence": 23,
+        "arrivalSec": 24042,
+        "departureSec": 24058
+      },
+      {
+        "stopId": "surface_222",
+        "sequence": 24,
+        "arrivalSec": 24198,
+        "departureSec": 24214
+      },
+      {
+        "stopId": "surface_2088",
+        "sequence": 25,
+        "arrivalSec": 24312,
+        "departureSec": 24326
+      },
+      {
+        "stopId": "surface_225",
+        "sequence": 26,
+        "arrivalSec": 24356,
+        "departureSec": 24372
+      },
+      {
+        "stopId": "surface_227",
+        "sequence": 27,
+        "arrivalSec": 24472,
+        "departureSec": 24488
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

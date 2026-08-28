@@ -1,0 +1,18 @@
+{
+  "id": "surface_2309",
+  "data": {
+    "name": "Kahraba Club (Rod Al Farag)",
+    "lat": 30.08493620453113,
+    "lng": 31.232611798825026,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2309",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1367",
+  "data": {
+    "name": "Al Safwa Mall",
+    "lat": 30.01545985571332,
+    "lng": 31.00268855908955,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1367",
+    "isActive": true
+  }
+}

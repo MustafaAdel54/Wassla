@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_CA049_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA049",
+    "tripId": "P_O_14_CA049_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Dar El Salam",
+    "stops": [
+      {
+        "stopId": "surface_2065",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1940",
+        "sequence": 2,
+        "arrivalSec": 21691,
+        "departureSec": 21706
+      },
+      {
+        "stopId": "surface_1939",
+        "sequence": 3,
+        "arrivalSec": 21791,
+        "departureSec": 21806
+      },
+      {
+        "stopId": "surface_1938",
+        "sequence": 4,
+        "arrivalSec": 21876,
+        "departureSec": 21891
+      },
+      {
+        "stopId": "surface_161",
+        "sequence": 5,
+        "arrivalSec": 21926,
+        "departureSec": 21941
+      },
+      {
+        "stopId": "surface_1934",
+        "sequence": 6,
+        "arrivalSec": 21986,
+        "departureSec": 22001
+      },
+      {
+        "stopId": "surface_1941",
+        "sequence": 7,
+        "arrivalSec": 22040,
+        "departureSec": 22056
+      },
+      {
+        "stopId": "surface_1943",
+        "sequence": 8,
+        "arrivalSec": 22118,
+        "departureSec": 22134
+      },
+      {
+        "stopId": "surface_1952",
+        "sequence": 9,
+        "arrivalSec": 22174,
+        "departureSec": 22188
+      },
+      {
+        "stopId": "surface_1950",
+        "sequence": 10,
+        "arrivalSec": 22280,
+        "departureSec": 22294
+      },
+      {
+        "stopId": "surface_1144",
+        "sequence": 11,
+        "arrivalSec": 22456,
+        "departureSec": 22470
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

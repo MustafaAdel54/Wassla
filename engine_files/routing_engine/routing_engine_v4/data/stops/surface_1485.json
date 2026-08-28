@@ -1,0 +1,18 @@
+{
+  "id": "surface_1485",
+  "data": {
+    "name": "Sun City Mall",
+    "lat": 30.103927221568917,
+    "lng": 31.384187095708793,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1485",
+    "isActive": true
+  }
+}

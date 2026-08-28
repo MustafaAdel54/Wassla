@@ -1,0 +1,18 @@
+{
+  "id": "surface_1163",
+  "data": {
+    "name": "Al Shorouq Water Station",
+    "lat": 30.161568308675857,
+    "lng": 31.6215675168271,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1163",
+    "isActive": true
+  }
+}

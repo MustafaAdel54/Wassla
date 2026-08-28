@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_rMZqUrt7brTZ7bfJ_bItX",
+  "data": {
+    "routeId": "surface_aLrT5j0aQaI9mR_I4nxYy",
+    "tripId": "rMZqUrt7brTZ7bfJ_bItX",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Mazallat",
+    "stops": [
+      {
+        "stopId": "surface_1737",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2041",
+        "sequence": 2,
+        "arrivalSec": 21685,
+        "departureSec": 21700
+      },
+      {
+        "stopId": "surface_732",
+        "sequence": 3,
+        "arrivalSec": 21871,
+        "departureSec": 21886
+      },
+      {
+        "stopId": "surface_2320",
+        "sequence": 4,
+        "arrivalSec": 21956,
+        "departureSec": 21971
+      },
+      {
+        "stopId": "surface_729",
+        "sequence": 5,
+        "arrivalSec": 22056,
+        "departureSec": 22071
+      },
+      {
+        "stopId": "surface_2323",
+        "sequence": 6,
+        "arrivalSec": 22108,
+        "departureSec": 22123
+      },
+      {
+        "stopId": "surface_1314",
+        "sequence": 7,
+        "arrivalSec": 22161,
+        "departureSec": 22176
+      },
+      {
+        "stopId": "surface_1312",
+        "sequence": 8,
+        "arrivalSec": 22236,
+        "departureSec": 22250
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}
