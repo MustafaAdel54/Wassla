@@ -1,0 +1,18 @@
+{
+  "id": "surface_1658",
+  "data": {
+    "name": "Al Behiry Stone (Basateen)",
+    "lat": 29.98856,
+    "lng": 31.27179,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1658",
+    "isActive": true
+  }
+}

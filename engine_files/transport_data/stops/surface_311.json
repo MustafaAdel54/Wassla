@@ -1,0 +1,18 @@
+{
+  "id": "surface_311",
+  "data": {
+    "name": "Al Rahman Mosque (1st Settlement)",
+    "lat": 30.0528852536947,
+    "lng": 31.455203537312112,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "311",
+    "isActive": true
+  }
+}

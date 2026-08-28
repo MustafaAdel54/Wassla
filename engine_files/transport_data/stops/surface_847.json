@@ -1,0 +1,18 @@
+{
+  "id": "surface_847",
+  "data": {
+    "name": "Al Safwa Wood Trading (6th of October)",
+    "lat": 29.957077935427055,
+    "lng": 30.89876100636841,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "847",
+    "isActive": true
+  }
+}

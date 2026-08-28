@@ -1,0 +1,18 @@
+{
+  "id": "surface_557",
+  "data": {
+    "name": "October University for Modern Sciences & Arts (MSA University)",
+    "lat": 29.95498296469016,
+    "lng": 30.95909064976452,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "557",
+    "isActive": true
+  }
+}

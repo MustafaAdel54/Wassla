@@ -1,0 +1,18 @@
+{
+  "id": "surface_1372",
+  "data": {
+    "name": "Maahad Baneen",
+    "lat": 30.039761182463472,
+    "lng": 30.978216882848084,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1372",
+    "isActive": true
+  }
+}

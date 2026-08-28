@@ -1,0 +1,18 @@
+{
+  "id": "surface_2303",
+  "data": {
+    "name": "Al Mostashfa St & Ahmed Helmy St",
+    "lat": 30.073332684630973,
+    "lng": 31.254347284440552,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2303",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2206",
+  "data": {
+    "name": "Al Warraq Central Hospital",
+    "lat": 30.093148877612386,
+    "lng": 31.21375211483094,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2206",
+    "isActive": true
+  }
+}

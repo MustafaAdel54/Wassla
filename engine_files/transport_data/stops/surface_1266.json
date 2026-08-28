@@ -1,0 +1,18 @@
+{
+  "id": "surface_1266",
+  "data": {
+    "name": "Nasr City Towers",
+    "lat": 30.03154090249119,
+    "lng": 31.354585514483354,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1266",
+    "isActive": true
+  }
+}

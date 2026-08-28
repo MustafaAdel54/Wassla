@@ -1,0 +1,18 @@
+{
+  "id": "surface_1931",
+  "data": {
+    "name": "Al Masa Hall (Nile Corniche)",
+    "lat": 29.9115167,
+    "lng": 31.2866914,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1931",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_3004",
+  "data": {
+    "name": "Police Training",
+    "lat": 30.235904276570366,
+    "lng": 31.397378456683445,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3004",
+    "isActive": true
+  }
+}

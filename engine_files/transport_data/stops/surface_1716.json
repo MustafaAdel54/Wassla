@@ -1,0 +1,18 @@
+{
+  "id": "surface_1716",
+  "data": {
+    "name": "Heliopolis Central (Gesr Al Suez)",
+    "lat": 30.104179599839217,
+    "lng": 31.321751919869683,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1716",
+    "isActive": true
+  }
+}

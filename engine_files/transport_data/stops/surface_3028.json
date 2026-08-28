@@ -1,0 +1,18 @@
+{
+  "id": "surface_3028",
+  "data": {
+    "name": "Hadaek October Government Office",
+    "lat": 29.93528,
+    "lng": 31.04742,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3028",
+    "isActive": true
+  }
+}

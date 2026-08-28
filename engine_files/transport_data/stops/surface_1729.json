@@ -1,0 +1,18 @@
+{
+  "id": "surface_1729",
+  "data": {
+    "name": "Al Matareyya Metro",
+    "lat": 30.12142139999999,
+    "lng": 31.313549,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1729",
+    "isActive": true
+  }
+}

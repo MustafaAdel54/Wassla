@@ -1,0 +1,18 @@
+{
+  "id": "surface_1867",
+  "data": {
+    "name": "Total Zahraa Al Maadi (Autostrad)",
+    "lat": 29.95855032451072,
+    "lng": 31.287341083527558,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1867",
+    "isActive": true
+  }
+}

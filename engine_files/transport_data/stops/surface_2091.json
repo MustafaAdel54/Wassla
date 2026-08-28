@@ -1,0 +1,18 @@
+{
+  "id": "surface_2091",
+  "data": {
+    "name": "Ahmed Oraby (Ramses)",
+    "lat": 30.057432974854933,
+    "lng": 31.241405989469403,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2091",
+    "isActive": true
+  }
+}

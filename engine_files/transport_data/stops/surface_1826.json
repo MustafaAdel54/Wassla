@@ -1,0 +1,18 @@
+{
+  "id": "surface_1826",
+  "data": {
+    "name": "Haram Tunnel (Al Lebeny St.)",
+    "lat": 29.988000699999983,
+    "lng": 31.149021700000016,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1826",
+    "isActive": true
+  }
+}

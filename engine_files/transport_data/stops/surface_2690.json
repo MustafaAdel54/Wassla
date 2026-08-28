@@ -1,0 +1,18 @@
+{
+  "id": "surface_2690",
+  "data": {
+    "name": "Shubra Al Kheima City Authority",
+    "lat": 30.1201000443598,
+    "lng": 31.243367036812263,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2690",
+    "isActive": true
+  }
+}

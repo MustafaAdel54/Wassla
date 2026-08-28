@@ -1,0 +1,18 @@
+{
+  "id": "surface_669",
+  "data": {
+    "name": "Noubar St.",
+    "lat": 30.04457937,
+    "lng": 31.24189692,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "669",
+    "isActive": true
+  }
+}

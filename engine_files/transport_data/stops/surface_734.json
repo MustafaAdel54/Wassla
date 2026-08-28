@@ -1,0 +1,18 @@
+{
+  "id": "surface_734",
+  "data": {
+    "name": "Novartis Pharma (Al Zaytoun)",
+    "lat": 30.1056048,
+    "lng": 31.2917104,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "734",
+    "isActive": true
+  }
+}

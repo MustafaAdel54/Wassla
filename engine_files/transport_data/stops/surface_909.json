@@ -1,0 +1,18 @@
+{
+  "id": "surface_909",
+  "data": {
+    "name": "Al Safa Square (Sheikh Zayed)",
+    "lat": 30.030354350281964,
+    "lng": 30.989873898310616,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "909",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1270",
+  "data": {
+    "name": "Ezbet Kheirallah Steps 1 (Ring Rd.)",
+    "lat": 29.99266687903758,
+    "lng": 31.243715950735062,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1270",
+    "isActive": true
+  }
+}

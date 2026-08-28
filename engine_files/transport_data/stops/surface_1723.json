@@ -1,0 +1,18 @@
+{
+  "id": "surface_1723",
+  "data": {
+    "name": "Al Zatoun School (Heliopolis)",
+    "lat": 30.11051867680676,
+    "lng": 31.315400232514413,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1723",
+    "isActive": true
+  }
+}

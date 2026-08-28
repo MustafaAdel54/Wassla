@@ -1,0 +1,18 @@
+{
+  "id": "surface_879",
+  "data": {
+    "name": "Industrial Zone's Banks Area (6th of October)",
+    "lat": 29.94663352798115,
+    "lng": 30.89845028987774,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "879",
+    "isActive": true
+  }
+}

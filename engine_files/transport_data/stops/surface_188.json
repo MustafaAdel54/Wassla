@@ -1,0 +1,18 @@
+{
+  "id": "surface_188",
+  "data": {
+    "name": "Abdo Basha",
+    "lat": 30.06541643,
+    "lng": 31.27698632,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "188",
+    "isActive": true
+  }
+}

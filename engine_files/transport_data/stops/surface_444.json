@@ -1,0 +1,18 @@
+{
+  "id": "surface_444",
+  "data": {
+    "name": "Akhnaton School",
+    "lat": 30.006425619938224,
+    "lng": 31.414362078676593,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "444",
+    "isActive": true
+  }
+}

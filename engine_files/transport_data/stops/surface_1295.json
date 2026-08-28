@@ -1,0 +1,18 @@
+{
+  "id": "surface_1295",
+  "data": {
+    "name": "Magd Al Islam Hospital",
+    "lat": 30.103847119944046,
+    "lng": 31.25458742208709,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1295",
+    "isActive": true
+  }
+}

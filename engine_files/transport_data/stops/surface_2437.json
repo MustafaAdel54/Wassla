@@ -1,0 +1,18 @@
+{
+  "id": "surface_2437",
+  "data": {
+    "name": "Abu Al Houl St.",
+    "lat": 29.977516780604645,
+    "lng": 31.14299154879194,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2437",
+    "isActive": true
+  }
+}

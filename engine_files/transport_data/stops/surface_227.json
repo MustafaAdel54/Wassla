@@ -1,0 +1,18 @@
+{
+  "id": "surface_227",
+  "data": {
+    "name": "Abd Al Moneim Riad",
+    "lat": 30.0504188,
+    "lng": 31.2337496,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "227",
+    "isActive": true
+  }
+}

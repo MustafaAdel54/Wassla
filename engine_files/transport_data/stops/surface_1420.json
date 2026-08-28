@@ -1,0 +1,18 @@
+{
+  "id": "surface_1420",
+  "data": {
+    "name": "El Khanka Mental Health Hospital",
+    "lat": 30.225205399999986,
+    "lng": 31.367351200000012,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1420",
+    "isActive": true
+  }
+}

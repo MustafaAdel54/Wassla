@@ -1,0 +1,18 @@
+{
+  "id": "surface_265",
+  "data": {
+    "name": "Downtown Mall",
+    "lat": 30.016324217848204,
+    "lng": 31.412640010256403,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "265",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_465",
+  "data": {
+    "name": "Al Othman Motors (Ring Rd.)",
+    "lat": 30.16567664576106,
+    "lng": 31.3589679945126,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "465",
+    "isActive": true
+  }
+}

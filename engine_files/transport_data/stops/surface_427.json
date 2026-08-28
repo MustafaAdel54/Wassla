@@ -1,0 +1,18 @@
+{
+  "id": "surface_427",
+  "data": {
+    "name": "Obour Square",
+    "lat": 30.166965,
+    "lng": 31.477582,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "427",
+    "isActive": true
+  }
+}

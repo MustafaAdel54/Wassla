@@ -1,0 +1,18 @@
+{
+  "id": "surface_2972",
+  "data": {
+    "name": "New International Exhibition Center",
+    "lat": 30.01698373944279,
+    "lng": 31.392371553449795,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2972",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2489",
+  "data": {
+    "name": "Arab Maadi",
+    "lat": 29.97066523336133,
+    "lng": 31.27003944853204,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2489",
+    "isActive": true
+  }
+}

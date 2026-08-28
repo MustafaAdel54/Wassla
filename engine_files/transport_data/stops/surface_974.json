@@ -1,0 +1,18 @@
+{
+  "id": "surface_974",
+  "data": {
+    "name": "Farghali Realestate in Bashayer",
+    "lat": 29.966945,
+    "lng": 30.909039,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "974",
+    "isActive": true
+  }
+}

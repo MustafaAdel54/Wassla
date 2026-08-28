@@ -1,0 +1,18 @@
+{
+  "id": "surface_301",
+  "data": {
+    "name": "Vodafone (Ahmed Al Zomor St.)",
+    "lat": 30.04843892106106,
+    "lng": 31.374583587247294,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "301",
+    "isActive": true
+  }
+}

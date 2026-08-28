@@ -1,0 +1,18 @@
+{
+  "id": "surface_2745",
+  "data": {
+    "name": "Marioteya & Ring Rd.",
+    "lat": 30.0093649,
+    "lng": 31.136330099999988,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2745",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_97",
+  "data": {
+    "name": "Abdullah El Refaey",
+    "lat": 30.1600945,
+    "lng": 31.3556326,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "97",
+    "isActive": true
+  }
+}

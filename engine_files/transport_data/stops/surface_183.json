@@ -1,0 +1,18 @@
+{
+  "id": "surface_183",
+  "data": {
+    "name": "Bab Al Shaaria Square",
+    "lat": 30.0547762,
+    "lng": 31.2578038,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "183",
+    "isActive": true
+  }
+}

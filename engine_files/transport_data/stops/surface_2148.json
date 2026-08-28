@@ -1,0 +1,18 @@
+{
+  "id": "surface_2148",
+  "data": {
+    "name": "Lotfy Al Sayed St & Masr Wal Sudan St",
+    "lat": 30.074575461917053,
+    "lng": 31.272879954810723,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2148",
+    "isActive": true
+  }
+}

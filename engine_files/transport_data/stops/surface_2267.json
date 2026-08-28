@@ -1,0 +1,18 @@
+{
+  "id": "surface_2267",
+  "data": {
+    "name": "Cairo University Main Gate",
+    "lat": 30.027865299999977,
+    "lng": 31.2109079,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2267",
+    "isActive": true
+  }
+}

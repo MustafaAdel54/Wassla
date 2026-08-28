@@ -1,0 +1,18 @@
+{
+  "id": "surface_1831",
+  "data": {
+    "name": "Postal Services Office (Al Haram St.)",
+    "lat": 29.984956486119763,
+    "lng": 31.135763892350294,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1831",
+    "isActive": true
+  }
+}

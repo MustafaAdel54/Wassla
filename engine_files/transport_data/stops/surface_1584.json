@@ -1,0 +1,18 @@
+{
+  "id": "surface_1584",
+  "data": {
+    "name": "Al Moqattam Entrance (Al Gamea Al Haditha St.)",
+    "lat": 29.99152546180199,
+    "lng": 31.317759987038123,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1584",
+    "isActive": true
+  }
+}

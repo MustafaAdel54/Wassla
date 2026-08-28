@@ -1,0 +1,18 @@
+{
+  "id": "surface_2913",
+  "data": {
+    "name": "Al Markaz St. (Abu Al Nomros)",
+    "lat": 29.953221,
+    "lng": 31.213694,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2913",
+    "isActive": true
+  }
+}

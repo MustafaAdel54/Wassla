@@ -1,0 +1,18 @@
+{
+  "id": "surface_1701",
+  "data": {
+    "name": "Lux School (Al Marg)",
+    "lat": 30.158333010192017,
+    "lng": 31.328916001484362,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1701",
+    "isActive": true
+  }
+}

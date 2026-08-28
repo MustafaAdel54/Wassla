@@ -1,0 +1,18 @@
+{
+  "id": "surface_2820",
+  "data": {
+    "name": "Ibrahim Abdel Raziq St. & Ain Shams St.",
+    "lat": 30.12621490192177,
+    "lng": 31.320043756137295,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2820",
+    "isActive": true
+  }
+}

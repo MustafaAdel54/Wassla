@@ -1,0 +1,18 @@
+{
+  "id": "surface_2985",
+  "data": {
+    "name": "City Mall (Shorouq City)",
+    "lat": 30.179981812751763,
+    "lng": 31.599487499455325,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2985",
+    "isActive": true
+  }
+}

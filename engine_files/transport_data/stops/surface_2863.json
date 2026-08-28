@@ -1,0 +1,18 @@
+{
+  "id": "surface_2863",
+  "data": {
+    "name": "Wizarat District (New Administrative Capital)",
+    "lat": 30.01916110995926,
+    "lng": 31.743653408464766,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2863",
+    "isActive": true
+  }
+}

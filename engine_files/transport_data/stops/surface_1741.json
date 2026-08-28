@@ -1,0 +1,18 @@
+{
+  "id": "surface_1741",
+  "data": {
+    "name": "Palace of Culture (Al Matareyya)",
+    "lat": 30.11432446667037,
+    "lng": 31.285145172399314,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1741",
+    "isActive": true
+  }
+}

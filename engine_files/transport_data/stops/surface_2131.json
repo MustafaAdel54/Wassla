@@ -1,0 +1,18 @@
+{
+  "id": "surface_2131",
+  "data": {
+    "name": "Rod Al Farag Youth Center",
+    "lat": 30.075892726527332,
+    "lng": 31.2287753129434,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2131",
+    "isActive": true
+  }
+}

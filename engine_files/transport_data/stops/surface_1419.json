@@ -1,0 +1,18 @@
+{
+  "id": "surface_1419",
+  "data": {
+    "name": "Social Insurance Bureau (Al Khanka)",
+    "lat": 30.227083,
+    "lng": 31.3639169,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1419",
+    "isActive": true
+  }
+}

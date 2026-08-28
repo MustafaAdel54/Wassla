@@ -1,0 +1,18 @@
+{
+  "id": "surface_778",
+  "data": {
+    "name": "Center Cairo Governorate Information Networks",
+    "lat": 30.095085554486083,
+    "lng": 31.382603999561958,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "778",
+    "isActive": true
+  }
+}

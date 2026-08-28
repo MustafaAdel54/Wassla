@@ -1,0 +1,18 @@
+{
+  "id": "surface_1660",
+  "data": {
+    "name": "Ahli Bank (Al Nadi Al Gedid St.)",
+    "lat": 29.969294902959124,
+    "lng": 31.271973323556356,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1660",
+    "isActive": true
+  }
+}

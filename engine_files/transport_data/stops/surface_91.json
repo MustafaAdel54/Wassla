@@ -1,0 +1,18 @@
+{
+  "id": "surface_91",
+  "data": {
+    "name": "Mostorod Ring Rd.",
+    "lat": 30.16403484007769,
+    "lng": 31.303304073625576,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "91",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_740",
+  "data": {
+    "name": "Al Thawra Hospital (Helipolis)",
+    "lat": 30.09069149172411,
+    "lng": 31.32562629669507,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "740",
+    "isActive": true
+  }
+}

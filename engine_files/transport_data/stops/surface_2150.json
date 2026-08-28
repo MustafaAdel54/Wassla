@@ -1,0 +1,18 @@
+{
+  "id": "surface_2150",
+  "data": {
+    "name": "Ghamra Bridge Entrance",
+    "lat": 30.07315283690709,
+    "lng": 31.267209301421712,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2150",
+    "isActive": true
+  }
+}

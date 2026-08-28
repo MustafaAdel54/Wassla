@@ -1,0 +1,54 @@
+name: wassla
+description: "Egypt Transit — V5 Flutter Application"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^4.14.0
+  cloud_firestore: ^6.9.0
+  firebase_storage: ^13.5.0
+
+  # State management
+  flutter_bloc: ^9.1.1
+  equatable: ^2.1.0
+
+  # Dependency injection
+  get_it: ^9.2.1
+  injectable: ^2.7.1+4
+
+  # Local storage
+  drift: ^2.34.3
+  sqlite3_flutter_libs: ^0.6.0+eol
+  path_provider: ^2.1.6
+  path: ^1.9.1
+
+  # Utilities
+  crypto: ^3.0.7
+  collection: ^1.19.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+  # Code generation
+  build_runner: ^2.15.1
+  injectable_generator: ^2.12.1
+  drift_dev: ^2.34.0
+
+flutter:
+  uses-material-design: true
+
+  # Bundle the transport dataset for initial bootstrap / dev import
+  assets:
+    - assets/transport_data/

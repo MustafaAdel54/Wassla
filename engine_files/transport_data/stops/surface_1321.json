@@ -1,0 +1,18 @@
+{
+  "id": "surface_1321",
+  "data": {
+    "name": "The Continental School of Cairo (Obour)",
+    "lat": 30.195063234453233,
+    "lng": 31.460908478844345,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1321",
+    "isActive": true
+  }
+}

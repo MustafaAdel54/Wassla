@@ -1,0 +1,18 @@
+{
+  "id": "surface_1727",
+  "data": {
+    "name": "Al Faragany (Ain Shams St.)",
+    "lat": 30.11776389684821,
+    "lng": 31.31748873348553,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1727",
+    "isActive": true
+  }
+}

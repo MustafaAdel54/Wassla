@@ -1,0 +1,18 @@
+{
+  "id": "surface_1583",
+  "data": {
+    "name": "Faculty of Dentistry - Modern Academy",
+    "lat": 29.997204,
+    "lng": 31.317765,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1583",
+    "isActive": true
+  }
+}

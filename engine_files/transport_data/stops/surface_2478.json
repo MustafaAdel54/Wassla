@@ -1,0 +1,18 @@
+{
+  "id": "surface_2478",
+  "data": {
+    "name": "Gesr El Suez Garage Station",
+    "lat": 30.127558,
+    "lng": 31.362157,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2478",
+    "isActive": true
+  }
+}

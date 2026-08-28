@@ -1,0 +1,18 @@
+{
+  "id": "surface_887",
+  "data": {
+    "name": "Blue Bells School (Al Motamayez)",
+    "lat": 29.985637904335775,
+    "lng": 30.975561617057433,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "887",
+    "isActive": true
+  }
+}

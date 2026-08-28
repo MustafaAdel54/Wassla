@@ -1,0 +1,18 @@
+{
+  "id": "surface_95",
+  "data": {
+    "name": "Kobry Orabi",
+    "lat": 30.12202817787964,
+    "lng": 31.250044025994445,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "95",
+    "isActive": true
+  }
+}

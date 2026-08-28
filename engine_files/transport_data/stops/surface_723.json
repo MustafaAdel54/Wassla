@@ -1,0 +1,18 @@
+{
+  "id": "surface_723",
+  "data": {
+    "name": "Kobry Al Qobba",
+    "lat": 30.087124852285587,
+    "lng": 31.289678517748968,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "723",
+    "isActive": true
+  }
+}

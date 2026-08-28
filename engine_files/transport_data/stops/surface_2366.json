@@ -1,0 +1,18 @@
+{
+  "id": "surface_2366",
+  "data": {
+    "name": "Al Gezira Steps (October Bridge)",
+    "lat": 30.04917554546249,
+    "lng": 31.22702594281974,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2366",
+    "isActive": true
+  }
+}

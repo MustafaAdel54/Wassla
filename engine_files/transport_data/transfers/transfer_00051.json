@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00051",
+  "data": {
+    "fromStopId": "surface_162",
+    "toStopId": "metro_47_ZEI_Metro_S",
+    "distanceMeters": 222.4,
+    "estimatedMinutes": 3,
+    "confidence": "low",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

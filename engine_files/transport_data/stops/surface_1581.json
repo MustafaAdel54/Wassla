@@ -1,0 +1,18 @@
+{
+  "id": "surface_1581",
+  "data": {
+    "name": "Faculty of Pharmacy - Modern Academy",
+    "lat": 29.995128799999964,
+    "lng": 31.3183519,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1581",
+    "isActive": true
+  }
+}

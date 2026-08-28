@@ -1,0 +1,18 @@
+{
+  "id": "surface_1483",
+  "data": {
+    "name": "Abu Bakr Al Sediq Mosque (Sheraton)",
+    "lat": 30.1009426,
+    "lng": 31.3746393,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1483",
+    "isActive": true
+  }
+}

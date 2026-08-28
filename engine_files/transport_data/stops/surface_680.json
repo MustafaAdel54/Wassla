@@ -1,0 +1,18 @@
+{
+  "id": "surface_680",
+  "data": {
+    "name": "Cairo Security Directorate",
+    "lat": 30.043778248752925,
+    "lng": 31.252527663250802,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "680",
+    "isActive": true
+  }
+}

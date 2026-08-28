@@ -1,0 +1,18 @@
+{
+  "id": "surface_2259",
+  "data": {
+    "name": "Bohooth",
+    "lat": 30.03552402501476,
+    "lng": 31.19872083051373,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2259",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2667",
+  "data": {
+    "name": "Ali Basha St. & Al Qalaa St.",
+    "lat": 30.036268364524364,
+    "lng": 31.255043988311368,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2667",
+    "isActive": true
+  }
+}

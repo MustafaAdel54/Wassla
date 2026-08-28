@@ -1,0 +1,18 @@
+{
+  "id": "surface_1985",
+  "data": {
+    "name": "Al Azhar Park Gate",
+    "lat": 30.040133344642047,
+    "lng": 31.266335471590498,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1985",
+    "isActive": true
+  }
+}

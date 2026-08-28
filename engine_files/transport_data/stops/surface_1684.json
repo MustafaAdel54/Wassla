@@ -1,0 +1,18 @@
+{
+  "id": "surface_1684",
+  "data": {
+    "name": "Al Ansar School (Gesr Al Suez)",
+    "lat": 30.1179263,
+    "lng": 31.3360505,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1684",
+    "isActive": true
+  }
+}

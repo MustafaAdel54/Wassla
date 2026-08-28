@@ -1,0 +1,18 @@
+{
+  "id": "surface_2160",
+  "data": {
+    "name": "Al Omraneyya",
+    "lat": 29.9930569077327,
+    "lng": 31.191825970593623,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2160",
+    "isActive": true
+  }
+}

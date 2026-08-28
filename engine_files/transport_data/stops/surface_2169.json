@@ -1,0 +1,18 @@
+{
+  "id": "surface_2169",
+  "data": {
+    "name": "Al Ahli Bank (Faisal St.)",
+    "lat": 30.006664861594764,
+    "lng": 31.181179754053055,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2169",
+    "isActive": true
+  }
+}

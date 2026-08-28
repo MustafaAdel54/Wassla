@@ -1,0 +1,18 @@
+{
+  "id": "surface_143",
+  "data": {
+    "name": "Mazallat Station",
+    "lat": 30.10201929999996,
+    "lng": 31.2461686,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "143",
+    "isActive": true
+  }
+}

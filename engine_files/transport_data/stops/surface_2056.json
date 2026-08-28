@@ -1,0 +1,18 @@
+{
+  "id": "surface_2056",
+  "data": {
+    "name": "Simsima (Dokki)",
+    "lat": 30.033186934738822,
+    "lng": 31.212130610372398,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2056",
+    "isActive": true
+  }
+}

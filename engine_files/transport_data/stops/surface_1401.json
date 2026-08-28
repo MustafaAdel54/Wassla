@@ -1,0 +1,18 @@
+{
+  "id": "surface_1401",
+  "data": {
+    "name": "Arab Contractors Sporting Club (Nasr Rd.)",
+    "lat": 30.05571071365277,
+    "lng": 31.29461253001025,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1401",
+    "isActive": true
+  }
+}

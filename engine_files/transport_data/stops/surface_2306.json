@@ -1,0 +1,18 @@
+{
+  "id": "surface_2306",
+  "data": {
+    "name": "Ramses Language Schools (Khaloussi)",
+    "lat": 30.078286180820967,
+    "lng": 31.250034996546944,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2306",
+    "isActive": true
+  }
+}

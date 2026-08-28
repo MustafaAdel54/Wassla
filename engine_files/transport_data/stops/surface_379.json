@@ -1,0 +1,18 @@
+{
+  "id": "surface_379",
+  "data": {
+    "name": "Al Fayoum Rd.",
+    "lat": 29.947035206049705,
+    "lng": 31.099562555005917,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "379",
+    "isActive": true
+  }
+}

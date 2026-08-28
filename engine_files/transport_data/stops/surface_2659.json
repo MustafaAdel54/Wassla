@@ -1,0 +1,18 @@
+{
+  "id": "surface_2659",
+  "data": {
+    "name": "Tiles Workshops (Berak Al Khayam Rd.)",
+    "lat": 30.056458,
+    "lng": 31.1603422,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2659",
+    "isActive": true
+  }
+}

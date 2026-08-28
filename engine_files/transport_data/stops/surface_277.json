@@ -1,0 +1,18 @@
+{
+  "id": "surface_277",
+  "data": {
+    "name": "Faculty of Medicine - Ain Shams University",
+    "lat": 30.077157954363642,
+    "lng": 31.281174820907015,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "277",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_924",
+  "data": {
+    "name": "11th District (Hay Al Hadi Ashr) Exit - Sheikh Zayed",
+    "lat": 30.04969503173499,
+    "lng": 30.976953111134616,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "924",
+    "isActive": true
+  }
+}

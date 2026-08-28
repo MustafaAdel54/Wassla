@@ -1,0 +1,18 @@
+{
+  "id": "surface_1722",
+  "data": {
+    "name": "Toman Bay St. (Heliopolis)",
+    "lat": 30.103364652517318,
+    "lng": 31.314731747104577,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1722",
+    "isActive": true
+  }
+}

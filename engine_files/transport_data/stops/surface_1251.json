@@ -1,0 +1,18 @@
+{
+  "id": "surface_1251",
+  "data": {
+    "name": "6th of October Panorama",
+    "lat": 30.07415193246599,
+    "lng": 31.3038327507682,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1251",
+    "isActive": true
+  }
+}

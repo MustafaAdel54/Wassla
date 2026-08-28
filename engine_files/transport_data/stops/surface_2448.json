@@ -1,0 +1,18 @@
+{
+  "id": "surface_2448",
+  "data": {
+    "name": "Saft Al Laban",
+    "lat": 30.03113064393811,
+    "lng": 31.16785391766518,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2448",
+    "isActive": true
+  }
+}

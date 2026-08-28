@@ -1,0 +1,18 @@
+{
+  "id": "surface_135",
+  "data": {
+    "name": "Safeer Square (Heliopolis)",
+    "lat": 30.097894,
+    "lng": 31.338605,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "135",
+    "isActive": true
+  }
+}

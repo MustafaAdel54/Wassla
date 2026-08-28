@@ -1,0 +1,18 @@
+{
+  "id": "surface_707",
+  "data": {
+    "name": "Al Mosheer Tantawy Mosque",
+    "lat": 30.020458048640325,
+    "lng": 31.377924356045117,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "707",
+    "isActive": true
+  }
+}

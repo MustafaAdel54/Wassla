@@ -1,0 +1,18 @@
+{
+  "id": "surface_2369",
+  "data": {
+    "name": "Al Warraq Water Station",
+    "lat": 30.114674233747436,
+    "lng": 31.209661153837324,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2369",
+    "isActive": true
+  }
+}

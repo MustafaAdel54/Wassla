@@ -1,0 +1,18 @@
+{
+  "id": "surface_1475",
+  "data": {
+    "name": "Gesr Al Suez - Taha Hussein",
+    "lat": 30.132179264954274,
+    "lng": 31.376969077252582,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1475",
+    "isActive": true
+  }
+}

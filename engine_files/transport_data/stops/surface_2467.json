@@ -1,0 +1,18 @@
+{
+  "id": "surface_2467",
+  "data": {
+    "name": "Al Sayeda Aisha",
+    "lat": 30.024617601368973,
+    "lng": 31.257445909789137,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2467",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2925",
+  "data": {
+    "name": "6 October Bridge (Mostorod)",
+    "lat": 30.137954,
+    "lng": 31.293239,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2925",
+    "isActive": true
+  }
+}

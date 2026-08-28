@@ -1,0 +1,18 @@
+{
+  "id": "surface_1957",
+  "data": {
+    "name": "Misr Al Qadima Police Department",
+    "lat": 30.006915844928635,
+    "lng": 31.253722586934018,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1957",
+    "isActive": true
+  }
+}

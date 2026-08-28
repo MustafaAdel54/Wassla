@@ -1,0 +1,18 @@
+{
+  "id": "surface_2079",
+  "data": {
+    "name": "Al Huda Mosuqe (Al Mosky)",
+    "lat": 30.052148764283285,
+    "lng": 31.25673515400321,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2079",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1879",
+  "data": {
+    "name": "Al Tawba Mosque (Abu Al Nomros)",
+    "lat": 29.9293973,
+    "lng": 31.2593155,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1879",
+    "isActive": true
+  }
+}

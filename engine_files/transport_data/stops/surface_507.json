@@ -1,0 +1,18 @@
+{
+  "id": "surface_507",
+  "data": {
+    "name": "Al Abageyya",
+    "lat": 30.023908410353116,
+    "lng": 31.263700253593495,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "507",
+    "isActive": true
+  }
+}

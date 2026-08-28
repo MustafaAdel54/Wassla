@@ -1,0 +1,18 @@
+{
+  "id": "surface_2414",
+  "data": {
+    "name": "Al Salam Hospital (Al Salam City)",
+    "lat": 30.164234,
+    "lng": 31.419848,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2414",
+    "isActive": true
+  }
+}

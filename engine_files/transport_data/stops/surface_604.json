@@ -1,0 +1,18 @@
+{
+  "id": "surface_604",
+  "data": {
+    "name": "Civil Registry (Haram)",
+    "lat": 29.999211439933916,
+    "lng": 31.174556604992876,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "604",
+    "isActive": true
+  }
+}

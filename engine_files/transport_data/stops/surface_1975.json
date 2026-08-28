@@ -1,0 +1,18 @@
+{
+  "id": "surface_1975",
+  "data": {
+    "name": "Fustat Market",
+    "lat": 30.009237427176657,
+    "lng": 31.231429416410418,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1975",
+    "isActive": true
+  }
+}

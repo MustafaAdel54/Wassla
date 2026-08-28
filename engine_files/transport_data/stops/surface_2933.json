@@ -1,0 +1,18 @@
+{
+  "id": "surface_2933",
+  "data": {
+    "name": "15th of May Checkpoint",
+    "lat": 29.82160813586699,
+    "lng": 31.352796022739398,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2933",
+    "isActive": true
+  }
+}

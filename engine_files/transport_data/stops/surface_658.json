@@ -1,0 +1,18 @@
+{
+  "id": "surface_658",
+  "data": {
+    "name": "Al Rawda Square (Al Manial)",
+    "lat": 30.0161632,
+    "lng": 31.2247833,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "658",
+    "isActive": true
+  }
+}

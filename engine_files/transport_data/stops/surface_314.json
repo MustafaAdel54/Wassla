@@ -1,0 +1,18 @@
+{
+  "id": "surface_314",
+  "data": {
+    "name": "Postal Office (1st Settlement)",
+    "lat": 30.06699943102936,
+    "lng": 31.461808388785123,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "314",
+    "isActive": true
+  }
+}

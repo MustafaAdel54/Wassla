@@ -1,0 +1,18 @@
+{
+  "id": "surface_190",
+  "data": {
+    "name": "Misr Sudan (Nasr City)",
+    "lat": 30.049033818144913,
+    "lng": 31.328002135365004,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "190",
+    "isActive": true
+  }
+}

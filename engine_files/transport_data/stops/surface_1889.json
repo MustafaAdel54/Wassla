@@ -1,0 +1,18 @@
+{
+  "id": "surface_1889",
+  "data": {
+    "name": "Darb Al Saqia (Manshiyat Nasser)",
+    "lat": 30.047430494185075,
+    "lng": 31.281577269621277,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1889",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1865",
+  "data": {
+    "name": "Degla Azhari Language School (Zahraa Al Maadi)",
+    "lat": 29.96397409038277,
+    "lng": 31.28376426894559,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1865",
+    "isActive": true
+  }
+}

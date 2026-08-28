@@ -1,0 +1,18 @@
+{
+  "id": "surface_2098",
+  "data": {
+    "name": "Central Bank (Ataba)",
+    "lat": 30.0554604,
+    "lng": 31.2467117,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2098",
+    "isActive": true
+  }
+}

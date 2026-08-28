@@ -1,0 +1,18 @@
+{
+  "id": "surface_2669",
+  "data": {
+    "name": "Al Masah (Nasr City)",
+    "lat": 30.059359036259096,
+    "lng": 31.317031982827523,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2669",
+    "isActive": true
+  }
+}

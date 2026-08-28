@@ -1,0 +1,18 @@
+{
+  "id": "surface_133",
+  "data": {
+    "name": "Korba District",
+    "lat": 30.092372139165413,
+    "lng": 31.323390488710224,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "133",
+    "isActive": true
+  }
+}

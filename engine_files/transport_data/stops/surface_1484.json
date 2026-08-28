@@ -1,0 +1,18 @@
+{
+  "id": "surface_1484",
+  "data": {
+    "name": "Masaken Sheraton",
+    "lat": 30.10547036536056,
+    "lng": 31.385390938554693,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1484",
+    "isActive": true
+  }
+}

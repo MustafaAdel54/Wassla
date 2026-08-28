@@ -1,0 +1,18 @@
+{
+  "id": "surface_136",
+  "data": {
+    "name": "Al Ismailiya Square",
+    "lat": 30.096459345600184,
+    "lng": 31.334912783207443,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "136",
+    "isActive": true
+  }
+}

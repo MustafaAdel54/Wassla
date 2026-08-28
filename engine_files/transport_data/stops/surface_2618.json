@@ -1,0 +1,18 @@
+{
+  "id": "surface_2618",
+  "data": {
+    "name": "Al Shorouq Academy Entrance",
+    "lat": 30.108286254667583,
+    "lng": 31.612203119095973,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2618",
+    "isActive": true
+  }
+}

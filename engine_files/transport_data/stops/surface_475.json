@@ -1,0 +1,18 @@
+{
+  "id": "surface_475",
+  "data": {
+    "name": "Gamal Abd Al Nasser Square (5th Settlement)",
+    "lat": 29.99110131179937,
+    "lng": 31.431713299452394,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "475",
+    "isActive": true
+  }
+}

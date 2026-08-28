@@ -1,0 +1,18 @@
+{
+  "id": "surface_1823",
+  "data": {
+    "name": "Abu Al Houl (Al Mansoureyya Rd. )",
+    "lat": 29.9788425,
+    "lng": 31.143768,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1823",
+    "isActive": true
+  }
+}

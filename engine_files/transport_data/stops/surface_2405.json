@@ -1,0 +1,18 @@
+{
+  "id": "surface_2405",
+  "data": {
+    "name": "B Tech (Ahmed Oraby St.)",
+    "lat": 30.067486951735464,
+    "lng": 31.19984231309751,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2405",
+    "isActive": true
+  }
+}

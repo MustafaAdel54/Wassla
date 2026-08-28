@@ -1,0 +1,18 @@
+{
+  "id": "surface_385",
+  "data": {
+    "name": "Haram Mashaal (Al Mansoreya Rd.)",
+    "lat": 29.986829,
+    "lng": 31.141497,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "385",
+    "isActive": true
+  }
+}

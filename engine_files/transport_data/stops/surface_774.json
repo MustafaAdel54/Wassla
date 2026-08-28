@@ -1,0 +1,18 @@
+{
+  "id": "surface_774",
+  "data": {
+    "name": "Falcon School (Shorouq City)",
+    "lat": 30.135731777776968,
+    "lng": 31.663792333337092,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "774",
+    "isActive": true
+  }
+}

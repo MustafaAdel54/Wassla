@@ -1,0 +1,18 @@
+{
+  "id": "surface_2768",
+  "data": {
+    "name": "Police Mosque (Salah Salem St.)",
+    "lat": 30.051893342324544,
+    "lng": 31.27680131296931,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2768",
+    "isActive": true
+  }
+}

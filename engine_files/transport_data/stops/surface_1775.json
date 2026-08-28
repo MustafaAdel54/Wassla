@@ -1,0 +1,18 @@
+{
+  "id": "surface_1775",
+  "data": {
+    "name": "Helwan Metro",
+    "lat": 29.849719899999982,
+    "lng": 31.335279200000016,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1775",
+    "isActive": true
+  }
+}

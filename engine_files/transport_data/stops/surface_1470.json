@@ -1,0 +1,18 @@
+{
+  "id": "surface_1470",
+  "data": {
+    "name": "Old 10th of Ramadan",
+    "lat": 30.148883648772863,
+    "lng": 31.418809825557684,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1470",
+    "isActive": true
+  }
+}

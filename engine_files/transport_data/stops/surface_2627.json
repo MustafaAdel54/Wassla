@@ -1,0 +1,18 @@
+{
+  "id": "surface_2627",
+  "data": {
+    "name": "Giza Square",
+    "lat": 30.0169315,
+    "lng": 31.2137837,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2627",
+    "isActive": true
+  }
+}

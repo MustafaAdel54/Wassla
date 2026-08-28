@@ -1,0 +1,18 @@
+{
+  "id": "surface_1911",
+  "data": {
+    "name": "Al Fayrouz Medical Center (Helwan)",
+    "lat": 29.843158092075633,
+    "lng": 31.30377664690603,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1911",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2204",
+  "data": {
+    "name": "Qawmeya Arabeya Secondary Bus Station",
+    "lat": 30.0952,
+    "lng": 31.20067,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2204",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1796",
+  "data": {
+    "name": "South Cairo Electricity Distribution Co (Kerdasa)",
+    "lat": 30.035059966618224,
+    "lng": 31.099920402528372,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1796",
+    "isActive": true
+  }
+}

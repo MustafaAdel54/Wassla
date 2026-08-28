@@ -1,0 +1,18 @@
+{
+  "id": "surface_1940",
+  "data": {
+    "name": "Fom Al Khalig Police Station",
+    "lat": 30.024158659767984,
+    "lng": 31.23247602370149,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1940",
+    "isActive": true
+  }
+}

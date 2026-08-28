@@ -1,0 +1,18 @@
+{
+  "id": "surface_2536",
+  "data": {
+    "name": "Awwel El Zawya Station",
+    "lat": 30.092552,
+    "lng": 31.275876,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2536",
+    "isActive": true
+  }
+}

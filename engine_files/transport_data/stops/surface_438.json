@@ -1,0 +1,18 @@
+{
+  "id": "surface_438",
+  "data": {
+    "name": "New Marg Exit (Ring Rd.)",
+    "lat": 30.162924771525777,
+    "lng": 31.33413292805391,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "438",
+    "isActive": true
+  }
+}

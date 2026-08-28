@@ -1,0 +1,18 @@
+{
+  "id": "surface_911",
+  "data": {
+    "name": "Zayed 2000 Gate 3",
+    "lat": 30.01909532635566,
+    "lng": 30.99728163677004,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "911",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2353",
+  "data": {
+    "name": "Cairo Club (Opera St.)",
+    "lat": 30.04079395105992,
+    "lng": 31.222725958789344,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2353",
+    "isActive": true
+  }
+}

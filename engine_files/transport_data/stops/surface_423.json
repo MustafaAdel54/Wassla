@@ -1,0 +1,18 @@
+{
+  "id": "surface_423",
+  "data": {
+    "name": "Fiat Service Center (Obour)",
+    "lat": 30.179095342351225,
+    "lng": 31.47195274991029,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "423",
+    "isActive": true
+  }
+}

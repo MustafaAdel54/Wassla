@@ -1,0 +1,18 @@
+{
+  "id": "surface_1394",
+  "data": {
+    "name": "Gas (5th Settlement)",
+    "lat": 30.01481042521283,
+    "lng": 31.416227292112367,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1394",
+    "isActive": true
+  }
+}

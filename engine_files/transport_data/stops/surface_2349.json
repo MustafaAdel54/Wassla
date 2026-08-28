@@ -1,0 +1,18 @@
+{
+  "id": "surface_2349",
+  "data": {
+    "name": "Al Aalam Specialized Hospital",
+    "lat": 30.066227878635623,
+    "lng": 31.191727095848748,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2349",
+    "isActive": true
+  }
+}

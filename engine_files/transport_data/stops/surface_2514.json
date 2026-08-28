@@ -1,0 +1,18 @@
+{
+  "id": "surface_2514",
+  "data": {
+    "name": "Filfil Mosque (Bashtil)",
+    "lat": 30.082487609627698,
+    "lng": 31.193095726142268,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2514",
+    "isActive": true
+  }
+}

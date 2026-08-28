@@ -1,0 +1,18 @@
+{
+  "id": "surface_2465",
+  "data": {
+    "name": "Alf Maskan",
+    "lat": 30.118889,
+    "lng": 31.339851,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2465",
+    "isActive": true
+  }
+}

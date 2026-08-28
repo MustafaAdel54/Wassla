@@ -1,0 +1,18 @@
+{
+  "id": "surface_1576",
+  "data": {
+    "name": "Wataneya Gas Station (Autostrad Maadi)",
+    "lat": 29.975701191464143,
+    "lng": 31.29003494495065,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1576",
+    "isActive": true
+  }
+}

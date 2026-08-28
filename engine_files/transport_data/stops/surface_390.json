@@ -1,0 +1,18 @@
+{
+  "id": "surface_390",
+  "data": {
+    "name": "Bayt Al Karam Al Shamy (Haram St.)",
+    "lat": 29.99737067132704,
+    "lng": 31.169283969645964,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "390",
+    "isActive": true
+  }
+}

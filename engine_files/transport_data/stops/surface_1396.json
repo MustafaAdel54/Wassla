@@ -1,0 +1,18 @@
+{
+  "id": "surface_1396",
+  "data": {
+    "name": "Adidas Steps (Ring Rd.)",
+    "lat": 29.98396814,
+    "lng": 31.3216858,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1396",
+    "isActive": true
+  }
+}

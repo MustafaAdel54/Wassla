@@ -1,0 +1,18 @@
+{
+  "id": "surface_993",
+  "data": {
+    "name": "6th District (6th of October)",
+    "lat": 29.931467,
+    "lng": 30.9171899,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "993",
+    "isActive": true
+  }
+}

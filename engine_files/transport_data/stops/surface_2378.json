@@ -1,0 +1,18 @@
+{
+  "id": "surface_2378",
+  "data": {
+    "name": "Ministry of Irrigation (Warraq)",
+    "lat": 30.0914529,
+    "lng": 31.22508189999998,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2378",
+    "isActive": true
+  }
+}

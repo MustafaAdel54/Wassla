@@ -1,0 +1,18 @@
+{
+  "id": "surface_779",
+  "data": {
+    "name": "Ideal Standard (Nasr Rd.)",
+    "lat": 30.09121405916066,
+    "lng": 31.37253247500941,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "779",
+    "isActive": true
+  }
+}

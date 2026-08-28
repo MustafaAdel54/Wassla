@@ -1,0 +1,18 @@
+{
+  "id": "surface_594",
+  "data": {
+    "name": "Al Mahkama (New Cairo)",
+    "lat": 30.003480989504194,
+    "lng": 31.426191405954047,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "594",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2298",
+  "data": {
+    "name": "The Good Shepherd Nuns",
+    "lat": 30.078138523988308,
+    "lng": 31.245219597305493,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2298",
+    "isActive": true
+  }
+}

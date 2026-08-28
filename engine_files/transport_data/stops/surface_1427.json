@@ -1,0 +1,18 @@
+{
+  "id": "surface_1427",
+  "data": {
+    "name": "Mostorod Bridge (Ring Rd.)",
+    "lat": 30.163208476804098,
+    "lng": 31.303968408693933,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1427",
+    "isActive": true
+  }
+}

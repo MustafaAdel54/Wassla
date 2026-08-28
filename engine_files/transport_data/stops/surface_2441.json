@@ -1,0 +1,18 @@
+{
+  "id": "surface_2441",
+  "data": {
+    "name": "Isbiko Station",
+    "lat": 30.18049,
+    "lng": 31.412437,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2441",
+    "isActive": true
+  }
+}

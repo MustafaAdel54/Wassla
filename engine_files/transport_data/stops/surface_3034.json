@@ -1,0 +1,18 @@
+{
+  "id": "surface_3034",
+  "data": {
+    "name": "Kafr AL Shurafa",
+    "lat": 30.14342,
+    "lng": 31.3585,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3034",
+    "isActive": true
+  }
+}

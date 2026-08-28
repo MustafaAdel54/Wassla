@@ -1,0 +1,18 @@
+{
+  "id": "surface_73",
+  "data": {
+    "name": "El Itihad Square (Maadi)",
+    "lat": 29.965322181984124,
+    "lng": 31.251182379082692,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "73",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2604",
+  "data": {
+    "name": "Ain Helwan Metro",
+    "lat": 29.86256374998952,
+    "lng": 31.32550601959506,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2604",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2080",
+  "data": {
+    "name": "Al Banhawi",
+    "lat": 30.057438843172555,
+    "lng": 31.260529226497326,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2080",
+    "isActive": true
+  }
+}

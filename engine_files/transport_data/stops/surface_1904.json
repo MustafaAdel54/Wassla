@@ -1,0 +1,18 @@
+{
+  "id": "surface_1904",
+  "data": {
+    "name": "Helwan Public Club",
+    "lat": 29.842034895149258,
+    "lng": 31.335573778241088,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1904",
+    "isActive": true
+  }
+}

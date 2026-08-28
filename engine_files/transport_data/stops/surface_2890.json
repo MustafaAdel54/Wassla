@@ -1,0 +1,18 @@
+{
+  "id": "surface_2890",
+  "data": {
+    "name": "Ezbet Makar Bridge",
+    "lat": 29.910059479069588,
+    "lng": 31.213072207408587,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2890",
+    "isActive": true
+  }
+}

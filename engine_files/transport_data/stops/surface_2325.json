@@ -1,0 +1,18 @@
+{
+  "id": "surface_2325",
+  "data": {
+    "name": "Ali Al Sheikh Tower (Abboud)",
+    "lat": 30.101057299999987,
+    "lng": 31.2559483,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2325",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_810",
+  "data": {
+    "name": "Masaken Zainhom Station",
+    "lat": 30.022728,
+    "lng": 31.244081,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "810",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_656",
+  "data": {
+    "name": "Al Saff",
+    "lat": 29.863678725586862,
+    "lng": 31.323399086523278,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "656",
+    "isActive": true
+  }
+}

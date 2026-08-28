@@ -1,0 +1,18 @@
+{
+  "id": "surface_2921",
+  "data": {
+    "name": "Al Shaheed Mosque (Al Marg)",
+    "lat": 30.15343257840068,
+    "lng": 31.330299835840307,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2921",
+    "isActive": true
+  }
+}

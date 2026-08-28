@@ -1,0 +1,18 @@
+{
+  "id": "surface_834",
+  "data": {
+    "name": "Al Warraq",
+    "lat": 30.121137172167433,
+    "lng": 31.202892686550562,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "834",
+    "isActive": true
+  }
+}

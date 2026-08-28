@@ -1,0 +1,18 @@
+{
+  "id": "surface_1498",
+  "data": {
+    "name": "Shams Club Squash Courts",
+    "lat": 30.117490209592525,
+    "lng": 31.360810036580183,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1498",
+    "isActive": true
+  }
+}

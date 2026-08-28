@@ -1,0 +1,18 @@
+{
+  "id": "surface_965",
+  "data": {
+    "name": "Oriental Weavers (6th of October)",
+    "lat": 29.954612109163634,
+    "lng": 30.917123973117715,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "965",
+    "isActive": true
+  }
+}

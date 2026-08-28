@@ -1,0 +1,18 @@
+{
+  "id": "surface_1798",
+  "data": {
+    "name": "Abu Rawwash Rd. & Al Mansoureyya Rd.",
+    "lat": 30.0411717,
+    "lng": 31.0962515,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1798",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1377",
+  "data": {
+    "name": "Al Wehda Square",
+    "lat": 29.983654462205898,
+    "lng": 31.418552193325212,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1377",
+    "isActive": true
+  }
+}

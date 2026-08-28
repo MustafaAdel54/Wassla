@@ -1,0 +1,18 @@
+{
+  "id": "surface_2396",
+  "data": {
+    "name": "KFC (Gameat Al Dowal St.)",
+    "lat": 30.0553722,
+    "lng": 31.2034028,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2396",
+    "isActive": true
+  }
+}

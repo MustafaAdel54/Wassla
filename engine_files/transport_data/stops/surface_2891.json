@@ -1,0 +1,18 @@
+{
+  "id": "surface_2891",
+  "data": {
+    "name": "Saqqara Rd. & Al Mansoureya Rd.",
+    "lat": 29.945743438166094,
+    "lng": 31.189230919563393,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2891",
+    "isActive": true
+  }
+}

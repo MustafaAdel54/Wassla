@@ -1,0 +1,18 @@
+{
+  "id": "surface_3010",
+  "data": {
+    "name": "Hafez Pharmacy",
+    "lat": 30.1636788274659,
+    "lng": 31.407965606124005,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3010",
+    "isActive": true
+  }
+}

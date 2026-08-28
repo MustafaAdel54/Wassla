@@ -1,0 +1,18 @@
+{
+  "id": "surface_2191",
+  "data": {
+    "name": "Al Omraneyya Bridge Entrance from Giza",
+    "lat": 30.00290113148067,
+    "lng": 31.208695012813195,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2191",
+    "isActive": true
+  }
+}

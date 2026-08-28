@@ -1,0 +1,18 @@
+{
+  "id": "surface_2958",
+  "data": {
+    "name": "Masaken Al Wadi Al Qadeem (Al Salam)",
+    "lat": 30.174565996228136,
+    "lng": 31.412635634968925,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2958",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_821",
+  "data": {
+    "name": "Konayyesa (Moneeb)",
+    "lat": 29.985676785377326,
+    "lng": 31.197597118635848,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "821",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1765",
+  "data": {
+    "name": "Yousef Abbas St & Autostrad St.",
+    "lat": 30.06688315286807,
+    "lng": 31.319573468896287,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1765",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1878",
+  "data": {
+    "name": "Tomwa (Abu Al Nomros)",
+    "lat": 29.933035354499832,
+    "lng": 31.256062676067817,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1878",
+    "isActive": true
+  }
+}

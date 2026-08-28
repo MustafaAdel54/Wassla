@@ -1,0 +1,18 @@
+{
+  "id": "surface_1318",
+  "data": {
+    "name": "Al Rahma Mosque (Airport Rd.)",
+    "lat": 30.12102469872562,
+    "lng": 31.37235621232956,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1318",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1628",
+  "data": {
+    "name": "Yathreb and Al Maadi Company St.",
+    "lat": 29.985984059470837,
+    "lng": 31.277199478468226,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1628",
+    "isActive": true
+  }
+}

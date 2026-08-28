@@ -1,0 +1,18 @@
+{
+  "id": "surface_2332",
+  "data": {
+    "name": "Ahli Kuwaiti Bank (Sudan St.)",
+    "lat": 30.04832515503395,
+    "lng": 31.19256613334445,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2332",
+    "isActive": true
+  }
+}

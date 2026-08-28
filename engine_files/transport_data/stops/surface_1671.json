@@ -1,0 +1,18 @@
+{
+  "id": "surface_1671",
+  "data": {
+    "name": "Al Salam Center (Maadi)",
+    "lat": 29.977561080689213,
+    "lng": 31.275085776868025,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1671",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2816",
+  "data": {
+    "name": "Heliopolis Courthouse Complex",
+    "lat": 30.103877,
+    "lng": 31.329166,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2816",
+    "isActive": true
+  }
+}

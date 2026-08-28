@@ -1,0 +1,18 @@
+{
+  "id": "surface_2836",
+  "data": {
+    "name": "Mobil (North Teseen St.)",
+    "lat": 30.021812,
+    "lng": 31.431629,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2836",
+    "isActive": true
+  }
+}

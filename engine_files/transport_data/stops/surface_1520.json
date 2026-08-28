@@ -1,0 +1,18 @@
+{
+  "id": "surface_1520",
+  "data": {
+    "name": "Police Hospital (Al Tayaran St.)",
+    "lat": 30.03880511839189,
+    "lng": 31.331458260844993,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1520",
+    "isActive": true
+  }
+}

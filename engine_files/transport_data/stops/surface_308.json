@@ -1,0 +1,18 @@
+{
+  "id": "surface_308",
+  "data": {
+    "name": "Twin Plaza",
+    "lat": 30.05288555595316,
+    "lng": 31.432009889182286,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "308",
+    "isActive": true
+  }
+}

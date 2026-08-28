@@ -1,0 +1,18 @@
+{
+  "id": "surface_54",
+  "data": {
+    "name": "Masaken Othman (Ezbet El Nakhl)",
+    "lat": 30.141307969213116,
+    "lng": 31.32792019179401,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "54",
+    "isActive": true
+  }
+}

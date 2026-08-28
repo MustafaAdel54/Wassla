@@ -1,0 +1,18 @@
+{
+  "id": "surface_2318",
+  "data": {
+    "name": "Ibrahim Al Afifi Alley (Al Mansoureyya Rd.)",
+    "lat": 29.974057819039533,
+    "lng": 31.14490071402466,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2318",
+    "isActive": true
+  }
+}

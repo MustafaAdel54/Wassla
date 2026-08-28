@@ -1,0 +1,18 @@
+{
+  "id": "surface_2796",
+  "data": {
+    "name": "Libya St",
+    "lat": 30.13457265106503,
+    "lng": 31.251005471158557,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2796",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1458",
+  "data": {
+    "name": "Petroleum Research Institute",
+    "lat": 30.0426984,
+    "lng": 31.3402569,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1458",
+    "isActive": true
+  }
+}

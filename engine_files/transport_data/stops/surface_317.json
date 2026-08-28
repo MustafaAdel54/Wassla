@@ -1,0 +1,18 @@
+{
+  "id": "surface_317",
+  "data": {
+    "name": "Sky Mart Mall (1st Settlement)",
+    "lat": 30.067866410420255,
+    "lng": 31.45116497096325,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "317",
+    "isActive": true
+  }
+}

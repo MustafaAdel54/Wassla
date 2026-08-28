@@ -1,0 +1,18 @@
+{
+  "id": "surface_600",
+  "data": {
+    "name": "Al Moshir Tantawi Corridor Entrance",
+    "lat": 30.024332632452627,
+    "lng": 31.35895074160653,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "600",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1654",
+  "data": {
+    "name": "Al Dandarawy St. & Basateen Rd.",
+    "lat": 29.998433596568173,
+    "lng": 31.26528789046043,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1654",
+    "isActive": true
+  }
+}

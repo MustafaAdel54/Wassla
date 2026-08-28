@@ -1,0 +1,18 @@
+{
+  "id": "surface_2075",
+  "data": {
+    "name": "Bab Al Sheareyya Metro",
+    "lat": 30.053143793490666,
+    "lng": 31.255330220582138,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2075",
+    "isActive": true
+  }
+}

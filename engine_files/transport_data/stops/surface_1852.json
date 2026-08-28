@@ -1,0 +1,18 @@
+{
+  "id": "surface_1852",
+  "data": {
+    "name": "Egyptian Telecom Club (Autostrad Maadi)",
+    "lat": 29.969758245263478,
+    "lng": 31.2890448697998,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1852",
+    "isActive": true
+  }
+}

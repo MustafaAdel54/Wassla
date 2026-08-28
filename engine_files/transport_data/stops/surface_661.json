@@ -1,0 +1,18 @@
+{
+  "id": "surface_661",
+  "data": {
+    "name": "Basha Square (Al Manial)",
+    "lat": 30.0207786,
+    "lng": 31.2255509,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "661",
+    "isActive": true
+  }
+}

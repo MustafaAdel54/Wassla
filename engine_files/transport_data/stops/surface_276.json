@@ -1,0 +1,18 @@
+{
+  "id": "surface_276",
+  "data": {
+    "name": "The Egyptian Lawyers Association",
+    "lat": 30.052373887127978,
+    "lng": 31.237604197584226,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "276",
+    "isActive": true
+  }
+}

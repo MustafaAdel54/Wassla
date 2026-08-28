@@ -1,0 +1,18 @@
+{
+  "id": "surface_2073",
+  "data": {
+    "name": "Abd El Aziz St. (Ataba)",
+    "lat": 30.0494288,
+    "lng": 31.2502469,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2073",
+    "isActive": true
+  }
+}

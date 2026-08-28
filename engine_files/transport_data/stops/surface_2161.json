@@ -1,0 +1,18 @@
+{
+  "id": "surface_2161",
+  "data": {
+    "name": "Al Omraneyya Bridge Exit",
+    "lat": 29.9986246,
+    "lng": 31.20522540000001,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2161",
+    "isActive": true
+  }
+}

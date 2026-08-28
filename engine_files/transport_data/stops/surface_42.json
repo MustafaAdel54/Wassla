@@ -1,0 +1,18 @@
+{
+  "id": "surface_42",
+  "data": {
+    "name": "Qism El Marg",
+    "lat": 30.149585,
+    "lng": 31.341126,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "42",
+    "isActive": true
+  }
+}

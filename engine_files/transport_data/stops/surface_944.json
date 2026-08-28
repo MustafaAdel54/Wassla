@@ -1,0 +1,18 @@
+{
+  "id": "surface_944",
+  "data": {
+    "name": "CIC - Sheikh Zayed",
+    "lat": 30.0449326,
+    "lng": 30.9910089,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "944",
+    "isActive": true
+  }
+}

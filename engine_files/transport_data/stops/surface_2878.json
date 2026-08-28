@@ -1,0 +1,18 @@
+{
+  "id": "surface_2878",
+  "data": {
+    "name": "Al Kahraba St. & Tabarak St.",
+    "lat": 29.94782845545045,
+    "lng": 30.94267145246953,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2878",
+    "isActive": true
+  }
+}

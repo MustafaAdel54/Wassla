@@ -1,0 +1,18 @@
+{
+  "id": "surface_619",
+  "data": {
+    "name": "Al Mansoreya & 26th of July Corridor",
+    "lat": 30.062769215707753,
+    "lng": 31.098043219925557,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "619",
+    "isActive": true
+  }
+}

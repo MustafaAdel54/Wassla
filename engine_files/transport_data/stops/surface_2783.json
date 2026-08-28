@@ -1,0 +1,18 @@
+{
+  "id": "surface_2783",
+  "data": {
+    "name": "Coop Gas Station (Om Bayoumi)",
+    "lat": 30.129553537976108,
+    "lng": 31.251130323594538,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2783",
+    "isActive": true
+  }
+}

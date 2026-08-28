@@ -1,0 +1,18 @@
+{
+  "id": "surface_491",
+  "data": {
+    "name": "Al Shaheed Corridor Pedestrian Bridge",
+    "lat": 30.031807983779338,
+    "lng": 31.33545959597375,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "491",
+    "isActive": true
+  }
+}

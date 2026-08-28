@@ -1,0 +1,18 @@
+{
+  "id": "surface_1623",
+  "data": {
+    "name": "Carrefour (Tora)",
+    "lat": 29.928919489036023,
+    "lng": 31.281488184431907,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1623",
+    "isActive": true
+  }
+}

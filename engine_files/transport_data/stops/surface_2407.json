@@ -1,0 +1,18 @@
+{
+  "id": "surface_2407",
+  "data": {
+    "name": "Madinat Al Talaba",
+    "lat": 30.071369899999986,
+    "lng": 31.2003753,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2407",
+    "isActive": true
+  }
+}

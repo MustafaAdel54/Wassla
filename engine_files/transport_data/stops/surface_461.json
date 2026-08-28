@@ -1,0 +1,18 @@
+{
+  "id": "surface_461",
+  "data": {
+    "name": "Al Zawya Al Hamra",
+    "lat": 30.095463595700515,
+    "lng": 31.266594893252112,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "461",
+    "isActive": true
+  }
+}

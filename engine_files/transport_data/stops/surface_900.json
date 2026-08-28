@@ -1,0 +1,18 @@
+{
+  "id": "surface_900",
+  "data": {
+    "name": "Masaken Othman",
+    "lat": 29.919016918316043,
+    "lng": 30.939317557119715,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "900",
+    "isActive": true
+  }
+}

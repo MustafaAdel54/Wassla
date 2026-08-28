@@ -1,0 +1,18 @@
+{
+  "id": "surface_424",
+  "data": {
+    "name": "Carrefour (Obour)",
+    "lat": 30.17210696400324,
+    "lng": 31.47489527309006,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "424",
+    "isActive": true
+  }
+}

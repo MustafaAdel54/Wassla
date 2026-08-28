@@ -1,0 +1,18 @@
+{
+  "id": "surface_1943",
+  "data": {
+    "name": "Al Khashab Bridge",
+    "lat": 30.009603829833342,
+    "lng": 31.22727057728894,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1943",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1325",
+  "data": {
+    "name": "Aramex (10th of Ramadan)",
+    "lat": 30.28907639016841,
+    "lng": 31.745697326446706,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1325",
+    "isActive": true
+  }
+}

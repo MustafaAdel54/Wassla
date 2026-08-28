@@ -1,0 +1,18 @@
+{
+  "id": "surface_1969",
+  "data": {
+    "name": "Misr El Qadima District Presidency",
+    "lat": 30.0156214,
+    "lng": 31.2389522,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1969",
+    "isActive": true
+  }
+}

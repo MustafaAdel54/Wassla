@@ -1,0 +1,18 @@
+{
+  "id": "surface_927",
+  "data": {
+    "name": "20 St. & Al Mostaqbal St. (Sheikh Zayed)",
+    "lat": 30.047404,
+    "lng": 30.976717,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "927",
+    "isActive": true
+  }
+}

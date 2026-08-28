@@ -1,0 +1,18 @@
+{
+  "id": "surface_2363",
+  "data": {
+    "name": "Brazil St. & 26th of July",
+    "lat": 30.0601429,
+    "lng": 31.2221187,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2363",
+    "isActive": true
+  }
+}

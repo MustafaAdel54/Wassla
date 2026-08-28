@@ -1,0 +1,18 @@
+{
+  "id": "surface_381",
+  "data": {
+    "name": "Khofo Gate (Hadayek Al Ahram)",
+    "lat": 29.97754638739473,
+    "lng": 31.112258401164528,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "381",
+    "isActive": true
+  }
+}

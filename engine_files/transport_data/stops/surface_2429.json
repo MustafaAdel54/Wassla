@@ -1,0 +1,18 @@
+{
+  "id": "surface_2429",
+  "data": {
+    "name": "Khosous",
+    "lat": 30.162863306526177,
+    "lng": 31.32287094107604,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2429",
+    "isActive": true
+  }
+}

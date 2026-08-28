@@ -1,0 +1,18 @@
+{
+  "id": "surface_1682",
+  "data": {
+    "name": "Al Atraby Basha Abu Al Ezz St. & Gesr Al Suez St.",
+    "lat": 30.116326058405257,
+    "lng": 31.33669487987622,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1682",
+    "isActive": true
+  }
+}

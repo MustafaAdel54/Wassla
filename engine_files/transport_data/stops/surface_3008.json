@@ -1,0 +1,18 @@
+{
+  "id": "surface_3008",
+  "data": {
+    "name": "Mohamed Farid St. & Al Mathan St.",
+    "lat": 30.167584625385444,
+    "lng": 31.41160599627717,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3008",
+    "isActive": true
+  }
+}

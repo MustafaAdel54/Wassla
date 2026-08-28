@@ -1,0 +1,18 @@
+{
+  "id": "surface_1410",
+  "data": {
+    "name": "Al Gomhoreyya St. & Howd Al Shaikh St. (Marg)",
+    "lat": 30.187436599999973,
+    "lng": 31.3514359,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1410",
+    "isActive": true
+  }
+}

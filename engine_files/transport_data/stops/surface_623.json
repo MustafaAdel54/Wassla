@@ -1,0 +1,18 @@
+{
+  "id": "surface_623",
+  "data": {
+    "name": "Qawmeya Steps (Ring Rd.)",
+    "lat": 30.096333437888312,
+    "lng": 31.199622961509604,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "623",
+    "isActive": true
+  }
+}

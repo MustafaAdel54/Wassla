@@ -1,0 +1,18 @@
+{
+  "id": "surface_947",
+  "data": {
+    "name": "Family Land (6th of October)",
+    "lat": 29.977726567202993,
+    "lng": 30.92809798048262,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "947",
+    "isActive": true
+  }
+}

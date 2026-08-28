@@ -1,0 +1,18 @@
+{
+  "id": "surface_2225",
+  "data": {
+    "name": "Ibrahim Bek",
+    "lat": 30.13684,
+    "lng": 31.26313,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2225",
+    "isActive": true
+  }
+}

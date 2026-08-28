@@ -1,0 +1,18 @@
+{
+  "id": "surface_1753",
+  "data": {
+    "name": "Al Noaman Palace (Orouba Rd.)",
+    "lat": 30.08624084027821,
+    "lng": 31.325867660334882,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1753",
+    "isActive": true
+  }
+}

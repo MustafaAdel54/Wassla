@@ -1,0 +1,18 @@
+{
+  "id": "surface_233",
+  "data": {
+    "name": "3rd Settlement Station",
+    "lat": 29.984313,
+    "lng": 31.442475,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "233",
+    "isActive": true
+  }
+}

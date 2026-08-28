@@ -1,0 +1,18 @@
+{
+  "id": "surface_1440",
+  "data": {
+    "name": "International Garden",
+    "lat": 30.05158405119367,
+    "lng": 31.33867375249938,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1440",
+    "isActive": true
+  }
+}

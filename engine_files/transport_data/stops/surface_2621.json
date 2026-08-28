@@ -1,0 +1,18 @@
+{
+  "id": "surface_2621",
+  "data": {
+    "name": "New Heliopolis Entrance",
+    "lat": 30.1104383,
+    "lng": 31.6910411,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2621",
+    "isActive": true
+  }
+}

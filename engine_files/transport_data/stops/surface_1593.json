@@ -1,0 +1,18 @@
+{
+  "id": "surface_1593",
+  "data": {
+    "name": "Sekat Hadid Al Mahager (Basateen)",
+    "lat": 29.984289568933615,
+    "lng": 31.271863916650084,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1593",
+    "isActive": true
+  }
+}

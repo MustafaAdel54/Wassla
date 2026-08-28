@@ -1,0 +1,18 @@
+{
+  "id": "surface_816",
+  "data": {
+    "name": "26th of July Corridor & Alex Desert Rd.",
+    "lat": 30.047281875757832,
+    "lng": 31.052485390233578,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "816",
+    "isActive": true
+  }
+}

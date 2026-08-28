@@ -1,0 +1,18 @@
+{
+  "id": "surface_500",
+  "data": {
+    "name": "Leather and Tanning Company (Autostrad)",
+    "lat": 30.000090371978786,
+    "lng": 31.276559954983057,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "500",
+    "isActive": true
+  }
+}

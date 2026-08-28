@@ -1,0 +1,18 @@
+{
+  "id": "surface_2707",
+  "data": {
+    "name": "Al Qudsi Mosque (Ain Shams St.)",
+    "lat": 30.13725594540008,
+    "lng": 31.325626267187936,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2707",
+    "isActive": true
+  }
+}

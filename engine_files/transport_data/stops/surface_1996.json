@@ -1,0 +1,18 @@
+{
+  "id": "surface_1996",
+  "data": {
+    "name": "Child Care Club Association - Al Sayeda Zeinab",
+    "lat": 30.029947,
+    "lng": 31.24871,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1996",
+    "isActive": true
+  }
+}

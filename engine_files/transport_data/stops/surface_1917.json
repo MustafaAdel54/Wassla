@@ -1,0 +1,18 @@
+{
+  "id": "surface_1917",
+  "data": {
+    "name": "Abdullah Al Othaym (Nile Corniche)",
+    "lat": 29.882508300000012,
+    "lng": 31.2893919,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1917",
+    "isActive": true
+  }
+}

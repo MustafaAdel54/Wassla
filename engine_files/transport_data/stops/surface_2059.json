@@ -1,0 +1,18 @@
+{
+  "id": "surface_2059",
+  "data": {
+    "name": "Bein Al Sarayat Youth Center",
+    "lat": 30.0293039,
+    "lng": 31.2023933,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2059",
+    "isActive": true
+  }
+}

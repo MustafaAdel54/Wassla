@@ -1,0 +1,18 @@
+{
+  "id": "surface_665",
+  "data": {
+    "name": "Kempinski Nile Hotel (Qasr Al Nile)",
+    "lat": 30.03779364727468,
+    "lng": 31.22972927836922,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "665",
+    "isActive": true
+  }
+}

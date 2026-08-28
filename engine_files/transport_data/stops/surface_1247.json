@@ -1,0 +1,18 @@
+{
+  "id": "surface_1247",
+  "data": {
+    "name": "Banque Misr (Abbas Al Akkad St.)",
+    "lat": 30.058453348870653,
+    "lng": 31.337698376854263,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1247",
+    "isActive": true
+  }
+}

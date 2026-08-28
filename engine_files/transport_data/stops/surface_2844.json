@@ -1,0 +1,18 @@
+{
+  "id": "surface_2844",
+  "data": {
+    "name": "Al Orouba St. & Mergheny St.",
+    "lat": 30.08490646328263,
+    "lng": 31.323522605718637,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2844",
+    "isActive": true
+  }
+}

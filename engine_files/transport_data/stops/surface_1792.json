@@ -1,0 +1,18 @@
+{
+  "id": "surface_1792",
+  "data": {
+    "name": "Gawad Hosny St & Anwar Al Sadat St.",
+    "lat": 29.814947278430093,
+    "lng": 31.380420791060693,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1792",
+    "isActive": true
+  }
+}

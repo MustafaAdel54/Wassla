@@ -1,0 +1,18 @@
+{
+  "id": "surface_777",
+  "data": {
+    "name": "Sheraton",
+    "lat": 30.1057933193479,
+    "lng": 31.386391457851115,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "777",
+    "isActive": true
+  }
+}

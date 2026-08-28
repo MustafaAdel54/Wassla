@@ -1,0 +1,18 @@
+{
+  "id": "surface_1375",
+  "data": {
+    "name": "Tabarak Children's Hospital (Nasr City)",
+    "lat": 30.046398662762947,
+    "lng": 31.328420239433754,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1375",
+    "isActive": true
+  }
+}

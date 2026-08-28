@@ -1,0 +1,18 @@
+{
+  "id": "surface_2988",
+  "data": {
+    "name": "Al Shorouq Entrance 3",
+    "lat": 30.110258863132298,
+    "lng": 31.670506844162002,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2988",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2255",
+  "data": {
+    "name": "Rimo Car (Ahmed Helmy St.)",
+    "lat": 30.078782667408444,
+    "lng": 31.255750199441582,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2255",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_43",
+  "data": {
+    "name": "Kerdasa Station",
+    "lat": 30.035123460512406,
+    "lng": 31.11687078383488,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "43",
+    "isActive": true
+  }
+}

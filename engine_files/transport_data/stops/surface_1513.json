@@ -1,0 +1,18 @@
+{
+  "id": "surface_1513",
+  "data": {
+    "name": "Al Hikma Labs (Nohza St.)",
+    "lat": 30.10719352776433,
+    "lng": 31.344307326510794,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1513",
+    "isActive": true
+  }
+}

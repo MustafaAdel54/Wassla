@@ -1,0 +1,18 @@
+{
+  "id": "surface_2854",
+  "data": {
+    "name": "10th District (Shorouq City)",
+    "lat": 30.13452191166589,
+    "lng": 31.657364470629204,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2854",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1445",
+  "data": {
+    "name": "Batrawy (Abbas Al Akkad St.)",
+    "lat": 30.061732299959978,
+    "lng": 31.33718768562039,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1445",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_208",
+  "data": {
+    "name": "Syndicate Of Commercial Professions (Abbaseya)",
+    "lat": 30.06697049711508,
+    "lng": 31.29361461993767,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "208",
+    "isActive": true
+  }
+}

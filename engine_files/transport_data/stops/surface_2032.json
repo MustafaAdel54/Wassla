@@ -1,0 +1,18 @@
+{
+  "id": "surface_2032",
+  "data": {
+    "name": "Ain Shams University Dorms",
+    "lat": 30.07784485884002,
+    "lng": 31.289538895573894,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2032",
+    "isActive": true
+  }
+}

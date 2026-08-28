@@ -1,0 +1,18 @@
+{
+  "id": "surface_1886",
+  "data": {
+    "name": "Afendina Dome (Manshiyat Nasser)",
+    "lat": 30.043437602613167,
+    "lng": 31.27715566990901,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1886",
+    "isActive": true
+  }
+}

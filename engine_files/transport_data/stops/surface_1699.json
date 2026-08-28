@@ -1,0 +1,18 @@
+{
+  "id": "surface_1699",
+  "data": {
+    "name": "Alex Bank (Al Hegaz)",
+    "lat": 30.096612495702306,
+    "lng": 31.31955883655328,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1699",
+    "isActive": true
+  }
+}

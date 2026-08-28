@@ -1,0 +1,18 @@
+{
+  "id": "surface_270",
+  "data": {
+    "name": "Wataneya Gas Station (Kattameya Ring Rd.)",
+    "lat": 29.986769636020956,
+    "lng": 31.309251683899845,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "270",
+    "isActive": true
+  }
+}

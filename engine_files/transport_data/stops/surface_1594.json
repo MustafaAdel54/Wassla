@@ -1,0 +1,18 @@
+{
+  "id": "surface_1594",
+  "data": {
+    "name": "Galal Motors (Basateen)",
+    "lat": 29.989959,
+    "lng": 31.271091,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1594",
+    "isActive": true
+  }
+}

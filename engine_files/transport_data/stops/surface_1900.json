@@ -1,0 +1,18 @@
+{
+  "id": "surface_1900",
+  "data": {
+    "name": "Dar Al Mohandeseen Club (Helwan)",
+    "lat": 29.864377854054467,
+    "lng": 31.29171235707264,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1900",
+    "isActive": true
+  }
+}

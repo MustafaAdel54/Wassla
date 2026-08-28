@@ -1,0 +1,18 @@
+{
+  "id": "surface_338",
+  "data": {
+    "name": "Al Khouly Steps (Ring Rd.)",
+    "lat": 30.09928115450102,
+    "lng": 31.200952113674834,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "338",
+    "isActive": true
+  }
+}

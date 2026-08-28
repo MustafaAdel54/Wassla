@@ -1,0 +1,18 @@
+{
+  "id": "surface_2057",
+  "data": {
+    "name": "Czesch Republic Embassy (Dokki)",
+    "lat": 30.031043560877833,
+    "lng": 31.212310799184202,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2057",
+    "isActive": true
+  }
+}

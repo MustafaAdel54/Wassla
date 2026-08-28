@@ -1,0 +1,18 @@
+{
+  "id": "surface_1632",
+  "data": {
+    "name": "Rabaah Al Adaweya Mosque",
+    "lat": 30.067537,
+    "lng": 31.325497,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1632",
+    "isActive": true
+  }
+}

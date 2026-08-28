@@ -1,0 +1,18 @@
+{
+  "id": "surface_1726",
+  "data": {
+    "name": "Al Helmeya Square (Heliopolis)",
+    "lat": 30.11212069515814,
+    "lng": 31.316082601511923,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1726",
+    "isActive": true
+  }
+}

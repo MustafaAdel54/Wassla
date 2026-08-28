@@ -1,0 +1,18 @@
+{
+  "id": "surface_1846",
+  "data": {
+    "name": "Experimental School (Bahteem)",
+    "lat": 30.14140173772581,
+    "lng": 31.27514899826916,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1846",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_189",
+  "data": {
+    "name": "Air Force Hospital (Al Waili)",
+    "lat": 30.062465,
+    "lng": 31.2735115,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "189",
+    "isActive": true
+  }
+}

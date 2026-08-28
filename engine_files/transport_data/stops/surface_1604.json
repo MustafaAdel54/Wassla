@@ -1,0 +1,18 @@
+{
+  "id": "surface_1604",
+  "data": {
+    "name": "Hussein Sedqy Mosque (Maadi)",
+    "lat": 29.95901566145699,
+    "lng": 31.251232546799002,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1604",
+    "isActive": true
+  }
+}

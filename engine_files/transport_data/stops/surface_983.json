@@ -1,0 +1,18 @@
+{
+  "id": "surface_983",
+  "data": {
+    "name": "Higher Technological Institute HTI (6th of October)",
+    "lat": 29.955828515197467,
+    "lng": 30.93984303724128,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "983",
+    "isActive": true
+  }
+}

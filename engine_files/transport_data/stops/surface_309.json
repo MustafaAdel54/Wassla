@@ -1,0 +1,18 @@
+{
+  "id": "surface_309",
+  "data": {
+    "name": "Swan Lake Compound (1st Settlement)",
+    "lat": 30.054366812616735,
+    "lng": 31.442086688797257,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "309",
+    "isActive": true
+  }
+}

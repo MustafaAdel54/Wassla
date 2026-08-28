@@ -1,0 +1,18 @@
+{
+  "id": "surface_463",
+  "data": {
+    "name": "Al Herafyeen (Gesr Al Suez)",
+    "lat": 30.136903941413827,
+    "lng": 31.38764677129089,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "463",
+    "isActive": true
+  }
+}

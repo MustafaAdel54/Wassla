@@ -1,0 +1,18 @@
+{
+  "id": "surface_1292",
+  "data": {
+    "name": "Al Tawheed Wal Nour - Al Waili",
+    "lat": 30.094428,
+    "lng": 31.288992,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1292",
+    "isActive": true
+  }
+}

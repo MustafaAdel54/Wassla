@@ -1,0 +1,18 @@
+{
+  "id": "surface_2341",
+  "data": {
+    "name": "Papa Jones (Batal Ahmed St.)",
+    "lat": 30.0536689,
+    "lng": 31.2057744,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2341",
+    "isActive": true
+  }
+}

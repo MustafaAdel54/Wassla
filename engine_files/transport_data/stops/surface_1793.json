@@ -1,0 +1,18 @@
+{
+  "id": "surface_1793",
+  "data": {
+    "name": "15th of May",
+    "lat": 29.8108631,
+    "lng": 31.378103,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1793",
+    "isActive": true
+  }
+}

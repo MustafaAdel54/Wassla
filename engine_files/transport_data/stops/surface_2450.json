@@ -1,0 +1,18 @@
+{
+  "id": "surface_2450",
+  "data": {
+    "name": "Om Bayoumi Station",
+    "lat": 30.148976352731413,
+    "lng": 31.252150704116595,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2450",
+    "isActive": true
+  }
+}

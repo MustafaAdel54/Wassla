@@ -1,0 +1,18 @@
+{
+  "id": "surface_2354",
+  "data": {
+    "name": "Police Hospital (Agouza)",
+    "lat": 30.051290312878933,
+    "lng": 31.217095414811553,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2354",
+    "isActive": true
+  }
+}

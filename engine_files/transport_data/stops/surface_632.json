@@ -1,0 +1,18 @@
+{
+  "id": "surface_632",
+  "data": {
+    "name": "Ard Al Lewa Steps (26th of July Corridor)",
+    "lat": 30.060074779546124,
+    "lng": 31.187221025471565,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "632",
+    "isActive": true
+  }
+}

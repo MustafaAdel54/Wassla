@@ -1,0 +1,18 @@
+{
+  "id": "surface_1552",
+  "data": {
+    "name": "Nasser Bank (Al Moqattam)",
+    "lat": 30.018106679789398,
+    "lng": 31.281367979373286,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1552",
+    "isActive": true
+  }
+}

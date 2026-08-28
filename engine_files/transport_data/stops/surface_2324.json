@@ -1,0 +1,18 @@
+{
+  "id": "surface_2324",
+  "data": {
+    "name": "Traffic Licensing Complex (Shubra)",
+    "lat": 30.108031777404285,
+    "lng": 31.257969841776887,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2324",
+    "isActive": true
+  }
+}

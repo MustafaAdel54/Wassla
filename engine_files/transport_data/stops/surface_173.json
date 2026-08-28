@@ -1,0 +1,18 @@
+{
+  "id": "surface_173",
+  "data": {
+    "name": "Al Salam Mosque (Nasr City)",
+    "lat": 30.046283,
+    "lng": 31.356175,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "173",
+    "isActive": true
+  }
+}

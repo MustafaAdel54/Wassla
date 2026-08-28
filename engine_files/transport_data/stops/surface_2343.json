@@ -1,0 +1,18 @@
+{
+  "id": "surface_2343",
+  "data": {
+    "name": "Alex Bank (Gameat Al Dowal St.)",
+    "lat": 30.05111520779444,
+    "lng": 31.19955298068584,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2343",
+    "isActive": true
+  }
+}

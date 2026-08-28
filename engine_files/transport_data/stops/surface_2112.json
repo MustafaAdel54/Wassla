@@ -1,0 +1,18 @@
+{
+  "id": "surface_2112",
+  "data": {
+    "name": "Shubra Al Kheima Power Plant",
+    "lat": 30.114479765528507,
+    "lng": 31.242050191842043,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2112",
+    "isActive": true
+  }
+}

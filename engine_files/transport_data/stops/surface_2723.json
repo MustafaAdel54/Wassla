@@ -1,0 +1,18 @@
+{
+  "id": "surface_2723",
+  "data": {
+    "name": "El Batran St.",
+    "lat": 29.97500750000001,
+    "lng": 31.1557229,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2723",
+    "isActive": true
+  }
+}

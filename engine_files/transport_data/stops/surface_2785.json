@@ -1,0 +1,18 @@
+{
+  "id": "surface_2785",
+  "data": {
+    "name": "Zamzam Specialized Hospital (Om Bayoumi)",
+    "lat": 30.1395287,
+    "lng": 31.250592,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2785",
+    "isActive": true
+  }
+}

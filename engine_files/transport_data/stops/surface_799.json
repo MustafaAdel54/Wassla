@@ -1,0 +1,18 @@
+{
+  "id": "surface_799",
+  "data": {
+    "name": "Bonook (5th Settlement)",
+    "lat": 30.01656625567264,
+    "lng": 31.427847502921832,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "799",
+    "isActive": true
+  }
+}

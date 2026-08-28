@@ -1,0 +1,18 @@
+{
+  "id": "surface_796",
+  "data": {
+    "name": "Ataba",
+    "lat": 30.0516,
+    "lng": 31.25051,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "796",
+    "isActive": true
+  }
+}

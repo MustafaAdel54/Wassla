@@ -1,0 +1,18 @@
+{
+  "id": "surface_530",
+  "data": {
+    "name": "Juhayna Square",
+    "lat": 30.00856146863756,
+    "lng": 30.98151896045971,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "530",
+    "isActive": true
+  }
+}

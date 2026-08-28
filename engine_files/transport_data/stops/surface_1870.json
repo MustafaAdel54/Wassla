@@ -1,0 +1,18 @@
+{
+  "id": "surface_1870",
+  "data": {
+    "name": "Al Shaq Pedestrian Bridge (Autostrad)",
+    "lat": 29.95384883225646,
+    "lng": 31.28738534213855,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1870",
+    "isActive": true
+  }
+}

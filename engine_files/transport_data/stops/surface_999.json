@@ -1,0 +1,18 @@
+{
+  "id": "surface_999",
+  "data": {
+    "name": "St. Mary and St. Mark Church (6th of October)",
+    "lat": 29.959621766005874,
+    "lng": 30.918642521754737,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "999",
+    "isActive": true
+  }
+}

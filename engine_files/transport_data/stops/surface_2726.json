@@ -1,0 +1,18 @@
+{
+  "id": "surface_2726",
+  "data": {
+    "name": "Al Hadaba Al Wosta (Al Moqattam)",
+    "lat": 30.010623003362067,
+    "lng": 31.33943279133585,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2726",
+    "isActive": true
+  }
+}

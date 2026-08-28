@@ -1,0 +1,18 @@
+{
+  "id": "surface_125",
+  "data": {
+    "name": "Ahmed Helmy",
+    "lat": 30.064951442465592,
+    "lng": 31.24474423598745,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "125",
+    "isActive": true
+  }
+}

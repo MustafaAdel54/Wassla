@@ -1,0 +1,18 @@
+{
+  "id": "surface_2241",
+  "data": {
+    "name": "Al Fouad Hospital (Abbaseya)",
+    "lat": 30.078666798552455,
+    "lng": 31.277546373844075,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2241",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2968",
+  "data": {
+    "name": "Al Yasmin Compound North",
+    "lat": 29.94124034605505,
+    "lng": 30.934972323161396,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2968",
+    "isActive": true
+  }
+}

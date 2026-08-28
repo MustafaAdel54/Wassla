@@ -1,0 +1,18 @@
+{
+  "id": "surface_897",
+  "data": {
+    "name": "Zayed 2000",
+    "lat": 30.01985137816951,
+    "lng": 31.00837881595059,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "897",
+    "isActive": true
+  }
+}

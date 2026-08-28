@@ -1,0 +1,18 @@
+{
+  "id": "surface_2598",
+  "data": {
+    "name": "Taaqa Gas Station (15th of May)",
+    "lat": 29.834092537155605,
+    "lng": 31.355985701942878,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2598",
+    "isActive": true
+  }
+}

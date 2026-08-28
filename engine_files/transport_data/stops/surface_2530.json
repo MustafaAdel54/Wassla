@@ -1,0 +1,18 @@
+{
+  "id": "surface_2530",
+  "data": {
+    "name": "Mohagreen (Ezbet Al Nakhl)",
+    "lat": 30.1416001,
+    "lng": 31.337621300000013,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2530",
+    "isActive": true
+  }
+}

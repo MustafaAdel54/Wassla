@@ -1,0 +1,18 @@
+{
+  "id": "surface_1354",
+  "data": {
+    "name": "Gladios Garden Compound",
+    "lat": 30.009581049799746,
+    "lng": 31.104484116232303,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1354",
+    "isActive": true
+  }
+}

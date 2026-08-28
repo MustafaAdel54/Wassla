@@ -1,0 +1,18 @@
+{
+  "id": "surface_2708",
+  "data": {
+    "name": "Sheikh Al Balad (Ain Shams St.)",
+    "lat": 30.12388780414571,
+    "lng": 31.31870177380464,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2708",
+    "isActive": true
+  }
+}

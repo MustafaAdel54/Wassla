@@ -1,0 +1,18 @@
+{
+  "id": "surface_2312",
+  "data": {
+    "name": "Nour Al Islam Azhari Institute (Kafr Al Gabal)",
+    "lat": 29.95970139999997,
+    "lng": 31.162034799999986,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2312",
+    "isActive": true
+  }
+}

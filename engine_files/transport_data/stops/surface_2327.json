@@ -1,0 +1,18 @@
+{
+  "id": "surface_2327",
+  "data": {
+    "name": "Ministry of Agriculture (Dokki)",
+    "lat": 30.043409399269102,
+    "lng": 31.21171106661596,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2327",
+    "isActive": true
+  }
+}

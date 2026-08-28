@@ -1,0 +1,18 @@
+{
+  "id": "surface_673",
+  "data": {
+    "name": "Al Mearag Mosque (Ring Rd.)",
+    "lat": 29.986457198563354,
+    "lng": 31.309260483996496,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "673",
+    "isActive": true
+  }
+}

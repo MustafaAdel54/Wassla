@@ -1,0 +1,18 @@
+{
+  "id": "surface_1348",
+  "data": {
+    "name": "Civil Registry (Imbaba)",
+    "lat": 30.079487265752118,
+    "lng": 31.22363808464594,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1348",
+    "isActive": true
+  }
+}

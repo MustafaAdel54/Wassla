@@ -1,0 +1,18 @@
+{
+  "id": "surface_1532",
+  "data": {
+    "name": "Al Gezira (Al Moqattam)",
+    "lat": 30.010811299999986,
+    "lng": 31.3033761,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1532",
+    "isActive": true
+  }
+}

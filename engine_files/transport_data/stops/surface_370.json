@@ -1,0 +1,18 @@
+{
+  "id": "surface_370",
+  "data": {
+    "name": "Souq Al Gomla",
+    "lat": 29.96602867559116,
+    "lng": 31.028749802656286,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "370",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2851",
+  "data": {
+    "name": "Togareyeen City (Al Moqattam)",
+    "lat": 30.012989858767394,
+    "lng": 31.298186098487736,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2851",
+    "isActive": true
+  }
+}

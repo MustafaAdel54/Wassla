@@ -1,0 +1,18 @@
+{
+  "id": "surface_410",
+  "data": {
+    "name": "Banha University (Obour)",
+    "lat": 30.244678138883728,
+    "lng": 31.459299630723876,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "410",
+    "isActive": true
+  }
+}

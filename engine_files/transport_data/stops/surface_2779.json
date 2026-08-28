@@ -1,0 +1,18 @@
+{
+  "id": "surface_2779",
+  "data": {
+    "name": "Kattameya Traffic Department",
+    "lat": 29.97313,
+    "lng": 31.38987,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2779",
+    "isActive": true
+  }
+}

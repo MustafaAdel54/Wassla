@@ -1,0 +1,18 @@
+{
+  "id": "surface_2569",
+  "data": {
+    "name": "Al Qawmeya Cement Club",
+    "lat": 29.823424736332015,
+    "lng": 31.299943142856428,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2569",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2585",
+  "data": {
+    "name": "Shabramant",
+    "lat": 29.939382300000013,
+    "lng": 31.1949888,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2585",
+    "isActive": true
+  }
+}

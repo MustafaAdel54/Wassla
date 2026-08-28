@@ -1,0 +1,18 @@
+{
+  "id": "surface_1787",
+  "data": {
+    "name": "Saad Zaghloul School (15th of May)",
+    "lat": 29.8327004,
+    "lng": 31.382299099999987,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1787",
+    "isActive": true
+  }
+}

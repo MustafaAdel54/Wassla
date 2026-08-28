@@ -1,0 +1,18 @@
+{
+  "id": "surface_1311",
+  "data": {
+    "name": "Mostorad Pedestrian Bridge",
+    "lat": 30.131987194626177,
+    "lng": 31.283829628680195,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1311",
+    "isActive": true
+  }
+}

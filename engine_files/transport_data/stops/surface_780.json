@@ -1,0 +1,18 @@
+{
+  "id": "surface_780",
+  "data": {
+    "name": "Masaken Ain Shams Station",
+    "lat": 30.135879,
+    "lng": 31.349799,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "780",
+    "isActive": true
+  }
+}

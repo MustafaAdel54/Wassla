@@ -1,0 +1,18 @@
+{
+  "id": "surface_2962",
+  "data": {
+    "name": "Taba St. & 6 October St. (Salam)",
+    "lat": 30.175046,
+    "lng": 31.41824,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2962",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_81",
+  "data": {
+    "name": "Kit Kat Square",
+    "lat": 30.065704500000013,
+    "lng": 31.2135611,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "81",
+    "isActive": true
+  }
+}

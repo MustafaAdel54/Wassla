@@ -1,0 +1,18 @@
+{
+  "id": "surface_2769",
+  "data": {
+    "name": "Madinat Al Bo'oth Al Eslamyya",
+    "lat": 30.052401378277285,
+    "lng": 31.2771005467606,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2769",
+    "isActive": true
+  }
+}

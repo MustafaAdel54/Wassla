@@ -1,0 +1,18 @@
+{
+  "id": "surface_2156",
+  "data": {
+    "name": "Farhety Hall (Port Said St.)",
+    "lat": 30.0788956,
+    "lng": 31.2698903,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2156",
+    "isActive": true
+  }
+}

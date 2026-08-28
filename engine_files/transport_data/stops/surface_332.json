@@ -1,0 +1,18 @@
+{
+  "id": "surface_332",
+  "data": {
+    "name": "Al Barageel Steps (Ring Rd.)",
+    "lat": 30.077217,
+    "lng": 31.179097,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "332",
+    "isActive": true
+  }
+}

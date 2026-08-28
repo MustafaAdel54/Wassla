@@ -1,0 +1,18 @@
+{
+  "id": "surface_2680",
+  "data": {
+    "name": "Al Shagara (Bashtil)",
+    "lat": 30.0736613,
+    "lng": 31.201667299999986,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2680",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2970",
+  "data": {
+    "name": "Al Montazah Compound",
+    "lat": 29.94327271420593,
+    "lng": 30.939816796001974,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2970",
+    "isActive": true
+  }
+}

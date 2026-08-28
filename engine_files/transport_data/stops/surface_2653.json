@@ -1,0 +1,18 @@
+{
+  "id": "surface_2653",
+  "data": {
+    "name": "Police Academy (Ring Rd.)",
+    "lat": 30.037692410455538,
+    "lng": 31.403917713688248,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2653",
+    "isActive": true
+  }
+}

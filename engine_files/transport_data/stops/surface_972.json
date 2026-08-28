@@ -1,0 +1,18 @@
+{
+  "id": "surface_972",
+  "data": {
+    "name": "7th District Entrance (6th of October)",
+    "lat": 29.9773734,
+    "lng": 30.9404785,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "972",
+    "isActive": true
+  }
+}

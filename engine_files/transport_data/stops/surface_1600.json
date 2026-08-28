@@ -1,0 +1,18 @@
+{
+  "id": "surface_1600",
+  "data": {
+    "name": "Sadat Academy (Maadi)",
+    "lat": 29.95978076233749,
+    "lng": 31.248505359999637,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1600",
+    "isActive": true
+  }
+}

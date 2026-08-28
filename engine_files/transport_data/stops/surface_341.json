@@ -1,0 +1,18 @@
+{
+  "id": "surface_341",
+  "data": {
+    "name": "Al Warraq Exit (Ring Rd.)",
+    "lat": 30.119043539878017,
+    "lng": 31.202131517100586,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "341",
+    "isActive": true
+  }
+}

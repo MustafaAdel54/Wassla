@@ -1,0 +1,18 @@
+{
+  "id": "surface_2227",
+  "data": {
+    "name": "Ibrahim Bek Youth Center",
+    "lat": 30.1332594532901,
+    "lng": 31.26206341872754,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2227",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2697",
+  "data": {
+    "name": "Abou Zaabal Bridge",
+    "lat": 30.19725866282549,
+    "lng": 31.318819964842806,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2697",
+    "isActive": true
+  }
+}

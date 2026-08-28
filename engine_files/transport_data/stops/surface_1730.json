@@ -1,0 +1,18 @@
+{
+  "id": "surface_1730",
+  "data": {
+    "name": "Tereat Al Gabal St. (Al Horeyya St.)",
+    "lat": 30.11363,
+    "lng": 31.312175,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1730",
+    "isActive": true
+  }
+}

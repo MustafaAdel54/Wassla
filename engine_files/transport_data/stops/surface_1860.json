@@ -1,0 +1,18 @@
+{
+  "id": "surface_1860",
+  "data": {
+    "name": "MCS Oil (Zahraa Al Maadi )",
+    "lat": 29.964432072539235,
+    "lng": 31.3197008338658,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1860",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1987",
+  "data": {
+    "name": "Mashyakhet Al Azhar Al Sharif",
+    "lat": 30.045607484426082,
+    "lng": 31.271274233622908,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1987",
+    "isActive": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00493",
+  "data": {
+    "fromStopId": "surface_2725",
+    "toStopId": "metro_326_SHB_METRO_N",
+    "distanceMeters": 96.2,
+    "estimatedMinutes": 1,
+    "confidence": "medium",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

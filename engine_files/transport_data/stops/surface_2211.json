@@ -1,0 +1,18 @@
+{
+  "id": "surface_2211",
+  "data": {
+    "name": "Al Bohi (Imbaba)",
+    "lat": 30.0878289,
+    "lng": 31.212392,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2211",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2871",
+  "data": {
+    "name": "Omar Ibn Al Khattab St. (Awsim)",
+    "lat": 30.11307280328914,
+    "lng": 31.141053563915023,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2871",
+    "isActive": true
+  }
+}

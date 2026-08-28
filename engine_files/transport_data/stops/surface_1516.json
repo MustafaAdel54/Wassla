@@ -1,0 +1,18 @@
+{
+  "id": "surface_1516",
+  "data": {
+    "name": "Al Hegaz Square",
+    "lat": 30.11072,
+    "lng": 31.346651,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1516",
+    "isActive": true
+  }
+}

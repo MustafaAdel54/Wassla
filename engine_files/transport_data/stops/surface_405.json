@@ -1,0 +1,18 @@
+{
+  "id": "surface_405",
+  "data": {
+    "name": "Safwa Clinics (Obour)",
+    "lat": 30.256216680820465,
+    "lng": 31.467859619001523,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "405",
+    "isActive": true
+  }
+}

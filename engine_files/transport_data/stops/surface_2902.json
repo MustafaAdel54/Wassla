@@ -1,0 +1,18 @@
+{
+  "id": "surface_2902",
+  "data": {
+    "name": "Shalqan Rd.",
+    "lat": 30.18592780773109,
+    "lng": 31.141086517433163,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2902",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2827",
+  "data": {
+    "name": "Saft Al Laban Axis",
+    "lat": 30.030320356390792,
+    "lng": 31.162144437734902,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2827",
+    "isActive": true
+  }
+}

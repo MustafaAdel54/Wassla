@@ -1,0 +1,18 @@
+{
+  "id": "surface_2978",
+  "data": {
+    "name": "Madinat Al Solb (Al Tibeen)",
+    "lat": 29.781766,
+    "lng": 31.30977,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2978",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2993",
+  "data": {
+    "name": "Obour Tunnel",
+    "lat": 30.163626146494863,
+    "lng": 31.478634781043876,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2993",
+    "isActive": true
+  }
+}

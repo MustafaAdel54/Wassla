@@ -1,0 +1,18 @@
+{
+  "id": "surface_1549",
+  "data": {
+    "name": "Mahmoudeya Housing (Al Moqattam)",
+    "lat": 30.005571410256533,
+    "lng": 31.336841588790648,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1549",
+    "isActive": true
+  }
+}

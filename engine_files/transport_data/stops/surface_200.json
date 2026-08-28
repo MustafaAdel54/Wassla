@@ -1,0 +1,18 @@
+{
+  "id": "surface_200",
+  "data": {
+    "name": "Al Azhar University Northen Gate",
+    "lat": 30.062721,
+    "lng": 31.31125,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "200",
+    "isActive": true
+  }
+}

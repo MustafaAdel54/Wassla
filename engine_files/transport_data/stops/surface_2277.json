@@ -1,0 +1,18 @@
+{
+  "id": "surface_2277",
+  "data": {
+    "name": "Anas Al Wogood Borg (Badrasheen)",
+    "lat": 29.848698200000012,
+    "lng": 31.270706800000013,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2277",
+    "isActive": true
+  }
+}

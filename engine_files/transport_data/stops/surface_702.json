@@ -1,0 +1,18 @@
+{
+  "id": "surface_702",
+  "data": {
+    "name": "Ramses Extension (South of Nasr Rd.)",
+    "lat": 30.050423733710257,
+    "lng": 31.307946736537197,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "702",
+    "isActive": true
+  }
+}

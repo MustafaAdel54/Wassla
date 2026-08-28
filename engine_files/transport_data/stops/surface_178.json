@@ -1,0 +1,18 @@
+{
+  "id": "surface_178",
+  "data": {
+    "name": "CTA Garage (Heliopolis)",
+    "lat": 30.129632392505272,
+    "lng": 31.360706187137538,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "178",
+    "isActive": true
+  }
+}

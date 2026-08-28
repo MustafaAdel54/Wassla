@@ -1,0 +1,18 @@
+{
+  "id": "surface_705",
+  "data": {
+    "name": "Police Hospital (Al Shaheed Corridor)",
+    "lat": 30.0385049394869,
+    "lng": 31.328217180549117,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "705",
+    "isActive": true
+  }
+}

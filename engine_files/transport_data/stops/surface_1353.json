@@ -1,0 +1,18 @@
+{
+  "id": "surface_1353",
+  "data": {
+    "name": "Ring Rd. & Cario Alex Desert Rd.",
+    "lat": 29.99889191455785,
+    "lng": 31.117402890021136,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1353",
+    "isActive": true
+  }
+}

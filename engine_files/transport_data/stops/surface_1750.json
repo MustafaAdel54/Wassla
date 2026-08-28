@@ -1,0 +1,18 @@
+{
+  "id": "surface_1750",
+  "data": {
+    "name": "Al Orouba Rd. & Al Thawra St.",
+    "lat": 30.08833586622511,
+    "lng": 31.330010382662596,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1750",
+    "isActive": true
+  }
+}

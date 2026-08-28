@@ -1,0 +1,18 @@
+{
+  "id": "surface_2265",
+  "data": {
+    "name": "Mohie Al Deen Aboul Ezz St. & Tahrir St.",
+    "lat": 30.03617554,
+    "lng": 31.20168812,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2265",
+    "isActive": true
+  }
+}

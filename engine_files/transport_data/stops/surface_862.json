@@ -1,0 +1,18 @@
+{
+  "id": "surface_862",
+  "data": {
+    "name": "Al Mostafa Center (6th of October)",
+    "lat": 29.96513876762091,
+    "lng": 30.905412356708368,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "862",
+    "isActive": true
+  }
+}

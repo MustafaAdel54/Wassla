@@ -1,0 +1,18 @@
+{
+  "id": "surface_957",
+  "data": {
+    "name": "Ragab Sons Al Mehwar Al Markazi (6th of October)",
+    "lat": 29.96696648335219,
+    "lng": 30.93617390894763,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "957",
+    "isActive": true
+  }
+}

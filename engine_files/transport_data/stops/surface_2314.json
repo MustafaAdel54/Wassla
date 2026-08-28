@@ -1,0 +1,18 @@
+{
+  "id": "surface_2314",
+  "data": {
+    "name": "Al Mansoureyya Rd. & Ring Rd.",
+    "lat": 29.954962623082025,
+    "lng": 31.15415099181609,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2314",
+    "isActive": true
+  }
+}

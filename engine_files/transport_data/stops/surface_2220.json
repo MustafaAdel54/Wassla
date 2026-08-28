@@ -1,0 +1,18 @@
+{
+  "id": "surface_2220",
+  "data": {
+    "name": "Misr Petroleum - Masaken Al Wehda",
+    "lat": 30.11850296000869,
+    "lng": 31.258439464642738,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2220",
+    "isActive": true
+  }
+}

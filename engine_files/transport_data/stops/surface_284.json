@@ -1,0 +1,18 @@
+{
+  "id": "surface_284",
+  "data": {
+    "name": "2nd Nasr City Police Station",
+    "lat": 30.050517128005712,
+    "lng": 31.312164480609802,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "284",
+    "isActive": true
+  }
+}

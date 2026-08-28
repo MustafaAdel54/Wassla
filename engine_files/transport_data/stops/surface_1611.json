@@ -1,0 +1,18 @@
+{
+  "id": "surface_1611",
+  "data": {
+    "name": "Manial Shiha Post Office",
+    "lat": 29.95994099463129,
+    "lng": 31.232166313210165,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1611",
+    "isActive": true
+  }
+}

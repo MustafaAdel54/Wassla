@@ -1,0 +1,18 @@
+{
+  "id": "surface_1893",
+  "data": {
+    "name": "Vehicles Administration (Salah Salem St.)",
+    "lat": 30.061558726181,
+    "lng": 31.284462503063654,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1893",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_508",
+  "data": {
+    "name": "Salah Al Din Citadel (Salah Salem)",
+    "lat": 30.02539265753174,
+    "lng": 31.26164896651035,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "508",
+    "isActive": true
+  }
+}

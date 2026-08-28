@@ -1,0 +1,18 @@
+{
+  "id": "surface_2915",
+  "data": {
+    "name": "Al Mukhtar Mosque (Bassous)",
+    "lat": 30.13227833005406,
+    "lng": 31.217839060534832,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2915",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2082",
+  "data": {
+    "name": "Al Darraasa Traffic Department",
+    "lat": 30.05247520778975,
+    "lng": 31.269975351125893,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2082",
+    "isActive": true
+  }
+}

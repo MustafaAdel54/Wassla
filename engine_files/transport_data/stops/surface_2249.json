@@ -1,0 +1,18 @@
+{
+  "id": "surface_2249",
+  "data": {
+    "name": "Victoria (Ahmed Helmy St.)",
+    "lat": 30.086847579147438,
+    "lng": 31.255990301650655,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2249",
+    "isActive": true
+  }
+}

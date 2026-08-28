@@ -1,0 +1,18 @@
+{
+  "id": "surface_858",
+  "data": {
+    "name": "Markaz Al Nakheel (6th of October)",
+    "lat": 29.963811019989194,
+    "lng": 30.90335402992216,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "858",
+    "isActive": true
+  }
+}

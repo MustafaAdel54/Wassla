@@ -1,0 +1,18 @@
+{
+  "id": "surface_1995",
+  "data": {
+    "name": "Al Sayeda Zeinab District Presidency",
+    "lat": 30.0307127,
+    "lng": 31.2479929,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1995",
+    "isActive": true
+  }
+}

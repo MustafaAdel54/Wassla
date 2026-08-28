@@ -1,0 +1,18 @@
+{
+  "id": "surface_782",
+  "data": {
+    "name": "Nour Al Islam Mosque (Shubra Al Kheima)",
+    "lat": 30.115997921412482,
+    "lng": 31.28443223961517,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "782",
+    "isActive": true
+  }
+}

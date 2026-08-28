@@ -1,0 +1,18 @@
+{
+  "id": "surface_2811",
+  "data": {
+    "name": "Shabab (Obour)",
+    "lat": 30.272766294789456,
+    "lng": 31.48418567088428,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2811",
+    "isActive": true
+  }
+}

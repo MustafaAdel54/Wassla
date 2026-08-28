@@ -1,0 +1,18 @@
+{
+  "id": "surface_1810",
+  "data": {
+    "name": "Ahram School for Basic Education",
+    "lat": 29.988496597591332,
+    "lng": 31.11279428798343,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1810",
+    "isActive": true
+  }
+}

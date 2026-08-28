@@ -1,0 +1,18 @@
+{
+  "id": "surface_990",
+  "data": {
+    "name": "Realestate Regulation Authoity (6th of October)",
+    "lat": 29.937724748632704,
+    "lng": 30.912021026232928,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "990",
+    "isActive": true
+  }
+}

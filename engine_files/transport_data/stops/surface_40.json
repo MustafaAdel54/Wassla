@@ -1,0 +1,18 @@
+{
+  "id": "surface_40",
+  "data": {
+    "name": "Moasasset Al Zakah",
+    "lat": 30.166513,
+    "lng": 31.383147,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "40",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2141",
+  "data": {
+    "name": "Faculty of Engineering (Al Azhar University)",
+    "lat": 30.064007710436094,
+    "lng": 31.28640127186233,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2141",
+    "isActive": true
+  }
+}

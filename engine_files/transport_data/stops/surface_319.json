@@ -1,0 +1,18 @@
+{
+  "id": "surface_319",
+  "data": {
+    "name": "Board of Trustees (6th of October)",
+    "lat": 29.994295545098623,
+    "lng": 30.959943316649916,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "319",
+    "isActive": true
+  }
+}

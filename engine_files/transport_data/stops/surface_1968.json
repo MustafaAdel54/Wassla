@@ -1,0 +1,18 @@
+{
+  "id": "surface_1968",
+  "data": {
+    "name": "Traffic Department ( Ain El Sira )",
+    "lat": 30.014811657760244,
+    "lng": 31.246941915256873,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1968",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1998",
+  "data": {
+    "name": "Qalaa",
+    "lat": 30.02977233180669,
+    "lng": 31.257716626912643,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1998",
+    "isActive": true
+  }
+}

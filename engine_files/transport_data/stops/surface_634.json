@@ -1,0 +1,18 @@
+{
+  "id": "surface_634",
+  "data": {
+    "name": "Agouza Corniche",
+    "lat": 30.046488638142694,
+    "lng": 31.218108033165404,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "634",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_540",
+  "data": {
+    "name": "Mall of Egypt",
+    "lat": 29.970658857064777,
+    "lng": 31.013449147739585,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "540",
+    "isActive": true
+  }
+}

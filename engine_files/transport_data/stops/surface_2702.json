@@ -1,0 +1,18 @@
+{
+  "id": "surface_2702",
+  "data": {
+    "name": "Ahmed Esmat St. & Ain Shams St.",
+    "lat": 30.129118234810825,
+    "lng": 31.321549277333972,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2702",
+    "isActive": true
+  }
+}

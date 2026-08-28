@@ -1,0 +1,18 @@
+{
+  "id": "surface_1617",
+  "data": {
+    "name": "Policeman Institute St. (Nile Corniche)",
+    "lat": 29.943016217289184,
+    "lng": 31.272236395012605,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1617",
+    "isActive": true
+  }
+}

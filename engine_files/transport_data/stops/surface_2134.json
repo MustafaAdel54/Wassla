@@ -1,0 +1,18 @@
+{
+  "id": "surface_2134",
+  "data": {
+    "name": "Masarra",
+    "lat": 30.07357,
+    "lng": 31.2404,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2134",
+    "isActive": true
+  }
+}

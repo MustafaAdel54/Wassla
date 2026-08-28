@@ -1,0 +1,18 @@
+{
+  "id": "surface_552",
+  "data": {
+    "name": "Al Hossary Azhari Language School",
+    "lat": 29.970753236485766,
+    "lng": 30.94982212458512,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "552",
+    "isActive": true
+  }
+}

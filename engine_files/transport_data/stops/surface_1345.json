@@ -1,0 +1,18 @@
+{
+  "id": "surface_1345",
+  "data": {
+    "name": "Saft Al Laban Steps (Ring Rd.)",
+    "lat": 30.036618021112897,
+    "lng": 31.168076686551743,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1345",
+    "isActive": true
+  }
+}

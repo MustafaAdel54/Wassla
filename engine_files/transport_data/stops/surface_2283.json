@@ -1,0 +1,18 @@
+{
+  "id": "surface_2283",
+  "data": {
+    "name": "Conrad Hotel",
+    "lat": 30.065123358399415,
+    "lng": 31.227304946922544,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2283",
+    "isActive": true
+  }
+}

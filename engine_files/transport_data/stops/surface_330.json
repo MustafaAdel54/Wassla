@@ -1,0 +1,18 @@
+{
+  "id": "surface_330",
+  "data": {
+    "name": "Cairo Festival City (South Teseen St.)",
+    "lat": 30.01644224948401,
+    "lng": 31.40745592176283,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "330",
+    "isActive": true
+  }
+}

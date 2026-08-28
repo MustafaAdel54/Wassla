@@ -1,0 +1,18 @@
+{
+  "id": "surface_1385",
+  "data": {
+    "name": "Wadi Degla Sporting Club (Heliopolis)",
+    "lat": 30.095068416577487,
+    "lng": 31.382782368210684,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1385",
+    "isActive": true
+  }
+}

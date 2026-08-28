@@ -1,0 +1,18 @@
+{
+  "id": "surface_2637",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Obour)",
+    "lat": 30.1989795,
+    "lng": 31.4576286,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2637",
+    "isActive": true
+  }
+}

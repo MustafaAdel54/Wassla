@@ -1,0 +1,18 @@
+{
+  "id": "surface_1504",
+  "data": {
+    "name": "Egypt Air Hospital",
+    "lat": 30.091493079311427,
+    "lng": 31.3482361525537,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1504",
+    "isActive": true
+  }
+}

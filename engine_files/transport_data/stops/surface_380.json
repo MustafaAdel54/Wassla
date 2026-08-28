@@ -1,0 +1,18 @@
+{
+  "id": "surface_380",
+  "data": {
+    "name": "Khafraa Gate (Hadayek Al Ahram)",
+    "lat": 29.9642041,
+    "lng": 31.1084079,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "380",
+    "isActive": true
+  }
+}

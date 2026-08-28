@@ -1,0 +1,18 @@
+{
+  "id": "surface_302",
+  "data": {
+    "name": "10th District (Nasr City)",
+    "lat": 30.049363,
+    "lng": 31.3798395,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "302",
+    "isActive": true
+  }
+}

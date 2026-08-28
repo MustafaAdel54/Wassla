@@ -1,0 +1,18 @@
+{
+  "id": "surface_478",
+  "data": {
+    "name": "Ragab Sons (Mahdy Arafa St.)",
+    "lat": 30.054977,
+    "lng": 31.379784,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "478",
+    "isActive": true
+  }
+}

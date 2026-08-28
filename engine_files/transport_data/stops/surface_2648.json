@@ -1,0 +1,18 @@
+{
+  "id": "surface_2648",
+  "data": {
+    "name": "Qalyub Specialized Hospital",
+    "lat": 30.180817020530096,
+    "lng": 31.221720551945875,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2648",
+    "isActive": true
+  }
+}

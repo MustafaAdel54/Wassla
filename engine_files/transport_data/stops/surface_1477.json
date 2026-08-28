@@ -1,0 +1,18 @@
+{
+  "id": "surface_1477",
+  "data": {
+    "name": "Orascom Business (Anabib Al Petrol)",
+    "lat": 30.133153,
+    "lng": 31.37624,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1477",
+    "isActive": true
+  }
+}

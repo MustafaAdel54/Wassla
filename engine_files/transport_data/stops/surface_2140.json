@@ -1,0 +1,18 @@
+{
+  "id": "surface_2140",
+  "data": {
+    "name": "Police Academy (Abbaseya)",
+    "lat": 30.069082,
+    "lng": 31.2850232,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2140",
+    "isActive": true
+  }
+}

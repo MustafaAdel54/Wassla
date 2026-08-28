@@ -1,0 +1,18 @@
+{
+  "id": "surface_2286",
+  "data": {
+    "name": "Al Maagfera Mosque (Bolak)",
+    "lat": 30.067547,
+    "lng": 31.229432,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2286",
+    "isActive": true
+  }
+}

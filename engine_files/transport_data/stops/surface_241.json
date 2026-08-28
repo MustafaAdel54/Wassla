@@ -1,0 +1,18 @@
+{
+  "id": "surface_241",
+  "data": {
+    "name": "Al Barageel Entrance",
+    "lat": 30.064265456859182,
+    "lng": 31.161450688202947,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "241",
+    "isActive": true
+  }
+}

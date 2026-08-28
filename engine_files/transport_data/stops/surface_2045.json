@@ -1,0 +1,18 @@
+{
+  "id": "surface_2045",
+  "data": {
+    "name": "Ali Abdel Halim St. & Tahrir St.",
+    "lat": 30.039288522967162,
+    "lng": 31.215892533793735,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2045",
+    "isActive": true
+  }
+}

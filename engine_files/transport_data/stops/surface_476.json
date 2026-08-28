@@ -1,0 +1,18 @@
+{
+  "id": "surface_476",
+  "data": {
+    "name": "Al Masah Hospital (Mahdy Arafa St.)",
+    "lat": 30.052734950308444,
+    "lng": 31.379245567016326,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "476",
+    "isActive": true
+  }
+}

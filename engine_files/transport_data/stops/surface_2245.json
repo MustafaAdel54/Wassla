@@ -1,0 +1,18 @@
+{
+  "id": "surface_2245",
+  "data": {
+    "name": "Sharabeya",
+    "lat": 30.079041583865514,
+    "lng": 31.261092097400603,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2245",
+    "isActive": true
+  }
+}

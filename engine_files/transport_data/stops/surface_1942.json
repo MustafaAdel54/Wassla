@@ -1,0 +1,18 @@
+{
+  "id": "surface_1942",
+  "data": {
+    "name": "Al Malek Al Saleh Bridge Entrance",
+    "lat": 30.013631,
+    "lng": 31.228355,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1942",
+    "isActive": true
+  }
+}

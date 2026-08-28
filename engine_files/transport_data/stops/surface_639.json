@@ -1,0 +1,18 @@
+{
+  "id": "surface_639",
+  "data": {
+    "name": "Faculty of Commerce (Cairo University)",
+    "lat": 30.02853,
+    "lng": 31.2055,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "639",
+    "isActive": true
+  }
+}

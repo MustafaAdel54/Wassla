@@ -1,0 +1,18 @@
+{
+  "id": "surface_71",
+  "data": {
+    "name": "Saqqara (Moroor)",
+    "lat": 29.850905369583522,
+    "lng": 31.24114416718792,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "71",
+    "isActive": true
+  }
+}

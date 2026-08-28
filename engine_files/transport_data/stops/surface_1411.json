@@ -1,0 +1,18 @@
+{
+  "id": "surface_1411",
+  "data": {
+    "name": "Al Hayat Islamic School (Marg)",
+    "lat": 30.1897189,
+    "lng": 31.3511173,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1411",
+    "isActive": true
+  }
+}

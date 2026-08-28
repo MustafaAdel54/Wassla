@@ -1,0 +1,18 @@
+{
+  "id": "surface_3015",
+  "data": {
+    "name": "New terminal of 5th settlement",
+    "lat": 29.96815,
+    "lng": 31.544013,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3015",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2053",
+  "data": {
+    "name": "State Council (Dokki)",
+    "lat": 30.036324242188638,
+    "lng": 31.218413945129058,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2053",
+    "isActive": true
+  }
+}

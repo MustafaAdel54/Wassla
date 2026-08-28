@@ -1,0 +1,18 @@
+{
+  "id": "surface_2926",
+  "data": {
+    "name": "Ibrahim Mosque (Marg Axis)",
+    "lat": 30.154046121035854,
+    "lng": 31.37569197207136,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2926",
+    "isActive": true
+  }
+}

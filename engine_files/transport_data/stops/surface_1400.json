@@ -1,0 +1,18 @@
+{
+  "id": "surface_1400",
+  "data": {
+    "name": "Ring Rd. Exit to Cairo Alexandria Agriculture Road",
+    "lat": 30.14959698740355,
+    "lng": 31.233450087764123,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1400",
+    "isActive": true
+  }
+}

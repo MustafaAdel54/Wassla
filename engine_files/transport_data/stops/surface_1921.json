@@ -1,0 +1,18 @@
+{
+  "id": "surface_1921",
+  "data": {
+    "name": "Al Nakhl (Nile Corniche)",
+    "lat": 29.888703851483555,
+    "lng": 31.289270423746334,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1921",
+    "isActive": true
+  }
+}

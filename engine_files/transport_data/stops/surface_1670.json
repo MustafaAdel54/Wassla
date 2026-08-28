@@ -1,0 +1,18 @@
+{
+  "id": "surface_1670",
+  "data": {
+    "name": "Wadi Al Nile St. and Nile Corniche",
+    "lat": 29.954259099999987,
+    "lng": 31.2544806,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1670",
+    "isActive": true
+  }
+}

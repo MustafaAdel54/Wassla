@@ -1,0 +1,18 @@
+{
+  "id": "surface_1638",
+  "data": {
+    "name": "Central Agency for Public Mobilization and Statistics",
+    "lat": 30.079586059008918,
+    "lng": 31.314956775782125,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1638",
+    "isActive": true
+  }
+}

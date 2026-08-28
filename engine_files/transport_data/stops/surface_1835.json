@@ -1,0 +1,18 @@
+{
+  "id": "surface_1835",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Faisal St.)",
+    "lat": 29.9923942,
+    "lng": 31.1433269,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1835",
+    "isActive": true
+  }
+}

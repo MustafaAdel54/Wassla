@@ -1,0 +1,18 @@
+{
+  "id": "surface_2195",
+  "data": {
+    "name": "Misr Al Wosta Electricity Company (Al Bahr Al Aazam St.)",
+    "lat": 29.99412436573807,
+    "lng": 31.215243658580007,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2195",
+    "isActive": true
+  }
+}

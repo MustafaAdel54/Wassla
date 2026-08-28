@@ -1,0 +1,18 @@
+{
+  "id": "surface_2812",
+  "data": {
+    "name": "Obour",
+    "lat": 30.270905145637375,
+    "lng": 31.487391697898442,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2812",
+    "isActive": true
+  }
+}
