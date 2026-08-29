@@ -1,0 +1,128 @@
+{
+  "id": "surface_trip_Zgd5CAbnKqm2PwtYLOrkH",
+  "data": {
+    "routeId": "surface_jAkc2JP8TWQ7cm1sx3V2V",
+    "tripId": "Zgd5CAbnKqm2PwtYLOrkH",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Om Bayoumi (Mintay)",
+    "stops": [
+      {
+        "stopId": "surface_2097",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2764",
+        "sequence": 2,
+        "arrivalSec": 22078,
+        "departureSec": 22094
+      },
+      {
+        "stopId": "surface_154",
+        "sequence": 3,
+        "arrivalSec": 22098,
+        "departureSec": 22114
+      },
+      {
+        "stopId": "surface_2460",
+        "sequence": 4,
+        "arrivalSec": 22154,
+        "departureSec": 22168
+      },
+      {
+        "stopId": "surface_2459",
+        "sequence": 5,
+        "arrivalSec": 22201,
+        "departureSec": 22216
+      },
+      {
+        "stopId": "surface_2257",
+        "sequence": 6,
+        "arrivalSec": 22361,
+        "departureSec": 22376
+      },
+      {
+        "stopId": "surface_2304",
+        "sequence": 7,
+        "arrivalSec": 22454,
+        "departureSec": 22469
+      },
+      {
+        "stopId": "surface_2255",
+        "sequence": 8,
+        "arrivalSec": 22543,
+        "departureSec": 22558
+      },
+      {
+        "stopId": "surface_2247",
+        "sequence": 9,
+        "arrivalSec": 22670,
+        "departureSec": 22685
+      },
+      {
+        "stopId": "surface_2249",
+        "sequence": 10,
+        "arrivalSec": 22710,
+        "departureSec": 22725
+      },
+      {
+        "stopId": "surface_2251",
+        "sequence": 11,
+        "arrivalSec": 22898,
+        "departureSec": 22913
+      },
+      {
+        "stopId": "surface_2119",
+        "sequence": 12,
+        "arrivalSec": 22985,
+        "departureSec": 23000
+      },
+      {
+        "stopId": "surface_2326",
+        "sequence": 13,
+        "arrivalSec": 23025,
+        "departureSec": 23040
+      },
+      {
+        "stopId": "surface_2806",
+        "sequence": 14,
+        "arrivalSec": 23126,
+        "departureSec": 23141
+      },
+      {
+        "stopId": "surface_2485",
+        "sequence": 15,
+        "arrivalSec": 23181,
+        "departureSec": 23196
+      },
+      {
+        "stopId": "surface_1389",
+        "sequence": 16,
+        "arrivalSec": 23374,
+        "departureSec": 23388
+      },
+      {
+        "stopId": "surface_2797",
+        "sequence": 17,
+        "arrivalSec": 23710,
+        "departureSec": 23726
+      },
+      {
+        "stopId": "surface_2796",
+        "sequence": 18,
+        "arrivalSec": 23911,
+        "departureSec": 23926
+      },
+      {
+        "stopId": "surface_2795",
+        "sequence": 19,
+        "arrivalSec": 24180,
+        "departureSec": 24195
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

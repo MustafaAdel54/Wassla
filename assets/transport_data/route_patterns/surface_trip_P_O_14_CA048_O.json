@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_CA048_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA048",
+    "tripId": "P_O_14_CA048_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Ahmed Maher Hospital",
+    "stops": [
+      {
+        "stopId": "surface_162",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_679",
+        "sequence": 2,
+        "arrivalSec": 21770,
+        "departureSec": 21785
+      },
+      {
+        "stopId": "surface_1994",
+        "sequence": 3,
+        "arrivalSec": 21820,
+        "departureSec": 21835
+      },
+      {
+        "stopId": "surface_1336",
+        "sequence": 4,
+        "arrivalSec": 21906,
+        "departureSec": 21921
+      },
+      {
+        "stopId": "surface_164",
+        "sequence": 5,
+        "arrivalSec": 22046,
+        "departureSec": 22061
+      },
+      {
+        "stopId": "surface_165",
+        "sequence": 6,
+        "arrivalSec": 22065,
+        "departureSec": 22080
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

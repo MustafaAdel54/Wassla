@@ -1,0 +1,18 @@
+{
+  "id": "surface_37",
+  "data": {
+    "name": "Giza Helwan Bus Station",
+    "lat": 30.015514566384194,
+    "lng": 31.21526573808788,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "37",
+    "isActive": true
+  }
+}

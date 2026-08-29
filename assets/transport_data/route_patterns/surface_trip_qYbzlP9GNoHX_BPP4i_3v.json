@@ -1,0 +1,116 @@
+{
+  "id": "surface_trip_qYbzlP9GNoHX_BPP4i_3v",
+  "data": {
+    "routeId": "surface_8X8gLBYp6o4Z9Dc0_MySn",
+    "tripId": "qYbzlP9GNoHX_BPP4i_3v",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Remaya (New Mashaal)",
+    "stops": [
+      {
+        "stopId": "surface_567",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_323",
+        "sequence": 2,
+        "arrivalSec": 21659,
+        "departureSec": 21674
+      },
+      {
+        "stopId": "surface_238",
+        "sequence": 3,
+        "arrivalSec": 21716,
+        "departureSec": 21731
+      },
+      {
+        "stopId": "surface_1083",
+        "sequence": 4,
+        "arrivalSec": 21758,
+        "departureSec": 21773
+      },
+      {
+        "stopId": "surface_1362",
+        "sequence": 5,
+        "arrivalSec": 21950,
+        "departureSec": 21965
+      },
+      {
+        "stopId": "surface_611",
+        "sequence": 6,
+        "arrivalSec": 22079,
+        "departureSec": 22094
+      },
+      {
+        "stopId": "surface_1356",
+        "sequence": 7,
+        "arrivalSec": 22122,
+        "departureSec": 22137
+      },
+      {
+        "stopId": "surface_1359",
+        "sequence": 8,
+        "arrivalSec": 22207,
+        "departureSec": 22222
+      },
+      {
+        "stopId": "surface_1361",
+        "sequence": 9,
+        "arrivalSec": 22247,
+        "departureSec": 22262
+      },
+      {
+        "stopId": "surface_608",
+        "sequence": 10,
+        "arrivalSec": 22309,
+        "departureSec": 22324
+      },
+      {
+        "stopId": "surface_1226",
+        "sequence": 11,
+        "arrivalSec": 22414,
+        "departureSec": 22429
+      },
+      {
+        "stopId": "surface_1354",
+        "sequence": 12,
+        "arrivalSec": 22459,
+        "departureSec": 22474
+      },
+      {
+        "stopId": "surface_1352",
+        "sequence": 13,
+        "arrivalSec": 22614,
+        "departureSec": 22629
+      },
+      {
+        "stopId": "surface_1818",
+        "sequence": 14,
+        "arrivalSec": 23077,
+        "departureSec": 23092
+      },
+      {
+        "stopId": "surface_1819",
+        "sequence": 15,
+        "arrivalSec": 23154,
+        "departureSec": 23169
+      },
+      {
+        "stopId": "surface_384",
+        "sequence": 16,
+        "arrivalSec": 23240,
+        "departureSec": 23256
+      },
+      {
+        "stopId": "surface_1",
+        "sequence": 17,
+        "arrivalSec": 23276,
+        "departureSec": 23290
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

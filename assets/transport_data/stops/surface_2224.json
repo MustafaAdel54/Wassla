@@ -1,0 +1,18 @@
+{
+  "id": "surface_2224",
+  "data": {
+    "name": "Koshary Hend ( Masaken Al Wehda)",
+    "lat": 30.12871919999999,
+    "lng": 31.2609325,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2224",
+    "isActive": true
+  }
+}

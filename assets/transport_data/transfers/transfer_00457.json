@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00457",
+  "data": {
+    "fromStopId": "surface_2604",
+    "toStopId": "metro_10_AHL_METRO_N",
+    "distanceMeters": 46.5,
+    "estimatedMinutes": 1,
+    "confidence": "high",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

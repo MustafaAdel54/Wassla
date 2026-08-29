@@ -1,0 +1,18 @@
+{
+  "id": "surface_295",
+  "data": {
+    "name": "Future School (Nasr City)",
+    "lat": 30.04549517276452,
+    "lng": 31.3475641403877,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "295",
+    "isActive": true
+  }
+}

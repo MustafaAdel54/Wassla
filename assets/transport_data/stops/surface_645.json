@@ -1,0 +1,18 @@
+{
+  "id": "surface_645",
+  "data": {
+    "name": "Al Talbeya Steps (Ring Rd.)",
+    "lat": 29.986857433589307,
+    "lng": 31.1884836334929,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "645",
+    "isActive": true
+  }
+}

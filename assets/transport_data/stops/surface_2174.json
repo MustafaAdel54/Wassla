@@ -1,0 +1,18 @@
+{
+  "id": "surface_2174",
+  "data": {
+    "name": "Al Abyad Automotive ( Faisal St.)",
+    "lat": 30.013374840775175,
+    "lng": 31.198687574239095,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2174",
+    "isActive": true
+  }
+}

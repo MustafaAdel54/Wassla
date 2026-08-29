@@ -1,0 +1,18 @@
+{
+  "id": "surface_2168",
+  "data": {
+    "name": "KFC ( Faisal St. )",
+    "lat": 30.00271043435476,
+    "lng": 31.17129270917093,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2168",
+    "isActive": true
+  }
+}

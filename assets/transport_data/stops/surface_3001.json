@@ -1,0 +1,18 @@
+{
+  "id": "surface_3001",
+  "data": {
+    "name": "Central Security Camp",
+    "lat": 30.157232702762055,
+    "lng": 31.45365081104822,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3001",
+    "isActive": true
+  }
+}

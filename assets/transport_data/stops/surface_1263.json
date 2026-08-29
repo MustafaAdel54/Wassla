@@ -1,0 +1,18 @@
+{
+  "id": "surface_1263",
+  "data": {
+    "name": "Public Taxes Mission (Nasr City)",
+    "lat": 30.059426848266718,
+    "lng": 31.34540563587225,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1263",
+    "isActive": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_B_8_NC002_O",
+  "data": {
+    "routeId": "surface_P_B_8_NC002",
+    "tripId": "P_B_8_NC002_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Gas (Banks Area)",
+    "stops": [
+      {
+        "stopId": "surface_357",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_594",
+        "sequence": 2,
+        "arrivalSec": 21733,
+        "departureSec": 21748
+      },
+      {
+        "stopId": "surface_442",
+        "sequence": 3,
+        "arrivalSec": 21833,
+        "departureSec": 21848
+      },
+      {
+        "stopId": "surface_443",
+        "sequence": 4,
+        "arrivalSec": 21906,
+        "departureSec": 21921
+      },
+      {
+        "stopId": "surface_444",
+        "sequence": 5,
+        "arrivalSec": 21976,
+        "departureSec": 21991
+      },
+      {
+        "stopId": "surface_446",
+        "sequence": 6,
+        "arrivalSec": 22018,
+        "departureSec": 22033
+      },
+      {
+        "stopId": "surface_447",
+        "sequence": 7,
+        "arrivalSec": 22081,
+        "departureSec": 22096
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

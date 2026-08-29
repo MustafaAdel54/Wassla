@@ -1,0 +1,16 @@
+{
+  "id": "metro_251_MRG_METRO_N",
+  "data": {
+    "name": "El-Marg",
+    "lat": 30.1521131,
+    "lng": 31.3358134,
+    "stationId": "station_metro_251_MRG_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "251_MRG_METRO_N",
+    "parentSourceId": "251_MRG_METRO",
+    "isActive": true
+  }
+}

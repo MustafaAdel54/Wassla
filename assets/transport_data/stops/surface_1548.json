@@ -1,0 +1,18 @@
+{
+  "id": "surface_1548",
+  "data": {
+    "name": "Al Manara Kiosk (Al Moqattam)",
+    "lat": 30.007003377900396,
+    "lng": 31.328887295446144,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1548",
+    "isActive": true
+  }
+}

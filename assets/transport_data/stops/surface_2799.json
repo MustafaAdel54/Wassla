@@ -1,0 +1,18 @@
+{
+  "id": "surface_2799",
+  "data": {
+    "name": "Hadayek Al Qobba Metro",
+    "lat": 30.08664986393493,
+    "lng": 31.29242622922724,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2799",
+    "isActive": true
+  }
+}

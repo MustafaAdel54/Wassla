@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_C3FfxGuwB5ZRuWVUlWSiQ",
+  "data": {
+    "routeId": "surface_Dnad46KxSgtz6WrdlQUHY",
+    "tripId": "C3FfxGuwB5ZRuWVUlWSiQ",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Asmarrat",
+    "stops": [
+      {
+        "stopId": "surface_2436",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1888",
+        "sequence": 2,
+        "arrivalSec": 21708,
+        "departureSec": 21723
+      },
+      {
+        "stopId": "surface_1650",
+        "sequence": 3,
+        "arrivalSec": 21852,
+        "departureSec": 21867
+      },
+      {
+        "stopId": "surface_1259",
+        "sequence": 4,
+        "arrivalSec": 21902,
+        "departureSec": 21917
+      },
+      {
+        "stopId": "surface_202",
+        "sequence": 5,
+        "arrivalSec": 22020,
+        "departureSec": 22035
+      },
+      {
+        "stopId": "surface_701",
+        "sequence": 6,
+        "arrivalSec": 22200,
+        "departureSec": 22215
+      },
+      {
+        "stopId": "surface_2638",
+        "sequence": 7,
+        "arrivalSec": 22264,
+        "departureSec": 22279
+      },
+      {
+        "stopId": "surface_1521",
+        "sequence": 8,
+        "arrivalSec": 22687,
+        "departureSec": 22702
+      },
+      {
+        "stopId": "surface_1537",
+        "sequence": 9,
+        "arrivalSec": 23193,
+        "departureSec": 23208
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

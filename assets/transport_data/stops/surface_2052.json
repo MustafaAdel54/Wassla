@@ -1,0 +1,18 @@
+{
+  "id": "surface_2052",
+  "data": {
+    "name": "Galaa Bridge Exit to Dokki",
+    "lat": 30.040055,
+    "lng": 31.220126,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2052",
+    "isActive": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_T54onFGMOCluFq178GHtj",
+  "data": {
+    "routeId": "surface_30QI2WFsvNrXncGOrD-Yl",
+    "tripId": "T54onFGMOCluFq178GHtj",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Masaken Betcho",
+    "stops": [
+      {
+        "stopId": "surface_2828",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2829",
+        "sequence": 2,
+        "arrivalSec": 21889,
+        "departureSec": 21904
+      },
+      {
+        "stopId": "surface_18",
+        "sequence": 3,
+        "arrivalSec": 21949,
+        "departureSec": 21964
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_899",
+  "data": {
+    "name": "Industrial Zone 3",
+    "lat": 29.9298307,
+    "lng": 30.8922818,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "899",
+    "isActive": true
+  }
+}

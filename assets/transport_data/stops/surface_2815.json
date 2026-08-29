@@ -1,0 +1,18 @@
+{
+  "id": "surface_2815",
+  "data": {
+    "name": "Al Sekka (Ring Rd.)",
+    "lat": 30.07954,
+    "lng": 31.183383,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2815",
+    "isActive": true
+  }
+}

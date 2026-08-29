@@ -1,0 +1,18 @@
+{
+  "id": "surface_1557",
+  "data": {
+    "name": "Rotana Motors (Maadi)",
+    "lat": 29.986487161513693,
+    "lng": 31.278770988782505,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1557",
+    "isActive": true
+  }
+}

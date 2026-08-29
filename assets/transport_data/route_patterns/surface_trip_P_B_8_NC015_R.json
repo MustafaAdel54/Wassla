@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_P_B_8_NC015_R",
+  "data": {
+    "routeId": "surface_P_B_8_NC015",
+    "tripId": "P_B_8_NC015_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Kattameya (Mahmoudeya)",
+    "stops": [
+      {
+        "stopId": "surface_832",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_473",
+        "sequence": 2,
+        "arrivalSec": 21655,
+        "departureSec": 21670
+      },
+      {
+        "stopId": "surface_1126",
+        "sequence": 3,
+        "arrivalSec": 21726,
+        "departureSec": 21741
+      },
+      {
+        "stopId": "surface_1189",
+        "sequence": 4,
+        "arrivalSec": 21898,
+        "departureSec": 21913
+      },
+      {
+        "stopId": "surface_595",
+        "sequence": 5,
+        "arrivalSec": 22068,
+        "departureSec": 22083
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

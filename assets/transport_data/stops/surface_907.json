@@ -1,0 +1,18 @@
+{
+  "id": "surface_907",
+  "data": {
+    "name": "Islamic Center (Sheikh Zayed)",
+    "lat": 30.028050686595794,
+    "lng": 30.99976927714633,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "907",
+    "isActive": true
+  }
+}

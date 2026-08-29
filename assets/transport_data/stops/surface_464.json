@@ -1,0 +1,18 @@
+{
+  "id": "surface_464",
+  "data": {
+    "name": "Huckstep Bridge Entrance",
+    "lat": 30.14322769069654,
+    "lng": 31.403664118311582,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "464",
+    "isActive": true
+  }
+}

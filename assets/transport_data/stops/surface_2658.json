@@ -1,0 +1,18 @@
+{
+  "id": "surface_2658",
+  "data": {
+    "name": "Al Mansoureya Canal Rd. (Nahya)",
+    "lat": 30.0580884,
+    "lng": 31.127078499999985,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2658",
+    "isActive": true
+  }
+}

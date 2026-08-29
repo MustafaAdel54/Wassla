@@ -1,0 +1,18 @@
+{
+  "id": "surface_926",
+  "data": {
+    "name": "Health Affairs Directorate - 6th of October",
+    "lat": 30.04592176897998,
+    "lng": 30.96994541997095,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "926",
+    "isActive": true
+  }
+}

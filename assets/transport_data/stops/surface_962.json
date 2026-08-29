@@ -1,0 +1,18 @@
+{
+  "id": "surface_962",
+  "data": {
+    "name": "Tiba Grand Mall (6th of October)",
+    "lat": 29.949201250177392,
+    "lng": 30.90909436024756,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "962",
+    "isActive": true
+  }
+}

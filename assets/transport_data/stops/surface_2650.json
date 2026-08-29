@@ -1,0 +1,18 @@
+{
+  "id": "surface_2650",
+  "data": {
+    "name": "Al Habib Mosque (Al Barageel)",
+    "lat": 30.073574006194466,
+    "lng": 31.16932279487605,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2650",
+    "isActive": true
+  }
+}

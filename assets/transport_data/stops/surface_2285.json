@@ -1,0 +1,18 @@
+{
+  "id": "surface_2285",
+  "data": {
+    "name": "Documentation Center (Bolak)",
+    "lat": 30.066687358015724,
+    "lng": 31.22705691899892,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2285",
+    "isActive": true
+  }
+}

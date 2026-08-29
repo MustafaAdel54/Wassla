@@ -1,0 +1,18 @@
+{
+  "id": "surface_2645",
+  "data": {
+    "name": "Qalyoub Al Balad Bus Station",
+    "lat": 30.181346580143774,
+    "lng": 31.207645032251477,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2645",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1849",
+  "data": {
+    "name": "Mit Halfa - Cairo Alexandria Agriculture Road",
+    "lat": 30.1626547239196,
+    "lng": 31.22796268497402,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1849",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2282",
+  "data": {
+    "name": "Al Sabteyya School",
+    "lat": 30.065491300000016,
+    "lng": 31.235960099999986,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2282",
+    "isActive": true
+  }
+}

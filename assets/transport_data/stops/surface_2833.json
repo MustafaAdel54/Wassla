@@ -1,0 +1,18 @@
+{
+  "id": "surface_2833",
+  "data": {
+    "name": "General Company for Land Reclamation",
+    "lat": 29.984326,
+    "lng": 31.254825,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2833",
+    "isActive": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "surface_trip_oacehl0X7OcJby1R4Oba0",
+  "data": {
+    "routeId": "surface_h2J_fjZiNjbt_8gzFSmzs",
+    "tripId": "oacehl0X7OcJby1R4Oba0",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Lebanon Square",
+    "stops": [
+      {
+        "stopId": "surface_1101",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1142",
+        "sequence": 2,
+        "arrivalSec": 21729,
+        "departureSec": 21744
+      },
+      {
+        "stopId": "surface_325",
+        "sequence": 3,
+        "arrivalSec": 21808,
+        "departureSec": 21823
+      },
+      {
+        "stopId": "surface_619",
+        "sequence": 4,
+        "arrivalSec": 22048,
+        "departureSec": 22064
+      },
+      {
+        "stopId": "surface_240",
+        "sequence": 5,
+        "arrivalSec": 22293,
+        "departureSec": 22308
+      },
+      {
+        "stopId": "surface_241",
+        "sequence": 6,
+        "arrivalSec": 22510,
+        "departureSec": 22525
+      },
+      {
+        "stopId": "surface_242",
+        "sequence": 7,
+        "arrivalSec": 22600,
+        "departureSec": 22615
+      },
+      {
+        "stopId": "surface_243",
+        "sequence": 8,
+        "arrivalSec": 22678,
+        "departureSec": 22693
+      },
+      {
+        "stopId": "surface_244",
+        "sequence": 9,
+        "arrivalSec": 22917,
+        "departureSec": 22932
+      },
+      {
+        "stopId": "surface_1140",
+        "sequence": 10,
+        "arrivalSec": 23027,
+        "departureSec": 23042
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

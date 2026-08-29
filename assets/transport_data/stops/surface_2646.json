@@ -1,0 +1,18 @@
+{
+  "id": "surface_2646",
+  "data": {
+    "name": "Qalyoub District Court",
+    "lat": 30.18097735266175,
+    "lng": 31.21700566485575,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2646",
+    "isActive": true
+  }
+}

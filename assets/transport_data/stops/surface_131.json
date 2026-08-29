@@ -1,0 +1,18 @@
+{
+  "id": "surface_131",
+  "data": {
+    "name": "Gesr Al Suez St. & Al Qobba St.",
+    "lat": 30.09555445763223,
+    "lng": 31.31082151027377,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "131",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_243",
+  "data": {
+    "name": "Ring Rd. Steps 2 (26th of July Corridor)",
+    "lat": 30.06189623239563,
+    "lng": 31.17550368842724,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "243",
+    "isActive": true
+  }
+}

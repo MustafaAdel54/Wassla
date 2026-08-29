@@ -1,0 +1,18 @@
+{
+  "id": "surface_871",
+  "data": {
+    "name": "Al Tabba (6th of October)",
+    "lat": 29.991201558839787,
+    "lng": 30.95511173461816,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "871",
+    "isActive": true
+  }
+}

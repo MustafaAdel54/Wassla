@@ -1,0 +1,18 @@
+{
+  "id": "surface_1275",
+  "data": {
+    "name": "The Platform (Maadi)",
+    "lat": 29.974353769296638,
+    "lng": 31.23475426769259,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1275",
+    "isActive": true
+  }
+}

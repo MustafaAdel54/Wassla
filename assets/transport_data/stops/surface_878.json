@@ -1,0 +1,18 @@
+{
+  "id": "surface_878",
+  "data": {
+    "name": "Ahram Canadian University",
+    "lat": 29.9353877261735,
+    "lng": 30.881167739240063,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "878",
+    "isActive": true
+  }
+}

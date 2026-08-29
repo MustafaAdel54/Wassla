@@ -1,0 +1,18 @@
+{
+  "id": "surface_1630",
+  "data": {
+    "name": "Cairo Fair Metro",
+    "lat": 30.073377212020418,
+    "lng": 31.301578678900952,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1630",
+    "isActive": true
+  }
+}

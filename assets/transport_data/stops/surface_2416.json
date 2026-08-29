@@ -1,0 +1,18 @@
+{
+  "id": "surface_2416",
+  "data": {
+    "name": "Mohamed Naguib St. (Al Salam City)",
+    "lat": 30.1706515,
+    "lng": 31.4178108,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2416",
+    "isActive": true
+  }
+}

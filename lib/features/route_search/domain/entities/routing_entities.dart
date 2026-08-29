@@ -79,8 +79,14 @@ class RouteSegment extends Equatable {
   });
 
   @override
-  List<Object?> get props =>
-      [mode, routeId, routeName, fromName, toName, durationMinutes];
+  List<Object?> get props => [
+    mode,
+    routeId,
+    routeName,
+    fromName,
+    toName,
+    durationMinutes,
+  ];
 }
 
 /// The result of a route search — one best route.
@@ -100,8 +106,13 @@ class RouteResult extends Equatable {
   });
 
   @override
-  List<Object?> get props =>
-      [durationMinutes, walkingMinutes, transfers, estimatedFare, segments];
+  List<Object?> get props => [
+    durationMinutes,
+    walkingMinutes,
+    transfers,
+    estimatedFare,
+    segments,
+  ];
 }
 
 /// A nearby stop with distance information.

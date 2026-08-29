@@ -1,0 +1,18 @@
+{
+  "id": "surface_1537",
+  "data": {
+    "name": "New Market (Asmarat)",
+    "lat": 29.9920464,
+    "lng": 31.340438899999985,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1537",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2660",
+  "data": {
+    "name": "Abo Senna Steps",
+    "lat": 30.15514580303132,
+    "lng": 31.229028468221493,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2660",
+    "isActive": true
+  }
+}

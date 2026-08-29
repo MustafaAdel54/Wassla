@@ -1,0 +1,18 @@
+{
+  "id": "surface_1627",
+  "data": {
+    "name": "Carrefour (Al Gazaer St.)",
+    "lat": 29.98376460453292,
+    "lng": 31.273971560741384,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1627",
+    "isActive": true
+  }
+}

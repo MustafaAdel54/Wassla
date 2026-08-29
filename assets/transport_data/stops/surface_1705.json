@@ -1,0 +1,18 @@
+{
+  "id": "surface_1705",
+  "data": {
+    "name": "Al Sheikh Mansour",
+    "lat": 30.145396990535,
+    "lng": 31.331627539259618,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1705",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_873",
+  "data": {
+    "name": "Raslan (6th of October)",
+    "lat": 29.95284236869152,
+    "lng": 30.914395590960115,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "873",
+    "isActive": true
+  }
+}

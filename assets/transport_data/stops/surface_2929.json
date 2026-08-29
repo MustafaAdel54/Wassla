@@ -1,0 +1,18 @@
+{
+  "id": "surface_2929",
+  "data": {
+    "name": "Al Zaeem (Rashah)",
+    "lat": 30.14328855982628,
+    "lng": 31.383312630146236,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2929",
+    "isActive": true
+  }
+}

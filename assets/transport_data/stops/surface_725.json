@@ -1,0 +1,18 @@
+{
+  "id": "surface_725",
+  "data": {
+    "name": "Infantry House (Heliopolis)",
+    "lat": 30.078013674213647,
+    "lng": 31.30021357115503,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "725",
+    "isActive": true
+  }
+}

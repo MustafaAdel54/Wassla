@@ -1,0 +1,18 @@
+{
+  "id": "surface_2691",
+  "data": {
+    "name": "Shubra Al Khaima City Authority",
+    "lat": 30.1199088,
+    "lng": 31.2426622,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2691",
+    "isActive": true
+  }
+}

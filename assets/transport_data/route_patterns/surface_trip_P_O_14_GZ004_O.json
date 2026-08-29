@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_P_O_14_GZ004_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ004",
+    "tripId": "P_O_14_GZ004_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Abou Rawwash",
+    "stops": [
+      {
+        "stopId": "surface_1819",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_384",
+        "sequence": 2,
+        "arrivalSec": 21686,
+        "departureSec": 21702
+      },
+      {
+        "stopId": "surface_1",
+        "sequence": 3,
+        "arrivalSec": 21722,
+        "departureSec": 21736
+      },
+      {
+        "stopId": "surface_2",
+        "sequence": 4,
+        "arrivalSec": 21752,
+        "departureSec": 21766
+      },
+      {
+        "stopId": "surface_812",
+        "sequence": 5,
+        "arrivalSec": 21794,
+        "departureSec": 21808
+      },
+      {
+        "stopId": "surface_1807",
+        "sequence": 6,
+        "arrivalSec": 21980,
+        "departureSec": 21994
+      },
+      {
+        "stopId": "surface_1805",
+        "sequence": 7,
+        "arrivalSec": 22072,
+        "departureSec": 22086
+      },
+      {
+        "stopId": "surface_1803",
+        "sequence": 8,
+        "arrivalSec": 22258,
+        "departureSec": 22274
+      },
+      {
+        "stopId": "surface_1801",
+        "sequence": 9,
+        "arrivalSec": 22350,
+        "departureSec": 22364
+      },
+      {
+        "stopId": "surface_1796",
+        "sequence": 10,
+        "arrivalSec": 22436,
+        "departureSec": 22452
+      },
+      {
+        "stopId": "surface_1799",
+        "sequence": 11,
+        "arrivalSec": 22526,
+        "departureSec": 22540
+      },
+      {
+        "stopId": "surface_1794",
+        "sequence": 12,
+        "arrivalSec": 22588,
+        "departureSec": 22602
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

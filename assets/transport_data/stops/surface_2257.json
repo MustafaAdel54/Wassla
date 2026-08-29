@@ -1,0 +1,18 @@
+{
+  "id": "surface_2257",
+  "data": {
+    "name": "Azhari Institute (Ahmed Helmy St.)",
+    "lat": 30.06983775509193,
+    "lng": 31.253276973275415,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2257",
+    "isActive": true
+  }
+}

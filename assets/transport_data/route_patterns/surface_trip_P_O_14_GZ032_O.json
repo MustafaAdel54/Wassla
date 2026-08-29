@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_P_O_14_GZ032_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ032",
+    "tripId": "P_O_14_GZ032_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Nahia",
+    "stops": [
+      {
+        "stopId": "surface_43",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_62",
+        "sequence": 2,
+        "arrivalSec": 21818,
+        "departureSec": 21833
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_yE0Blir39F_TBRhILhb6r",
+  "data": {
+    "routeId": "surface_9HZEMuRNsQzN9flynqhET",
+    "tripId": "yE0Blir39F_TBRhILhb6r",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Matbaa",
+    "stops": [
+      {
+        "stopId": "surface_51",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1941",
+        "sequence": 2,
+        "arrivalSec": 21634,
+        "departureSec": 21649
+      },
+      {
+        "stopId": "surface_1943",
+        "sequence": 3,
+        "arrivalSec": 21712,
+        "departureSec": 21727
+      },
+      {
+        "stopId": "surface_1952",
+        "sequence": 4,
+        "arrivalSec": 21767,
+        "departureSec": 21782
+      },
+      {
+        "stopId": "surface_1950",
+        "sequence": 5,
+        "arrivalSec": 21873,
+        "departureSec": 21888
+      },
+      {
+        "stopId": "surface_1609",
+        "sequence": 6,
+        "arrivalSec": 22014,
+        "departureSec": 22029
+      },
+      {
+        "stopId": "surface_654",
+        "sequence": 7,
+        "arrivalSec": 22128,
+        "departureSec": 22143
+      },
+      {
+        "stopId": "surface_1275",
+        "sequence": 8,
+        "arrivalSec": 22213,
+        "departureSec": 22228
+      },
+      {
+        "stopId": "surface_655",
+        "sequence": 9,
+        "arrivalSec": 22308,
+        "departureSec": 22323
+      },
+      {
+        "stopId": "surface_1606",
+        "sequence": 10,
+        "arrivalSec": 22368,
+        "departureSec": 22383
+      },
+      {
+        "stopId": "surface_1666",
+        "sequence": 11,
+        "arrivalSec": 22523,
+        "departureSec": 22538
+      },
+      {
+        "stopId": "surface_1665",
+        "sequence": 12,
+        "arrivalSec": 22543,
+        "departureSec": 22558
+      },
+      {
+        "stopId": "surface_1664",
+        "sequence": 13,
+        "arrivalSec": 22628,
+        "departureSec": 22643
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

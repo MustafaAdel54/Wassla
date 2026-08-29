@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00024",
+  "data": {
+    "fromStopId": "surface_30",
+    "toStopId": "metro_157_KHL_METRO_N",
+    "distanceMeters": 51.8,
+    "estimatedMinutes": 1,
+    "confidence": "high",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

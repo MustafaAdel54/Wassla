@@ -1,0 +1,18 @@
+{
+  "id": "surface_1265",
+  "data": {
+    "name": "Al Wafaa Wal Amal City",
+    "lat": 30.03926954827229,
+    "lng": 31.355384458734136,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1265",
+    "isActive": true
+  }
+}

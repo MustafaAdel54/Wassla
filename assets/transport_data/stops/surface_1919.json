@@ -1,0 +1,18 @@
+{
+  "id": "surface_1919",
+  "data": {
+    "name": "Al Maasara Police Station",
+    "lat": 29.888688423606546,
+    "lng": 31.303898858629207,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1919",
+    "isActive": true
+  }
+}

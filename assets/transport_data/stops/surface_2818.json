@@ -1,0 +1,18 @@
+{
+  "id": "surface_2818",
+  "data": {
+    "name": "New Nahda Police Station",
+    "lat": 30.167107,
+    "lng": 31.440291,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2818",
+    "isActive": true
+  }
+}

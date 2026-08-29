@@ -1,0 +1,18 @@
+{
+  "id": "surface_441",
+  "data": {
+    "name": "29 St. & Al Hamd Square",
+    "lat": 29.99984934962781,
+    "lng": 31.422530358819767,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "441",
+    "isActive": true
+  }
+}

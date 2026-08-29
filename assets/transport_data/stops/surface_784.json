@@ -1,0 +1,18 @@
+{
+  "id": "surface_784",
+  "data": {
+    "name": "Al Shaarawy St. (Shubra Al Kheima)",
+    "lat": 30.13377220221078,
+    "lng": 31.277494559146724,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "784",
+    "isActive": true
+  }
+}

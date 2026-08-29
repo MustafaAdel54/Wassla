@@ -1,0 +1,18 @@
+{
+  "id": "surface_1119",
+  "data": {
+    "name": "Haram & Marioteya",
+    "lat": 29.989939447827872,
+    "lng": 31.149308481526344,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1119",
+    "isActive": true
+  }
+}

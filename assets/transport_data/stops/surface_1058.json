@@ -1,0 +1,18 @@
+{
+  "id": "surface_1058",
+  "data": {
+    "name": "American School (Sheikh Zayed)",
+    "lat": 30.032972860327984,
+    "lng": 30.988040077576272,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1058",
+    "isActive": true
+  }
+}

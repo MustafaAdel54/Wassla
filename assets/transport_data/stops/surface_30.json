@@ -1,0 +1,18 @@
+{
+  "id": "surface_30",
+  "data": {
+    "name": "Al Khalafawy Square",
+    "lat": 30.098117,
+    "lng": 31.245436,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "30",
+    "isActive": true
+  }
+}

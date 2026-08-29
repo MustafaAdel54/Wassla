@@ -1,0 +1,18 @@
+{
+  "id": "surface_608",
+  "data": {
+    "name": "Water Station (Alexandria Desert Road)",
+    "lat": 30.020965198342623,
+    "lng": 31.097711851439495,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "608",
+    "isActive": true
+  }
+}

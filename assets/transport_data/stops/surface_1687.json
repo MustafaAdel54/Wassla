@@ -1,0 +1,18 @@
+{
+  "id": "surface_1687",
+  "data": {
+    "name": "Heliopolis Hospital",
+    "lat": 30.107111920161053,
+    "lng": 31.335930522307446,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1687",
+    "isActive": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_1108",
+  "data": {
+    "name": "Giza Square - Hadaba Wosta (Moqattam)",
+    "shortName": "CTA 1108",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_1108",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

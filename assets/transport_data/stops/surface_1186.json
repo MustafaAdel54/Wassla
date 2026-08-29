@@ -1,0 +1,18 @@
+{
+  "id": "surface_1186",
+  "data": {
+    "name": "Al Mazallat",
+    "lat": 30.10373626462521,
+    "lng": 31.24548421438425,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1186",
+    "isActive": true
+  }
+}

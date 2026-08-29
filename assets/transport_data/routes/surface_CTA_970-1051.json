@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_970-1051",
+  "data": {
+    "name": "Cairo Airport - Moassasa",
+    "shortName": "CTA 1051",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_970-1051",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

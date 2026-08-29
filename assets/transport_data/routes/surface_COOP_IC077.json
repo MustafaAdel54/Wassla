@@ -1,0 +1,15 @@
+{
+  "id": "surface_COOP_IC077",
+  "data": {
+    "name": "New Cairo Academy - New Marg",
+    "shortName": "Minibus",
+    "agencyId": "surface_COOP",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "COOP_IC077",
+    "routeType": "3",
+    "continuousPickup": "0",
+    "continuousDropOff": "0",
+    "isActive": true
+  }
+}

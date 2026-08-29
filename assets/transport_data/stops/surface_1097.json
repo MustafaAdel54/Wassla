@@ -1,0 +1,18 @@
+{
+  "id": "surface_1097",
+  "data": {
+    "name": "Arabella Square",
+    "lat": 29.985172,
+    "lng": 31.429834,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1097",
+    "isActive": true
+  }
+}

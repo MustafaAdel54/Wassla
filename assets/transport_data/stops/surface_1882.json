@@ -1,0 +1,18 @@
+{
+  "id": "surface_1882",
+  "data": {
+    "name": "Al Hawamdeyya Traffic Authority",
+    "lat": 29.905104299999987,
+    "lng": 31.2686375,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1882",
+    "isActive": true
+  }
+}

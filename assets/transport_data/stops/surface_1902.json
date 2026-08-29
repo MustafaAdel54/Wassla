@@ -1,0 +1,18 @@
+{
+  "id": "surface_1902",
+  "data": {
+    "name": "Helwan Post Office",
+    "lat": 29.8474286,
+    "lng": 31.332728900000014,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1902",
+    "isActive": true
+  }
+}

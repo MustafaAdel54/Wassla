@@ -1,0 +1,18 @@
+{
+  "id": "surface_1303",
+  "data": {
+    "name": "Bahteem Specialized Hospital For Surgery",
+    "lat": 30.144728668948886,
+    "lng": 31.277903683282556,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1303",
+    "isActive": true
+  }
+}

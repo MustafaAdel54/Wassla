@@ -1,0 +1,18 @@
+{
+  "id": "surface_941",
+  "data": {
+    "name": "Seoudi Market (Sheikh Zayed)",
+    "lat": 30.02998067472553,
+    "lng": 30.995122487906087,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "941",
+    "isActive": true
+  }
+}

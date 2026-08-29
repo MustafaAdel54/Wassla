@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 import 'package:wassla/core/constants/sync_constants.dart';
 import 'package:wassla/core/sync/firebase_remote_data_source.dart';
 import 'package:wassla/features/dataset_sync/data/datasources/local_data_source.dart';
@@ -33,7 +31,8 @@ class DatasetSyncRepositoryImpl implements DatasetSyncRepository {
       final remoteManifest = await _remoteDataSource.fetchManifest();
       if (remoteManifest == null) {
         return const SyncResult.failed(
-            'No remote manifest found. Dataset not yet published to Firebase.');
+          'No remote manifest found. Dataset not yet published to Firebase.',
+        );
       }
 
       // 3. Quick version check
@@ -75,42 +74,27 @@ class DatasetSyncRepositoryImpl implements DatasetSyncRepository {
         try {
           List<int> bytes;
 
-          if (meta.storage == 'firestore') {
-            // Read all docs from Firestore
-            final docs =
-                await _remoteDataSource.fetchFirestoreCollection(name);
-            bytes = LocalDataSource.serializeDocuments(docs);
-          } else if (meta.storage == 'cloud_storage') {
-            // Download from Cloud Storage
-            if (meta.storagePath == null) {
-              return SyncResult.failed(
-                  'No storage path for cloud_storage collection: $name');
-            }
-            bytes = await _remoteDataSource.downloadStorageFile(
-                meta.storagePath!);
-          } else {
-            return SyncResult.failed(
-                'Unknown storage type for collection: $name');
-          }
+          // Read all docs from Firestore
+          final docs = await _remoteDataSource.fetchFirestoreCollection(name);
+          bytes = LocalDataSource.serializeDocuments(docs);
 
           // Stage the downloaded file
           await _localDataSource.stageCollection(name, bytes);
 
           // Verify hash
-          final stagedHash =
-              await _localDataSource.hashStagedCollection(name);
+          final stagedHash = await _localDataSource.hashStagedCollection(name);
           if (stagedHash != meta.contentHash) {
             // Hash mismatch — abort
             await _localDataSource.cleanupStaging();
             return SyncResult.failed(
-                'Hash mismatch for collection $name. '
-                'Expected: ${meta.contentHash}, Got: $stagedHash');
+              'Hash mismatch for collection $name. '
+              'Expected: ${meta.contentHash}, Got: $stagedHash',
+            );
           }
         } catch (e) {
           // Download failed — abort, keep previous dataset
           await _localDataSource.cleanupStaging();
-          return SyncResult.failed(
-              'Failed to download collection $name: $e');
+          return SyncResult.failed('Failed to download collection $name: $e');
         }
       }
 
@@ -121,8 +105,9 @@ class DatasetSyncRepositoryImpl implements DatasetSyncRepository {
       );
 
       // 8. Determine if routing data changed
-      final routingChanged = changedCollections.keys
-          .any((name) => kRoutingCollections.contains(name));
+      final routingChanged = changedCollections.keys.any(
+        (name) => kRoutingCollections.contains(name),
+      );
 
       return SyncResult(
         status: localVersion == 0

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1450",
+  "data": {
+    "name": "Ahmed Fakhry and Autostrad",
+    "lat": 30.07003195653534,
+    "lng": 31.348308149238363,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1450",
+    "isActive": true
+  }
+}

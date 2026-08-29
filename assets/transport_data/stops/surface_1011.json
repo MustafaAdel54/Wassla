@@ -1,0 +1,18 @@
+{
+  "id": "surface_1011",
+  "data": {
+    "name": "Akhbar Al Yom Academy",
+    "lat": 29.940995266992626,
+    "lng": 30.890039824020896,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1011",
+    "isActive": true
+  }
+}

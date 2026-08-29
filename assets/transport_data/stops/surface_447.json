@@ -1,0 +1,18 @@
+{
+  "id": "surface_447",
+  "data": {
+    "name": "Vitrac Square (5th Settlement)",
+    "lat": 30.01138553034364,
+    "lng": 31.414378719339776,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "447",
+    "isActive": true
+  }
+}

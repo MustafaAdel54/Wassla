@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_zpmq3KxDh4NaJOQpDODit",
+  "data": {
+    "routeId": "surface_F-oBh93OH6Ie4snCmxj8i",
+    "tripId": "zpmq3KxDh4NaJOQpDODit",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Basrawy",
+    "stops": [
+      {
+        "stopId": "surface_15",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_828",
+        "sequence": 2,
+        "arrivalSec": 21633,
+        "departureSec": 21648
+      },
+      {
+        "stopId": "surface_2282",
+        "sequence": 3,
+        "arrivalSec": 21894,
+        "departureSec": 21909
+      },
+      {
+        "stopId": "surface_2286",
+        "sequence": 4,
+        "arrivalSec": 22044,
+        "departureSec": 22059
+      },
+      {
+        "stopId": "surface_2392",
+        "sequence": 5,
+        "arrivalSec": 22408,
+        "departureSec": 22423
+      },
+      {
+        "stopId": "surface_2387",
+        "sequence": 6,
+        "arrivalSec": 22482,
+        "departureSec": 22497
+      },
+      {
+        "stopId": "surface_2390",
+        "sequence": 7,
+        "arrivalSec": 22558,
+        "departureSec": 22573
+      },
+      {
+        "stopId": "surface_2440",
+        "sequence": 8,
+        "arrivalSec": 22998,
+        "departureSec": 23013
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

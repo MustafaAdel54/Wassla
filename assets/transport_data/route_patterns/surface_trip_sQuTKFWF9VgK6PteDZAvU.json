@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_sQuTKFWF9VgK6PteDZAvU",
+  "data": {
+    "routeId": "surface_tVSIeyuK_trcKCgwVwM1B",
+    "tripId": "sQuTKFWF9VgK6PteDZAvU",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Hawamdeyya",
+    "stops": [
+      {
+        "stopId": "surface_1147",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2941",
+        "sequence": 2,
+        "arrivalSec": 21777,
+        "departureSec": 21792
+      },
+      {
+        "stopId": "surface_1611",
+        "sequence": 3,
+        "arrivalSec": 21916,
+        "departureSec": 21931
+      },
+      {
+        "stopId": "surface_1612",
+        "sequence": 4,
+        "arrivalSec": 22094,
+        "departureSec": 22109
+      },
+      {
+        "stopId": "surface_1877",
+        "sequence": 5,
+        "arrivalSec": 22297,
+        "departureSec": 22312
+      },
+      {
+        "stopId": "surface_1880",
+        "sequence": 6,
+        "arrivalSec": 22356,
+        "departureSec": 22371
+      },
+      {
+        "stopId": "surface_2609",
+        "sequence": 7,
+        "arrivalSec": 22461,
+        "departureSec": 22476
+      },
+      {
+        "stopId": "surface_2607",
+        "sequence": 8,
+        "arrivalSec": 22566,
+        "departureSec": 22581
+      },
+      {
+        "stopId": "surface_1882",
+        "sequence": 9,
+        "arrivalSec": 22689,
+        "departureSec": 22704
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

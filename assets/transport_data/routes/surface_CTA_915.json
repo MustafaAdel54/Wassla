@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_915",
+  "data": {
+    "name": "Darrasa - Moassasa",
+    "shortName": "CTA 915",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_915",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

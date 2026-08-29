@@ -1,0 +1,18 @@
+{
+  "id": "surface_1962",
+  "data": {
+    "name": "Al Khelaa St.",
+    "lat": 30.017501256192336,
+    "lng": 31.26472209600513,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1962",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2364",
+  "data": {
+    "name": "Police Officers Club (Zamalek)",
+    "lat": 30.0614018,
+    "lng": 31.2187846,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2364",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_39",
+  "data": {
+    "name": "Al Khosous",
+    "lat": 30.1628698,
+    "lng": 31.3232234,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "39",
+    "isActive": true
+  }
+}

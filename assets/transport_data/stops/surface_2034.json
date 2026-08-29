@@ -1,0 +1,18 @@
+{
+  "id": "surface_2034",
+  "data": {
+    "name": "Taawon (Al Matareyya)",
+    "lat": 30.122943791716892,
+    "lng": 31.300589111307545,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2034",
+    "isActive": true
+  }
+}

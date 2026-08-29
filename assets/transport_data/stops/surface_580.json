@@ -1,0 +1,18 @@
+{
+  "id": "surface_580",
+  "data": {
+    "name": "QNB Bank (Haram St)",
+    "lat": 29.98886386528381,
+    "lng": 31.146486251958382,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "580",
+    "isActive": true
+  }
+}

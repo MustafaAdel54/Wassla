@@ -1,0 +1,18 @@
+{
+  "id": "surface_2686",
+  "data": {
+    "name": "Al Safwa Hospital (Shubra)",
+    "lat": 30.09368904504938,
+    "lng": 31.245353874095137,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2686",
+    "isActive": true
+  }
+}

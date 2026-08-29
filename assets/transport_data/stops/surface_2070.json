@@ -1,0 +1,18 @@
+{
+  "id": "surface_2070",
+  "data": {
+    "name": "Mohammed Farid Post Office",
+    "lat": 30.048398490997894,
+    "lng": 31.244153769029715,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2070",
+    "isActive": true
+  }
+}

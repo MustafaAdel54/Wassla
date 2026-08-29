@@ -1,0 +1,18 @@
+{
+  "id": "surface_2874",
+  "data": {
+    "name": "Gamal Al Din Al Banna St. & Al Checheeny St.",
+    "lat": 29.997905924029123,
+    "lng": 31.142288951499964,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2874",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1906",
+  "data": {
+    "name": "6th of October Garden (Helwan)",
+    "lat": 29.840470659315482,
+    "lng": 31.329431505474048,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1906",
+    "isActive": true
+  }
+}

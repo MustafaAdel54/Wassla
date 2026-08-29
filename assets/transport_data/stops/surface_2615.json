@@ -1,0 +1,18 @@
+{
+  "id": "surface_2615",
+  "data": {
+    "name": "Kerdasa Saft Al Laban Rd.",
+    "lat": 30.0322014,
+    "lng": 31.1359781,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2615",
+    "isActive": true
+  }
+}

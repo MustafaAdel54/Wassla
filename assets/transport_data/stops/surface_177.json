@@ -1,0 +1,18 @@
+{
+  "id": "surface_177",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Mostafa Al Nahas St.)",
+    "lat": 30.05475424,
+    "lng": 31.34604942,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "177",
+    "isActive": true
+  }
+}

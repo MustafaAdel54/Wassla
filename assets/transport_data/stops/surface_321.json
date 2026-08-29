@@ -1,0 +1,18 @@
+{
+  "id": "surface_321",
+  "data": {
+    "name": "Mobil - Mall of Arabia",
+    "lat": 30.00460803464981,
+    "lng": 30.975331465488757,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "321",
+    "isActive": true
+  }
+}

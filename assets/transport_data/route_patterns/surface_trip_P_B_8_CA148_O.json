@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_B_8_CA148_O",
+  "data": {
+    "routeId": "surface_P_B_8_CA148",
+    "tripId": "P_B_8_CA148_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Marg Police",
+    "stops": [
+      {
+        "stopId": "surface_2706",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2707",
+        "sequence": 2,
+        "arrivalSec": 21676,
+        "departureSec": 21691
+      },
+      {
+        "stopId": "surface_2535",
+        "sequence": 3,
+        "arrivalSec": 21708,
+        "departureSec": 21723
+      },
+      {
+        "stopId": "surface_64",
+        "sequence": 4,
+        "arrivalSec": 21856,
+        "departureSec": 21871
+      },
+      {
+        "stopId": "surface_2920",
+        "sequence": 5,
+        "arrivalSec": 21936,
+        "departureSec": 21951
+      },
+      {
+        "stopId": "surface_74",
+        "sequence": 6,
+        "arrivalSec": 22003,
+        "departureSec": 22018
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

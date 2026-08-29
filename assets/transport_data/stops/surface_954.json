@@ -1,0 +1,18 @@
+{
+  "id": "surface_954",
+  "data": {
+    "name": "Industrial School (6th of October)",
+    "lat": 29.948003257197577,
+    "lng": 30.927816178719898,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "954",
+    "isActive": true
+  }
+}

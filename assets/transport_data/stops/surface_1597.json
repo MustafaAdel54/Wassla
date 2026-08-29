@@ -1,0 +1,18 @@
+{
+  "id": "surface_1597",
+  "data": {
+    "name": "Al Rayan Hospital (Maadi)",
+    "lat": 29.968021876678176,
+    "lng": 31.264923184082313,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1597",
+    "isActive": true
+  }
+}

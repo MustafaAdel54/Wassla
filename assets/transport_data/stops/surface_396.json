@@ -1,0 +1,18 @@
+{
+  "id": "surface_396",
+  "data": {
+    "name": "Radobis Cinema (Haram St.)",
+    "lat": 30.006747799999978,
+    "lng": 31.194587099999985,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "396",
+    "isActive": true
+  }
+}

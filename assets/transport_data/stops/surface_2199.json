@@ -1,0 +1,18 @@
+{
+  "id": "surface_2199",
+  "data": {
+    "name": "Al Omraneyya Steps (Ring Rd.)",
+    "lat": 29.985206045271436,
+    "lng": 31.20650558955763,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2199",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1189",
+  "data": {
+    "name": "Union Housing Al Nasr (Kattameya)",
+    "lat": 29.974314453620835,
+    "lng": 31.40780243861893,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1189",
+    "isActive": true
+  }
+}

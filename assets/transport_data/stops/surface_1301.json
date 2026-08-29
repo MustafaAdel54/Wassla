@@ -1,0 +1,18 @@
+{
+  "id": "surface_1301",
+  "data": {
+    "name": "Shubra Al Kheima East District Authority",
+    "lat": 30.134799,
+    "lng": 31.273861,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1301",
+    "isActive": true
+  }
+}

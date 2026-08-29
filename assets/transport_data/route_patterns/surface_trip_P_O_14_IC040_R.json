@@ -1,0 +1,152 @@
+{
+  "id": "surface_trip_P_O_14_IC040_R",
+  "data": {
+    "routeId": "surface_P_O_14_IC040",
+    "tripId": "P_O_14_IC040_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Mehwar & Alex Desert Rd",
+    "stops": [
+      {
+        "stopId": "surface_349",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2692",
+        "sequence": 2,
+        "arrivalSec": 21685,
+        "departureSec": 21700
+      },
+      {
+        "stopId": "surface_1847",
+        "sequence": 3,
+        "arrivalSec": 21735,
+        "departureSec": 21750
+      },
+      {
+        "stopId": "surface_1398",
+        "sequence": 4,
+        "arrivalSec": 21894,
+        "departureSec": 21909
+      },
+      {
+        "stopId": "surface_1839",
+        "sequence": 5,
+        "arrivalSec": 22009,
+        "departureSec": 22024
+      },
+      {
+        "stopId": "surface_342",
+        "sequence": 6,
+        "arrivalSec": 22099,
+        "departureSec": 22114
+      },
+      {
+        "stopId": "surface_836",
+        "sequence": 7,
+        "arrivalSec": 22139,
+        "departureSec": 22154
+      },
+      {
+        "stopId": "surface_340",
+        "sequence": 8,
+        "arrivalSec": 22200,
+        "departureSec": 22215
+      },
+      {
+        "stopId": "surface_339",
+        "sequence": 9,
+        "arrivalSec": 22258,
+        "departureSec": 22273
+      },
+      {
+        "stopId": "surface_338",
+        "sequence": 10,
+        "arrivalSec": 22313,
+        "departureSec": 22328
+      },
+      {
+        "stopId": "surface_337",
+        "sequence": 11,
+        "arrivalSec": 22363,
+        "departureSec": 22378
+      },
+      {
+        "stopId": "surface_1378",
+        "sequence": 12,
+        "arrivalSec": 22453,
+        "departureSec": 22468
+      },
+      {
+        "stopId": "surface_334",
+        "sequence": 13,
+        "arrivalSec": 22532,
+        "departureSec": 22547
+      },
+      {
+        "stopId": "surface_621",
+        "sequence": 14,
+        "arrivalSec": 22698,
+        "departureSec": 22713
+      },
+      {
+        "stopId": "surface_332",
+        "sequence": 15,
+        "arrivalSec": 22768,
+        "departureSec": 22783
+      },
+      {
+        "stopId": "surface_648",
+        "sequence": 16,
+        "arrivalSec": 22843,
+        "departureSec": 22858
+      },
+      {
+        "stopId": "surface_2215",
+        "sequence": 17,
+        "arrivalSec": 22913,
+        "departureSec": 22928
+      },
+      {
+        "stopId": "surface_2651",
+        "sequence": 18,
+        "arrivalSec": 23029,
+        "departureSec": 23044
+      },
+      {
+        "stopId": "surface_620",
+        "sequence": 19,
+        "arrivalSec": 23194,
+        "departureSec": 23209
+      },
+      {
+        "stopId": "surface_239",
+        "sequence": 20,
+        "arrivalSec": 23345,
+        "departureSec": 23360
+      },
+      {
+        "stopId": "surface_326",
+        "sequence": 21,
+        "arrivalSec": 23570,
+        "departureSec": 23585
+      },
+      {
+        "stopId": "surface_815",
+        "sequence": 22,
+        "arrivalSec": 23622,
+        "departureSec": 23637
+      },
+      {
+        "stopId": "surface_1142",
+        "sequence": 23,
+        "arrivalSec": 23694,
+        "departureSec": 23709
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

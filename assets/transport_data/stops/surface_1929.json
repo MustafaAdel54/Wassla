@@ -1,0 +1,18 @@
+{
+  "id": "surface_1929",
+  "data": {
+    "name": "Mobil (Nile Corniche Maasara)",
+    "lat": 29.907649582441977,
+    "lng": 31.28744035510047,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1929",
+    "isActive": true
+  }
+}

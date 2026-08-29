@@ -1,0 +1,68 @@
+{
+  "id": "metro_trip_T_L3_W",
+  "data": {
+    "routeId": "metro_L3",
+    "tripId": "T_L3_W",
+    "serviceId": "DAILY",
+    "directionId": "1",
+    "headsign": null,
+    "stops": [
+      {
+        "stopId": "metro_214_AHR_METRO_S",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "metro_192_KBN_METRO_S",
+        "sequence": 2,
+        "arrivalSec": 21765,
+        "departureSec": 21785
+      },
+      {
+        "stopId": "metro_190_STA_METRO_S",
+        "sequence": 3,
+        "arrivalSec": 21895,
+        "departureSec": 21918
+      },
+      {
+        "stopId": "metro_208_FZO_METRO_S",
+        "sequence": 4,
+        "arrivalSec": 22057,
+        "departureSec": 22081
+      },
+      {
+        "stopId": "metro_161_ABB_METRO_S",
+        "sequence": 5,
+        "arrivalSec": 22227,
+        "departureSec": 22264
+      },
+      {
+        "stopId": "metro_163_ABB_METRO_S",
+        "sequence": 6,
+        "arrivalSec": 22351,
+        "departureSec": 22378
+      },
+      {
+        "stopId": "metro_118_GES_METRO_S",
+        "sequence": 7,
+        "arrivalSec": 22452,
+        "departureSec": 22479
+      },
+      {
+        "stopId": "metro_77_BSH_METRO_S",
+        "sequence": 8,
+        "arrivalSec": 22578,
+        "departureSec": 22610
+      },
+      {
+        "stopId": "metro_81_ATT_METRO_W",
+        "sequence": 9,
+        "arrivalSec": 22732,
+        "departureSec": 22752
+      }
+    ],
+    "source": "gtfs_metro",
+    "isActive": true
+  }
+}

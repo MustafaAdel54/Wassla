@@ -1,0 +1,18 @@
+{
+  "id": "surface_1417",
+  "data": {
+    "name": "Al Khanka (Al Salam Rd.)",
+    "lat": 30.227817526049247,
+    "lng": 31.358439759994493,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1417",
+    "isActive": true
+  }
+}

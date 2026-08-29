@@ -1,0 +1,18 @@
+{
+  "id": "surface_2258",
+  "data": {
+    "name": "Real Estate Registration Office (Shobra)",
+    "lat": 30.074175164423284,
+    "lng": 31.248038443386765,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2258",
+    "isActive": true
+  }
+}

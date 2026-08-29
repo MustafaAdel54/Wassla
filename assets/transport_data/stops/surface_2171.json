@@ -1,0 +1,18 @@
+{
+  "id": "surface_2171",
+  "data": {
+    "name": "Maryam Pharmacy (Faisal St.)",
+    "lat": 30.009354105512706,
+    "lng": 31.188183254968173,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2171",
+    "isActive": true
+  }
+}

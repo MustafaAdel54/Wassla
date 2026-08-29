@@ -1,0 +1,18 @@
+{
+  "id": "surface_60",
+  "data": {
+    "name": "Nahia",
+    "lat": 30.04666883031351,
+    "lng": 31.130691187792813,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "60",
+    "isActive": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "metro_180_KQO_METRO_N",
+  "data": {
+    "name": "Kobri El-Qobba",
+    "lat": 30.087198,
+    "lng": 31.2941319,
+    "stationId": "station_metro_180_KQO_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "180_KQO_METRO_N",
+    "parentSourceId": "180_KQO_METRO",
+    "isActive": true
+  }
+}

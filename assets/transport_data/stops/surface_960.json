@@ -1,0 +1,18 @@
+{
+  "id": "surface_960",
+  "data": {
+    "name": "Al Nagda Square (6th of October)",
+    "lat": 29.9610491,
+    "lng": 30.929282300000015,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "960",
+    "isActive": true
+  }
+}

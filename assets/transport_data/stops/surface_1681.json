@@ -1,0 +1,18 @@
+{
+  "id": "surface_1681",
+  "data": {
+    "name": "Palestine St. & Ahmed Oraby St.",
+    "lat": 30.1271511,
+    "lng": 31.345235,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1681",
+    "isActive": true
+  }
+}

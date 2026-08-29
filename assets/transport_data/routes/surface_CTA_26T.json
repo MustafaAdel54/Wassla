@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_26T",
+  "data": {
+    "name": "Abbasseya - Amr Ibn El Aas",
+    "shortName": "CTA 26t",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_26T",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

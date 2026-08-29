@@ -1,0 +1,18 @@
+{
+  "id": "surface_2088",
+  "data": {
+    "name": "Isaaf",
+    "lat": 30.054693,
+    "lng": 31.2384582,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2088",
+    "isActive": true
+  }
+}

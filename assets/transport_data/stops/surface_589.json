@@ -1,0 +1,18 @@
+{
+  "id": "surface_589",
+  "data": {
+    "name": "5th Settlement Authority",
+    "lat": 29.993157,
+    "lng": 31.417702,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "589",
+    "isActive": true
+  }
+}

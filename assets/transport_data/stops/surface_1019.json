@@ -1,0 +1,18 @@
+{
+  "id": "surface_1019",
+  "data": {
+    "name": "6th Of October City Authority",
+    "lat": 29.98274035044971,
+    "lng": 30.95248706513832,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1019",
+    "isActive": true
+  }
+}

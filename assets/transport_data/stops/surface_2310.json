@@ -1,0 +1,18 @@
+{
+  "id": "surface_2310",
+  "data": {
+    "name": "Al Taawon (Haram St)",
+    "lat": 29.995722112569997,
+    "lng": 31.16490368126389,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2310",
+    "isActive": true
+  }
+}

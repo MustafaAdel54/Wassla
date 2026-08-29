@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_P_O_14_IC081_R",
+  "data": {
+    "routeId": "surface_P_O_14_IC081",
+    "tripId": "P_O_14_IC081_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Hyper 1",
+    "stops": [
+      {
+        "stopId": "surface_1101",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_568",
+        "sequence": 2,
+        "arrivalSec": 22131,
+        "departureSec": 22146
+      },
+      {
+        "stopId": "surface_1082",
+        "sequence": 3,
+        "arrivalSec": 22171,
+        "departureSec": 22186
+      },
+      {
+        "stopId": "surface_1059",
+        "sequence": 4,
+        "arrivalSec": 22232,
+        "departureSec": 22247
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

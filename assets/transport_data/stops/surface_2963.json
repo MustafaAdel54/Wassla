@@ -1,0 +1,18 @@
+{
+  "id": "surface_2963",
+  "data": {
+    "name": "Masaken Isbiko St.",
+    "lat": 30.177129271952477,
+    "lng": 31.410726989124743,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2963",
+    "isActive": true
+  }
+}

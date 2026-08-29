@@ -1,0 +1,18 @@
+{
+  "id": "surface_110",
+  "data": {
+    "name": "Al Sayeda Khadija Mosque - Al Hegaz Street",
+    "lat": 30.117971529358393,
+    "lng": 31.355304442270324,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "110",
+    "isActive": true
+  }
+}

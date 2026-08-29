@@ -1,0 +1,18 @@
+{
+  "id": "surface_710",
+  "data": {
+    "name": "Al Andalous Specialized Hospital (7th District Nasr City)",
+    "lat": 30.040510078819725,
+    "lng": 31.329747902662433,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "710",
+    "isActive": true
+  }
+}

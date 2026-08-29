@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00368",
+  "data": {
+    "fromStopId": "surface_2243",
+    "toStopId": "metro_159_DMD_METRO",
+    "distanceMeters": 113.1,
+    "estimatedMinutes": 1,
+    "confidence": "medium",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

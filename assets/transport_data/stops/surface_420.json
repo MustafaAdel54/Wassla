@@ -1,0 +1,18 @@
+{
+  "id": "surface_420",
+  "data": {
+    "name": "Habitat (Obour)",
+    "lat": 30.188973745593067,
+    "lng": 31.46592654211987,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "420",
+    "isActive": true
+  }
+}

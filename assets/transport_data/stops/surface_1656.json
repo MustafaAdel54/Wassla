@@ -1,0 +1,18 @@
+{
+  "id": "surface_1656",
+  "data": {
+    "name": "Basateen Police Station",
+    "lat": 29.991610902265805,
+    "lng": 31.266864059492452,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1656",
+    "isActive": true
+  }
+}

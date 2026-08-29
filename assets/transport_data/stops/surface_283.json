@@ -1,0 +1,18 @@
+{
+  "id": "surface_283",
+  "data": {
+    "name": "Nasr City Sporting Club",
+    "lat": 30.05865314944808,
+    "lng": 31.31093251441551,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "283",
+    "isActive": true
+  }
+}

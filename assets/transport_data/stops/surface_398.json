@@ -1,0 +1,18 @@
+{
+  "id": "surface_398",
+  "data": {
+    "name": "Giza Metro",
+    "lat": 30.01406988881375,
+    "lng": 31.20621801351785,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "398",
+    "isActive": true
+  }
+}

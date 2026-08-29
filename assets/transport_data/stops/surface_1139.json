@@ -1,0 +1,18 @@
+{
+  "id": "surface_1139",
+  "data": {
+    "name": "Lebanon Square",
+    "lat": 30.059841302355938,
+    "lng": 31.19267974417711,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1139",
+    "isActive": true
+  }
+}

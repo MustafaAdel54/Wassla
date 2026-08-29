@@ -1,0 +1,18 @@
+{
+  "id": "surface_53",
+  "data": {
+    "name": "Al Tabba (Nasr City)",
+    "lat": 30.058051,
+    "lng": 31.379912,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "53",
+    "isActive": true
+  }
+}

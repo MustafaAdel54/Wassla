@@ -1,0 +1,18 @@
+{
+  "id": "surface_986",
+  "data": {
+    "name": "Al Central (Laylat Al Qadr)",
+    "lat": 29.9441579,
+    "lng": 30.9063347,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "986",
+    "isActive": true
+  }
+}

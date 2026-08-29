@@ -1,0 +1,18 @@
+{
+  "id": "surface_2939",
+  "data": {
+    "name": "Gardenia (Cairo Suez Rd.)",
+    "lat": 30.080574,
+    "lng": 31.399897,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2939",
+    "isActive": true
+  }
+}

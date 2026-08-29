@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_qS8cDVrGj4X-9Ylg6R-iQ",
+  "data": {
+    "routeId": "surface_wefEKmjKPjq1ZbcWyQSwL",
+    "tripId": "qS8cDVrGj4X-9Ylg6R-iQ",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Masaken Othman (Ezbet El Nakhl)",
+    "stops": [
+      {
+        "stopId": "surface_9",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_42",
+        "sequence": 2,
+        "arrivalSec": 22311,
+        "departureSec": 22326
+      },
+      {
+        "stopId": "surface_74",
+        "sequence": 3,
+        "arrivalSec": 22617,
+        "departureSec": 22632
+      },
+      {
+        "stopId": "surface_2530",
+        "sequence": 4,
+        "arrivalSec": 22727,
+        "departureSec": 22742
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

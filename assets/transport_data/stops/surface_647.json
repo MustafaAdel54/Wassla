@@ -1,0 +1,18 @@
+{
+  "id": "surface_647",
+  "data": {
+    "name": "Ring Rd. Entrance from Moneeb",
+    "lat": 29.98619,
+    "lng": 31.208862,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "647",
+    "isActive": true
+  }
+}

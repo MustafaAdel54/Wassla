@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_LyX97Y53j7hDUVamtamp3",
+  "data": {
+    "routeId": "surface_wVSEsc9QL4aBYHVv-Spy9",
+    "tripId": "LyX97Y53j7hDUVamtamp3",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Bulaq Al Dakrur",
+    "stops": [
+      {
+        "stopId": "surface_2386",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_69",
+        "sequence": 2,
+        "arrivalSec": 21739,
+        "departureSec": 21754
+      },
+      {
+        "stopId": "surface_68",
+        "sequence": 3,
+        "arrivalSec": 21760,
+        "departureSec": 21775
+      },
+      {
+        "stopId": "surface_1333",
+        "sequence": 4,
+        "arrivalSec": 21948,
+        "departureSec": 21963
+      },
+      {
+        "stopId": "surface_2406",
+        "sequence": 5,
+        "arrivalSec": 22367,
+        "departureSec": 22382
+      },
+      {
+        "stopId": "surface_2402",
+        "sequence": 6,
+        "arrivalSec": 22519,
+        "departureSec": 22534
+      },
+      {
+        "stopId": "surface_2349",
+        "sequence": 7,
+        "arrivalSec": 22575,
+        "departureSec": 22590
+      },
+      {
+        "stopId": "surface_231",
+        "sequence": 8,
+        "arrivalSec": 22935,
+        "departureSec": 22950
+      },
+      {
+        "stopId": "surface_2335",
+        "sequence": 9,
+        "arrivalSec": 23039,
+        "departureSec": 23054
+      },
+      {
+        "stopId": "surface_2333",
+        "sequence": 10,
+        "arrivalSec": 23142,
+        "departureSec": 23157
+      },
+      {
+        "stopId": "surface_2331",
+        "sequence": 11,
+        "arrivalSec": 23281,
+        "departureSec": 23296
+      },
+      {
+        "stopId": "surface_2522",
+        "sequence": 12,
+        "arrivalSec": 23470,
+        "departureSec": 23485
+      },
+      {
+        "stopId": "surface_2270",
+        "sequence": 13,
+        "arrivalSec": 26056,
+        "departureSec": 26071
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

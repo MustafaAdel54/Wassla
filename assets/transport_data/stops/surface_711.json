@@ -1,0 +1,18 @@
+{
+  "id": "surface_711",
+  "data": {
+    "name": "Al Eman Mosque (Makram Ebeid St.)",
+    "lat": 30.064726686105477,
+    "lng": 31.344832355225392,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "711",
+    "isActive": true
+  }
+}

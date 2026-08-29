@@ -1,0 +1,18 @@
+{
+  "id": "surface_2084",
+  "data": {
+    "name": "Industrial Technical Institute (Al Azhar)",
+    "lat": 30.056145899999972,
+    "lng": 31.2719268,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2084",
+    "isActive": true
+  }
+}

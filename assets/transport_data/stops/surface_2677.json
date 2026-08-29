@@ -1,0 +1,18 @@
+{
+  "id": "surface_2677",
+  "data": {
+    "name": "Elecrticity Hospital (Suez Rd)",
+    "lat": 30.078793034140702,
+    "lng": 31.3723893851972,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2677",
+    "isActive": true
+  }
+}

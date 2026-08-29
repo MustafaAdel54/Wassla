@@ -1,0 +1,16 @@
+{
+  "id": "metro_214_AHR_METRO_S",
+  "data": {
+    "name": "Al-Ahram",
+    "lat": 30.09183,
+    "lng": 31.3263449999999,
+    "stationId": "station_metro_214_AHR_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "214_AHR_METRO_S",
+    "parentSourceId": "214_AHR_METRO",
+    "isActive": true
+  }
+}

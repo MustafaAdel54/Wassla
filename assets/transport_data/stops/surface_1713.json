@@ -1,0 +1,18 @@
+{
+  "id": "surface_1713",
+  "data": {
+    "name": "Al Helmeya Garden (Gesr Al Suez)",
+    "lat": 30.10889460477052,
+    "lng": 31.327069505737022,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1713",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1720",
+  "data": {
+    "name": "Ibn Al Hakam Square (Heliopolis)",
+    "lat": 30.10983,
+    "lng": 31.32031,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1720",
+    "isActive": true
+  }
+}

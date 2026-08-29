@@ -1,0 +1,18 @@
+{
+  "id": "surface_736",
+  "data": {
+    "name": "Saray Al Qobba",
+    "lat": 30.0980052,
+    "lng": 31.3075371,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "736",
+    "isActive": true
+  }
+}

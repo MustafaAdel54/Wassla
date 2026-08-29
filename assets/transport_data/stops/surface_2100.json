@@ -1,0 +1,18 @@
+{
+  "id": "surface_2100",
+  "data": {
+    "name": "Ahmed Badawi St.",
+    "lat": 30.0663035,
+    "lng": 31.245765,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2100",
+    "isActive": true
+  }
+}

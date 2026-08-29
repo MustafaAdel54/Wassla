@@ -1,0 +1,18 @@
+{
+  "id": "surface_2602",
+  "data": {
+    "name": "Helwan Mental Health Hospital",
+    "lat": 29.836367606162923,
+    "lng": 31.33594689961592,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2602",
+    "isActive": true
+  }
+}

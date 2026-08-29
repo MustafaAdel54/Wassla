@@ -1,0 +1,18 @@
+{
+  "id": "surface_1936",
+  "data": {
+    "name": "National Institute for Tumor Studies (Magra Al Oyoun)",
+    "lat": 30.022136538892138,
+    "lng": 31.230975246818858,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1936",
+    "isActive": true
+  }
+}

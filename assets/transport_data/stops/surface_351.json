@@ -1,0 +1,18 @@
+{
+  "id": "surface_351",
+  "data": {
+    "name": "Shubra Al Kheima Metro Station",
+    "lat": 30.1217086483558,
+    "lng": 31.244541351658487,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "351",
+    "isActive": true
+  }
+}

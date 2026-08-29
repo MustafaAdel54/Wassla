@@ -1,0 +1,18 @@
+{
+  "id": "surface_2321",
+  "data": {
+    "name": "Al Tadreeb Gate (Teraet Al Ismaili St)",
+    "lat": 30.10990910692619,
+    "lng": 31.269679912788664,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2321",
+    "isActive": true
+  }
+}

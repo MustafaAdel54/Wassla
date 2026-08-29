@@ -1,0 +1,18 @@
+{
+  "id": "surface_1527",
+  "data": {
+    "name": "Al Mafareq (Al Moqattam)",
+    "lat": 30.01174763318898,
+    "lng": 31.329818431215443,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1527",
+    "isActive": true
+  }
+}

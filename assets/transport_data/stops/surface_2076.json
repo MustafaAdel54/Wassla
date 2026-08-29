@@ -1,0 +1,18 @@
+{
+  "id": "surface_2076",
+  "data": {
+    "name": "Port Said St. Pedestrian Al Mosky",
+    "lat": 30.04987992454144,
+    "lng": 31.255562271185443,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2076",
+    "isActive": true
+  }
+}

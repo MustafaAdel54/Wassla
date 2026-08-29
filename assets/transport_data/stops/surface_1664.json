@@ -1,0 +1,18 @@
+{
+  "id": "surface_1664",
+  "data": {
+    "name": "Matbaa",
+    "lat": 29.973726,
+    "lng": 31.246654,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1664",
+    "isActive": true
+  }
+}

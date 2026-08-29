@@ -1,0 +1,176 @@
+{
+  "id": "surface_trip_uOCmUvml31gJ95iLhLd6R",
+  "data": {
+    "routeId": "surface_KJH0c5fBJqypfRMmg6cgr",
+    "tripId": "uOCmUvml31gJ95iLhLd6R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Nahda City",
+    "stops": [
+      {
+        "stopId": "surface_348",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2804",
+        "sequence": 2,
+        "arrivalSec": 21660,
+        "departureSec": 21675
+      },
+      {
+        "stopId": "surface_349",
+        "sequence": 3,
+        "arrivalSec": 21889,
+        "departureSec": 21904
+      },
+      {
+        "stopId": "surface_2692",
+        "sequence": 4,
+        "arrivalSec": 21974,
+        "departureSec": 21989
+      },
+      {
+        "stopId": "surface_1847",
+        "sequence": 5,
+        "arrivalSec": 22024,
+        "departureSec": 22039
+      },
+      {
+        "stopId": "surface_1399",
+        "sequence": 6,
+        "arrivalSec": 22233,
+        "departureSec": 22248
+      },
+      {
+        "stopId": "surface_439",
+        "sequence": 7,
+        "arrivalSec": 22310,
+        "departureSec": 22326
+      },
+      {
+        "stopId": "surface_2217",
+        "sequence": 8,
+        "arrivalSec": 22380,
+        "departureSec": 22396
+      },
+      {
+        "stopId": "surface_1316",
+        "sequence": 9,
+        "arrivalSec": 22440,
+        "departureSec": 22456
+      },
+      {
+        "stopId": "surface_761",
+        "sequence": 10,
+        "arrivalSec": 22566,
+        "departureSec": 22582
+      },
+      {
+        "stopId": "surface_1427",
+        "sequence": 11,
+        "arrivalSec": 22726,
+        "departureSec": 22742
+      },
+      {
+        "stopId": "surface_1305",
+        "sequence": 12,
+        "arrivalSec": 22814,
+        "departureSec": 22830
+      },
+      {
+        "stopId": "surface_1222",
+        "sequence": 13,
+        "arrivalSec": 22905,
+        "departureSec": 22920
+      },
+      {
+        "stopId": "surface_1426",
+        "sequence": 14,
+        "arrivalSec": 22982,
+        "departureSec": 22996
+      },
+      {
+        "stopId": "surface_1424",
+        "sequence": 15,
+        "arrivalSec": 23016,
+        "departureSec": 23032
+      },
+      {
+        "stopId": "surface_438",
+        "sequence": 16,
+        "arrivalSec": 23182,
+        "departureSec": 23197
+      },
+      {
+        "stopId": "surface_757",
+        "sequence": 17,
+        "arrivalSec": 23285,
+        "departureSec": 23300
+      },
+      {
+        "stopId": "surface_465",
+        "sequence": 18,
+        "arrivalSec": 23412,
+        "departureSec": 23427
+      },
+      {
+        "stopId": "surface_1225",
+        "sequence": 19,
+        "arrivalSec": 23554,
+        "departureSec": 23569
+      },
+      {
+        "stopId": "surface_454",
+        "sequence": 20,
+        "arrivalSec": 23799,
+        "departureSec": 23814
+      },
+      {
+        "stopId": "surface_1429",
+        "sequence": 21,
+        "arrivalSec": 23860,
+        "departureSec": 23875
+      },
+      {
+        "stopId": "surface_435",
+        "sequence": 22,
+        "arrivalSec": 24065,
+        "departureSec": 24080
+      },
+      {
+        "stopId": "surface_1469",
+        "sequence": 23,
+        "arrivalSec": 24271,
+        "departureSec": 24286
+      },
+      {
+        "stopId": "surface_464",
+        "sequence": 24,
+        "arrivalSec": 24400,
+        "departureSec": 24415
+      },
+      {
+        "stopId": "surface_1468",
+        "sequence": 25,
+        "arrivalSec": 24429,
+        "departureSec": 24444
+      },
+      {
+        "stopId": "surface_793",
+        "sequence": 26,
+        "arrivalSec": 24635,
+        "departureSec": 24650
+      },
+      {
+        "stopId": "surface_2546",
+        "sequence": 27,
+        "arrivalSec": 25122,
+        "departureSec": 25137
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

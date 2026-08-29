@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_P_O_14_CA019_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA019",
+    "tripId": "P_O_14_CA019_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Malek Al Saleh",
+    "stops": [
+      {
+        "stopId": "surface_1261",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1961",
+        "sequence": 2,
+        "arrivalSec": 21676,
+        "departureSec": 21690
+      },
+      {
+        "stopId": "surface_1967",
+        "sequence": 3,
+        "arrivalSec": 21740,
+        "departureSec": 21754
+      },
+      {
+        "stopId": "surface_1970",
+        "sequence": 4,
+        "arrivalSec": 21860,
+        "departureSec": 21875
+      },
+      {
+        "stopId": "surface_67",
+        "sequence": 5,
+        "arrivalSec": 21974,
+        "departureSec": 21990
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

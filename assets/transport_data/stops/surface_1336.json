@@ -1,0 +1,18 @@
+{
+  "id": "surface_1336",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Al Sayeda Zeinab)",
+    "lat": 30.03586870200975,
+    "lng": 31.247982223657445,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1336",
+    "isActive": true
+  }
+}

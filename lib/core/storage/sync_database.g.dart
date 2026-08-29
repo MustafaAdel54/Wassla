@@ -412,29 +412,6 @@ class $LocalCollectionsTable extends LocalCollections
     requiredDuringInsert: false,
     defaultValue: const Constant(''),
   );
-  static const VerificationMeta _storageTypeMeta = const VerificationMeta(
-    'storageType',
-  );
-  @override
-  late final GeneratedColumn<String> storageType = GeneratedColumn<String>(
-    'storage_type',
-    aliasedName,
-    false,
-    type: DriftSqlType.string,
-    requiredDuringInsert: false,
-    defaultValue: const Constant('firestore'),
-  );
-  static const VerificationMeta _localFilePathMeta = const VerificationMeta(
-    'localFilePath',
-  );
-  @override
-  late final GeneratedColumn<String> localFilePath = GeneratedColumn<String>(
-    'local_file_path',
-    aliasedName,
-    true,
-    type: DriftSqlType.string,
-    requiredDuringInsert: false,
-  );
   static const VerificationMeta _syncedAtMeta = const VerificationMeta(
     'syncedAt',
   );
@@ -452,8 +429,6 @@ class $LocalCollectionsTable extends LocalCollections
     collectionName,
     docCount,
     contentHash,
-    storageType,
-    localFilePath,
     syncedAt,
   ];
   @override
@@ -494,24 +469,6 @@ class $LocalCollectionsTable extends LocalCollections
         ),
       );
     }
-    if (data.containsKey('storage_type')) {
-      context.handle(
-        _storageTypeMeta,
-        storageType.isAcceptableOrUnknown(
-          data['storage_type']!,
-          _storageTypeMeta,
-        ),
-      );
-    }
-    if (data.containsKey('local_file_path')) {
-      context.handle(
-        _localFilePathMeta,
-        localFilePath.isAcceptableOrUnknown(
-          data['local_file_path']!,
-          _localFilePathMeta,
-        ),
-      );
-    }
     if (data.containsKey('synced_at')) {
       context.handle(
         _syncedAtMeta,
@@ -539,14 +496,6 @@ class $LocalCollectionsTable extends LocalCollections
         DriftSqlType.string,
         data['${effectivePrefix}content_hash'],
       )!,
-      storageType: attachedDatabase.typeMapping.read(
-        DriftSqlType.string,
-        data['${effectivePrefix}storage_type'],
-      )!,
-      localFilePath: attachedDatabase.typeMapping.read(
-        DriftSqlType.string,
-        data['${effectivePrefix}local_file_path'],
-      ),
       syncedAt: attachedDatabase.typeMapping.read(
         DriftSqlType.string,
         data['${effectivePrefix}synced_at'],
@@ -564,15 +513,11 @@ class LocalCollection extends DataClass implements Insertable<LocalCollection> {
   final String collectionName;
   final int docCount;
   final String contentHash;
-  final String storageType;
-  final String? localFilePath;
   final String syncedAt;
   const LocalCollection({
     required this.collectionName,
     required this.docCount,
     required this.contentHash,
-    required this.storageType,
-    this.localFilePath,
     required this.syncedAt,
   });
   @override
@@ -581,10 +526,6 @@ class LocalCollection extends DataClass implements Insertable<LocalCollection> {
     map['collection_name'] = Variable<String>(collectionName);
     map['doc_count'] = Variable<int>(docCount);
     map['content_hash'] = Variable<String>(contentHash);
-    map['storage_type'] = Variable<String>(storageType);
-    if (!nullToAbsent || localFilePath != null) {
-      map['local_file_path'] = Variable<String>(localFilePath);
-    }
     map['synced_at'] = Variable<String>(syncedAt);
     return map;
   }
@@ -594,10 +535,6 @@ class LocalCollection extends DataClass implements Insertable<LocalCollection> {
       collectionName: Value(collectionName),
       docCount: Value(docCount),
       contentHash: Value(contentHash),
-      storageType: Value(storageType),
-      localFilePath: localFilePath == null && nullToAbsent
-          ? const Value.absent()
-          : Value(localFilePath),
       syncedAt: Value(syncedAt),
     );
   }
@@ -611,8 +548,6 @@ class LocalCollection extends DataClass implements Insertable<LocalCollection> {
       collectionName: serializer.fromJson<String>(json['collectionName']),
       docCount: serializer.fromJson<int>(json['docCount']),
       contentHash: serializer.fromJson<String>(json['contentHash']),
-      storageType: serializer.fromJson<String>(json['storageType']),
-      localFilePath: serializer.fromJson<String?>(json['localFilePath']),
       syncedAt: serializer.fromJson<String>(json['syncedAt']),
     );
   }
@@ -623,8 +558,6 @@ class LocalCollection extends DataClass implements Insertable<LocalCollection> {
       'collectionName': serializer.toJson<String>(collectionName),
       'docCount': serializer.toJson<int>(docCount),
       'contentHash': serializer.toJson<String>(contentHash),
-      'storageType': serializer.toJson<String>(storageType),
-      'localFilePath': serializer.toJson<String?>(localFilePath),
       'syncedAt': serializer.toJson<String>(syncedAt),
     };
   }
@@ -633,17 +566,11 @@ class LocalCollection extends DataClass implements Insertable<LocalCollection> {
     String? collectionName,
     int? docCount,
     String? contentHash,
-    String? storageType,
-    Value<String?> localFilePath = const Value.absent(),
     String? syncedAt,
   }) => LocalCollection(
     collectionName: collectionName ?? this.collectionName,
     docCount: docCount ?? this.docCount,
     contentHash: contentHash ?? this.contentHash,
-    storageType: storageType ?? this.storageType,
-    localFilePath: localFilePath.present
-        ? localFilePath.value
-        : this.localFilePath,
     syncedAt: syncedAt ?? this.syncedAt,
   );
   LocalCollection copyWithCompanion(LocalCollectionsCompanion data) {
@@ -655,12 +582,6 @@ class LocalCollection extends DataClass implements Insertable<LocalCollection> {
       contentHash: data.contentHash.present
           ? data.contentHash.value
           : this.contentHash,
-      storageType: data.storageType.present
-          ? data.storageType.value
-          : this.storageType,
-      localFilePath: data.localFilePath.present
-          ? data.localFilePath.value
-          : this.localFilePath,
       syncedAt: data.syncedAt.present ? data.syncedAt.value : this.syncedAt,
     );
   }
@@ -671,22 +592,14 @@ class LocalCollection extends DataClass implements Insertable<LocalCollection> {
           ..write('collectionName: $collectionName, ')
           ..write('docCount: $docCount, ')
           ..write('contentHash: $contentHash, ')
-          ..write('storageType: $storageType, ')
-          ..write('localFilePath: $localFilePath, ')
           ..write('syncedAt: $syncedAt')
           ..write(')'))
         .toString();
   }
 
   @override
-  int get hashCode => Object.hash(
-    collectionName,
-    docCount,
-    contentHash,
-    storageType,
-    localFilePath,
-    syncedAt,
-  );
+  int get hashCode =>
+      Object.hash(collectionName, docCount, contentHash, syncedAt);
   @override
   bool operator ==(Object other) =>
       identical(this, other) ||
@@ -694,8 +607,6 @@ class LocalCollection extends DataClass implements Insertable<LocalCollection> {
           other.collectionName == this.collectionName &&
           other.docCount == this.docCount &&
           other.contentHash == this.contentHash &&
-          other.storageType == this.storageType &&
-          other.localFilePath == this.localFilePath &&
           other.syncedAt == this.syncedAt);
 }
 
@@ -703,16 +614,12 @@ class LocalCollectionsCompanion extends UpdateCompanion<LocalCollection> {
   final Value<String> collectionName;
   final Value<int> docCount;
   final Value<String> contentHash;
-  final Value<String> storageType;
-  final Value<String?> localFilePath;
   final Value<String> syncedAt;
   final Value<int> rowid;
   const LocalCollectionsCompanion({
     this.collectionName = const Value.absent(),
     this.docCount = const Value.absent(),
     this.contentHash = const Value.absent(),
-    this.storageType = const Value.absent(),
-    this.localFilePath = const Value.absent(),
     this.syncedAt = const Value.absent(),
     this.rowid = const Value.absent(),
   });
@@ -720,8 +627,6 @@ class LocalCollectionsCompanion extends UpdateCompanion<LocalCollection> {
     required String collectionName,
     this.docCount = const Value.absent(),
     this.contentHash = const Value.absent(),
-    this.storageType = const Value.absent(),
-    this.localFilePath = const Value.absent(),
     this.syncedAt = const Value.absent(),
     this.rowid = const Value.absent(),
   }) : collectionName = Value(collectionName);
@@ -729,8 +634,6 @@ class LocalCollectionsCompanion extends UpdateCompanion<LocalCollection> {
     Expression<String>? collectionName,
     Expression<int>? docCount,
     Expression<String>? contentHash,
-    Expression<String>? storageType,
-    Expression<String>? localFilePath,
     Expression<String>? syncedAt,
     Expression<int>? rowid,
   }) {
@@ -738,8 +641,6 @@ class LocalCollectionsCompanion extends UpdateCompanion<LocalCollection> {
       if (collectionName != null) 'collection_name': collectionName,
       if (docCount != null) 'doc_count': docCount,
       if (contentHash != null) 'content_hash': contentHash,
-      if (storageType != null) 'storage_type': storageType,
-      if (localFilePath != null) 'local_file_path': localFilePath,
       if (syncedAt != null) 'synced_at': syncedAt,
       if (rowid != null) 'rowid': rowid,
     });
@@ -749,8 +650,6 @@ class LocalCollectionsCompanion extends UpdateCompanion<LocalCollection> {
     Value<String>? collectionName,
     Value<int>? docCount,
     Value<String>? contentHash,
-    Value<String>? storageType,
-    Value<String?>? localFilePath,
     Value<String>? syncedAt,
     Value<int>? rowid,
   }) {
@@ -758,8 +657,6 @@ class LocalCollectionsCompanion extends UpdateCompanion<LocalCollection> {
       collectionName: collectionName ?? this.collectionName,
       docCount: docCount ?? this.docCount,
       contentHash: contentHash ?? this.contentHash,
-      storageType: storageType ?? this.storageType,
-      localFilePath: localFilePath ?? this.localFilePath,
       syncedAt: syncedAt ?? this.syncedAt,
       rowid: rowid ?? this.rowid,
     );
@@ -777,12 +674,6 @@ class LocalCollectionsCompanion extends UpdateCompanion<LocalCollection> {
     if (contentHash.present) {
       map['content_hash'] = Variable<String>(contentHash.value);
     }
-    if (storageType.present) {
-      map['storage_type'] = Variable<String>(storageType.value);
-    }
-    if (localFilePath.present) {
-      map['local_file_path'] = Variable<String>(localFilePath.value);
-    }
     if (syncedAt.present) {
       map['synced_at'] = Variable<String>(syncedAt.value);
     }
@@ -798,8 +689,6 @@ class LocalCollectionsCompanion extends UpdateCompanion<LocalCollection> {
           ..write('collectionName: $collectionName, ')
           ..write('docCount: $docCount, ')
           ..write('contentHash: $contentHash, ')
-          ..write('storageType: $storageType, ')
-          ..write('localFilePath: $localFilePath, ')
           ..write('syncedAt: $syncedAt, ')
           ..write('rowid: $rowid')
           ..write(')'))
@@ -1033,8 +922,6 @@ typedef $$LocalCollectionsTableCreateCompanionBuilder =
       required String collectionName,
       Value<int> docCount,
       Value<String> contentHash,
-      Value<String> storageType,
-      Value<String?> localFilePath,
       Value<String> syncedAt,
       Value<int> rowid,
     });
@@ -1043,8 +930,6 @@ typedef $$LocalCollectionsTableUpdateCompanionBuilder =
       Value<String> collectionName,
       Value<int> docCount,
       Value<String> contentHash,
-      Value<String> storageType,
-      Value<String?> localFilePath,
       Value<String> syncedAt,
       Value<int> rowid,
     });
@@ -1070,16 +955,6 @@ class $$LocalCollectionsTableFilterComposer
 
   ColumnFilters<String> get contentHash => $composableBuilder(
     column: $table.contentHash,
-    builder: (column) => ColumnFilters(column),
-  );
-
-  ColumnFilters<String> get storageType => $composableBuilder(
-    column: $table.storageType,
-    builder: (column) => ColumnFilters(column),
-  );
-
-  ColumnFilters<String> get localFilePath => $composableBuilder(
-    column: $table.localFilePath,
     builder: (column) => ColumnFilters(column),
   );
 
@@ -1113,16 +988,6 @@ class $$LocalCollectionsTableOrderingComposer
     builder: (column) => ColumnOrderings(column),
   );
 
-  ColumnOrderings<String> get storageType => $composableBuilder(
-    column: $table.storageType,
-    builder: (column) => ColumnOrderings(column),
-  );
-
-  ColumnOrderings<String> get localFilePath => $composableBuilder(
-    column: $table.localFilePath,
-    builder: (column) => ColumnOrderings(column),
-  );
-
   ColumnOrderings<String> get syncedAt => $composableBuilder(
     column: $table.syncedAt,
     builder: (column) => ColumnOrderings(column),
@@ -1148,16 +1013,6 @@ class $$LocalCollectionsTableAnnotationComposer
 
   GeneratedColumn<String> get contentHash => $composableBuilder(
     column: $table.contentHash,
-    builder: (column) => column,
-  );
-
-  GeneratedColumn<String> get storageType => $composableBuilder(
-    column: $table.storageType,
-    builder: (column) => column,
-  );
-
-  GeneratedColumn<String> get localFilePath => $composableBuilder(
-    column: $table.localFilePath,
     builder: (column) => column,
   );
 
@@ -1205,16 +1060,12 @@ class $$LocalCollectionsTableTableManager
                 Value<String> collectionName = const Value.absent(),
                 Value<int> docCount = const Value.absent(),
                 Value<String> contentHash = const Value.absent(),
-                Value<String> storageType = const Value.absent(),
-                Value<String?> localFilePath = const Value.absent(),
                 Value<String> syncedAt = const Value.absent(),
                 Value<int> rowid = const Value.absent(),
               }) => LocalCollectionsCompanion(
                 collectionName: collectionName,
                 docCount: docCount,
                 contentHash: contentHash,
-                storageType: storageType,
-                localFilePath: localFilePath,
                 syncedAt: syncedAt,
                 rowid: rowid,
               ),
@@ -1223,16 +1074,12 @@ class $$LocalCollectionsTableTableManager
                 required String collectionName,
                 Value<int> docCount = const Value.absent(),
                 Value<String> contentHash = const Value.absent(),
-                Value<String> storageType = const Value.absent(),
-                Value<String?> localFilePath = const Value.absent(),
                 Value<String> syncedAt = const Value.absent(),
                 Value<int> rowid = const Value.absent(),
               }) => LocalCollectionsCompanion.insert(
                 collectionName: collectionName,
                 docCount: docCount,
                 contentHash: contentHash,
-                storageType: storageType,
-                localFilePath: localFilePath,
                 syncedAt: syncedAt,
                 rowid: rowid,
               ),

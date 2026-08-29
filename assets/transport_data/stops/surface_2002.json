@@ -1,0 +1,18 @@
+{
+  "id": "surface_2002",
+  "data": {
+    "name": "Madbah ( Magra Al Oyoun)",
+    "lat": 30.020893970917932,
+    "lng": 31.240175113478344,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2002",
+    "isActive": true
+  }
+}

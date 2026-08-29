@@ -1,0 +1,18 @@
+{
+  "id": "surface_967",
+  "data": {
+    "name": "Anwar Al Sadat Square (6th of October)",
+    "lat": 29.95385279980948,
+    "lng": 30.909399834794456,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "967",
+    "isActive": true
+  }
+}

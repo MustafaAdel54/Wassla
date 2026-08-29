@@ -1,0 +1,18 @@
+{
+  "id": "surface_1315",
+  "data": {
+    "name": "Mit Nama Steps (Cairo Alexandria Agriculture Rd.)",
+    "lat": 30.14295223018359,
+    "lng": 31.23096309570997,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1315",
+    "isActive": true
+  }
+}

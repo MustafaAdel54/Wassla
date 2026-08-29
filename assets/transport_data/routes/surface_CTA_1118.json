@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_1118",
+  "data": {
+    "name": "7th District (Nasr City) - Tagneed (Al Remaya)",
+    "shortName": "CTA 1118",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_1118",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

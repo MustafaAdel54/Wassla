@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_ZLIlRoH8mggg0j2DKqbhA_O",
+  "data": {
+    "routeId": "surface_ZLIlRoH8mggg0j2DKqbhA",
+    "tripId": "ZLIlRoH8mggg0j2DKqbhA_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "R2 - New Administrative Capital",
+    "stops": [
+      {
+        "stopId": "surface_1428",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2991",
+        "sequence": 2,
+        "arrivalSec": 24253,
+        "departureSec": 24268
+      },
+      {
+        "stopId": "surface_2618",
+        "sequence": 3,
+        "arrivalSec": 24404,
+        "departureSec": 24419
+      },
+      {
+        "stopId": "surface_2620",
+        "sequence": 4,
+        "arrivalSec": 24635,
+        "departureSec": 24650
+      },
+      {
+        "stopId": "surface_2865",
+        "sequence": 5,
+        "arrivalSec": 26014,
+        "departureSec": 26029
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

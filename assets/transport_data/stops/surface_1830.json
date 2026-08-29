@@ -1,0 +1,18 @@
+{
+  "id": "surface_1830",
+  "data": {
+    "name": "Mena House",
+    "lat": 29.98459035117599,
+    "lng": 31.13562926569776,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1830",
+    "isActive": true
+  }
+}

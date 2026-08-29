@@ -1,0 +1,18 @@
+{
+  "id": "surface_3018",
+  "data": {
+    "name": "Suez Bridge Entrance to Ring Road",
+    "lat": 30.07935321,
+    "lng": 31.43534858,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "3018",
+    "isActive": true
+  }
+}

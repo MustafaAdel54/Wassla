@@ -1,0 +1,18 @@
+{
+  "id": "surface_945",
+  "data": {
+    "name": "Diamonds Mall (6th of October)",
+    "lat": 29.976816434005272,
+    "lng": 30.94485312942126,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "945",
+    "isActive": true
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_xAJGyQhxA6TMxLphKroaV",
+  "data": {
+    "routeId": "surface_NUilWKiUS6Kx6c0X5hCYF",
+    "tripId": "xAJGyQhxA6TMxLphKroaV",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Alf Maskan",
+    "stops": [
+      {
+        "stopId": "surface_128",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1699",
+        "sequence": 2,
+        "arrivalSec": 21669,
+        "departureSec": 21684
+      },
+      {
+        "stopId": "surface_1695",
+        "sequence": 3,
+        "arrivalSec": 21769,
+        "departureSec": 21784
+      },
+      {
+        "stopId": "surface_2817",
+        "sequence": 4,
+        "arrivalSec": 21827,
+        "departureSec": 21842
+      },
+      {
+        "stopId": "surface_2816",
+        "sequence": 5,
+        "arrivalSec": 21857,
+        "departureSec": 21872
+      },
+      {
+        "stopId": "surface_1691",
+        "sequence": 6,
+        "arrivalSec": 21911,
+        "departureSec": 21926
+      },
+      {
+        "stopId": "surface_1221",
+        "sequence": 7,
+        "arrivalSec": 21973,
+        "departureSec": 21988
+      },
+      {
+        "stopId": "surface_1688",
+        "sequence": 8,
+        "arrivalSec": 22034,
+        "departureSec": 22049
+      },
+      {
+        "stopId": "surface_139",
+        "sequence": 9,
+        "arrivalSec": 22112,
+        "departureSec": 22127
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

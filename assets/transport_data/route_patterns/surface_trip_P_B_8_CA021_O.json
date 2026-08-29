@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_B_8_CA021_O",
+  "data": {
+    "routeId": "surface_P_B_8_CA021",
+    "tripId": "P_B_8_CA021_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Zahraa Metro",
+    "stops": [
+      {
+        "stopId": "surface_1261",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1961",
+        "sequence": 2,
+        "arrivalSec": 21642,
+        "departureSec": 21657
+      },
+      {
+        "stopId": "surface_1960",
+        "sequence": 3,
+        "arrivalSec": 21687,
+        "departureSec": 21702
+      },
+      {
+        "stopId": "surface_1956",
+        "sequence": 4,
+        "arrivalSec": 21807,
+        "departureSec": 21822
+      },
+      {
+        "stopId": "surface_2850",
+        "sequence": 5,
+        "arrivalSec": 21893,
+        "departureSec": 21908
+      },
+      {
+        "stopId": "surface_1955",
+        "sequence": 6,
+        "arrivalSec": 21965,
+        "departureSec": 21980
+      },
+      {
+        "stopId": "surface_2859",
+        "sequence": 7,
+        "arrivalSec": 22092,
+        "departureSec": 22107
+      },
+      {
+        "stopId": "surface_1950",
+        "sequence": 8,
+        "arrivalSec": 22184,
+        "departureSec": 22199
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

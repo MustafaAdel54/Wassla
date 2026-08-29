@@ -1,0 +1,18 @@
+{
+  "id": "surface_1078",
+  "data": {
+    "name": "Mall of Arabia",
+    "lat": 30.00242999816379,
+    "lng": 30.9727331522377,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1078",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_958",
+  "data": {
+    "name": "Housing And Development Bank (6th of October)",
+    "lat": 29.95936068466105,
+    "lng": 30.926264089618073,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "958",
+    "isActive": true
+  }
+}

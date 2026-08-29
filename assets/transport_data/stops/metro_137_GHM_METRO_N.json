@@ -1,0 +1,16 @@
+{
+  "id": "metro_137_GHM_METRO_N",
+  "data": {
+    "name": "Ghamra",
+    "lat": 30.0689315,
+    "lng": 31.2646759,
+    "stationId": "station_metro_137_GHM_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "137_GHM_METRO_N",
+    "parentSourceId": "137_GHM_METRO",
+    "isActive": true
+  }
+}

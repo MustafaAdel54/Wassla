@@ -1,0 +1,18 @@
+{
+  "id": "surface_630",
+  "data": {
+    "name": "Wadi Al Nile St. & 26th of July Corridor (Mit Okba)",
+    "lat": 30.06057953457695,
+    "lng": 31.2013095470166,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "630",
+    "isActive": true
+  }
+}

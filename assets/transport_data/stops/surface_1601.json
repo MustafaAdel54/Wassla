@@ -1,0 +1,18 @@
+{
+  "id": "surface_1601",
+  "data": {
+    "name": "Alfa Market (Nile Corniche)",
+    "lat": 29.96227577998283,
+    "lng": 31.246313920647406,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1601",
+    "isActive": true
+  }
+}

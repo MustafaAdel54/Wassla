@@ -1,0 +1,18 @@
+{
+  "id": "surface_670",
+  "data": {
+    "name": "Saqr Quraish",
+    "lat": 29.98612771697669,
+    "lng": 31.28873948476324,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "670",
+    "isActive": true
+  }
+}

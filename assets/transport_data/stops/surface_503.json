@@ -1,0 +1,18 @@
+{
+  "id": "surface_503",
+  "data": {
+    "name": "Al Imam Al Shafei Cemetaries (Autostrad)",
+    "lat": 30.012180029426013,
+    "lng": 31.267265542596576,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "503",
+    "isActive": true
+  }
+}

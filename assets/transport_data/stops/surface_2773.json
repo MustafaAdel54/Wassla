@@ -1,0 +1,18 @@
+{
+  "id": "surface_2773",
+  "data": {
+    "name": "Mosheer Ahmed Ismail Station (Sheraton)",
+    "lat": 30.093537,
+    "lng": 31.372043,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2773",
+    "isActive": true
+  }
+}

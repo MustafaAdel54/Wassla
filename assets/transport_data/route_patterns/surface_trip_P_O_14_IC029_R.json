@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_IC029_R",
+  "data": {
+    "routeId": "surface_P_O_14_IC029",
+    "tripId": "P_O_14_IC029_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Ommal Square",
+    "stops": [
+      {
+        "stopId": "surface_1121",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_518",
+        "sequence": 2,
+        "arrivalSec": 21635,
+        "departureSec": 21650
+      },
+      {
+        "stopId": "surface_1288",
+        "sequence": 3,
+        "arrivalSec": 21873,
+        "departureSec": 21888
+      },
+      {
+        "stopId": "surface_453",
+        "sequence": 4,
+        "arrivalSec": 22091,
+        "departureSec": 22106
+      },
+      {
+        "stopId": "surface_586",
+        "sequence": 5,
+        "arrivalSec": 22436,
+        "departureSec": 22451
+      },
+      {
+        "stopId": "surface_1190",
+        "sequence": 6,
+        "arrivalSec": 22485,
+        "departureSec": 22500
+      },
+      {
+        "stopId": "surface_588",
+        "sequence": 7,
+        "arrivalSec": 22585,
+        "departureSec": 22600
+      },
+      {
+        "stopId": "surface_589",
+        "sequence": 8,
+        "arrivalSec": 22685,
+        "departureSec": 22700
+      },
+      {
+        "stopId": "surface_591",
+        "sequence": 9,
+        "arrivalSec": 22774,
+        "departureSec": 22789
+      },
+      {
+        "stopId": "surface_358",
+        "sequence": 10,
+        "arrivalSec": 22937,
+        "departureSec": 22952
+      },
+      {
+        "stopId": "surface_823",
+        "sequence": 11,
+        "arrivalSec": 22970,
+        "departureSec": 22985
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

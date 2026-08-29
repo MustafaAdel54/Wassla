@@ -1,0 +1,18 @@
+{
+  "id": "surface_2992",
+  "data": {
+    "name": "Fayed Desert Rd. Exit to Madinaty",
+    "lat": 30.174669852734507,
+    "lng": 31.556285210021958,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2992",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1227",
+  "data": {
+    "name": "Waha Hotel (Alexandria Desert Rd.)",
+    "lat": 30.013491341159497,
+    "lng": 31.102134638626133,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1227",
+    "isActive": true
+  }
+}

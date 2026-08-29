@@ -1,0 +1,18 @@
+{
+  "id": "surface_841",
+  "data": {
+    "name": "Hadayek Al Mohandeseen Gate (Sheikh Zayed)",
+    "lat": 30.026216791706677,
+    "lng": 30.99288297142135,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "841",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2339",
+  "data": {
+    "name": "Antidote and Vacince (Mohandeseen)",
+    "lat": 30.05106587083355,
+    "lng": 31.209562899315543,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2339",
+    "isActive": true
+  }
+}

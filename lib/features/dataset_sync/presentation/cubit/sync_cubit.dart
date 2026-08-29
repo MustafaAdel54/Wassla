@@ -66,6 +66,7 @@ class SyncCubit extends Cubit<SyncState> {
   SyncCubit(
     this._syncDatasetUseCase, {
     PublishDatasetUseCase? publishDatasetUseCase,
+    // ignore: prefer_initializing_formals
   })  : _publishDatasetUseCase = publishDatasetUseCase,
         super(const SyncInitial());
 
@@ -91,7 +92,7 @@ class SyncCubit extends Cubit<SyncState> {
     }
     emit(const PublishInProgress('Starting dataset publish...'));
     try {
-      await _publishDatasetUseCase?.execute();
+      await _publishDatasetUseCase.execute();
       emit(const PublishComplete());
     } catch (e) {
       emit(PublishError('Publish failed: $e'));

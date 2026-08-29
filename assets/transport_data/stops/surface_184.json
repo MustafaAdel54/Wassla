@@ -1,0 +1,18 @@
+{
+  "id": "surface_184",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Al Geish St.)",
+    "lat": 30.060651,
+    "lng": 31.264574,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "184",
+    "isActive": true
+  }
+}

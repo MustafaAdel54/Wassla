@@ -1,0 +1,18 @@
+{
+  "id": "surface_1688",
+  "data": {
+    "name": "Heliopolis Square",
+    "lat": 30.10809064980738,
+    "lng": 31.338925726450896,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1688",
+    "isActive": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00408",
+  "data": {
+    "fromStopId": "surface_669",
+    "toStopId": "metro_69_NAG_METRO_S",
+    "distanceMeters": 232.9,
+    "estimatedMinutes": 3,
+    "confidence": "low",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

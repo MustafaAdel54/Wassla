@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_COOP_IG053_O",
+  "data": {
+    "routeId": "surface_COOP_IG053",
+    "tripId": "COOP_IG053_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Ramses",
+    "stops": [
+      {
+        "stopId": "surface_2271",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2523",
+        "sequence": 2,
+        "arrivalSec": 21692,
+        "departureSec": 21707
+      },
+      {
+        "stopId": "surface_2330",
+        "sequence": 3,
+        "arrivalSec": 21792,
+        "departureSec": 21807
+      },
+      {
+        "stopId": "surface_2343",
+        "sequence": 4,
+        "arrivalSec": 21942,
+        "departureSec": 21957
+      },
+      {
+        "stopId": "surface_2340",
+        "sequence": 5,
+        "arrivalSec": 22043,
+        "departureSec": 22058
+      },
+      {
+        "stopId": "surface_2338",
+        "sequence": 6,
+        "arrivalSec": 22199,
+        "departureSec": 22214
+      },
+      {
+        "stopId": "surface_2356",
+        "sequence": 7,
+        "arrivalSec": 22346,
+        "departureSec": 22361
+      },
+      {
+        "stopId": "surface_2367",
+        "sequence": 8,
+        "arrivalSec": 22422,
+        "departureSec": 22437
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

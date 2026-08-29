@@ -1,0 +1,18 @@
+{
+  "id": "surface_2512",
+  "data": {
+    "name": "Qalyub Steps (Ring Rd.)",
+    "lat": 30.149299556427792,
+    "lng": 31.230366775666774,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2512",
+    "isActive": true
+  }
+}

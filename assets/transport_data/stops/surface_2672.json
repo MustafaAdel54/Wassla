@@ -1,0 +1,18 @@
+{
+  "id": "surface_2672",
+  "data": {
+    "name": "Al Masriya (Nasr City)",
+    "lat": 30.062925907622834,
+    "lng": 31.36187776526207,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2672",
+    "isActive": true
+  }
+}

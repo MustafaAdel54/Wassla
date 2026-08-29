@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_4XuaA3hKxjdzkZEB8_jZF",
+  "data": {
+    "routeId": "surface_Va6aQT0gwfU48MBTXdWwi",
+    "tripId": "4XuaA3hKxjdzkZEB8_jZF",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Maadi Metro",
+    "stops": [
+      {
+        "stopId": "surface_1404",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1597",
+        "sequence": 2,
+        "arrivalSec": 21792,
+        "departureSec": 21807
+      },
+      {
+        "stopId": "surface_2786",
+        "sequence": 3,
+        "arrivalSec": 21985,
+        "departureSec": 22000
+      },
+      {
+        "stopId": "surface_2699",
+        "sequence": 4,
+        "arrivalSec": 22045,
+        "departureSec": 22060
+      },
+      {
+        "stopId": "surface_1603",
+        "sequence": 5,
+        "arrivalSec": 22180,
+        "departureSec": 22195
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

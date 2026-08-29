@@ -1,0 +1,18 @@
+{
+  "id": "surface_511",
+  "data": {
+    "name": "Greek Hospital",
+    "lat": 30.066776464074636,
+    "lng": 31.280869299409026,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "511",
+    "isActive": true
+  }
+}

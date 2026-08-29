@@ -15,7 +15,8 @@ class LocalDataSource {
   final SyncDatabase _db;
   String? _basePath;
 
-  LocalDataSource(this._db);
+  // ignore: prefer_initializing_formals
+  LocalDataSource(this._db, {String? basePath}) : _basePath = basePath;
 
   /// Get the base path for dataset storage.
   Future<String> get basePath async {
@@ -36,8 +37,8 @@ class LocalDataSource {
     final active = Directory(await activePath);
     if (!active.existsSync()) return false;
 
-    // Check that at least the 5 routing-critical collections exist
-    for (final name in kRoutingCollections) {
+    // Check that all 6 required collections exist
+    for (final name in kDatasetCollections) {
       final file = File(p.join(active.path, '$name.json'));
       if (!file.existsSync()) return false;
     }
@@ -100,8 +101,6 @@ class LocalDataSource {
           name: entry.key,
           docCount: entry.value.count,
           contentHash: entry.value.contentHash,
-          storageType: entry.value.storage,
-          localFilePath: p.join(await activePath, '${entry.key}.json'),
         );
       }
       await _db.updateManifestVersion(newVersion);
@@ -165,12 +164,31 @@ class LocalDataSource {
   /// Serialize a list of Firestore documents to a canonical JSON array.
   /// Each element is {"id": docId, "data": docData}.
   static List<int> serializeDocuments(
-      List<MapEntry<String, Map<String, dynamic>>> docs) {
+    List<MapEntry<String, Map<String, dynamic>>> docs,
+  ) {
     // Sort by ID for deterministic hash
     final sorted = List<MapEntry<String, Map<String, dynamic>>>.from(docs)
       ..sort((a, b) => a.key.compareTo(b.key));
-    final list =
-        sorted.map((e) => {'id': e.key, 'data': e.value}).toList();
+    final list = sorted.map((e) => {
+      'id': e.key, 
+      'data': _canonicalize(e.value),
+    }).toList();
     return utf8.encode(jsonEncode(list));
+  }
+
+  /// Recursively sorts map keys to ensure deterministic JSON serialization.
+  /// Converts all maps to LinkedHashMaps with sorted keys before encoding.
+  static dynamic _canonicalize(dynamic value) {
+    if (value is Map) {
+      final sortedKeys = value.keys.toList()..sort();
+      final result = <String, dynamic>{};
+      for (final key in sortedKeys) {
+        result[key.toString()] = _canonicalize(value[key]);
+      }
+      return result;
+    } else if (value is List) {
+      return value.map(_canonicalize).toList();
+    }
+    return value;
   }
 }

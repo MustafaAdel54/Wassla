@@ -1,0 +1,18 @@
+{
+  "id": "surface_2594",
+  "data": {
+    "name": "Mafariq - Megawra 1 (15th of May)",
+    "lat": 29.8542128,
+    "lng": 31.3702132,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2594",
+    "isActive": true
+  }
+}

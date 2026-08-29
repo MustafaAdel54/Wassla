@@ -1,0 +1,18 @@
+{
+  "id": "surface_451",
+  "data": {
+    "name": "Ikea (Cairo Festival City)",
+    "lat": 30.031030573209048,
+    "lng": 31.403510289558607,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "451",
+    "isActive": true
+  }
+}

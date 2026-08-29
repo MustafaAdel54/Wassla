@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
+import '../../../../core/constants/sync_constants.dart';
+import '../../../dataset_sync/presentation/cubit/sync_cubit.dart';
 import '../../domain/entities/routing_entities.dart';
 import '../cubit/route_search_cubit.dart';
 
@@ -20,10 +22,10 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
   final _destLngCtrl = TextEditingController();
 
   // Default: Helwan Metro → Maadi Metro (via station IDs for testing)
-  final _originIdCtrl =
-      TextEditingController(text: 'station_metro_10_AHL_METRO');
-  final _destIdCtrl =
-      TextEditingController(text: 'station_metro_23_MAD_METRO');
+  final _originIdCtrl = TextEditingController(
+    text: 'station_metro_10_AHL_METRO',
+  );
+  final _destIdCtrl = TextEditingController(text: 'station_metro_23_MAD_METRO');
 
   bool _useStopIds = true;
 
@@ -38,6 +40,21 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
             tooltip: _useStopIds ? 'Switch to coordinates' : 'Switch to IDs',
             onPressed: () => setState(() => _useStopIds = !_useStopIds),
           ),
+          if (kEnableDevImport)
+            IconButton(
+              icon: const Icon(Icons.developer_board),
+              tooltip: 'Developer Tools',
+              onPressed: () {
+                final syncCubit = context.read<SyncCubit>();
+                showDialog(
+                  context: context,
+                  builder: (ctx) => BlocProvider.value(
+                    value: syncCubit,
+                    child: const _DevToolsDialog(),
+                  ),
+                );
+              },
+            ),
         ],
       ),
       body: Padding(
@@ -115,10 +132,7 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
               ),
             ],
             const SizedBox(height: 16),
-            ElevatedButton(
-              onPressed: _search,
-              child: const Text('Find Route'),
-            ),
+            ElevatedButton(onPressed: _search, child: const Text('Find Route')),
             const SizedBox(height: 16),
             Expanded(
               child: BlocBuilder<RouteSearchCubit, RouteSearchState>(
@@ -140,22 +154,28 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
                   }
                   if (state is RouteSearchNoResult) {
                     return const Center(
-                      child: Text('No route found',
-                          style: TextStyle(fontSize: 18)),
+                      child: Text(
+                        'No route found',
+                        style: TextStyle(fontSize: 18),
+                      ),
                     );
                   }
                   if (state is RouteSearchError) {
                     return Center(
-                      child: Text('Error: ${state.message}',
-                          style: const TextStyle(color: Colors.red)),
+                      child: Text(
+                        'Error: ${state.message}',
+                        style: const TextStyle(color: Colors.red),
+                      ),
                     );
                   }
                   if (state is RouteSearchSuccess) {
                     return _buildResult(state.result);
                   }
                   return const Center(
-                    child: Text('Enter origin and destination to search',
-                        style: TextStyle(color: Colors.grey)),
+                    child: Text(
+                      'Enter origin and destination to search',
+                      style: TextStyle(color: Colors.grey),
+                    ),
                   );
                 },
               ),
@@ -182,15 +202,19 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
     final destLat = double.tryParse(_destLatCtrl.text);
     final destLng = double.tryParse(_destLngCtrl.text);
 
-    if (originLat == null || originLng == null ||
-        destLat == null || destLng == null) {
+    if (originLat == null ||
+        originLng == null ||
+        destLat == null ||
+        destLng == null) {
       return;
     }
 
-    cubit.searchRoute(RouteRequest(
-      origin: LocationPoint(latitude: originLat, longitude: originLng),
-      destination: LocationPoint(latitude: destLat, longitude: destLng),
-    ));
+    cubit.searchRoute(
+      RouteRequest(
+        origin: LocationPoint(latitude: originLat, longitude: originLng),
+        destination: LocationPoint(latitude: destLat, longitude: destLng),
+      ),
+    );
   }
 
   Widget _buildResult(RouteResult result) {
@@ -205,7 +229,9 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
                 Text(
                   '${result.durationMinutes} minutes',
                   style: const TextStyle(
-                      fontSize: 24, fontWeight: FontWeight.bold),
+                    fontSize: 24,
+                    fontWeight: FontWeight.bold,
+                  ),
                 ),
                 const SizedBox(height: 4),
                 Text(
@@ -218,12 +244,14 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
           ),
         ),
         const Divider(),
-        ...result.segments.map((seg) => ListTile(
-              leading: Icon(_modeIcon(seg.mode)),
-              title: Text(seg.routeName ?? seg.mode),
-              subtitle: Text('${seg.fromName} → ${seg.toName}'),
-              trailing: Text('${seg.durationMinutes} min'),
-            )),
+        ...result.segments.map(
+          (seg) => ListTile(
+            leading: Icon(_modeIcon(seg.mode)),
+            title: Text(seg.routeName ?? seg.mode),
+            subtitle: Text('${seg.fromName} → ${seg.toName}'),
+            trailing: Text('${seg.durationMinutes} min'),
+          ),
+        ),
       ],
     );
   }
@@ -253,5 +281,74 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
     _originIdCtrl.dispose();
     _destIdCtrl.dispose();
     super.dispose();
+  }
+}
+
+class _DevToolsDialog extends StatelessWidget {
+  const _DevToolsDialog();
+
+  @override
+  Widget build(BuildContext context) {
+    return AlertDialog(
+      title: const Text('Developer Tools'),
+      content: BlocBuilder<SyncCubit, SyncState>(
+        builder: (context, state) {
+          if (state is PublishInProgress) {
+            return Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                const CircularProgressIndicator(),
+                const SizedBox(height: 16),
+                Text(state.message),
+              ],
+            );
+          }
+          if (state is PublishComplete) {
+            return const Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Icon(Icons.check_circle, color: Colors.green, size: 48),
+                SizedBox(height: 16),
+                Text('Dataset published to Firebase!'),
+              ],
+            );
+          }
+          if (state is PublishError) {
+            return Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                const Icon(Icons.error, color: Colors.red, size: 48),
+                const SizedBox(height: 16),
+                Text(state.message),
+                const SizedBox(height: 16),
+                ElevatedButton(
+                  onPressed: () => context.read<SyncCubit>().publishDataset(),
+                  child: const Text('Retry Publish'),
+                ),
+              ],
+            );
+          }
+          
+          return Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Text('Use this to manually push the bundled dataset to Firebase.'),
+              const SizedBox(height: 16),
+              ElevatedButton.icon(
+                onPressed: () => context.read<SyncCubit>().publishDataset(),
+                icon: const Icon(Icons.cloud_upload),
+                label: const Text('Publish Dataset to Firebase'),
+              ),
+            ],
+          );
+        },
+      ),
+      actions: [
+        TextButton(
+          onPressed: () => Navigator.of(context).pop(),
+          child: const Text('Close'),
+        ),
+      ],
+    );
   }
 }

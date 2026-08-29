@@ -1,0 +1,18 @@
+{
+  "id": "surface_2701",
+  "data": {
+    "name": "Modern School (Ahmed Esmat St.)",
+    "lat": 30.126256997884397,
+    "lng": 31.330356168359234,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2701",
+    "isActive": true
+  }
+}

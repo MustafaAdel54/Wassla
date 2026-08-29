@@ -1,0 +1,18 @@
+{
+  "id": "surface_2892",
+  "data": {
+    "name": "Americana Plaza Mall",
+    "lat": 30.025452533615415,
+    "lng": 31.495345825679568,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2892",
+    "isActive": true
+  }
+}

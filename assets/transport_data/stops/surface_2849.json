@@ -1,0 +1,18 @@
+{
+  "id": "surface_2849",
+  "data": {
+    "name": "Macdonald's (Mergheny St.)",
+    "lat": 30.086871,
+    "lng": 31.333899,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2849",
+    "isActive": true
+  }
+}

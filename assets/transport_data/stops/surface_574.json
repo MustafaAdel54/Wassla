@@ -1,0 +1,18 @@
+{
+  "id": "surface_574",
+  "data": {
+    "name": "Mazda Plaza (Alexandria Desert Rd.)",
+    "lat": 30.08102302390368,
+    "lng": 30.99390548803823,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "574",
+    "isActive": true
+  }
+}

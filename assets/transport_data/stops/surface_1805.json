@@ -1,0 +1,18 @@
+{
+  "id": "surface_1805",
+  "data": {
+    "name": "Genius International School (Kerdasa)",
+    "lat": 30.009970770315,
+    "lng": 31.11563703961086,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1805",
+    "isActive": true
+  }
+}

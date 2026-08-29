@@ -1,0 +1,18 @@
+{
+  "id": "surface_786",
+  "data": {
+    "name": "Isko",
+    "lat": 30.15113047176582,
+    "lng": 31.277302473994453,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "786",
+    "isActive": true
+  }
+}

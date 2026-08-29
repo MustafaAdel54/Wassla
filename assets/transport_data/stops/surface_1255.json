@@ -1,0 +1,18 @@
+{
+  "id": "surface_1255",
+  "data": {
+    "name": "Koleyet Al Banat Metro",
+    "lat": 30.08392297567745,
+    "lng": 31.328590491314035,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1255",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1913",
+  "data": {
+    "name": "Farouq Corner Musuem (Helwan)",
+    "lat": 29.846861,
+    "lng": 31.295616,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1913",
+    "isActive": true
+  }
+}

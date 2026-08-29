@@ -1,0 +1,18 @@
+{
+  "id": "surface_2230",
+  "data": {
+    "name": "Asfour Mosque ( Ibrahim Bek )",
+    "lat": 30.1249792,
+    "lng": 31.2599517,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2230",
+    "isActive": true
+  }
+}

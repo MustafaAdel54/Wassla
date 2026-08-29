@@ -1,0 +1,18 @@
+{
+  "id": "surface_648",
+  "data": {
+    "name": "Gamal Abd Al Nasser Steps (Ring Rd.)",
+    "lat": 30.072258723482562,
+    "lng": 31.17575662029439,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "648",
+    "isActive": true
+  }
+}

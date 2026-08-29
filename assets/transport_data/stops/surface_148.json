@@ -1,0 +1,18 @@
+{
+  "id": "surface_148",
+  "data": {
+    "name": "Al Sawy Culture Wheel",
+    "lat": 30.0622868,
+    "lng": 31.2172046,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "148",
+    "isActive": true
+  }
+}

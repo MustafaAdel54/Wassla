@@ -1,0 +1,74 @@
+{
+  "id": "surface_trip_P_O_14_IG058_R",
+  "data": {
+    "routeId": "surface_P_O_14_IG058",
+    "tripId": "P_O_14_IG058_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Kerdasa",
+    "stops": [
+      {
+        "stopId": "surface_1134",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_637",
+        "sequence": 2,
+        "arrivalSec": 21671,
+        "departureSec": 21686
+      },
+      {
+        "stopId": "surface_2267",
+        "sequence": 3,
+        "arrivalSec": 21773,
+        "departureSec": 21788
+      },
+      {
+        "stopId": "surface_46",
+        "sequence": 4,
+        "arrivalSec": 21867,
+        "departureSec": 21882
+      },
+      {
+        "stopId": "surface_639",
+        "sequence": 5,
+        "arrivalSec": 21902,
+        "departureSec": 21917
+      },
+      {
+        "stopId": "surface_2683",
+        "sequence": 6,
+        "arrivalSec": 21947,
+        "departureSec": 21962
+      },
+      {
+        "stopId": "surface_2935",
+        "sequence": 7,
+        "arrivalSec": 22215,
+        "departureSec": 22230
+      },
+      {
+        "stopId": "surface_2827",
+        "sequence": 8,
+        "arrivalSec": 22393,
+        "departureSec": 22408
+      },
+      {
+        "stopId": "surface_2615",
+        "sequence": 9,
+        "arrivalSec": 22600,
+        "departureSec": 22615
+      },
+      {
+        "stopId": "surface_2826",
+        "sequence": 10,
+        "arrivalSec": 22761,
+        "departureSec": 22776
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2831",
+  "data": {
+    "name": "Awlad Sokkar St. & Bigam Rd.",
+    "lat": 30.133033,
+    "lng": 31.246591,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2831",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_606",
+  "data": {
+    "name": "Marioteya Rd. & Faisal St.",
+    "lat": 29.993594288775498,
+    "lng": 31.1472066490716,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "606",
+    "isActive": true
+  }
+}

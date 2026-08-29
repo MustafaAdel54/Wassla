@@ -1,0 +1,18 @@
+{
+  "id": "surface_2431",
+  "data": {
+    "name": "Bahteem Square",
+    "lat": 30.141485703141186,
+    "lng": 31.277539502306436,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2431",
+    "isActive": true
+  }
+}

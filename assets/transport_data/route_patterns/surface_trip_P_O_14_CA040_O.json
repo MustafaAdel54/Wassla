@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_P_O_14_CA040_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA040",
+    "tripId": "P_O_14_CA040_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Sheikh Mansour",
+    "stops": [
+      {
+        "stopId": "surface_2700",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2701",
+        "sequence": 2,
+        "arrivalSec": 21720,
+        "departureSec": 21735
+      },
+      {
+        "stopId": "surface_2702",
+        "sequence": 3,
+        "arrivalSec": 22058,
+        "departureSec": 22073
+      },
+      {
+        "stopId": "surface_2705",
+        "sequence": 4,
+        "arrivalSec": 22133,
+        "departureSec": 22148
+      },
+      {
+        "stopId": "surface_2703",
+        "sequence": 5,
+        "arrivalSec": 22183,
+        "departureSec": 22198
+      },
+      {
+        "stopId": "surface_2707",
+        "sequence": 6,
+        "arrivalSec": 22358,
+        "departureSec": 22373
+      },
+      {
+        "stopId": "surface_2535",
+        "sequence": 7,
+        "arrivalSec": 22451,
+        "departureSec": 22466
+      },
+      {
+        "stopId": "surface_1705",
+        "sequence": 8,
+        "arrivalSec": 22699,
+        "departureSec": 22714
+      },
+      {
+        "stopId": "surface_2534",
+        "sequence": 9,
+        "arrivalSec": 22789,
+        "departureSec": 22804
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

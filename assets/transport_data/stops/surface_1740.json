@@ -1,0 +1,18 @@
+{
+  "id": "surface_1740",
+  "data": {
+    "name": "Shahrazad Hall ( Sawah)",
+    "lat": 30.1118845,
+    "lng": 31.2840931,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1740",
+    "isActive": true
+  }
+}

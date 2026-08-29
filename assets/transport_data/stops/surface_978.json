@@ -1,0 +1,18 @@
+{
+  "id": "surface_978",
+  "data": {
+    "name": "Kawkab Al Sharq Cafe - Bashayer",
+    "lat": 29.968777139852826,
+    "lng": 30.914674288523692,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "978",
+    "isActive": true
+  }
+}

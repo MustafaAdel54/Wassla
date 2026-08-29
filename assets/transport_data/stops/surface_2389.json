@@ -1,0 +1,18 @@
+{
+  "id": "surface_2389",
+  "data": {
+    "name": "North Imbaba",
+    "lat": 30.0813916,
+    "lng": 31.216544200000012,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2389",
+    "isActive": true
+  }
+}

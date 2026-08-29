@@ -1,0 +1,18 @@
+{
+  "id": "surface_2633",
+  "data": {
+    "name": "Al Shorouq City Authority Steps",
+    "lat": 30.158035984107027,
+    "lng": 31.607242719969943,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2633",
+    "isActive": true
+  }
+}

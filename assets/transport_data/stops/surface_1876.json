@@ -1,0 +1,18 @@
+{
+  "id": "surface_1876",
+  "data": {
+    "name": "Al Maasara Ferry",
+    "lat": 29.90145976162306,
+    "lng": 31.287939054657063,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1876",
+    "isActive": true
+  }
+}

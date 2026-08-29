@@ -1,0 +1,18 @@
+{
+  "id": "surface_2676",
+  "data": {
+    "name": "Almaza Bridge Exit",
+    "lat": 30.08040483896186,
+    "lng": 31.360400384725125,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2676",
+    "isActive": true
+  }
+}

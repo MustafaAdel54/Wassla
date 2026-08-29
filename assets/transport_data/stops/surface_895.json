@@ -1,0 +1,18 @@
+{
+  "id": "surface_895",
+  "data": {
+    "name": "Abu Bakr Al Siddiq Mosque (6th of October)",
+    "lat": 29.960601899962416,
+    "lng": 30.948131759136626,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "895",
+    "isActive": true
+  }
+}

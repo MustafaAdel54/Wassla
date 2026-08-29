@@ -1,0 +1,18 @@
+{
+  "id": "surface_772",
+  "data": {
+    "name": "Al Shorouq School (Shorouq City)",
+    "lat": 30.166422132961685,
+    "lng": 31.651648445612622,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "772",
+    "isActive": true
+  }
+}

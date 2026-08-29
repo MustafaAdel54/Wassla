@@ -1,0 +1,18 @@
+{
+  "id": "surface_28",
+  "data": {
+    "name": "Ghamra",
+    "lat": 30.068023060108217,
+    "lng": 31.264787533100904,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "28",
+    "isActive": true
+  }
+}

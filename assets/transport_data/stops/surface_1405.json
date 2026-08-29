@@ -1,0 +1,18 @@
+{
+  "id": "surface_1405",
+  "data": {
+    "name": "Farouq Square (Maadi)",
+    "lat": 29.95743296995055,
+    "lng": 31.255950078261904,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1405",
+    "isActive": true
+  }
+}

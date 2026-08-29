@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00055",
+  "data": {
+    "fromStopId": "surface_183",
+    "toStopId": "metro_77_BSH_METRO",
+    "distanceMeters": 197.5,
+    "estimatedMinutes": 2,
+    "confidence": "low",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

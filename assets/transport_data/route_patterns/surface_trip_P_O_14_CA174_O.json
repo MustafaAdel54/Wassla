@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_P_O_14_CA174_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA174",
+    "tripId": "P_O_14_CA174_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Maadi Metro",
+    "stops": [
+      {
+        "stopId": "surface_2541",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2786",
+        "sequence": 2,
+        "arrivalSec": 21743,
+        "departureSec": 21758
+      },
+      {
+        "stopId": "surface_2543",
+        "sequence": 3,
+        "arrivalSec": 21846,
+        "departureSec": 21861
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

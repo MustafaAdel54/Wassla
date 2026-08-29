@@ -1,0 +1,18 @@
+{
+  "id": "surface_221",
+  "data": {
+    "name": "Al Sekka Al Hadid Sporting Club (Nasr City)",
+    "lat": 30.058798492765337,
+    "lng": 31.303759660763905,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "221",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2247",
+  "data": {
+    "name": "Aida (Ahmed Helmy St.)",
+    "lat": 30.08502877534549,
+    "lng": 31.255957550888212,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2247",
+    "isActive": true
+  }
+}

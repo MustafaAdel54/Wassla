@@ -1,0 +1,18 @@
+{
+  "id": "surface_1456",
+  "data": {
+    "name": "Nozha Bridge Exit",
+    "lat": 30.086804098960474,
+    "lng": 31.341163312593235,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1456",
+    "isActive": true
+  }
+}

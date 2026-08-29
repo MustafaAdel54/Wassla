@@ -1,0 +1,18 @@
+{
+  "id": "surface_2061",
+  "data": {
+    "name": "Research Institute of Ophthalmology - Giza",
+    "lat": 30.01584207263768,
+    "lng": 31.216573493897055,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2061",
+    "isActive": true
+  }
+}

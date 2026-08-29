@@ -1,0 +1,18 @@
+{
+  "id": "surface_391",
+  "data": {
+    "name": "Arab African Bank (Haram St.)",
+    "lat": 29.998187092372632,
+    "lng": 31.171827681830443,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "391",
+    "isActive": true
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_f6-9Wcb-CMDV1r8jAFLkQ",
+  "data": {
+    "routeId": "surface_BamKiGYQ3P_xZETsNX1a5",
+    "tripId": "f6-9Wcb-CMDV1r8jAFLkQ",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Znen (Awwel Al Eshreen)",
+    "stops": [
+      {
+        "stopId": "surface_1261",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1979",
+        "sequence": 2,
+        "arrivalSec": 21735,
+        "departureSec": 21750
+      },
+      {
+        "stopId": "surface_2003",
+        "sequence": 3,
+        "arrivalSec": 21795,
+        "departureSec": 21810
+      },
+      {
+        "stopId": "surface_1981",
+        "sequence": 4,
+        "arrivalSec": 21870,
+        "departureSec": 21885
+      },
+      {
+        "stopId": "surface_1936",
+        "sequence": 5,
+        "arrivalSec": 21942,
+        "departureSec": 21957
+      },
+      {
+        "stopId": "surface_160",
+        "sequence": 6,
+        "arrivalSec": 21969,
+        "departureSec": 21984
+      },
+      {
+        "stopId": "surface_1134",
+        "sequence": 7,
+        "arrivalSec": 22410,
+        "departureSec": 22425
+      },
+      {
+        "stopId": "surface_637",
+        "sequence": 8,
+        "arrivalSec": 22481,
+        "departureSec": 22496
+      },
+      {
+        "stopId": "surface_2267",
+        "sequence": 9,
+        "arrivalSec": 22583,
+        "departureSec": 22598
+      },
+      {
+        "stopId": "surface_46",
+        "sequence": 10,
+        "arrivalSec": 22677,
+        "departureSec": 22692
+      },
+      {
+        "stopId": "surface_639",
+        "sequence": 11,
+        "arrivalSec": 22712,
+        "departureSec": 22727
+      },
+      {
+        "stopId": "surface_2683",
+        "sequence": 12,
+        "arrivalSec": 22757,
+        "departureSec": 22772
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2183",
+  "data": {
+    "name": "Giza Courthouse Complex",
+    "lat": 30.0107277,
+    "lng": 31.2090911,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2183",
+    "isActive": true
+  }
+}

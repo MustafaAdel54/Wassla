@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_UuVO-Ah0obn5O3ElJ2m0m",
+  "data": {
+    "routeId": "surface_NGTy9esRU6oo2uc86eEae",
+    "tripId": "UuVO-Ah0obn5O3ElJ2m0m",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Qanatir Al Khayriyyah",
+    "stops": [
+      {
+        "stopId": "surface_1398",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1838",
+        "sequence": 2,
+        "arrivalSec": 21765,
+        "departureSec": 21780
+      },
+      {
+        "stopId": "surface_2901",
+        "sequence": 3,
+        "arrivalSec": 22109,
+        "departureSec": 22124
+      },
+      {
+        "stopId": "surface_2903",
+        "sequence": 4,
+        "arrivalSec": 22992,
+        "departureSec": 23007
+      },
+      {
+        "stopId": "surface_2902",
+        "sequence": 5,
+        "arrivalSec": 23365,
+        "departureSec": 23380
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_510",
+  "data": {
+    "name": "Taki (Al Waili)",
+    "lat": 30.059368647223028,
+    "lng": 31.27629961758338,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "510",
+    "isActive": true
+  }
+}

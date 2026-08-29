@@ -1,0 +1,18 @@
+{
+  "id": "surface_1176",
+  "data": {
+    "name": "Hyper One (10th of Ramadan)",
+    "lat": 30.244668641295174,
+    "lng": 31.72543317319796,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1176",
+    "isActive": true
+  }
+}

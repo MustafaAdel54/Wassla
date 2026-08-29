@@ -1,0 +1,18 @@
+{
+  "id": "surface_2064",
+  "data": {
+    "name": "Egyptian Parlimant",
+    "lat": 30.041443925514887,
+    "lng": 31.2356173959665,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2064",
+    "isActive": true
+  }
+}

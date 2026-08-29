@@ -1,0 +1,18 @@
+{
+  "id": "surface_460",
+  "data": {
+    "name": "Manshiyat Al Gamal",
+    "lat": 30.09422393810882,
+    "lng": 31.27237375102399,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "460",
+    "isActive": true
+  }
+}

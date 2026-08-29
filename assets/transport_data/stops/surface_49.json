@@ -1,0 +1,18 @@
+{
+  "id": "surface_49",
+  "data": {
+    "name": "10th of Ramadan (Ismailiya Desert Rd.)",
+    "lat": 30.148646,
+    "lng": 31.422925,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "49",
+    "isActive": true
+  }
+}

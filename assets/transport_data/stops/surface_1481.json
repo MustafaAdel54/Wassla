@@ -1,0 +1,18 @@
+{
+  "id": "surface_1481",
+  "data": {
+    "name": "AASTMT Engineering Building - Sheraton",
+    "lat": 30.0951112,
+    "lng": 31.3743823,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1481",
+    "isActive": true
+  }
+}

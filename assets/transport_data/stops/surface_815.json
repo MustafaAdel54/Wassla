@@ -1,0 +1,18 @@
+{
+  "id": "surface_815",
+  "data": {
+    "name": "Alexandria Desert Rd. Steps (26th of July Corrdior)",
+    "lat": 30.046585,
+    "lng": 31.051738,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "815",
+    "isActive": true
+  }
+}

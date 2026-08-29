@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_O_14_CA031_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA031",
+    "tripId": "P_O_14_CA031_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Ezbet Al Nakhl",
+    "stops": [
+      {
+        "stopId": "surface_2462",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2700",
+        "sequence": 2,
+        "arrivalSec": 21709,
+        "departureSec": 21724
+      },
+      {
+        "stopId": "surface_2701",
+        "sequence": 3,
+        "arrivalSec": 21829,
+        "departureSec": 21844
+      },
+      {
+        "stopId": "surface_2702",
+        "sequence": 4,
+        "arrivalSec": 22167,
+        "departureSec": 22182
+      },
+      {
+        "stopId": "surface_2705",
+        "sequence": 5,
+        "arrivalSec": 22242,
+        "departureSec": 22257
+      },
+      {
+        "stopId": "surface_2703",
+        "sequence": 6,
+        "arrivalSec": 22292,
+        "departureSec": 22307
+      },
+      {
+        "stopId": "surface_2707",
+        "sequence": 7,
+        "arrivalSec": 22467,
+        "departureSec": 22482
+      },
+      {
+        "stopId": "surface_2535",
+        "sequence": 8,
+        "arrivalSec": 22560,
+        "departureSec": 22575
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

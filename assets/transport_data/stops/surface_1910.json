@@ -1,0 +1,18 @@
+{
+  "id": "surface_1910",
+  "data": {
+    "name": "Hareer St. (Helwan)",
+    "lat": 29.841397407706662,
+    "lng": 31.307826398894314,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1910",
+    "isActive": true
+  }
+}

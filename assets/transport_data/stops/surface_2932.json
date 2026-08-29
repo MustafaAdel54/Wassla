@@ -1,0 +1,18 @@
+{
+  "id": "surface_2932",
+  "data": {
+    "name": "Abu Bakr Al Sidiq Square (15th of May)",
+    "lat": 29.828604,
+    "lng": 31.369951,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2932",
+    "isActive": true
+  }
+}

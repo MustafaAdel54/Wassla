@@ -1,0 +1,18 @@
+{
+  "id": "surface_596",
+  "data": {
+    "name": "Mahmoudeya Station",
+    "lat": 29.97468502194026,
+    "lng": 31.397041376752277,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "596",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_127",
+  "data": {
+    "name": "Abbaseya Square",
+    "lat": 30.07420941,
+    "lng": 31.28559382,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "127",
+    "isActive": true
+  }
+}

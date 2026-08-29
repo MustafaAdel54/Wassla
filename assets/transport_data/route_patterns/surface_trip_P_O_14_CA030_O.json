@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_O_14_CA030_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA030",
+    "tripId": "P_O_14_CA030_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mazlaqan Ain Shams",
+    "stops": [
+      {
+        "stopId": "surface_2463",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2462",
+        "sequence": 2,
+        "arrivalSec": 21621,
+        "departureSec": 21636
+      },
+      {
+        "stopId": "surface_2700",
+        "sequence": 3,
+        "arrivalSec": 21726,
+        "departureSec": 21741
+      },
+      {
+        "stopId": "surface_2701",
+        "sequence": 4,
+        "arrivalSec": 21846,
+        "departureSec": 21861
+      },
+      {
+        "stopId": "surface_2702",
+        "sequence": 5,
+        "arrivalSec": 22184,
+        "departureSec": 22199
+      },
+      {
+        "stopId": "surface_1710",
+        "sequence": 6,
+        "arrivalSec": 22201,
+        "departureSec": 22216
+      },
+      {
+        "stopId": "surface_2533",
+        "sequence": 7,
+        "arrivalSec": 22259,
+        "departureSec": 22274
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

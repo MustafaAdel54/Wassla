@@ -1,0 +1,18 @@
+{
+  "id": "surface_1892",
+  "data": {
+    "name": "Islamic Studies Institute (Al Waili)",
+    "lat": 30.056331778079404,
+    "lng": 31.27927463385892,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1892",
+    "isActive": true
+  }
+}

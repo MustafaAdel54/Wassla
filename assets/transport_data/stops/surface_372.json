@@ -1,0 +1,18 @@
+{
+  "id": "surface_372",
+  "data": {
+    "name": "Al Fardous Compound Entrance (6th of October)",
+    "lat": 29.958709357918675,
+    "lng": 31.054105562345793,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "372",
+    "isActive": true
+  }
+}

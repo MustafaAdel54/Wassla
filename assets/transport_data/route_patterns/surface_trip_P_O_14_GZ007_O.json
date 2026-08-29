@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_O_14_GZ007_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ007",
+    "tripId": "P_O_14_GZ007_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Dandy Mall",
+    "stops": [
+      {
+        "stopId": "surface_632",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_617",
+        "sequence": 2,
+        "arrivalSec": 21746,
+        "departureSec": 21761
+      },
+      {
+        "stopId": "surface_618",
+        "sequence": 3,
+        "arrivalSec": 21786,
+        "departureSec": 21801
+      },
+      {
+        "stopId": "surface_2651",
+        "sequence": 4,
+        "arrivalSec": 21856,
+        "departureSec": 21871
+      },
+      {
+        "stopId": "surface_620",
+        "sequence": 5,
+        "arrivalSec": 22021,
+        "departureSec": 22036
+      },
+      {
+        "stopId": "surface_239",
+        "sequence": 6,
+        "arrivalSec": 22172,
+        "departureSec": 22187
+      },
+      {
+        "stopId": "surface_2782",
+        "sequence": 7,
+        "arrivalSec": 22423,
+        "departureSec": 22438
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

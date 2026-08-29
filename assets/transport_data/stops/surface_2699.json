@@ -1,0 +1,18 @@
+{
+  "id": "surface_2699",
+  "data": {
+    "name": "Sawaris Square (Maadi)",
+    "lat": 29.9632145,
+    "lng": 31.2607178,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2699",
+    "isActive": true
+  }
+}

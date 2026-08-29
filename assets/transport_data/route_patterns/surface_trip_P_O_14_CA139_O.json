@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_O_14_CA139_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA139",
+    "tripId": "P_O_14_CA139_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Hadayeq Helwan",
+    "stops": [
+      {
+        "stopId": "surface_1775",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1774",
+        "sequence": 2,
+        "arrivalSec": 21700,
+        "departureSec": 21715
+      },
+      {
+        "stopId": "surface_2604",
+        "sequence": 3,
+        "arrivalSec": 21870,
+        "departureSec": 21886
+      },
+      {
+        "stopId": "surface_1773",
+        "sequence": 4,
+        "arrivalSec": 21954,
+        "departureSec": 21970
+      },
+      {
+        "stopId": "surface_1896",
+        "sequence": 5,
+        "arrivalSec": 22112,
+        "departureSec": 22128
+      },
+      {
+        "stopId": "surface_1899",
+        "sequence": 6,
+        "arrivalSec": 22262,
+        "departureSec": 22278
+      },
+      {
+        "stopId": "surface_1919",
+        "sequence": 7,
+        "arrivalSec": 22302,
+        "departureSec": 22318
+      },
+      {
+        "stopId": "surface_1923",
+        "sequence": 8,
+        "arrivalSec": 22396,
+        "departureSec": 22410
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

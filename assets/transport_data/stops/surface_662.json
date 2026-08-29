@@ -1,0 +1,18 @@
+{
+  "id": "surface_662",
+  "data": {
+    "name": "Faculty of Dental & Oral Medicine - Cairo University (Manial)",
+    "lat": 30.028441755962422,
+    "lng": 31.226643575100198,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "662",
+    "isActive": true
+  }
+}

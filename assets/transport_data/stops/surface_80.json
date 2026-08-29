@@ -1,0 +1,18 @@
+{
+  "id": "surface_80",
+  "data": {
+    "name": "Bashtil El Balad",
+    "lat": 30.087406122471478,
+    "lng": 31.183687811566752,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "80",
+    "isActive": true
+  }
+}

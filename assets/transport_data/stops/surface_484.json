@@ -1,0 +1,18 @@
+{
+  "id": "surface_484",
+  "data": {
+    "name": "Kids Land (Mostafa Al Nahas St.)",
+    "lat": 30.0572657,
+    "lng": 31.3691875,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "484",
+    "isActive": true
+  }
+}

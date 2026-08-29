@@ -1,0 +1,18 @@
+{
+  "id": "surface_1286",
+  "data": {
+    "name": "Al Maasara For Engineering Industries",
+    "lat": 29.90575490015908,
+    "lng": 31.288371788855226,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1286",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2837",
+  "data": {
+    "name": "The National Museum of Egyptian Civilization",
+    "lat": 30.00545498712134,
+    "lng": 31.247887611199193,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2837",
+    "isActive": true
+  }
+}

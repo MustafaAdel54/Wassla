@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_P_O_14_GZ004_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ004",
+    "tripId": "P_O_14_GZ004_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Haram Mashaal",
+    "stops": [
+      {
+        "stopId": "surface_1795",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1798",
+        "sequence": 2,
+        "arrivalSec": 21662,
+        "departureSec": 21677
+      },
+      {
+        "stopId": "surface_1797",
+        "sequence": 3,
+        "arrivalSec": 21754,
+        "departureSec": 21769
+      },
+      {
+        "stopId": "surface_1800",
+        "sequence": 4,
+        "arrivalSec": 21841,
+        "departureSec": 21856
+      },
+      {
+        "stopId": "surface_1802",
+        "sequence": 5,
+        "arrivalSec": 21932,
+        "departureSec": 21947
+      },
+      {
+        "stopId": "surface_1804",
+        "sequence": 6,
+        "arrivalSec": 22120,
+        "departureSec": 22135
+      },
+      {
+        "stopId": "surface_1806",
+        "sequence": 7,
+        "arrivalSec": 22213,
+        "departureSec": 22228
+      },
+      {
+        "stopId": "surface_1818",
+        "sequence": 8,
+        "arrivalSec": 22516,
+        "departureSec": 22531
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_Do6CfRwo1pyW8kCsHcQg2",
+  "data": {
+    "routeId": "surface_ynTk2w8k0i45iT5CkTzX-",
+    "tripId": "Do6CfRwo1pyW8kCsHcQg2",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "El Kafr (Birak Al Khiyam)",
+    "stops": [
+      {
+        "stopId": "surface_2539",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2664",
+        "sequence": 2,
+        "arrivalSec": 21939,
+        "departureSec": 21954
+      },
+      {
+        "stopId": "surface_58",
+        "sequence": 3,
+        "arrivalSec": 22739,
+        "departureSec": 22754
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

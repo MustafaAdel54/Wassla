@@ -1,0 +1,18 @@
+{
+  "id": "surface_1662",
+  "data": {
+    "name": "Al Nadi Square (Maadi)",
+    "lat": 29.963156,
+    "lng": 31.263714,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1662",
+    "isActive": true
+  }
+}

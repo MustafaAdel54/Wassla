@@ -1,0 +1,18 @@
+{
+  "id": "surface_1054",
+  "data": {
+    "name": "Al Zohour Nursery (Sheikh Zayed)",
+    "lat": 30.047274165012627,
+    "lng": 30.973853983083703,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1054",
+    "isActive": true
+  }
+}

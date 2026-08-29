@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_awsb7ORmKj1A-XgP5bl6-",
+  "data": {
+    "routeId": "surface_RSdIAdQiV_sN5aWHuOSsc",
+    "tripId": "awsb7ORmKj1A-XgP5bl6-",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Amiriya",
+    "stops": [
+      {
+        "stopId": "surface_1748",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2801",
+        "sequence": 2,
+        "arrivalSec": 21706,
+        "departureSec": 21721
+      },
+      {
+        "stopId": "surface_1292",
+        "sequence": 3,
+        "arrivalSec": 21888,
+        "departureSec": 21903
+      },
+      {
+        "stopId": "surface_1293",
+        "sequence": 4,
+        "arrivalSec": 22051,
+        "departureSec": 22066
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

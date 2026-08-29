@@ -1,0 +1,18 @@
+{
+  "id": "surface_103",
+  "data": {
+    "name": "Helmeyet Al Zatoun Metro",
+    "lat": 30.113196,
+    "lng": 31.314354,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "103",
+    "isActive": true
+  }
+}

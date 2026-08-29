@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_M_201",
+  "data": {
+    "name": "Al Warraq - Tagneed (Al Remaya)",
+    "shortName": "Minibus 201",
+    "agencyId": "surface_CTA_M",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_M_201",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

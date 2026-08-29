@@ -1,0 +1,18 @@
+{
+  "id": "surface_2748",
+  "data": {
+    "name": "Dokki",
+    "lat": 30.03741374534911,
+    "lng": 31.211551152914822,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2748",
+    "isActive": true
+  }
+}

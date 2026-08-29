@@ -1,0 +1,18 @@
+{
+  "id": "surface_412",
+  "data": {
+    "name": "Obour Sporting Club",
+    "lat": 30.23521094849274,
+    "lng": 31.45811171451009,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "412",
+    "isActive": true
+  }
+}

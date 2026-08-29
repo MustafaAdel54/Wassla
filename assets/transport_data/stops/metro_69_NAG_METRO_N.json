@@ -1,0 +1,16 @@
+{
+  "id": "metro_69_NAG_METRO_N",
+  "data": {
+    "name": "Mohamed Naguib",
+    "lat": 30.0453402,
+    "lng": 31.2441516,
+    "stationId": "station_metro_69_NAG_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "69_NAG_METRO_N",
+    "parentSourceId": "69_NAG_METRO",
+    "isActive": true
+  }
+}

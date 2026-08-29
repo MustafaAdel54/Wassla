@@ -1,0 +1,74 @@
+{
+  "id": "surface_trip_FrAn7rOiw-PJSklEUYBI_",
+  "data": {
+    "routeId": "surface_T7BWm7IBJwclTVfKGA8P-",
+    "tripId": "FrAn7rOiw-PJSklEUYBI_",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Abboud",
+    "stops": [
+      {
+        "stopId": "surface_1094",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2257",
+        "sequence": 2,
+        "arrivalSec": 21825,
+        "departureSec": 21840
+      },
+      {
+        "stopId": "surface_2304",
+        "sequence": 3,
+        "arrivalSec": 21885,
+        "departureSec": 21900
+      },
+      {
+        "stopId": "surface_2255",
+        "sequence": 4,
+        "arrivalSec": 21978,
+        "departureSec": 21993
+      },
+      {
+        "stopId": "surface_2247",
+        "sequence": 5,
+        "arrivalSec": 22109,
+        "departureSec": 22124
+      },
+      {
+        "stopId": "surface_2249",
+        "sequence": 6,
+        "arrivalSec": 22184,
+        "departureSec": 22198
+      },
+      {
+        "stopId": "surface_2251",
+        "sequence": 7,
+        "arrivalSec": 22320,
+        "departureSec": 22334
+      },
+      {
+        "stopId": "surface_2119",
+        "sequence": 8,
+        "arrivalSec": 22380,
+        "departureSec": 22396
+      },
+      {
+        "stopId": "surface_2118",
+        "sequence": 9,
+        "arrivalSec": 22412,
+        "departureSec": 22426
+      },
+      {
+        "stopId": "surface_718",
+        "sequence": 10,
+        "arrivalSec": 22450,
+        "departureSec": 22464
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

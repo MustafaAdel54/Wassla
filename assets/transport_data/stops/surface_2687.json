@@ -1,0 +1,18 @@
+{
+  "id": "surface_2687",
+  "data": {
+    "name": "Banque Misr (Aghakhan)",
+    "lat": 30.10324584346858,
+    "lng": 31.243218531662404,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2687",
+    "isActive": true
+  }
+}

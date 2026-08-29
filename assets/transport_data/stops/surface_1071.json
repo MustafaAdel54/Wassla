@@ -1,0 +1,18 @@
+{
+  "id": "surface_1071",
+  "data": {
+    "name": "1st Settlement Authority",
+    "lat": 30.052122724828052,
+    "lng": 31.44814688532518,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1071",
+    "isActive": true
+  }
+}

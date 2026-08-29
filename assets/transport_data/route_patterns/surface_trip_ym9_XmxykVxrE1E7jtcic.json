@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_ym9_XmxykVxrE1E7jtcic",
+  "data": {
+    "routeId": "surface_EdxCXX3s8ILq_VMt8162G",
+    "tripId": "ym9_XmxykVxrE1E7jtcic",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Zawya Al Hamra",
+    "stops": [
+      {
+        "stopId": "surface_2392",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1348",
+        "sequence": 2,
+        "arrivalSec": 21693,
+        "departureSec": 21708
+      },
+      {
+        "stopId": "surface_2395",
+        "sequence": 3,
+        "arrivalSec": 21899,
+        "departureSec": 21914
+      },
+      {
+        "stopId": "surface_2115",
+        "sequence": 4,
+        "arrivalSec": 22037,
+        "departureSec": 22052
+      },
+      {
+        "stopId": "surface_2113",
+        "sequence": 5,
+        "arrivalSec": 22080,
+        "departureSec": 22095
+      },
+      {
+        "stopId": "surface_210",
+        "sequence": 6,
+        "arrivalSec": 22213,
+        "departureSec": 22228
+      },
+      {
+        "stopId": "surface_211",
+        "sequence": 7,
+        "arrivalSec": 22239,
+        "departureSec": 22254
+      },
+      {
+        "stopId": "surface_719",
+        "sequence": 8,
+        "arrivalSec": 22315,
+        "departureSec": 22330
+      },
+      {
+        "stopId": "surface_2252",
+        "sequence": 9,
+        "arrivalSec": 22425,
+        "departureSec": 22440
+      },
+      {
+        "stopId": "surface_461",
+        "sequence": 10,
+        "arrivalSec": 22621,
+        "departureSec": 22636
+      },
+      {
+        "stopId": "surface_460",
+        "sequence": 11,
+        "arrivalSec": 22778,
+        "departureSec": 22793
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

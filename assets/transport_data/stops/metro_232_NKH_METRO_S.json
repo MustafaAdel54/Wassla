@@ -1,0 +1,16 @@
+{
+  "id": "metro_232_NKH_METRO_S",
+  "data": {
+    "name": "Ezbet El-Nakhl",
+    "lat": 30.1392217,
+    "lng": 31.3246232,
+    "stationId": "station_metro_232_NKH_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "232_NKH_METRO_S",
+    "parentSourceId": "232_NKH_METRO",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1586",
+  "data": {
+    "name": "Physical Therapy - Modern Academy",
+    "lat": 29.992441738667146,
+    "lng": 31.31131015237516,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1586",
+    "isActive": true
+  }
+}

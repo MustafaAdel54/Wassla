@@ -1,0 +1,18 @@
+{
+  "id": "surface_1934",
+  "data": {
+    "name": "Al Malek Al Saleh Metro",
+    "lat": 30.018210431164146,
+    "lng": 31.229210484606103,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1934",
+    "isActive": true
+  }
+}

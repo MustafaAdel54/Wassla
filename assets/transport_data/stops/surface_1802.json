@@ -1,0 +1,18 @@
+{
+  "id": "surface_1802",
+  "data": {
+    "name": "Al Rashaah (Kerdasa)",
+    "lat": 30.023103,
+    "lng": 31.1065342,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1802",
+    "isActive": true
+  }
+}

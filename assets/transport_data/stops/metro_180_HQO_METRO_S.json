@@ -1,0 +1,16 @@
+{
+  "id": "metro_180_HQO_METRO_S",
+  "data": {
+    "name": "Hammamat El-Qobba",
+    "lat": 30.0911897,
+    "lng": 31.2990081,
+    "stationId": "station_metro_180_HQO_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "180_HQO_METRO_S",
+    "parentSourceId": "180_HQO_METRO",
+    "isActive": true
+  }
+}

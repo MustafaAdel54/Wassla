@@ -1,0 +1,18 @@
+{
+  "id": "surface_569",
+  "data": {
+    "name": "Dandy Mall",
+    "lat": 30.06089432474807,
+    "lng": 31.028857073107403,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "569",
+    "isActive": true
+  }
+}

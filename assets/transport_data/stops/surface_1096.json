@@ -1,0 +1,18 @@
+{
+  "id": "surface_1096",
+  "data": {
+    "name": "Al Souq Al Qadeem (6th of October)",
+    "lat": 29.92968720507812,
+    "lng": 30.91520419411893,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1096",
+    "isActive": true
+  }
+}

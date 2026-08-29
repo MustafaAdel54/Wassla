@@ -1,0 +1,18 @@
+{
+  "id": "surface_2800",
+  "data": {
+    "name": "Al Noqrashy School (Hadayek Al Qobba)",
+    "lat": 30.092031612968217,
+    "lng": 31.29311940082412,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2800",
+    "isActive": true
+  }
+}

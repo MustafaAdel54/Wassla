@@ -50,7 +50,7 @@ class RouteSearchCubit extends Cubit<RouteSearchState> {
   final RoutingService _routingService;
 
   RouteSearchCubit(this._searchRouteUseCase, this._routingService)
-      : super(const RouteSearchInitial());
+    : super(const RouteSearchInitial());
 
   /// Initialize the routing engine.
   Future<void> initializeEngine() async {

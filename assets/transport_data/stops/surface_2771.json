@@ -1,0 +1,18 @@
+{
+  "id": "surface_2771",
+  "data": {
+    "name": "Al Mostashfa St. & Faisel St.",
+    "lat": 29.9954983,
+    "lng": 31.1517039,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2771",
+    "isActive": true
+  }
+}

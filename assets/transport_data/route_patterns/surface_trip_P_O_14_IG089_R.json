@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_IG089_R",
+  "data": {
+    "routeId": "surface_P_O_14_IG089",
+    "tripId": "P_O_14_IG089_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Qasr Al Einy",
+    "stops": [
+      {
+        "stopId": "surface_2738",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2681",
+        "sequence": 2,
+        "arrivalSec": 21789,
+        "departureSec": 21804
+      },
+      {
+        "stopId": "surface_2684",
+        "sequence": 3,
+        "arrivalSec": 21816,
+        "departureSec": 21831
+      },
+      {
+        "stopId": "surface_638",
+        "sequence": 4,
+        "arrivalSec": 21876,
+        "departureSec": 21891
+      },
+      {
+        "stopId": "surface_635",
+        "sequence": 5,
+        "arrivalSec": 21957,
+        "departureSec": 21972
+      },
+      {
+        "stopId": "surface_2181",
+        "sequence": 6,
+        "arrivalSec": 22017,
+        "departureSec": 22032
+      },
+      {
+        "stopId": "surface_2182",
+        "sequence": 7,
+        "arrivalSec": 22037,
+        "departureSec": 22052
+      },
+      {
+        "stopId": "surface_2268",
+        "sequence": 8,
+        "arrivalSec": 22097,
+        "departureSec": 22112
+      },
+      {
+        "stopId": "surface_636",
+        "sequence": 9,
+        "arrivalSec": 22174,
+        "departureSec": 22189
+      },
+      {
+        "stopId": "surface_1133",
+        "sequence": 10,
+        "arrivalSec": 22252,
+        "departureSec": 22267
+      },
+      {
+        "stopId": "surface_663",
+        "sequence": 11,
+        "arrivalSec": 22404,
+        "departureSec": 22419
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

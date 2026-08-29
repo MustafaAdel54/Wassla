@@ -1,0 +1,18 @@
+{
+  "id": "surface_2630",
+  "data": {
+    "name": "New Heliopolis City Authority",
+    "lat": 30.13770980000001,
+    "lng": 31.6800837,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2630",
+    "isActive": true
+  }
+}

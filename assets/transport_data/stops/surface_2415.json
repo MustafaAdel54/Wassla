@@ -1,0 +1,18 @@
+{
+  "id": "surface_2415",
+  "data": {
+    "name": "Al Rahman Mosque (Al Salam City)",
+    "lat": 30.170623792773917,
+    "lng": 31.422419205613938,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2415",
+    "isActive": true
+  }
+}

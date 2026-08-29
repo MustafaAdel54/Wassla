@@ -1,0 +1,18 @@
+{
+  "id": "surface_2641",
+  "data": {
+    "name": "Journalists Club (Al Bahr Al Aazam St.)",
+    "lat": 30.00548075844278,
+    "lng": 31.217411421042776,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2641",
+    "isActive": true
+  }
+}

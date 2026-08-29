@@ -1,0 +1,18 @@
+{
+  "id": "surface_203",
+  "data": {
+    "name": "Enppi",
+    "lat": 30.044984682176143,
+    "lng": 31.34073899366375,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "203",
+    "isActive": true
+  }
+}

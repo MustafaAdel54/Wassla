@@ -1,0 +1,18 @@
+{
+  "id": "surface_839",
+  "data": {
+    "name": "Ceramica Square - Sheikh Zayed",
+    "lat": 30.03808,
+    "lng": 30.97876,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "839",
+    "isActive": true
+  }
+}

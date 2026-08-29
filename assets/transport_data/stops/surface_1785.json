@@ -1,0 +1,18 @@
+{
+  "id": "surface_1785",
+  "data": {
+    "name": "4th Neighbourhood Council (15th of May)",
+    "lat": 29.83835,
+    "lng": 31.37779,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1785",
+    "isActive": true
+  }
+}

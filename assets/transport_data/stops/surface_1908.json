@@ -1,0 +1,18 @@
+{
+  "id": "surface_1908",
+  "data": {
+    "name": "Al Nasr Hospital (Helwan)",
+    "lat": 29.839209113029984,
+    "lng": 31.321717975085,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1908",
+    "isActive": true
+  }
+}

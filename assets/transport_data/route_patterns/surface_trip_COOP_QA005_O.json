@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_COOP_QA005_O",
+  "data": {
+    "routeId": "surface_COOP_QA005",
+    "tripId": "COOP_QA005_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Moassasa",
+    "stops": [
+      {
+        "stopId": "surface_2431",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1846",
+        "sequence": 2,
+        "arrivalSec": 21673,
+        "departureSec": 21688
+      },
+      {
+        "stopId": "surface_1300",
+        "sequence": 3,
+        "arrivalSec": 21934,
+        "departureSec": 21949
+      },
+      {
+        "stopId": "surface_1845",
+        "sequence": 4,
+        "arrivalSec": 22068,
+        "departureSec": 22083
+      },
+      {
+        "stopId": "surface_2231",
+        "sequence": 5,
+        "arrivalSec": 22330,
+        "departureSec": 22345
+      },
+      {
+        "stopId": "surface_2221",
+        "sequence": 6,
+        "arrivalSec": 22539,
+        "departureSec": 22554
+      },
+      {
+        "stopId": "surface_2517",
+        "sequence": 7,
+        "arrivalSec": 22732,
+        "departureSec": 22747
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

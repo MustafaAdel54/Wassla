@@ -1,0 +1,18 @@
+{
+  "id": "surface_2128",
+  "data": {
+    "name": "Al Sahel Police Department",
+    "lat": 30.08415827489096,
+    "lng": 31.245381501732066,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2128",
+    "isActive": true
+  }
+}

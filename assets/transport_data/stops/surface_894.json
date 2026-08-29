@@ -1,0 +1,18 @@
+{
+  "id": "surface_894",
+  "data": {
+    "name": "Al Kholafaa Al Rashedeen Mosque (6th of October)",
+    "lat": 29.950452960010935,
+    "lng": 30.93136430209308,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "894",
+    "isActive": true
+  }
+}

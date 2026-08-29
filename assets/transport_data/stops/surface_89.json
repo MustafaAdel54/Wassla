@@ -1,0 +1,18 @@
+{
+  "id": "surface_89",
+  "data": {
+    "name": "Ring Rd. Exit to Khosous",
+    "lat": 30.1583176,
+    "lng": 31.3020745,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "89",
+    "isActive": true
+  }
+}

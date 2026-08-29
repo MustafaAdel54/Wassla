@@ -1,0 +1,18 @@
+{
+  "id": "surface_2583",
+  "data": {
+    "name": "Al Azizeya Bridge",
+    "lat": 29.8790178,
+    "lng": 31.24650150000001,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2583",
+    "isActive": true
+  }
+}

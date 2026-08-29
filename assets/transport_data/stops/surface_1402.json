@@ -1,0 +1,18 @@
+{
+  "id": "surface_1402",
+  "data": {
+    "name": "Dolce",
+    "lat": 29.93567643568899,
+    "lng": 30.92442421073446,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1402",
+    "isActive": true
+  }
+}

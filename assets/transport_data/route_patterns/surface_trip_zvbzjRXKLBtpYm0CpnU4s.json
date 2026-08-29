@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_zvbzjRXKLBtpYm0CpnU4s",
+  "data": {
+    "routeId": "surface_foiu6unw8p8KJnIDFM5Xs",
+    "tripId": "zvbzjRXKLBtpYm0CpnU4s",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Qalyoub El Balad",
+    "stops": [
+      {
+        "stopId": "surface_2690",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2804",
+        "sequence": 2,
+        "arrivalSec": 21698,
+        "departureSec": 21713
+      },
+      {
+        "stopId": "surface_349",
+        "sequence": 3,
+        "arrivalSec": 21927,
+        "departureSec": 21942
+      },
+      {
+        "stopId": "surface_2692",
+        "sequence": 4,
+        "arrivalSec": 22012,
+        "departureSec": 22027
+      },
+      {
+        "stopId": "surface_1847",
+        "sequence": 5,
+        "arrivalSec": 22062,
+        "departureSec": 22077
+      },
+      {
+        "stopId": "surface_2661",
+        "sequence": 6,
+        "arrivalSec": 22209,
+        "departureSec": 22224
+      },
+      {
+        "stopId": "surface_1849",
+        "sequence": 7,
+        "arrivalSec": 22310,
+        "departureSec": 22325
+      },
+      {
+        "stopId": "surface_2647",
+        "sequence": 8,
+        "arrivalSec": 22566,
+        "departureSec": 22581
+      },
+      {
+        "stopId": "surface_2646",
+        "sequence": 9,
+        "arrivalSec": 22774,
+        "departureSec": 22789
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

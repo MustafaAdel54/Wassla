@@ -11,16 +11,12 @@ const List<String> kDatasetCollections = [
   'transfers',
 ];
 
-/// Collections stored in Firestore (queryable, small).
+/// Collections stored in Firestore (queryable).
 const List<String> kFirestoreCollections = [
   'agencies',
   'stations',
   'stops',
   'routes',
-];
-
-/// Collections stored in Cloud Storage (bulk download, large).
-const List<String> kCloudStorageCollections = [
   'route_patterns',
   'transfers',
 ];
@@ -35,8 +31,6 @@ const Set<String> kRoutingCollections = {
   'transfers',
 };
 
-/// Cloud Storage path prefix for dataset files.
-const String kStorageDatasetPrefix = 'dataset';
 
 /// Local dataset directory name inside applicationDocumentsDirectory.
 const String kLocalDatasetDir = 'wassla_dataset';

@@ -15,8 +15,6 @@ dependencies:
   # Firebase
   firebase_core: ^4.14.0
   cloud_firestore: ^6.9.0
-  firebase_storage: ^13.5.0
-
   # State management
   flutter_bloc: ^9.1.1
   equatable: ^2.1.0
@@ -52,3 +50,9 @@ flutter:
   # Bundle the transport dataset for initial bootstrap / dev import
   assets:
     - assets/transport_data/
+    - assets/transport_data/agencies/
+    - assets/transport_data/stations/
+    - assets/transport_data/stops/
+    - assets/transport_data/routes/
+    - assets/transport_data/route_patterns/
+    - assets/transport_data/transfers/

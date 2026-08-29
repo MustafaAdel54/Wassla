@@ -1,0 +1,18 @@
+{
+  "id": "surface_2146",
+  "data": {
+    "name": "Al Demerdash Hospital",
+    "lat": 30.0715102,
+    "lng": 31.2765151,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2146",
+    "isActive": true
+  }
+}

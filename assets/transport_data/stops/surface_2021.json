@@ -1,0 +1,18 @@
+{
+  "id": "surface_2021",
+  "data": {
+    "name": "Waei Islami Hospital (Mostorod)",
+    "lat": 30.120371468935065,
+    "lng": 31.28580617894923,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2021",
+    "isActive": true
+  }
+}

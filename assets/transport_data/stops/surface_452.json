@@ -1,0 +1,18 @@
+{
+  "id": "surface_452",
+  "data": {
+    "name": "Cairo Festival City Pedestrian Bridge (Ring Rd.)",
+    "lat": 30.02507241616237,
+    "lng": 31.402717156240218,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "452",
+    "isActive": true
+  }
+}

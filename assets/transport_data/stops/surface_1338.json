@@ -1,0 +1,18 @@
+{
+  "id": "surface_1338",
+  "data": {
+    "name": "Egypt Air Steps (Ring Rd.)",
+    "lat": 29.982721218736998,
+    "lng": 31.17856481467667,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1338",
+    "isActive": true
+  }
+}

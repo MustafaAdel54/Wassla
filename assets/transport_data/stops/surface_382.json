@@ -1,0 +1,18 @@
+{
+  "id": "surface_382",
+  "data": {
+    "name": "Credit Agricole (Al Mansoureyya Rd.)",
+    "lat": 29.987421,
+    "lng": 31.13228,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "382",
+    "isActive": true
+  }
+}

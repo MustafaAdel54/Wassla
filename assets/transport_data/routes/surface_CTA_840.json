@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_840",
+  "data": {
+    "name": "Al Sayeda Nafeesa - Qism El Hadayek",
+    "shortName": "CTA 840",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_840",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

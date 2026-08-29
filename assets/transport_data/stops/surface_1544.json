@@ -1,0 +1,18 @@
+{
+  "id": "surface_1544",
+  "data": {
+    "name": "Koshary Abu Hanafy (Al Moqattam)",
+    "lat": 29.99978177153441,
+    "lng": 31.330936847339217,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1544",
+    "isActive": true
+  }
+}

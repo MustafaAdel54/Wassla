@@ -1,0 +1,38 @@
+{
+  "id": "surface_trip_P_B_8_CA094_O",
+  "data": {
+    "routeId": "surface_P_B_8_CA094",
+    "tripId": "P_B_8_CA094_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Ezbet Al Nakhl",
+    "stops": [
+      {
+        "stopId": "surface_9",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_42",
+        "sequence": 2,
+        "arrivalSec": 22311,
+        "departureSec": 22326
+      },
+      {
+        "stopId": "surface_74",
+        "sequence": 3,
+        "arrivalSec": 22617,
+        "departureSec": 22632
+      },
+      {
+        "stopId": "surface_2530",
+        "sequence": 4,
+        "arrivalSec": 22727,
+        "departureSec": 22742
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

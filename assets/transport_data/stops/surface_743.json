@@ -1,0 +1,18 @@
+{
+  "id": "surface_743",
+  "data": {
+    "name": "Samir & Ali Al Thawra St (Heliopolis)",
+    "lat": 30.082612735477916,
+    "lng": 31.342883296661032,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "743",
+    "isActive": true
+  }
+}

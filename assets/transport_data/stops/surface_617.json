@@ -1,0 +1,18 @@
+{
+  "id": "surface_617",
+  "data": {
+    "name": "Ring Road Steps to 26th of July Mehwar",
+    "lat": 30.061999555412406,
+    "lng": 31.175513337028608,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "617",
+    "isActive": true
+  }
+}

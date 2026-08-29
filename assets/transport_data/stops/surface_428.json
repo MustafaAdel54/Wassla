@@ -1,0 +1,18 @@
+{
+  "id": "surface_428",
+  "data": {
+    "name": "Southern Gate Obour Market",
+    "lat": 30.163268142618982,
+    "lng": 31.474207604959048,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "428",
+    "isActive": true
+  }
+}

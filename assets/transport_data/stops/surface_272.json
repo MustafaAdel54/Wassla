@@ -1,0 +1,18 @@
+{
+  "id": "surface_272",
+  "data": {
+    "name": "Basateen Steps (Ring Rd.)",
+    "lat": 29.990417175394068,
+    "lng": 31.266972108731615,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "272",
+    "isActive": true
+  }
+}

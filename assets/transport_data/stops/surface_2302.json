@@ -1,0 +1,18 @@
+{
+  "id": "surface_2302",
+  "data": {
+    "name": "Koshary Aladin (Shobra)",
+    "lat": 30.0709684,
+    "lng": 31.2471925,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2302",
+    "isActive": true
+  }
+}

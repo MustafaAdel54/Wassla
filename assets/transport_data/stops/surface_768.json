@@ -1,0 +1,18 @@
+{
+  "id": "surface_768",
+  "data": {
+    "name": "Al Nahda Square (Shorouq City)",
+    "lat": 30.1612,
+    "lng": 31.62346,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "768",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1951",
+  "data": {
+    "name": "River Transport Authority (Zahraa)",
+    "lat": 29.9986105,
+    "lng": 31.2288415,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1951",
+    "isActive": true
+  }
+}

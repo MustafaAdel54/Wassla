@@ -1,0 +1,18 @@
+{
+  "id": "surface_2069",
+  "data": {
+    "name": "Talaat Harb Mall (Downtown)",
+    "lat": 30.050494414495244,
+    "lng": 31.240481006588638,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2069",
+    "isActive": true
+  }
+}

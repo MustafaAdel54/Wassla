@@ -1,0 +1,18 @@
+{
+  "id": "surface_1560",
+  "data": {
+    "name": "Arayes (Maadi)",
+    "lat": 29.978890004274067,
+    "lng": 31.285913202601396,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1560",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_434",
+  "data": {
+    "name": "Al Salam Tunnel Ring Rd. Entrance",
+    "lat": 30.148613228079572,
+    "lng": 31.425761279973432,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "434",
+    "isActive": true
+  }
+}

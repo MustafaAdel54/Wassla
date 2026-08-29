@@ -1,0 +1,18 @@
+{
+  "id": "surface_344",
+  "data": {
+    "name": "Al Bassous Steps - Ring Road",
+    "lat": 30.1452142,
+    "lng": 31.2114338,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "344",
+    "isActive": true
+  }
+}

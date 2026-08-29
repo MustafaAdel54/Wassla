@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_B8_j9Uh_HlbVrMmbErUD9",
+  "data": {
+    "routeId": "surface_-lI1f278TKfnCnumdD48V",
+    "tripId": "B8_j9Uh_HlbVrMmbErUD9",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Cairo University Metro",
+    "stops": [
+      {
+        "stopId": "surface_2738",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2681",
+        "sequence": 2,
+        "arrivalSec": 21789,
+        "departureSec": 21804
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

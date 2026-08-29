@@ -1,0 +1,18 @@
+{
+  "id": "surface_1056",
+  "data": {
+    "name": "Al Etaby Center",
+    "lat": 30.04595947276675,
+    "lng": 30.96692634067642,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1056",
+    "isActive": true
+  }
+}

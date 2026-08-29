@@ -1,0 +1,18 @@
+{
+  "id": "surface_867",
+  "data": {
+    "name": "Dolphin Mall",
+    "lat": 29.978647487015426,
+    "lng": 30.95557223486967,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "867",
+    "isActive": true
+  }
+}

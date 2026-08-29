@@ -1,0 +1,18 @@
+{
+  "id": "surface_232",
+  "data": {
+    "name": "New Cairo Sporting Club",
+    "lat": 30.009803349607317,
+    "lng": 31.5237872934925,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "232",
+    "isActive": true
+  }
+}

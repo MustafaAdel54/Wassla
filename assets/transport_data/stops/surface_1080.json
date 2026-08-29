@@ -1,0 +1,18 @@
+{
+  "id": "surface_1080",
+  "data": {
+    "name": "Nile University",
+    "lat": 30.00894476555309,
+    "lng": 30.9853716571838,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1080",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_622",
+  "data": {
+    "name": "Bashtil (Ring Rd.)",
+    "lat": 30.084144030036864,
+    "lng": 31.192012522032194,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "622",
+    "isActive": true
+  }
+}

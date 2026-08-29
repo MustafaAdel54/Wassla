@@ -1,0 +1,18 @@
+{
+  "id": "surface_509",
+  "data": {
+    "name": "Abu Makarem Mosque (Al Waili)",
+    "lat": 30.055565,
+    "lng": 31.279568,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "509",
+    "isActive": true
+  }
+}

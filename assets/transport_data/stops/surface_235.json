@@ -1,0 +1,18 @@
+{
+  "id": "surface_235",
+  "data": {
+    "name": "Al Karma Compound Gate (Sheikh Zayed)",
+    "lat": 30.042257696797652,
+    "lng": 31.004289799568475,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "235",
+    "isActive": true
+  }
+}

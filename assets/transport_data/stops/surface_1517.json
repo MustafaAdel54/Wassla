@@ -1,0 +1,18 @@
+{
+  "id": "surface_1517",
+  "data": {
+    "name": "Al Galaa Military Hospital",
+    "lat": 30.1002286821804,
+    "lng": 31.35057130579991,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1517",
+    "isActive": true
+  }
+}

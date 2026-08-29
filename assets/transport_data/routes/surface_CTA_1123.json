@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_1123",
+  "data": {
+    "name": "Bulaq Al Dakrur - Qism El Hadayek",
+    "shortName": "CTA 1123",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_1123",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

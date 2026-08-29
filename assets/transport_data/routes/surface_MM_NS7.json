@@ -1,0 +1,15 @@
+{
+  "id": "surface_MM_NS7",
+  "data": {
+    "name": "Al Shorouq Water - Saray Al Qobba",
+    "shortName": "MM NS7",
+    "agencyId": "surface_MM",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "MM_NS7",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

@@ -20,22 +20,25 @@ class LocalPlaceRepository implements PlaceRepository {
 
     // Load stations
     try {
-      final stationsJson =
-          await _localDataSource.readCollectionFile('stations');
+      final stationsJson = await _localDataSource.readCollectionFile(
+        'stations',
+      );
       final stations = jsonDecode(stationsJson) as List<dynamic>;
       for (final w in stations) {
         final id = w['id'] as String;
         final o = w['data'] as Map<String, dynamic>;
-        places.add(Place(
-          id: id,
-          name: o['name'] as String,
-          location: LocationPoint(
-            latitude: (o['lat'] as num).toDouble(),
-            longitude: (o['lng'] as num).toDouble(),
+        places.add(
+          Place(
+            id: id,
+            name: o['name'] as String,
+            location: LocationPoint(
+              latitude: (o['lat'] as num).toDouble(),
+              longitude: (o['lng'] as num).toDouble(),
+            ),
+            transportModes: ['metro'],
+            stationId: id,
           ),
-          transportModes: ['metro'],
-          stationId: id,
-        ));
+        );
       }
     } catch (_) {
       // stations file may not exist
@@ -59,18 +62,21 @@ class LocalPlaceRepository implements PlaceRepository {
         // Only include stops that are "hub" stops or have a null stationId
         // (surface stops without a parent station)
         if (stationId == null) {
-          places.add(Place(
-            id: id,
-            name: o['name'] as String,
-            location: LocationPoint(
-              latitude: (o['lat'] as num).toDouble(),
-              longitude: (o['lng'] as num).toDouble(),
+          places.add(
+            Place(
+              id: id,
+              name: o['name'] as String,
+              location: LocationPoint(
+                latitude: (o['lat'] as num).toDouble(),
+                longitude: (o['lng'] as num).toDouble(),
+              ),
+              transportModes:
+                  (o['transportModes'] as List<dynamic>?)
+                      ?.map((e) => e as String)
+                      .toList() ??
+                  [],
             ),
-            transportModes: (o['transportModes'] as List<dynamic>?)
-                    ?.map((e) => e as String)
-                    .toList() ??
-                [],
-          ));
+          );
         }
       }
     } catch (_) {

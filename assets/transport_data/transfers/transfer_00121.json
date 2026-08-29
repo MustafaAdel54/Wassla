@@ -1,0 +1,12 @@
+{
+  "id": "transfer_00121",
+  "data": {
+    "fromStopId": "surface_684",
+    "toStopId": "metro_86_SAD_METRO_S",
+    "distanceMeters": 12.8,
+    "estimatedMinutes": 1,
+    "confidence": "high",
+    "type": "walking_transfer_candidate",
+    "source": "geo_proximity"
+  }
+}

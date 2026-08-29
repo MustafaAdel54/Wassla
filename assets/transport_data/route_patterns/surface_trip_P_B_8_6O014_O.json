@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_B_8_6O014_O",
+  "data": {
+    "routeId": "surface_P_B_8_6O014",
+    "tripId": "P_B_8_6O014_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "10th District (6th of October)",
+    "stops": [
+      {
+        "stopId": "surface_1042",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_971",
+        "sequence": 2,
+        "arrivalSec": 21640,
+        "departureSec": 21655
+      },
+      {
+        "stopId": "surface_884",
+        "sequence": 3,
+        "arrivalSec": 21713,
+        "departureSec": 21728
+      },
+      {
+        "stopId": "surface_946",
+        "sequence": 4,
+        "arrivalSec": 21797,
+        "departureSec": 21812
+      },
+      {
+        "stopId": "surface_881",
+        "sequence": 5,
+        "arrivalSec": 21968,
+        "departureSec": 21983
+      },
+      {
+        "stopId": "surface_874",
+        "sequence": 6,
+        "arrivalSec": 22025,
+        "departureSec": 22040
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

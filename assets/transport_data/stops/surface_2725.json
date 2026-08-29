@@ -1,0 +1,18 @@
+{
+  "id": "surface_2725",
+  "data": {
+    "name": "Moassasa",
+    "lat": 30.1232794,
+    "lng": 31.2451545,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2725",
+    "isActive": true
+  }
+}

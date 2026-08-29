@@ -1,0 +1,18 @@
+{
+  "id": "surface_2380",
+  "data": {
+    "name": "Marioteyya",
+    "lat": 30.010398342420068,
+    "lng": 31.141424450357068,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2380",
+    "isActive": true
+  }
+}

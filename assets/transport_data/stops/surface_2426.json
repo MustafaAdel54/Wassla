@@ -1,0 +1,18 @@
+{
+  "id": "surface_2426",
+  "data": {
+    "name": "Al Shaboory Canal",
+    "lat": 30.13242279791857,
+    "lng": 31.281706493775463,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2426",
+    "isActive": true
+  }
+}

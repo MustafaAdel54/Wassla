@@ -1,0 +1,18 @@
+{
+  "id": "surface_2869",
+  "data": {
+    "name": "Sheikh Zayed General Hospital Northside",
+    "lat": 30.040458488005292,
+    "lng": 31.00910000501269,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2869",
+    "isActive": true
+  }
+}

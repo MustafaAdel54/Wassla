@@ -1,0 +1,18 @@
+{
+  "id": "surface_591",
+  "data": {
+    "name": "Al Takwa Mosque (5th Settlement)",
+    "lat": 29.995165923628598,
+    "lng": 31.422830148765662,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "591",
+    "isActive": true
+  }
+}

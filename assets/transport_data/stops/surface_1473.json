@@ -1,0 +1,18 @@
+{
+  "id": "surface_1473",
+  "data": {
+    "name": "Qasr Oraby Furniture (Gamal Abdel Nasser)",
+    "lat": 30.141410949301747,
+    "lng": 31.397807486079085,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1473",
+    "isActive": true
+  }
+}

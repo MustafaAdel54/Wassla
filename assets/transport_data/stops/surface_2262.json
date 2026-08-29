@@ -1,0 +1,18 @@
+{
+  "id": "surface_2262",
+  "data": {
+    "name": "National Research Center (Dokki)",
+    "lat": 30.036733528232382,
+    "lng": 31.20482688195188,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2262",
+    "isActive": true
+  }
+}

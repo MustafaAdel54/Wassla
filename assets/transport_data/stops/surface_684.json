@@ -1,0 +1,18 @@
+{
+  "id": "surface_684",
+  "data": {
+    "name": "Tahrir Square",
+    "lat": 30.044035016695517,
+    "lng": 31.23569408233386,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "684",
+    "isActive": true
+  }
+}

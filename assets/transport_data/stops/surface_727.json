@@ -1,0 +1,18 @@
+{
+  "id": "surface_727",
+  "data": {
+    "name": "Cairo Stadium",
+    "lat": 30.064494615183015,
+    "lng": 31.306272493422735,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "727",
+    "isActive": true
+  }
+}

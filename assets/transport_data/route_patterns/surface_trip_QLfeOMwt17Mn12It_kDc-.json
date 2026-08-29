@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_QLfeOMwt17Mn12It_kDc-",
+  "data": {
+    "routeId": "surface_oVLz5uMkzuzBcOtlii3MM",
+    "tripId": "QLfeOMwt17Mn12It_kDc-",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Hadaek EL Kobba",
+    "stops": [
+      {
+        "stopId": "surface_1734",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1733",
+        "sequence": 2,
+        "arrivalSec": 21660,
+        "departureSec": 21675
+      },
+      {
+        "stopId": "surface_735",
+        "sequence": 3,
+        "arrivalSec": 21851,
+        "departureSec": 21866
+      },
+      {
+        "stopId": "surface_129",
+        "sequence": 4,
+        "arrivalSec": 21871,
+        "departureSec": 21886
+      },
+      {
+        "stopId": "surface_1744",
+        "sequence": 5,
+        "arrivalSec": 22016,
+        "departureSec": 22031
+      },
+      {
+        "stopId": "surface_2800",
+        "sequence": 6,
+        "arrivalSec": 22151,
+        "departureSec": 22166
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

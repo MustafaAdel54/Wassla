@@ -1,0 +1,18 @@
+{
+  "id": "surface_297",
+  "data": {
+    "name": "Car Market (Nasr City)",
+    "lat": 30.04756555979427,
+    "lng": 31.366225728431033,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "297",
+    "isActive": true
+  }
+}

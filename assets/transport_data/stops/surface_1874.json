@@ -1,0 +1,18 @@
+{
+  "id": "surface_1874",
+  "data": {
+    "name": "Autostrad Entrance from Al Maasra",
+    "lat": 29.904943671502316,
+    "lng": 31.307844924163888,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1874",
+    "isActive": true
+  }
+}

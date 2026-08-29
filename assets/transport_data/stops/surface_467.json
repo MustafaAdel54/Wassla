@@ -1,0 +1,18 @@
+{
+  "id": "surface_467",
+  "data": {
+    "name": "Dusit Hotel",
+    "lat": 30.025145852816717,
+    "lng": 31.456976364429988,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "467",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_213",
+  "data": {
+    "name": "Abdeen",
+    "lat": 30.041148957541647,
+    "lng": 31.245586731774537,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "213",
+    "isActive": true
+  }
+}

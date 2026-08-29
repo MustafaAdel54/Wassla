@@ -1,0 +1,18 @@
+{
+  "id": "surface_472",
+  "data": {
+    "name": "American University in Cairo (AUC) Gate 1 (New Cairo)",
+    "lat": 30.025182,
+    "lng": 31.498819,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "472",
+    "isActive": true
+  }
+}

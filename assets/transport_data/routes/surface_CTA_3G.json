@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_3G",
+  "data": {
+    "name": "Darrasa - Koleyet Al Banat - Azhar University",
+    "shortName": "CTA 3g",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_3G",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

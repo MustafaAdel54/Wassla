@@ -1,0 +1,18 @@
+{
+  "id": "surface_46",
+  "data": {
+    "name": "Faculty of Applied Arts (Helwan University)",
+    "lat": 30.0294,
+    "lng": 31.20868,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "46",
+    "isActive": true
+  }
+}

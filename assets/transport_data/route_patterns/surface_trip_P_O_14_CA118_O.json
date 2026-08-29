@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_P_O_14_CA118_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA118",
+    "tripId": "P_O_14_CA118_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mostorod",
+    "stops": [
+      {
+        "stopId": "surface_1219",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2034",
+        "sequence": 2,
+        "arrivalSec": 21691,
+        "departureSec": 21706
+      },
+      {
+        "stopId": "surface_2036",
+        "sequence": 3,
+        "arrivalSec": 21740,
+        "departureSec": 21755
+      },
+      {
+        "stopId": "surface_2038",
+        "sequence": 4,
+        "arrivalSec": 21783,
+        "departureSec": 21798
+      },
+      {
+        "stopId": "surface_1841",
+        "sequence": 5,
+        "arrivalSec": 21846,
+        "departureSec": 21861
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

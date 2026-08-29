@@ -18,20 +18,24 @@ class SyncResult extends Equatable {
   });
 
   const SyncResult.noChanges()
-      : status = SyncStatusType.noChanges,
-        routingDataChanged = false,
-        collectionsDownloaded = 0,
-        errorMessage = null;
+    : status = SyncStatusType.noChanges,
+      routingDataChanged = false,
+      collectionsDownloaded = 0,
+      errorMessage = null;
 
   const SyncResult.failed(String message)
-      : status = SyncStatusType.failed,
-        routingDataChanged = false,
-        collectionsDownloaded = 0,
-        errorMessage = message;
+    : status = SyncStatusType.failed,
+      routingDataChanged = false,
+      collectionsDownloaded = 0,
+      errorMessage = message;
 
   @override
-  List<Object?> get props =>
-      [status, routingDataChanged, collectionsDownloaded, errorMessage];
+  List<Object?> get props => [
+    status,
+    routingDataChanged,
+    collectionsDownloaded,
+    errorMessage,
+  ];
 }
 
 /// Metadata about the remote dataset manifest.
@@ -51,27 +55,28 @@ class DatasetManifest extends Equatable {
   });
 
   @override
-  List<Object?> get props =>
-      [datasetVersion, schemaVersion, updatedAt, generatedAt, collections];
+  List<Object?> get props => [
+    datasetVersion,
+    schemaVersion,
+    updatedAt,
+    generatedAt,
+    collections,
+  ];
 }
 
 /// Metadata about a single collection within the dataset.
 class CollectionMetadata extends Equatable {
   final int count;
   final String contentHash;
-  final String storage; // "firestore" or "cloud_storage"
-  final String? storagePath; // Cloud Storage path, if applicable
-  final int? sizeBytes;
 
   const CollectionMetadata({
     required this.count,
     required this.contentHash,
-    required this.storage,
-    this.storagePath,
-    this.sizeBytes,
   });
 
   @override
-  List<Object?> get props =>
-      [count, contentHash, storage, storagePath, sizeBytes];
+  List<Object?> get props => [
+    count,
+    contentHash,
+  ];
 }

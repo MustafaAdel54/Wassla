@@ -1,0 +1,18 @@
+{
+  "id": "surface_250",
+  "data": {
+    "name": "Coptic Hospital",
+    "lat": 30.06344867823565,
+    "lng": 31.2520917042217,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "250",
+    "isActive": true
+  }
+}

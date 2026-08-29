@@ -1,0 +1,18 @@
+{
+  "id": "surface_1605",
+  "data": {
+    "name": "Shawerma Abu Mazen (Maadi)",
+    "lat": 29.960513,
+    "lng": 31.250332,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1605",
+    "isActive": true
+  }
+}

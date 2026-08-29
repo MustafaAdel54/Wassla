@@ -1,0 +1,18 @@
+{
+  "id": "surface_256",
+  "data": {
+    "name": "Al Narges 8 (5th Settlement)",
+    "lat": 30.001672046648668,
+    "lng": 31.461157799866424,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "256",
+    "isActive": true
+  }
+}

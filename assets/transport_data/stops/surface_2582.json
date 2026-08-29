@@ -1,0 +1,18 @@
+{
+  "id": "surface_2582",
+  "data": {
+    "name": "Officers Housing (Al Remaya St.)",
+    "lat": 29.987391172101397,
+    "lng": 31.120009118190787,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2582",
+    "isActive": true
+  }
+}

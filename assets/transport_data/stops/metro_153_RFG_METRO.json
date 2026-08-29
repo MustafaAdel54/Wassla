@@ -1,0 +1,16 @@
+{
+  "id": "metro_153_RFG_METRO",
+  "data": {
+    "name": "Rod El Farag",
+    "lat": 30.0805881,
+    "lng": 31.2454015,
+    "stationId": "station_metro_153_RFG_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "153_RFG_METRO",
+    "parentSourceId": "153_RFG_METRO",
+    "isActive": true
+  }
+}

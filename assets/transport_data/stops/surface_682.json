@@ -1,0 +1,18 @@
+{
+  "id": "surface_682",
+  "data": {
+    "name": "Al Soltan Hassan Mosque",
+    "lat": 30.031393053639942,
+    "lng": 31.25671417335718,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "682",
+    "isActive": true
+  }
+}

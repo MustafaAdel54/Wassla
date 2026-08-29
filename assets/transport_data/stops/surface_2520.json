@@ -1,0 +1,18 @@
+{
+  "id": "surface_2520",
+  "data": {
+    "name": "Megawra 3 Bus Station (15th of May)",
+    "lat": 29.83255548833074,
+    "lng": 31.379131718477474,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2520",
+    "isActive": true
+  }
+}

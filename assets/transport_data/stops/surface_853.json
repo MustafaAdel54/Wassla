@@ -1,0 +1,18 @@
+{
+  "id": "surface_853",
+  "data": {
+    "name": "Al Wagih Center (6th of October)",
+    "lat": 29.96264139999999,
+    "lng": 30.9013228,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "853",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2596",
+  "data": {
+    "name": "Al Abtal City (15th of May)",
+    "lat": 29.82824281387696,
+    "lng": 31.35450825369021,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2596",
+    "isActive": true
+  }
+}

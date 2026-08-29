@@ -1,0 +1,18 @@
+{
+  "id": "surface_1491",
+  "data": {
+    "name": "Radisson Hotel (Sheraton)",
+    "lat": 30.106963427191772,
+    "lng": 31.375172081977013,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1491",
+    "isActive": true
+  }
+}

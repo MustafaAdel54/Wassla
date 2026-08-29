@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_AzjuVB6PMRxrUnOC5Tmj8",
+  "data": {
+    "routeId": "surface_9HZEMuRNsQzN9flynqhET",
+    "tripId": "AzjuVB6PMRxrUnOC5Tmj8",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Malek Al Saleh",
+    "stops": [
+      {
+        "stopId": "surface_1664",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_155",
+        "sequence": 2,
+        "arrivalSec": 21747,
+        "departureSec": 21762
+      },
+      {
+        "stopId": "surface_1276",
+        "sequence": 3,
+        "arrivalSec": 21824,
+        "departureSec": 21839
+      },
+      {
+        "stopId": "surface_1607",
+        "sequence": 4,
+        "arrivalSec": 21879,
+        "departureSec": 21894
+      },
+      {
+        "stopId": "surface_156",
+        "sequence": 5,
+        "arrivalSec": 21932,
+        "departureSec": 21947
+      },
+      {
+        "stopId": "surface_157",
+        "sequence": 6,
+        "arrivalSec": 22001,
+        "departureSec": 22016
+      },
+      {
+        "stopId": "surface_1951",
+        "sequence": 7,
+        "arrivalSec": 22169,
+        "departureSec": 22184
+      },
+      {
+        "stopId": "surface_158",
+        "sequence": 8,
+        "arrivalSec": 22219,
+        "departureSec": 22234
+      },
+      {
+        "stopId": "surface_1953",
+        "sequence": 9,
+        "arrivalSec": 22291,
+        "departureSec": 22306
+      },
+      {
+        "stopId": "surface_1944",
+        "sequence": 10,
+        "arrivalSec": 22369,
+        "departureSec": 22384
+      },
+      {
+        "stopId": "surface_1942",
+        "sequence": 11,
+        "arrivalSec": 22436,
+        "departureSec": 22451
+      },
+      {
+        "stopId": "surface_50",
+        "sequence": 12,
+        "arrivalSec": 22483,
+        "departureSec": 22498
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

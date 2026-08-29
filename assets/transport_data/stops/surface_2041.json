@@ -1,0 +1,18 @@
+{
+  "id": "surface_2041",
+  "data": {
+    "name": "Sayyed Al Abedeen Pharmacy (Cablat St.)",
+    "lat": 30.113802,
+    "lng": 31.292479,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2041",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1747",
+  "data": {
+    "name": "Hadayeq Al Qobba Police Station",
+    "lat": 30.09279411528315,
+    "lng": 31.288003502237725,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1747",
+    "isActive": true
+  }
+}

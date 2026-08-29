@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_1128",
+  "data": {
+    "name": "Asmarrat - Mazallat",
+    "shortName": "CTA 1128",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_1128",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

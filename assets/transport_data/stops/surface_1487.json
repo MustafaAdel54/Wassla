@@ -1,0 +1,18 @@
+{
+  "id": "surface_1487",
+  "data": {
+    "name": "Higher Institute For Hotels & Tourism (Sheraton)",
+    "lat": 30.10287717340464,
+    "lng": 31.380312443773168,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1487",
+    "isActive": true
+  }
+}

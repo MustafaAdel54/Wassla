@@ -1,0 +1,18 @@
+{
+  "id": "surface_1135",
+  "data": {
+    "name": "Remaya 28",
+    "lat": 29.990033,
+    "lng": 31.133598,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1135",
+    "isActive": true
+  }
+}

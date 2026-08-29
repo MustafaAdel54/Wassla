@@ -1,0 +1,18 @@
+{
+  "id": "surface_1168",
+  "data": {
+    "name": "Paradise Al Shorouq Compound",
+    "lat": 30.152677155652537,
+    "lng": 31.659797704335684,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1168",
+    "isActive": true
+  }
+}

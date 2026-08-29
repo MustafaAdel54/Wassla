@@ -1,0 +1,18 @@
+{
+  "id": "surface_824",
+  "data": {
+    "name": "Police Academy (Mostafa Kamel Axis)",
+    "lat": 30.04985142412179,
+    "lng": 31.442184286138836,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "824",
+    "isActive": true
+  }
+}

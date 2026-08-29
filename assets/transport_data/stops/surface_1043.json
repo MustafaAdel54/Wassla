@@ -1,0 +1,18 @@
+{
+  "id": "surface_1043",
+  "data": {
+    "name": "Ariel (6th of October Industrial Zone 4)",
+    "lat": 29.9380583,
+    "lng": 30.8852378,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1043",
+    "isActive": true
+  }
+}

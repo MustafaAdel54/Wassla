@@ -1,0 +1,18 @@
+{
+  "id": "surface_663",
+  "data": {
+    "name": "KFC (Al Manial)",
+    "lat": 30.02819,
+    "lng": 31.226633184677507,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "663",
+    "isActive": true
+  }
+}

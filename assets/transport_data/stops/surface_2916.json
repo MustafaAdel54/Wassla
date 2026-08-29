@@ -1,0 +1,18 @@
+{
+  "id": "surface_2916",
+  "data": {
+    "name": "Sharea Jadid (Marg Axis)",
+    "lat": 30.141636,
+    "lng": 31.352652,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2916",
+    "isActive": true
+  }
+}

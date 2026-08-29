@@ -1,0 +1,18 @@
+{
+  "id": "surface_246",
+  "data": {
+    "name": "Zamalek Sporting Club",
+    "lat": 30.060734001187836,
+    "lng": 31.205017741503944,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "246",
+    "isActive": true
+  }
+}

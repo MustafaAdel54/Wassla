@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_P_B_8_6O029_O",
+  "data": {
+    "routeId": "surface_P_B_8_6O029",
+    "tripId": "P_B_8_6O029_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Laylat Al Qadr",
+    "stops": [
+      {
+        "stopId": "surface_1402",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_995",
+        "sequence": 2,
+        "arrivalSec": 21643,
+        "departureSec": 21658
+      },
+      {
+        "stopId": "surface_2776",
+        "sequence": 3,
+        "arrivalSec": 21680,
+        "departureSec": 21695
+      },
+      {
+        "stopId": "surface_994",
+        "sequence": 4,
+        "arrivalSec": 21734,
+        "departureSec": 21749
+      },
+      {
+        "stopId": "surface_988",
+        "sequence": 5,
+        "arrivalSec": 21794,
+        "departureSec": 21809
+      },
+      {
+        "stopId": "surface_990",
+        "sequence": 6,
+        "arrivalSec": 21859,
+        "departureSec": 21874
+      },
+      {
+        "stopId": "surface_991",
+        "sequence": 7,
+        "arrivalSec": 21920,
+        "departureSec": 21935
+      },
+      {
+        "stopId": "surface_985",
+        "sequence": 8,
+        "arrivalSec": 21980,
+        "departureSec": 21995
+      },
+      {
+        "stopId": "surface_1129",
+        "sequence": 9,
+        "arrivalSec": 22046,
+        "departureSec": 22061
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

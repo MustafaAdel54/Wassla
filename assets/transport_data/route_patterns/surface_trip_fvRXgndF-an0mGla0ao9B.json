@@ -1,0 +1,176 @@
+{
+  "id": "surface_trip_fvRXgndF-an0mGla0ao9B",
+  "data": {
+    "routeId": "surface_NrXQrpcK2JA_IC7xpHfNm",
+    "tripId": "fvRXgndF-an0mGla0ao9B",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "6th District - 6th of October (Al Souq Al Qadeem)",
+    "stops": [
+      {
+        "stopId": "surface_1119",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2873",
+        "sequence": 2,
+        "arrivalSec": 21707,
+        "departureSec": 21722
+      },
+      {
+        "stopId": "surface_2874",
+        "sequence": 3,
+        "arrivalSec": 21770,
+        "departureSec": 21785
+      },
+      {
+        "stopId": "surface_2746",
+        "sequence": 4,
+        "arrivalSec": 21965,
+        "departureSec": 21980
+      },
+      {
+        "stopId": "surface_2611",
+        "sequence": 5,
+        "arrivalSec": 22468,
+        "departureSec": 22483
+      },
+      {
+        "stopId": "surface_1353",
+        "sequence": 6,
+        "arrivalSec": 22518,
+        "departureSec": 22533
+      },
+      {
+        "stopId": "surface_544",
+        "sequence": 7,
+        "arrivalSec": 23141,
+        "departureSec": 23156
+      },
+      {
+        "stopId": "surface_543",
+        "sequence": 8,
+        "arrivalSec": 23239,
+        "departureSec": 23254
+      },
+      {
+        "stopId": "surface_545",
+        "sequence": 9,
+        "arrivalSec": 23336,
+        "departureSec": 23351
+      },
+      {
+        "stopId": "surface_542",
+        "sequence": 10,
+        "arrivalSec": 23415,
+        "departureSec": 23430
+      },
+      {
+        "stopId": "surface_541",
+        "sequence": 11,
+        "arrivalSec": 23509,
+        "departureSec": 23524
+      },
+      {
+        "stopId": "surface_540",
+        "sequence": 12,
+        "arrivalSec": 23556,
+        "departureSec": 23571
+      },
+      {
+        "stopId": "surface_537",
+        "sequence": 13,
+        "arrivalSec": 23659,
+        "departureSec": 23674
+      },
+      {
+        "stopId": "surface_535",
+        "sequence": 14,
+        "arrivalSec": 23769,
+        "departureSec": 23784
+      },
+      {
+        "stopId": "surface_533",
+        "sequence": 15,
+        "arrivalSec": 23799,
+        "departureSec": 23814
+      },
+      {
+        "stopId": "surface_531",
+        "sequence": 16,
+        "arrivalSec": 23950,
+        "departureSec": 23965
+      },
+      {
+        "stopId": "surface_556",
+        "sequence": 17,
+        "arrivalSec": 24071,
+        "departureSec": 24086
+      },
+      {
+        "stopId": "surface_2881",
+        "sequence": 18,
+        "arrivalSec": 24176,
+        "departureSec": 24191
+      },
+      {
+        "stopId": "surface_2879",
+        "sequence": 19,
+        "arrivalSec": 24248,
+        "departureSec": 24263
+      },
+      {
+        "stopId": "surface_2877",
+        "sequence": 20,
+        "arrivalSec": 24278,
+        "departureSec": 24293
+      },
+      {
+        "stopId": "surface_2971",
+        "sequence": 21,
+        "arrivalSec": 24333,
+        "departureSec": 24348
+      },
+      {
+        "stopId": "surface_2968",
+        "sequence": 22,
+        "arrivalSec": 24432,
+        "departureSec": 24447
+      },
+      {
+        "stopId": "surface_2967",
+        "sequence": 23,
+        "arrivalSec": 24572,
+        "departureSec": 24587
+      },
+      {
+        "stopId": "surface_549",
+        "sequence": 24,
+        "arrivalSec": 24632,
+        "departureSec": 24647
+      },
+      {
+        "stopId": "surface_1402",
+        "sequence": 25,
+        "arrivalSec": 24712,
+        "departureSec": 24727
+      },
+      {
+        "stopId": "surface_995",
+        "sequence": 26,
+        "arrivalSec": 24767,
+        "departureSec": 24782
+      },
+      {
+        "stopId": "surface_2776",
+        "sequence": 27,
+        "arrivalSec": 24852,
+        "departureSec": 24867
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

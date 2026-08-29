@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_vrKqTKPidIDI58EoJ_spD",
+  "data": {
+    "routeId": "surface_PNtTPVJcmDWclAFZdvYD2",
+    "tripId": "vrKqTKPidIDI58EoJ_spD",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Arab Al Tawaila",
+    "stops": [
+      {
+        "stopId": "surface_2700",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2701",
+        "sequence": 2,
+        "arrivalSec": 21656,
+        "departureSec": 21671
+      },
+      {
+        "stopId": "surface_2702",
+        "sequence": 3,
+        "arrivalSec": 21765,
+        "departureSec": 21780
+      },
+      {
+        "stopId": "surface_2705",
+        "sequence": 4,
+        "arrivalSec": 21796,
+        "departureSec": 21811
+      },
+      {
+        "stopId": "surface_2703",
+        "sequence": 5,
+        "arrivalSec": 21835,
+        "departureSec": 21850
+      },
+      {
+        "stopId": "surface_2712",
+        "sequence": 6,
+        "arrivalSec": 21955,
+        "departureSec": 21970
+      },
+      {
+        "stopId": "surface_2711",
+        "sequence": 7,
+        "arrivalSec": 22025,
+        "departureSec": 22040
+      },
+      {
+        "stopId": "surface_2710",
+        "sequence": 8,
+        "arrivalSec": 22050,
+        "departureSec": 22065
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

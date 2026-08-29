@@ -1,0 +1,18 @@
+{
+  "id": "surface_279",
+  "data": {
+    "name": "Abbaseya Hospital",
+    "lat": 30.06860610359911,
+    "lng": 31.292268832005,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "279",
+    "isActive": true
+  }
+}

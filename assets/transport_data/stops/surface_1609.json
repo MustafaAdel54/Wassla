@@ -1,0 +1,18 @@
+{
+  "id": "surface_1609",
+  "data": {
+    "name": "Al Salam International Hospital",
+    "lat": 29.985059249380267,
+    "lng": 31.229552336989503,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1609",
+    "isActive": true
+  }
+}

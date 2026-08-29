@@ -1,0 +1,18 @@
+{
+  "id": "surface_2408",
+  "data": {
+    "name": "Northen Giza Courthouse",
+    "lat": 30.068820599999963,
+    "lng": 31.205634399999983,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2408",
+    "isActive": true
+  }
+}

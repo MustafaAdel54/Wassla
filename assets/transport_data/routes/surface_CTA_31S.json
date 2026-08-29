@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_31S",
+  "data": {
+    "name": "Al Zawya Al Hamra - Giza Square",
+    "shortName": "CTA 31s",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_31S",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

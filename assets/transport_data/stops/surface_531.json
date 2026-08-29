@@ -1,0 +1,18 @@
+{
+  "id": "surface_531",
+  "data": {
+    "name": "Al Gehaz Entrance (6th of October)",
+    "lat": 29.96245657788399,
+    "lng": 30.9699119386892,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "531",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1535",
+  "data": {
+    "name": "Misr Insurance Company (Al Moqattam)",
+    "lat": 30.01304956698268,
+    "lng": 31.293582097430686,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1535",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1359",
+  "data": {
+    "name": "Dar Al Mona (Alexandria Desert Rd.)",
+    "lat": 30.02452674598421,
+    "lng": 31.085313655336986,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1359",
+    "isActive": true
+  }
+}

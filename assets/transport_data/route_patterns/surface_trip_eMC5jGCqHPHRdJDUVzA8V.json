@@ -1,0 +1,176 @@
+{
+  "id": "surface_trip_eMC5jGCqHPHRdJDUVzA8V",
+  "data": {
+    "routeId": "surface_4P_RC_FgHuWtFC8yoCbgz",
+    "tripId": "eMC5jGCqHPHRdJDUVzA8V",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Moassasa",
+    "stops": [
+      {
+        "stopId": "surface_55",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_641",
+        "sequence": 2,
+        "arrivalSec": 21703,
+        "departureSec": 21718
+      },
+      {
+        "stopId": "surface_2260",
+        "sequence": 3,
+        "arrivalSec": 21861,
+        "departureSec": 21876
+      },
+      {
+        "stopId": "surface_2273",
+        "sequence": 4,
+        "arrivalSec": 21946,
+        "departureSec": 21961
+      },
+      {
+        "stopId": "surface_2271",
+        "sequence": 5,
+        "arrivalSec": 22129,
+        "departureSec": 22144
+      },
+      {
+        "stopId": "surface_2523",
+        "sequence": 6,
+        "arrivalSec": 22216,
+        "departureSec": 22231
+      },
+      {
+        "stopId": "surface_2332",
+        "sequence": 7,
+        "arrivalSec": 22376,
+        "departureSec": 22391
+      },
+      {
+        "stopId": "surface_2334",
+        "sequence": 8,
+        "arrivalSec": 22461,
+        "departureSec": 22476
+      },
+      {
+        "stopId": "surface_2336",
+        "sequence": 9,
+        "arrivalSec": 22632,
+        "departureSec": 22647
+      },
+      {
+        "stopId": "surface_230",
+        "sequence": 10,
+        "arrivalSec": 22779,
+        "departureSec": 22794
+      },
+      {
+        "stopId": "surface_1334",
+        "sequence": 11,
+        "arrivalSec": 22987,
+        "departureSec": 23002
+      },
+      {
+        "stopId": "surface_2403",
+        "sequence": 12,
+        "arrivalSec": 23047,
+        "departureSec": 23062
+      },
+      {
+        "stopId": "surface_2404",
+        "sequence": 13,
+        "arrivalSec": 23182,
+        "departureSec": 23197
+      },
+      {
+        "stopId": "surface_2410",
+        "sequence": 14,
+        "arrivalSec": 23396,
+        "departureSec": 23411
+      },
+      {
+        "stopId": "surface_2400",
+        "sequence": 15,
+        "arrivalSec": 23491,
+        "departureSec": 23506
+      },
+      {
+        "stopId": "surface_196",
+        "sequence": 16,
+        "arrivalSec": 23553,
+        "departureSec": 23568
+      },
+      {
+        "stopId": "surface_197",
+        "sequence": 17,
+        "arrivalSec": 23573,
+        "departureSec": 23588
+      },
+      {
+        "stopId": "surface_149",
+        "sequence": 18,
+        "arrivalSec": 23917,
+        "departureSec": 23932
+      },
+      {
+        "stopId": "surface_150",
+        "sequence": 19,
+        "arrivalSec": 24000,
+        "departureSec": 24015
+      },
+      {
+        "stopId": "surface_151",
+        "sequence": 20,
+        "arrivalSec": 24093,
+        "departureSec": 24108
+      },
+      {
+        "stopId": "surface_2395",
+        "sequence": 21,
+        "arrivalSec": 24323,
+        "departureSec": 24338
+      },
+      {
+        "stopId": "surface_2115",
+        "sequence": 22,
+        "arrivalSec": 24510,
+        "departureSec": 24525
+      },
+      {
+        "stopId": "surface_2113",
+        "sequence": 23,
+        "arrivalSec": 24570,
+        "departureSec": 24585
+      },
+      {
+        "stopId": "surface_2688",
+        "sequence": 24,
+        "arrivalSec": 24705,
+        "departureSec": 24720
+      },
+      {
+        "stopId": "surface_2126",
+        "sequence": 25,
+        "arrivalSec": 24855,
+        "departureSec": 24870
+      },
+      {
+        "stopId": "surface_2112",
+        "sequence": 26,
+        "arrivalSec": 24935,
+        "departureSec": 24950
+      },
+      {
+        "stopId": "surface_2691",
+        "sequence": 27,
+        "arrivalSec": 25192,
+        "departureSec": 25207
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

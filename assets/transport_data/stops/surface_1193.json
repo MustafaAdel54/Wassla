@@ -1,0 +1,18 @@
+{
+  "id": "surface_1193",
+  "data": {
+    "name": "Waterway Compound",
+    "lat": 30.041354509988526,
+    "lng": 31.47503059211441,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1193",
+    "isActive": true
+  }
+}

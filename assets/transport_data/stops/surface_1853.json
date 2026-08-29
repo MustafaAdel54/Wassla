@@ -1,0 +1,18 @@
+{
+  "id": "surface_1853",
+  "data": {
+    "name": "Zahraa Al Maadi Tunnel",
+    "lat": 29.961488,
+    "lng": 31.289388,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1853",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2359",
+  "data": {
+    "name": "Al Agouza Hospital",
+    "lat": 30.056045008735627,
+    "lng": 31.216006618814074,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2359",
+    "isActive": true
+  }
+}

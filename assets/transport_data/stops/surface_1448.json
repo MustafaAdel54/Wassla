@@ -1,0 +1,18 @@
+{
+  "id": "surface_1448",
+  "data": {
+    "name": "Awwal Abbas Al Akkad",
+    "lat": 30.068241,
+    "lng": 31.336453,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1448",
+    "isActive": true
+  }
+}

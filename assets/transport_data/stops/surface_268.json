@@ -1,0 +1,18 @@
+{
+  "id": "surface_268",
+  "data": {
+    "name": "Windrose Academy",
+    "lat": 29.979733695560732,
+    "lng": 31.351715267765474,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "268",
+    "isActive": true
+  }
+}

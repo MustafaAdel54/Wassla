@@ -1,0 +1,18 @@
+{
+  "id": "surface_1832",
+  "data": {
+    "name": "Arab Investment Bank (Faisal St.)",
+    "lat": 29.99195533612946,
+    "lng": 31.140034011044587,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1832",
+    "isActive": true
+  }
+}

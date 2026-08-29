@@ -1,0 +1,18 @@
+{
+  "id": "surface_730",
+  "data": {
+    "name": "Minerals & Refrigeration Center (Abboud)",
+    "lat": 30.107801769287633,
+    "lng": 31.260393372541255,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "730",
+    "isActive": true
+  }
+}

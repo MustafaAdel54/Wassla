@@ -1,0 +1,18 @@
+{
+  "id": "surface_2143",
+  "data": {
+    "name": "Al Saraya Elementary School (Abbaseya)",
+    "lat": 30.06767,
+    "lng": 31.283569,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2143",
+    "isActive": true
+  }
+}

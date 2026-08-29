@@ -1,0 +1,18 @@
+{
+  "id": "surface_1424",
+  "data": {
+    "name": "Ezbet Al Baydaa Steps (Ring Rd.)",
+    "lat": 30.162998846202797,
+    "lng": 31.327887864666824,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1424",
+    "isActive": true
+  }
+}

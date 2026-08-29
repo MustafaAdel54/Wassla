@@ -1,0 +1,18 @@
+{
+  "id": "surface_1757",
+  "data": {
+    "name": "Souq Al Asr (Khalifa Al Mamoun St.)",
+    "lat": 30.088169862786618,
+    "lng": 31.309747895299353,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1757",
+    "isActive": true
+  }
+}

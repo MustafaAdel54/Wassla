@@ -1,0 +1,18 @@
+{
+  "id": "surface_874",
+  "data": {
+    "name": "10th District Station (6th of October)",
+    "lat": 29.963781427372364,
+    "lng": 30.914484246311304,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "874",
+    "isActive": true
+  }
+}

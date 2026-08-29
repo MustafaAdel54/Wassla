@@ -1,0 +1,18 @@
+{
+  "id": "surface_2434",
+  "data": {
+    "name": "Megawra 1 (15th of May)",
+    "lat": 29.846438701707445,
+    "lng": 31.373212742850644,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2434",
+    "isActive": true
+  }
+}

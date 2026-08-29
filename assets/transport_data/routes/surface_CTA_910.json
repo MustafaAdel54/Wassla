@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_910",
+  "data": {
+    "name": "Imbaba - Matbaa",
+    "shortName": "CTA 910",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_910",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

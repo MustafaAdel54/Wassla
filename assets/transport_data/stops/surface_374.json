@@ -1,0 +1,18 @@
+{
+  "id": "surface_374",
+  "data": {
+    "name": "Zewail Rd. (Wahat Rd.)",
+    "lat": 29.956110210243402,
+    "lng": 31.07768826828653,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "374",
+    "isActive": true
+  }
+}

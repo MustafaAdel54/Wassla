@@ -1,0 +1,18 @@
+{
+  "id": "surface_2395",
+  "data": {
+    "name": "Hearing and Speech Institute (Imbaba)",
+    "lat": 30.08156552337459,
+    "lng": 31.225446518037593,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2395",
+    "isActive": true
+  }
+}

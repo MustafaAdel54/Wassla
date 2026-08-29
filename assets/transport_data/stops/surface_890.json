@@ -1,0 +1,18 @@
+{
+  "id": "surface_890",
+  "data": {
+    "name": "Sheikh Zayed Specialized Hospital",
+    "lat": 30.031425395213695,
+    "lng": 31.00382051109203,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "890",
+    "isActive": true
+  }
+}

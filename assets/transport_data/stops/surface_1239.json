@@ -1,0 +1,18 @@
+{
+  "id": "surface_1239",
+  "data": {
+    "name": "Arkadia Mall",
+    "lat": 30.06988489975778,
+    "lng": 31.226824212644427,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1239",
+    "isActive": true
+  }
+}

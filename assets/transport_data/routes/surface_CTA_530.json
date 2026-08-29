@@ -1,0 +1,15 @@
+{
+  "id": "surface_CTA_530",
+  "data": {
+    "name": "Cairo Airport - Qalyoub",
+    "shortName": "CTA 530",
+    "agencyId": "surface_CTA",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "CTA_530",
+    "routeType": "3",
+    "continuousPickup": "1",
+    "continuousDropOff": "1",
+    "isActive": true
+  }
+}

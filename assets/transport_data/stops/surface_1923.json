@@ -1,0 +1,18 @@
+{
+  "id": "surface_1923",
+  "data": {
+    "name": "Mafareq (Hadayeq Helwan)",
+    "lat": 29.893033712586345,
+    "lng": 31.301353906972526,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1923",
+    "isActive": true
+  }
+}

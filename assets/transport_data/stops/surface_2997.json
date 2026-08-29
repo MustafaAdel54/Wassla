@@ -1,0 +1,18 @@
+{
+  "id": "surface_2997",
+  "data": {
+    "name": "Obour Market",
+    "lat": 30.16329607337056,
+    "lng": 31.465754642209813,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2997",
+    "isActive": true
+  }
+}

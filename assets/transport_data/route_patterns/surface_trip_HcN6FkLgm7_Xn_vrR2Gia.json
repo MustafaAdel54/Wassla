@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_HcN6FkLgm7_Xn_vrR2Gia",
+  "data": {
+    "routeId": "surface_hnRdMePAiavyLNXrgXpgd",
+    "tripId": "HcN6FkLgm7_Xn_vrR2Gia",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Basateen",
+    "stops": [
+      {
+        "stopId": "surface_1652",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1653",
+        "sequence": 2,
+        "arrivalSec": 21753,
+        "departureSec": 21768
+      },
+      {
+        "stopId": "surface_1654",
+        "sequence": 3,
+        "arrivalSec": 21898,
+        "departureSec": 21913
+      },
+      {
+        "stopId": "surface_1655",
+        "sequence": 4,
+        "arrivalSec": 21983,
+        "departureSec": 21998
+      },
+      {
+        "stopId": "surface_1656",
+        "sequence": 5,
+        "arrivalSec": 22033,
+        "departureSec": 22048
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

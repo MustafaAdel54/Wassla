@@ -1,0 +1,18 @@
+{
+  "id": "surface_2178",
+  "data": {
+    "name": "Faculty of Agriculture (Cairo University)",
+    "lat": 30.01944257304213,
+    "lng": 31.211747396604206,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2178",
+    "isActive": true
+  }
+}

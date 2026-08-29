@@ -1,0 +1,18 @@
+{
+  "id": "surface_1000",
+  "data": {
+    "name": "Kan Kan 12th District (6th of October)",
+    "lat": 29.95577120627458,
+    "lng": 30.896347515772455,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1000",
+    "isActive": true
+  }
+}

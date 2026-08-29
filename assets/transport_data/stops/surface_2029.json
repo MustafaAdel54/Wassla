@@ -1,0 +1,18 @@
+{
+  "id": "surface_2029",
+  "data": {
+    "name": "Language Institute (Al Qobba)",
+    "lat": 30.08149955316208,
+    "lng": 31.29947816875077,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2029",
+    "isActive": true
+  }
+}

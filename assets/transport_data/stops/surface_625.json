@@ -1,0 +1,18 @@
+{
+  "id": "surface_625",
+  "data": {
+    "name": "Ring Road Exit to Qalyub",
+    "lat": 30.148836059055704,
+    "lng": 31.225210770846548,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "625",
+    "isActive": true
+  }
+}

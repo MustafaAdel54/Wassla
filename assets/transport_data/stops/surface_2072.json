@@ -1,0 +1,18 @@
+{
+  "id": "surface_2072",
+  "data": {
+    "name": "Al Banat Mosque",
+    "lat": 30.04636760000001,
+    "lng": 31.2537928,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2072",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_55",
+  "data": {
+    "name": "Motseian",
+    "lat": 30.01682953156174,
+    "lng": 31.204741691424253,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "55",
+    "isActive": true
+  }
+}

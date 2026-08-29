@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_O_14_GZ052_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ052",
+    "tripId": "P_O_14_GZ052_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Ard El Lewaa",
+    "stops": [
+      {
+        "stopId": "surface_79",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2815",
+        "sequence": 2,
+        "arrivalSec": 21702,
+        "departureSec": 21717
+      },
+      {
+        "stopId": "surface_621",
+        "sequence": 3,
+        "arrivalSec": 21722,
+        "departureSec": 21737
+      },
+      {
+        "stopId": "surface_333",
+        "sequence": 4,
+        "arrivalSec": 21739,
+        "departureSec": 21754
+      },
+      {
+        "stopId": "surface_2814",
+        "sequence": 5,
+        "arrivalSec": 22069,
+        "departureSec": 22084
+      },
+      {
+        "stopId": "surface_2758",
+        "sequence": 6,
+        "arrivalSec": 22281,
+        "departureSec": 22296
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

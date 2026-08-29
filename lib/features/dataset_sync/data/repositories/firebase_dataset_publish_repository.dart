@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:developer' as developer;
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:crypto/crypto.dart';
@@ -24,17 +25,20 @@ class FirebaseDatasetPublishRepository implements DatasetPublishRepository {
   /// Optional progress callback.
   final void Function(String message)? onProgress;
 
-  FirebaseDatasetPublishRepository(
-    this._remoteDataSource, {
-    this.onProgress,
-  });
+  FirebaseDatasetPublishRepository(this._remoteDataSource, {this.onProgress});
 
   @override
   Future<void> publishToFirebase() async {
     assert(kEnableDevImport, 'Dev import is disabled');
 
     final manifestCollections = <String, Map<String, dynamic>>{};
-    const datasetVersion = 1;
+    int totalFiles = 0;
+
+    // Fetch current manifest to determine next version
+    onProgress?.call('Fetching current manifest to determine version...');
+    final currentManifest = await _remoteDataSource.fetchManifest();
+    final datasetVersion = (currentManifest?.datasetVersion ?? 0) + 1;
+    onProgress?.call('Publishing as dataset version: $datasetVersion');
 
     // Process each collection
     for (final collectionName in kDatasetCollections) {
@@ -42,45 +46,28 @@ class FirebaseDatasetPublishRepository implements DatasetPublishRepository {
 
       // Load all JSON files for this collection from assets
       final docs = await _loadCollectionFromAssets(collectionName);
-      onProgress?.call(
-          '  Loaded ${docs.length} documents from assets');
+      developer.log('$collectionName: ${docs.length}', name: 'DatasetPublish');
+      totalFiles += docs.length;
+      onProgress?.call('  Loaded ${docs.length} documents from assets');
 
       // Serialize to canonical JSON for hash computation
       final bytes = LocalDataSource.serializeDocuments(docs);
       final hash = 'sha256:${sha256.convert(bytes).toString()}';
 
-      if (kFirestoreCollections.contains(collectionName)) {
-        // Upload to Firestore
-        onProgress?.call('  Uploading to Firestore...');
-        await _remoteDataSource.uploadFirestoreCollection(
-            collectionName, docs);
-      }
+      // Upload to Firestore
+      onProgress?.call('  Uploading to Firestore...');
+      await _remoteDataSource.uploadFirestoreCollection(collectionName, docs);
 
-      if (kCloudStorageCollections.contains(collectionName)) {
-        // Upload to Cloud Storage
-        final storagePath =
-            '$kStorageDatasetPrefix/v$datasetVersion/$collectionName.json';
-        onProgress?.call('  Uploading to Cloud Storage: $storagePath');
-        await _remoteDataSource.uploadStorageFile(storagePath, bytes);
-
-        manifestCollections[collectionName] = {
-          'count': docs.length,
-          'contentHash': hash,
-          'storage': 'cloud_storage',
-          'storagePath': storagePath,
-          'sizeBytes': bytes.length,
-        };
-      } else {
-        manifestCollections[collectionName] = {
-          'count': docs.length,
-          'contentHash': hash,
-          'storage': 'firestore',
-        };
-      }
+      manifestCollections[collectionName] = {
+        'count': docs.length,
+        'contentHash': hash,
+      };
 
       onProgress?.call(
-          '  Done: ${docs.length} docs, hash: ${hash.substring(0, 20)}...');
+        '  Done: ${docs.length} docs, hash: ${hash.substring(0, 20)}...',
+      );
     }
+    developer.log('Total transport asset count: $totalFiles', name: 'DatasetPublish');
 
     // Publish manifest
     onProgress?.call('Publishing manifest...');
@@ -93,23 +80,24 @@ class FirebaseDatasetPublishRepository implements DatasetPublishRepository {
     };
 
     await _remoteDataSource.publishManifest(manifestData);
-    onProgress?.call('Dataset published successfully! '
-        'Version: $datasetVersion');
+    onProgress?.call(
+      'Dataset published successfully! '
+      'Version: $datasetVersion',
+    );
   }
 
   /// Load all documents for a collection from bundled assets.
   /// Reads the asset manifest to find all JSON files in the collection folder.
   Future<List<MapEntry<String, Map<String, dynamic>>>>
-      _loadCollectionFromAssets(String collectionName) async {
+  _loadCollectionFromAssets(String collectionName) async {
     final docs = <MapEntry<String, Map<String, dynamic>>>[];
 
-    // Load the asset manifest to discover files
-    final manifestContent = await rootBundle.loadString('AssetManifest.json');
-    final manifest = jsonDecode(manifestContent) as Map<String, dynamic>;
+    // Load the asset manifest to discover files using the modern API
+    final manifest = await AssetManifest.loadFromAssetBundle(rootBundle);
 
     // Find all JSON files for this collection
     final prefix = 'assets/transport_data/$collectionName/';
-    final assetPaths = manifest.keys
+    final assetPaths = manifest.listAssets()
         .where((key) => key.startsWith(prefix) && key.endsWith('.json'))
         .toList();
 

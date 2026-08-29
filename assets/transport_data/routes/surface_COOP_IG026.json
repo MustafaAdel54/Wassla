@@ -1,0 +1,15 @@
+{
+  "id": "surface_COOP_IG026",
+  "data": {
+    "name": "10th District (Nasr City) - Qalyoub Exit",
+    "shortName": "Minibus",
+    "agencyId": "surface_COOP",
+    "transportMode": "bus",
+    "source": "gtfs_surface",
+    "sourceId": "COOP_IG026",
+    "routeType": "3",
+    "continuousPickup": "0",
+    "continuousDropOff": "0",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2455",
+  "data": {
+    "name": "Awwal Makram Ebeid",
+    "lat": 30.069064,
+    "lng": 31.344217,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2455",
+    "isActive": true
+  }
+}

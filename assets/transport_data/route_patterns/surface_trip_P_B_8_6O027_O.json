@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_P_B_8_6O027_O",
+  "data": {
+    "routeId": "surface_P_B_8_6O027",
+    "tripId": "P_B_8_6O027_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Laylat Al Qadr",
+    "stops": [
+      {
+        "stopId": "surface_899",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1130",
+        "sequence": 2,
+        "arrivalSec": 21891,
+        "departureSec": 21906
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

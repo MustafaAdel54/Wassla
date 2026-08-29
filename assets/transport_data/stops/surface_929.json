@@ -1,0 +1,18 @@
+{
+  "id": "surface_929",
+  "data": {
+    "name": "Al Rabwa (Sheikh Zayed)",
+    "lat": 30.05649849999999,
+    "lng": 30.99952489999998,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "929",
+    "isActive": true
+  }
+}

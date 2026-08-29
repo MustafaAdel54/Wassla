@@ -1,0 +1,18 @@
+{
+  "id": "surface_1813",
+  "data": {
+    "name": "New Musuem (Cairo Alex Desert Rd.)",
+    "lat": 29.997231591006962,
+    "lng": 31.119185402692327,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1813",
+    "isActive": true
+  }
+}

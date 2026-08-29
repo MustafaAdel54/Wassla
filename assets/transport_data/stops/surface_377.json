@@ -1,0 +1,18 @@
+{
+  "id": "surface_377",
+  "data": {
+    "name": "Mina Gate 4 (Hadayek Al Ahram)",
+    "lat": 29.951819112742378,
+    "lng": 31.088005917492055,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "377",
+    "isActive": true
+  }
+}

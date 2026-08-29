@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_fIo6VbAn9oZ0MvD69dSGV",
+  "data": {
+    "routeId": "surface_PtTt3WzbrwwaHofgpaVMj",
+    "tripId": "fIo6VbAn9oZ0MvD69dSGV",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Mostorod",
+    "stops": [
+      {
+        "stopId": "surface_1389",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2222",
+        "sequence": 2,
+        "arrivalSec": 21776,
+        "departureSec": 21791
+      },
+      {
+        "stopId": "surface_2232",
+        "sequence": 3,
+        "arrivalSec": 22072,
+        "departureSec": 22087
+      },
+      {
+        "stopId": "surface_2906",
+        "sequence": 4,
+        "arrivalSec": 22353,
+        "departureSec": 22368
+      },
+      {
+        "stopId": "surface_2428",
+        "sequence": 5,
+        "arrivalSec": 22518,
+        "departureSec": 22533
+      },
+      {
+        "stopId": "surface_785",
+        "sequence": 6,
+        "arrivalSec": 22682,
+        "departureSec": 22697
+      },
+      {
+        "stopId": "surface_2426",
+        "sequence": 7,
+        "arrivalSec": 22799,
+        "departureSec": 22814
+      },
+      {
+        "stopId": "surface_2024",
+        "sequence": 8,
+        "arrivalSec": 22836,
+        "departureSec": 22851
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1175",
+  "data": {
+    "name": "2nd District Entrance - Obour",
+    "lat": 30.249115,
+    "lng": 31.46816,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1175",
+    "isActive": true
+  }
+}

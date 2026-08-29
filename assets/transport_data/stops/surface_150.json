@@ -1,0 +1,18 @@
+{
+  "id": "surface_150",
+  "data": {
+    "name": "Kit Kat District",
+    "lat": 30.071036459094678,
+    "lng": 31.217630071738235,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "150",
+    "isActive": true
+  }
+}

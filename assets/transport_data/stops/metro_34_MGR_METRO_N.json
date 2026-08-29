@@ -1,0 +1,16 @@
+{
+  "id": "metro_34_MGR_METRO_N",
+  "data": {
+    "name": "Mar Girgis",
+    "lat": 30.0061683,
+    "lng": 31.2295818,
+    "stationId": "station_metro_34_MGR_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "34_MGR_METRO_N",
+    "parentSourceId": "34_MGR_METRO",
+    "isActive": true
+  }
+}

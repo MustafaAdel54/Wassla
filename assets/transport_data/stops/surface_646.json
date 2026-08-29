@@ -1,0 +1,18 @@
+{
+  "id": "surface_646",
+  "data": {
+    "name": "Ring Rd. Exit to Moneeb",
+    "lat": 29.985953,
+    "lng": 31.208733,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "646",
+    "isActive": true
+  }
+}

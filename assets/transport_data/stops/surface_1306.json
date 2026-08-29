@@ -1,0 +1,18 @@
+{
+  "id": "surface_1306",
+  "data": {
+    "name": "Othman Pedestrian Bridge (Ring Rd.)",
+    "lat": 30.163309741933322,
+    "lng": 31.31269994301377,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1306",
+    "isActive": true
+  }
+}

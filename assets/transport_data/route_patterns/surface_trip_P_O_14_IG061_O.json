@@ -1,0 +1,74 @@
+{
+  "id": "surface_trip_P_O_14_IG061_O",
+  "data": {
+    "routeId": "surface_P_O_14_IG061",
+    "tripId": "P_O_14_IG061_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Warraq Al Arab (Cima)",
+    "stops": [
+      {
+        "stopId": "surface_15",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_828",
+        "sequence": 2,
+        "arrivalSec": 21633,
+        "departureSec": 21648
+      },
+      {
+        "stopId": "surface_2282",
+        "sequence": 3,
+        "arrivalSec": 21894,
+        "departureSec": 21909
+      },
+      {
+        "stopId": "surface_2132",
+        "sequence": 4,
+        "arrivalSec": 22205,
+        "departureSec": 22220
+      },
+      {
+        "stopId": "surface_2295",
+        "sequence": 5,
+        "arrivalSec": 22339,
+        "departureSec": 22354
+      },
+      {
+        "stopId": "surface_2212",
+        "sequence": 6,
+        "arrivalSec": 22749,
+        "departureSec": 22764
+      },
+      {
+        "stopId": "surface_2210",
+        "sequence": 7,
+        "arrivalSec": 22982,
+        "departureSec": 22997
+      },
+      {
+        "stopId": "surface_2209",
+        "sequence": 8,
+        "arrivalSec": 23150,
+        "departureSec": 23165
+      },
+      {
+        "stopId": "surface_2207",
+        "sequence": 9,
+        "arrivalSec": 23239,
+        "departureSec": 23254
+      },
+      {
+        "stopId": "surface_2205",
+        "sequence": 10,
+        "arrivalSec": 23321,
+        "departureSec": 23336
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

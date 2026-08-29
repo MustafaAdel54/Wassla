@@ -1,0 +1,18 @@
+{
+  "id": "surface_1675",
+  "data": {
+    "name": "Zahraa Ain Shams",
+    "lat": 30.137141875565746,
+    "lng": 31.337488665789852,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1675",
+    "isActive": true
+  }
+}

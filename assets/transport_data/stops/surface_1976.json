@@ -1,0 +1,18 @@
+{
+  "id": "surface_1976",
+  "data": {
+    "name": "Amr Ibn El Aas",
+    "lat": 30.009343,
+    "lng": 31.232173,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1976",
+    "isActive": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_P_B_8_SZ005_O",
+  "data": {
+    "routeId": "surface_P_B_8_SZ005",
+    "tripId": "P_B_8_SZ005_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Hyper 1",
+    "stops": [
+      {
+        "stopId": "surface_1021",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2869",
+        "sequence": 2,
+        "arrivalSec": 21674,
+        "departureSec": 21689
+      },
+      {
+        "stopId": "surface_914",
+        "sequence": 3,
+        "arrivalSec": 21754,
+        "departureSec": 21769
+      },
+      {
+        "stopId": "surface_1022",
+        "sequence": 4,
+        "arrivalSec": 21790,
+        "departureSec": 21805
+      },
+      {
+        "stopId": "surface_910",
+        "sequence": 5,
+        "arrivalSec": 21883,
+        "departureSec": 21898
+      },
+      {
+        "stopId": "surface_2777",
+        "sequence": 6,
+        "arrivalSec": 21996,
+        "departureSec": 22011
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

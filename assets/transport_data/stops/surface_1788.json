@@ -1,0 +1,18 @@
+{
+  "id": "surface_1788",
+  "data": {
+    "name": "Imam Mohamed St & Anwar Al Sadat St.",
+    "lat": 29.8200716097911,
+    "lng": 31.376390309388672,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1788",
+    "isActive": true
+  }
+}

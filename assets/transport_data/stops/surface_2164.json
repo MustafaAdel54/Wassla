@@ -1,0 +1,18 @@
+{
+  "id": "surface_2164",
+  "data": {
+    "name": "Oriental Weavers (Al Haram)",
+    "lat": 30.010525902315734,
+    "lng": 31.20417332438025,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2164",
+    "isActive": true
+  }
+}

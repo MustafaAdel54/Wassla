@@ -1,0 +1,18 @@
+{
+  "id": "surface_443",
+  "data": {
+    "name": "Silver Star Mall (5th Settlement)",
+    "lat": 30.003583390821934,
+    "lng": 31.420174522814687,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "443",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2097",
+  "data": {
+    "name": "Emad El Deen St. & 26th of July St.",
+    "lat": 30.052555,
+    "lng": 31.244309,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2097",
+    "isActive": true
+  }
+}

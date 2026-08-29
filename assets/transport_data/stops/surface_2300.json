@@ -1,0 +1,18 @@
+{
+  "id": "surface_2300",
+  "data": {
+    "name": "Banzion (Shobra St.)",
+    "lat": 30.07172237214092,
+    "lng": 31.244959075760175,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2300",
+    "isActive": true
+  }
+}

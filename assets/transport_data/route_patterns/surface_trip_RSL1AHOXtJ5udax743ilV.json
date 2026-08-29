@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_RSL1AHOXtJ5udax743ilV",
+  "data": {
+    "routeId": "surface_JFURIfkSZvjnSzWLlUZ65",
+    "tripId": "RSL1AHOXtJ5udax743ilV",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Omraneyya",
+    "stops": [
+      {
+        "stopId": "surface_2476",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2184",
+        "sequence": 2,
+        "arrivalSec": 21661,
+        "departureSec": 21676
+      },
+      {
+        "stopId": "surface_2186",
+        "sequence": 3,
+        "arrivalSec": 21706,
+        "departureSec": 21721
+      },
+      {
+        "stopId": "surface_2187",
+        "sequence": 4,
+        "arrivalSec": 21766,
+        "departureSec": 21781
+      },
+      {
+        "stopId": "surface_2191",
+        "sequence": 5,
+        "arrivalSec": 21801,
+        "departureSec": 21816
+      },
+      {
+        "stopId": "surface_2161",
+        "sequence": 6,
+        "arrivalSec": 21886,
+        "departureSec": 21901
+      },
+      {
+        "stopId": "surface_2613",
+        "sequence": 7,
+        "arrivalSec": 21931,
+        "departureSec": 21946
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

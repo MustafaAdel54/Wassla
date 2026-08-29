@@ -1,0 +1,18 @@
+{
+  "id": "surface_1898",
+  "data": {
+    "name": "Wadi Hof Metro",
+    "lat": 29.879316637323303,
+    "lng": 31.314124794918413,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1898",
+    "isActive": true
+  }
+}

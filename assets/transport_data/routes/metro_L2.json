@@ -1,0 +1,15 @@
+{
+  "id": "metro_L2",
+  "data": {
+    "name": "Metro Line 2",
+    "shortName": "M2",
+    "agencyId": "metro_NAT",
+    "transportMode": "metro",
+    "source": "gtfs_metro",
+    "sourceId": "L2",
+    "routeType": "1",
+    "color": null,
+    "textColor": null,
+    "isActive": true
+  }
+}

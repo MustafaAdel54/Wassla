@@ -1,0 +1,18 @@
+{
+  "id": "surface_2872",
+  "data": {
+    "name": "Marioteya Tunnel Entrance",
+    "lat": 29.994669,
+    "lng": 31.144905,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2872",
+    "isActive": true
+  }
+}

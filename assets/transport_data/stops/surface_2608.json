@@ -1,0 +1,18 @@
+{
+  "id": "surface_2608",
+  "data": {
+    "name": "Mazlaqan Om Khinan (Al Hawamdeyya)",
+    "lat": 29.91206133565054,
+    "lng": 31.26725747103359,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2608",
+    "isActive": true
+  }
+}

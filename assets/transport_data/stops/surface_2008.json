@@ -1,0 +1,18 @@
+{
+  "id": "surface_2008",
+  "data": {
+    "name": "Al Nasr School ( Al Waili )",
+    "lat": 30.096600300013893,
+    "lng": 31.27738724066877,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2008",
+    "isActive": true
+  }
+}

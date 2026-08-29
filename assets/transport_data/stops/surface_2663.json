@@ -1,0 +1,18 @@
+{
+  "id": "surface_2663",
+  "data": {
+    "name": "Al Moatamadiya Post Office",
+    "lat": 30.0508509,
+    "lng": 31.1698557,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2663",
+    "isActive": true
+  }
+}

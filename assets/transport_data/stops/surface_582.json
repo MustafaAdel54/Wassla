@@ -1,0 +1,18 @@
+{
+  "id": "surface_582",
+  "data": {
+    "name": "Rehab Gate 13",
+    "lat": 30.06390700165725,
+    "lng": 31.474692673419227,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "582",
+    "isActive": true
+  }
+}

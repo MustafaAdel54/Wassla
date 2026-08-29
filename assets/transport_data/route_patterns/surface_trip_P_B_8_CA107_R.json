@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_P_B_8_CA107_R",
+  "data": {
+    "routeId": "surface_P_B_8_CA107",
+    "tripId": "P_B_8_CA107_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Nozha Al Gadida (Gesr El Suez Garage)",
+    "stops": [
+      {
+        "stopId": "surface_1676",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2413",
+        "sequence": 2,
+        "arrivalSec": 21754,
+        "departureSec": 21769
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

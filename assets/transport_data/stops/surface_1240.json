@@ -1,0 +1,18 @@
+{
+  "id": "surface_1240",
+  "data": {
+    "name": "Nasser Institue For Research (Al Khalafawy)",
+    "lat": 30.097075186793223,
+    "lng": 31.23811342711,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1240",
+    "isActive": true
+  }
+}

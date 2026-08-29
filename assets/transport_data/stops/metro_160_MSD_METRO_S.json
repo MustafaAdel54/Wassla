@@ -1,0 +1,16 @@
+{
+  "id": "metro_160_MSD_METRO_S",
+  "data": {
+    "name": "Manshiet El-Sadr",
+    "lat": 30.0819807,
+    "lng": 31.2875497,
+    "stationId": "station_metro_160_MSD_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "160_MSD_METRO_S",
+    "parentSourceId": "160_MSD_METRO",
+    "isActive": true
+  }
+}

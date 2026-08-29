@@ -1,0 +1,18 @@
+{
+  "id": "surface_1360",
+  "data": {
+    "name": "Mansour Chevrolet Sales Center (Alexandria Desert Rd.)",
+    "lat": 30.025593872591035,
+    "lng": 31.09210890131369,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1360",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_603",
+  "data": {
+    "name": "Al Areesh (Haram St.)",
+    "lat": 29.99377005026739,
+    "lng": 31.160121937335855,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "603",
+    "isActive": true
+  }
+}

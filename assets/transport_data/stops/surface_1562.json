@@ -1,0 +1,18 @@
+{
+  "id": "surface_1562",
+  "data": {
+    "name": "Koshary Al Tahrir (Nasr St.)",
+    "lat": 29.976028325535133,
+    "lng": 31.284717994723223,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1562",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2149",
+  "data": {
+    "name": "Ghamra Bridge Exit to Cairo University",
+    "lat": 30.07322429022634,
+    "lng": 31.26738182547767,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2149",
+    "isActive": true
+  }
+}

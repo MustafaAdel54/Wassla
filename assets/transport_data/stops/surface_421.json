@@ -1,0 +1,18 @@
+{
+  "id": "surface_421",
+  "data": {
+    "name": "Amoun Fountain (Obour)",
+    "lat": 30.18725370055806,
+    "lng": 31.466994435312237,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "421",
+    "isActive": true
+  }
+}

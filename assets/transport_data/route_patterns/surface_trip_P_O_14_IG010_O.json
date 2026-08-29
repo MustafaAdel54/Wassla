@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_P_O_14_IG010_O",
+  "data": {
+    "routeId": "surface_P_O_14_IG010",
+    "tripId": "P_O_14_IG010_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Wehda Imbaba (Al Bohi)",
+    "stops": [
+      {
+        "stopId": "surface_2088",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_225",
+        "sequence": 2,
+        "arrivalSec": 21648,
+        "departureSec": 21662
+      },
+      {
+        "stopId": "surface_227",
+        "sequence": 3,
+        "arrivalSec": 21794,
+        "departureSec": 21810
+      },
+      {
+        "stopId": "surface_149",
+        "sequence": 4,
+        "arrivalSec": 22138,
+        "departureSec": 22152
+      },
+      {
+        "stopId": "surface_150",
+        "sequence": 5,
+        "arrivalSec": 22202,
+        "departureSec": 22218
+      },
+      {
+        "stopId": "surface_151",
+        "sequence": 6,
+        "arrivalSec": 22262,
+        "departureSec": 22278
+      },
+      {
+        "stopId": "surface_2395",
+        "sequence": 7,
+        "arrivalSec": 22338,
+        "departureSec": 22352
+      },
+      {
+        "stopId": "surface_2393",
+        "sequence": 8,
+        "arrivalSec": 22372,
+        "departureSec": 22388
+      },
+      {
+        "stopId": "surface_2212",
+        "sequence": 9,
+        "arrivalSec": 22630,
+        "departureSec": 22644
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1745",
+  "data": {
+    "name": "Wadi Al Nile Hospital (Matareya St.)",
+    "lat": 30.099090617407132,
+    "lng": 31.29964758958052,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1745",
+    "isActive": true
+  }
+}

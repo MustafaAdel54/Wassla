@@ -1,0 +1,18 @@
+{
+  "id": "surface_2094",
+  "data": {
+    "name": "Al Torgoman",
+    "lat": 30.060599325701588,
+    "lng": 31.23752129024271,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2094",
+    "isActive": true
+  }
+}

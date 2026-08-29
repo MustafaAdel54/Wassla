@@ -1,0 +1,18 @@
+{
+  "id": "surface_1423",
+  "data": {
+    "name": "Tagneed",
+    "lat": 29.980842,
+    "lng": 31.112818,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1423",
+    "isActive": true
+  }
+}

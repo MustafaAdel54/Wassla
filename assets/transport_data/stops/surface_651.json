@@ -1,0 +1,18 @@
+{
+  "id": "surface_651",
+  "data": {
+    "name": "Ring Rd. Exit to Zahraa Misr Al Qadima",
+    "lat": 29.991769206494272,
+    "lng": 31.234758041256583,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "651",
+    "isActive": true
+  }
+}

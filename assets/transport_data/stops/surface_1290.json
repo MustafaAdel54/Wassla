@@ -1,0 +1,18 @@
+{
+  "id": "surface_1290",
+  "data": {
+    "name": "Armed Forces College Of Medicine",
+    "lat": 30.086800934766757,
+    "lng": 31.303704214415752,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1290",
+    "isActive": true
+  }
+}

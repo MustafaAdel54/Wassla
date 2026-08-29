@@ -1,0 +1,18 @@
+{
+  "id": "surface_1496",
+  "data": {
+    "name": "Military Academy Stadium (Sheraton)",
+    "lat": 30.111945,
+    "lng": 31.369085,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1496",
+    "isActive": true
+  }
+}

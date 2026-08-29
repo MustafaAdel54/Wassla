@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_0kBVj_qpOsIrgBHvA34EX",
+  "data": {
+    "routeId": "surface_1ZbDBsUQUJRub7iZYmHFI",
+    "tripId": "0kBVj_qpOsIrgBHvA34EX",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Fayda Kamel",
+    "stops": [
+      {
+        "stopId": "surface_1667",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2541",
+        "sequence": 2,
+        "arrivalSec": 21876,
+        "departureSec": 21891
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

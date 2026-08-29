@@ -219,8 +219,8 @@ class TransitRouter {
         } else {
           // Static graph: c.arrivalSec is edge duration, not a clock time.
           wait = 0;
-          final switched = state.currentRouteId != null &&
-              state.currentRouteId != c.routeId;
+          final switched =
+              state.currentRouteId != null && state.currentRouteId != c.routeId;
           nTransfers = transfers + (switched ? 1 : 0);
           tPenalty = switched ? transferPenaltySec : 0;
           nArrival = arrival + c.arrivalSec + tPenalty;
@@ -297,38 +297,42 @@ class TransitRouter {
     var elapsed = startTimeSec;
 
     if (initialAccess > 0) {
-      legs.add(EngineLeg(
-        fromStop: 'ORIGIN',
-        toStop: firstStopId,
-        routeId: null,
-        routeName: null,
-        mode: 'walking',
-        durationSec: initialAccess,
-        distanceM: initialAccess * walkingSpeedMps,
-        departureSec: elapsed,
-        arrivalSec: elapsed + initialAccess,
-        waitSec: 0,
-        isTransfer: true,
-      ));
+      legs.add(
+        EngineLeg(
+          fromStop: 'ORIGIN',
+          toStop: firstStopId,
+          routeId: null,
+          routeName: null,
+          mode: 'walking',
+          durationSec: initialAccess,
+          distanceM: initialAccess * walkingSpeedMps,
+          departureSec: elapsed,
+          arrivalSec: elapsed + initialAccess,
+          waitSec: 0,
+          isTransfer: true,
+        ),
+      );
       elapsed += initialAccess;
     }
 
     for (final (_, _, c, _) in reversedSteps) {
       if (c.isTransfer) {
         final dur = c.arrivalSec;
-        legs.add(EngineLeg(
-          fromStop: c.fromStop,
-          toStop: c.toStop,
-          routeId: null,
-          routeName: null,
-          mode: 'walking',
-          durationSec: dur,
-          distanceM: c.distanceM,
-          departureSec: elapsed,
-          arrivalSec: elapsed + dur,
-          waitSec: 0,
-          isTransfer: true,
-        ));
+        legs.add(
+          EngineLeg(
+            fromStop: c.fromStop,
+            toStop: c.toStop,
+            routeId: null,
+            routeName: null,
+            mode: 'walking',
+            durationSec: dur,
+            distanceM: c.distanceM,
+            departureSec: elapsed,
+            arrivalSec: elapsed + dur,
+            waitSec: 0,
+            isTransfer: true,
+          ),
+        );
         elapsed += dur;
         walkingSec += dur;
         continue;
@@ -374,19 +378,21 @@ class TransitRouter {
 
     if (destAccessSec > 0) {
       walkingSec += destAccessSec;
-      legs.add(EngineLeg(
-        fromStop: goal.stopId,
-        toStop: 'DESTINATION',
-        routeId: null,
-        routeName: null,
-        mode: 'walking',
-        durationSec: destAccessSec,
-        distanceM: destAccessSec * walkingSpeedMps,
-        departureSec: elapsed,
-        arrivalSec: elapsed + destAccessSec,
-        waitSec: 0,
-        isTransfer: true,
-      ));
+      legs.add(
+        EngineLeg(
+          fromStop: goal.stopId,
+          toStop: 'DESTINATION',
+          routeId: null,
+          routeName: null,
+          mode: 'walking',
+          durationSec: destAccessSec,
+          distanceM: destAccessSec * walkingSpeedMps,
+          departureSec: elapsed,
+          arrivalSec: elapsed + destAccessSec,
+          waitSec: 0,
+          isTransfer: true,
+        ),
+      );
       elapsed += destAccessSec;
     }
 
@@ -435,8 +441,12 @@ class TransitRouter {
         final r = _buildResult(res.goal, res.prev, 0);
         final key = (r.arrivalSec, r.transfers, r.walkingSec);
         if (best == null ||
-            _compareTuple(key,
-                (best.arrivalSec, best.transfers, best.walkingSec)) < 0) {
+            _compareTuple(key, (
+                  best.arrivalSec,
+                  best.transfers,
+                  best.walkingSec,
+                )) <
+                0) {
           best = r;
         }
       }
@@ -457,10 +467,18 @@ class TransitRouter {
   }) {
     // V4 is schedule-independent: departureTimeSec is intentionally ignored.
     const startTime = 0;
-    final origins =
-        nearestStops(originLat, originLng, radiusM: accessRadiusM, limit: limitOriginStops);
-    final dests =
-        nearestStops(destLat, destLng, radiusM: accessRadiusM, limit: limitDestinationStops);
+    final origins = nearestStops(
+      originLat,
+      originLng,
+      radiusM: accessRadiusM,
+      limit: limitOriginStops,
+    );
+    final dests = nearestStops(
+      destLat,
+      destLng,
+      radiusM: accessRadiusM,
+      limit: limitDestinationStops,
+    );
 
     if (origins.isEmpty || dests.isEmpty) return null;
 
@@ -481,8 +499,12 @@ class TransitRouter {
         );
         final key = (r.arrivalSec, r.transfers, r.walkingSec);
         if (best == null ||
-            _compareTuple(key,
-                (best.arrivalSec, best.transfers, best.walkingSec)) < 0) {
+            _compareTuple(key, (
+                  best.arrivalSec,
+                  best.transfers,
+                  best.walkingSec,
+                )) <
+                0) {
           best = r;
         }
       }
@@ -519,7 +541,9 @@ class TransitRouter {
       } else {
         segments.add({
           'mode': leg.mode,
-          'title': leg.routeName ?? leg.mode[0].toUpperCase() + leg.mode.substring(1),
+          'title':
+              leg.routeName ??
+              leg.mode[0].toUpperCase() + leg.mode.substring(1),
           'from': fromName,
           'to': toName,
           'durationMinutes': max(1, (leg.durationSec / 60).round()),
@@ -537,8 +561,7 @@ class TransitRouter {
   }
 
   /// Compare tuples of (int, int, int) for routing priority.
-  static int _compareTuple(
-      (int, int, int) a, (int, int, int) b) {
+  static int _compareTuple((int, int, int) a, (int, int, int) b) {
     var cmp = a.$1.compareTo(b.$1);
     if (cmp != 0) return cmp;
     cmp = a.$2.compareTo(b.$2);

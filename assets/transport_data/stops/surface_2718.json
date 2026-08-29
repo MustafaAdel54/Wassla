@@ -1,0 +1,18 @@
+{
+  "id": "surface_2718",
+  "data": {
+    "name": "Massalah Gadeeda (Al Matareyya)",
+    "lat": 30.127801,
+    "lng": 31.300981,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2718",
+    "isActive": true
+  }
+}

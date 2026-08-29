@@ -1,0 +1,18 @@
+{
+  "id": "surface_2931",
+  "data": {
+    "name": "Teraat Taware' Axis",
+    "lat": 30.139811136103276,
+    "lng": 31.379166605274683,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2931",
+    "isActive": true
+  }
+}

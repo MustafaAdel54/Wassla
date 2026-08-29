@@ -1,0 +1,18 @@
+{
+  "id": "surface_445",
+  "data": {
+    "name": "Akhnaton Square (5th Settlement)",
+    "lat": 30.00736470133358,
+    "lng": 31.41141208367227,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "445",
+    "isActive": true
+  }
+}

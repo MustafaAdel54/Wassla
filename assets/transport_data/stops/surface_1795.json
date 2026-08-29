@@ -1,0 +1,18 @@
+{
+  "id": "surface_1795",
+  "data": {
+    "name": "Abou Rawwash",
+    "lat": 30.04542,
+    "lng": 31.09493,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1795",
+    "isActive": true
+  }
+}

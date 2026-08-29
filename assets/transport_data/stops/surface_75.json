@@ -1,0 +1,18 @@
+{
+  "id": "surface_75",
+  "data": {
+    "name": "Zaker Hussein St. & Al Tayaran St.",
+    "lat": 30.043477,
+    "lng": 31.329092,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "75",
+    "isActive": true
+  }
+}

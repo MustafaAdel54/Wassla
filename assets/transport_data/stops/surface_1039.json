@@ -1,0 +1,18 @@
+{
+  "id": "surface_1039",
+  "data": {
+    "name": "Small Industries Association - Al Hegaz Street (6th of October)",
+    "lat": 29.9807249267075,
+    "lng": 30.946489079945074,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1039",
+    "isActive": true
+  }
+}

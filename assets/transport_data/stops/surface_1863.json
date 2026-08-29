@@ -1,0 +1,18 @@
+{
+  "id": "surface_1863",
+  "data": {
+    "name": "Vodafone (Zahraa Al Maadi)",
+    "lat": 29.961711002992125,
+    "lng": 31.303030170500588,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1863",
+    "isActive": true
+  }
+}

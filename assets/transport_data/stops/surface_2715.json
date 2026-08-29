@@ -1,0 +1,18 @@
+{
+  "id": "surface_2715",
+  "data": {
+    "name": "Al Masallah St. & Al Terilli St",
+    "lat": 30.1274945,
+    "lng": 31.3083122,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2715",
+    "isActive": true
+  }
+}

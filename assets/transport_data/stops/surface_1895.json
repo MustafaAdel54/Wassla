@@ -1,0 +1,18 @@
+{
+  "id": "surface_1895",
+  "data": {
+    "name": "Wataneya Gas Station (Al Nasr Company)",
+    "lat": 29.86986,
+    "lng": 31.3054,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1895",
+    "isActive": true
+  }
+}

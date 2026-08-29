@@ -1,0 +1,18 @@
+{
+  "id": "surface_2295",
+  "data": {
+    "name": "Ferdous (Rod Al Farag)",
+    "lat": 30.07874765772594,
+    "lng": 31.23585158226196,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2295",
+    "isActive": true
+  }
+}

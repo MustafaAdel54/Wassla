@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_P_O_14_CA173_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA173",
+    "tripId": "P_O_14_CA173_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Helmeyet El Zaitoun Metro",
+    "stops": [
+      {
+        "stopId": "surface_2506",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2679",
+        "sequence": 2,
+        "arrivalSec": 21790,
+        "departureSec": 21804
+      },
+      {
+        "stopId": "surface_2676",
+        "sequence": 3,
+        "arrivalSec": 21881,
+        "departureSec": 21896
+      },
+      {
+        "stopId": "surface_1505",
+        "sequence": 4,
+        "arrivalSec": 22081,
+        "departureSec": 22096
+      },
+      {
+        "stopId": "surface_1508",
+        "sequence": 5,
+        "arrivalSec": 22209,
+        "departureSec": 22224
+      },
+      {
+        "stopId": "surface_747",
+        "sequence": 6,
+        "arrivalSec": 22329,
+        "departureSec": 22344
+      },
+      {
+        "stopId": "surface_1692",
+        "sequence": 7,
+        "arrivalSec": 22419,
+        "departureSec": 22434
+      },
+      {
+        "stopId": "surface_749",
+        "sequence": 8,
+        "arrivalSec": 22674,
+        "departureSec": 22689
+      },
+      {
+        "stopId": "surface_1721",
+        "sequence": 9,
+        "arrivalSec": 22934,
+        "departureSec": 22949
+      },
+      {
+        "stopId": "surface_1215",
+        "sequence": 10,
+        "arrivalSec": 23092,
+        "departureSec": 23106
+      },
+      {
+        "stopId": "surface_1725",
+        "sequence": 11,
+        "arrivalSec": 23158,
+        "departureSec": 23172
+      },
+      {
+        "stopId": "surface_103",
+        "sequence": 12,
+        "arrivalSec": 23221,
+        "departureSec": 23236
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

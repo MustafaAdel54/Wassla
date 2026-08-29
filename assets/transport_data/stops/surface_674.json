@@ -1,0 +1,18 @@
+{
+  "id": "surface_674",
+  "data": {
+    "name": "Carrefour Maadi (Ring Rd.)",
+    "lat": 29.98418850884684,
+    "lng": 31.31804341738601,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "674",
+    "isActive": true
+  }
+}

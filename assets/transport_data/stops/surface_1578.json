@@ -1,0 +1,18 @@
+{
+  "id": "surface_1578",
+  "data": {
+    "name": "Criminal Investigation Department (Al Maadi Company St.)",
+    "lat": 29.98497819941838,
+    "lng": 31.283538359022817,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1578",
+    "isActive": true
+  }
+}

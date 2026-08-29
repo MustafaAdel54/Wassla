@@ -1,0 +1,16 @@
+{
+  "id": "metro_52_SZA_Metro_N",
+  "data": {
+    "name": "Saad Zaghloul",
+    "lat": 30.0356671,
+    "lng": 31.2378216,
+    "stationId": "station_metro_52_SZA_Metro",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "52_SZA_Metro_N",
+    "parentSourceId": "52_SZA_Metro",
+    "isActive": true
+  }
+}

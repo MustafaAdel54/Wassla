@@ -1,0 +1,18 @@
+{
+  "id": "surface_1269",
+  "data": {
+    "name": "Al Safa Wal Marwa Mosque Steps (Ring Rd.)",
+    "lat": 29.99250966421392,
+    "lng": 31.240578796196687,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1269",
+    "isActive": true
+  }
+}

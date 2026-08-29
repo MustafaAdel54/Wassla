@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_GZ022_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ022",
+    "tripId": "P_O_14_GZ022_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Faisal St & Ring Rd",
+    "stops": [
+      {
+        "stopId": "surface_640",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2545",
+        "sequence": 2,
+        "arrivalSec": 21776,
+        "departureSec": 21791
+      },
+      {
+        "stopId": "surface_2173",
+        "sequence": 3,
+        "arrivalSec": 21829,
+        "departureSec": 21844
+      },
+      {
+        "stopId": "surface_2171",
+        "sequence": 4,
+        "arrivalSec": 22188,
+        "departureSec": 22203
+      },
+      {
+        "stopId": "surface_2169",
+        "sequence": 5,
+        "arrivalSec": 22428,
+        "departureSec": 22443
+      },
+      {
+        "stopId": "surface_2167",
+        "sequence": 6,
+        "arrivalSec": 22716,
+        "departureSec": 22731
+      },
+      {
+        "stopId": "surface_1836",
+        "sequence": 7,
+        "arrivalSec": 23046,
+        "departureSec": 23061
+      },
+      {
+        "stopId": "surface_65",
+        "sequence": 8,
+        "arrivalSec": 23094,
+        "departureSec": 23109
+      },
+      {
+        "stopId": "surface_2772",
+        "sequence": 9,
+        "arrivalSec": 23191,
+        "departureSec": 23206
+      },
+      {
+        "stopId": "surface_607",
+        "sequence": 10,
+        "arrivalSec": 23253,
+        "departureSec": 23268
+      },
+      {
+        "stopId": "surface_16",
+        "sequence": 11,
+        "arrivalSec": 23273,
+        "departureSec": 23288
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

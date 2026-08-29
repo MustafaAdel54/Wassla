@@ -1,0 +1,18 @@
+{
+  "id": "surface_1963",
+  "data": {
+    "name": "Autostrad Entrance from Al Abageyya",
+    "lat": 30.021433962351736,
+    "lng": 31.26355566348931,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1963",
+    "isActive": true
+  }
+}

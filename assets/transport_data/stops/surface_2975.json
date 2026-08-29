@@ -1,0 +1,18 @@
+{
+  "id": "surface_2975",
+  "data": {
+    "name": "Waha Garage (Nasr City)",
+    "lat": 30.04044,
+    "lng": 31.37795,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2975",
+    "isActive": true
+  }
+}

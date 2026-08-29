@@ -1,19 +1,20 @@
-import '../../core/routing/transit_router.dart';
 import 'package:wassla/features/dataset_sync/data/datasources/local_data_source.dart';
-import 'package:wassla/features/route_search/data/datasources/routing_graph_cache.dart';
+import 'package:wassla/features/route_search/data/datasources/routing_isolate_worker.dart';
 import 'package:wassla/features/route_search/domain/entities/routing_entities.dart';
 import 'package:wassla/features/route_search/domain/repositories/routing_service.dart';
 
 /// Adapter: wraps the V4 Dart engine behind the RoutingService interface.
 /// Presentation layer never sees the engine internals.
 class DartV4RoutingService implements RoutingService {
-  final RoutingGraphCache _graphCache;
+  final RoutingIsolateWorker _worker;
   final LocalDataSource _localDataSource;
 
-  DartV4RoutingService(this._graphCache, this._localDataSource);
+  int? _builtForVersion;
+
+  DartV4RoutingService(this._worker, this._localDataSource);
 
   @override
-  bool get isInitialized => _graphCache.isInitialized;
+  bool get isInitialized => _worker.isInitialized;
 
   @override
   Future<void> initialize() async {
@@ -21,34 +22,32 @@ class DartV4RoutingService implements RoutingService {
     final version = manifest.datasetVersion;
 
     // Skip rebuild if already built for this version
-    if (_graphCache.builtForVersion == version) return;
+    if (_builtForVersion == version && _worker.isInitialized) return;
 
-    final collections = await _localDataSource.readAllCollections();
-    await _graphCache.getOrBuild(
-      collectionJsons: collections,
-      datasetVersion: version,
-    );
+    final activeDatasetPath = await _localDataSource.activePath;
+
+    if (!_worker.isInitialized) {
+      await _worker.initialize(activeDatasetPath, version);
+    } else {
+      await _worker.reload(activeDatasetPath, version);
+    }
+
+    _builtForVersion = version;
 
     // Record graph version in persistent storage
     await _localDataSource.setGraphBuiltForVersion(version);
   }
 
   @override
-  void invalidate() => _graphCache.invalidate();
+  void invalidate() {
+    _builtForVersion = null;
+    // Don't dispose worker here, just force a reload on next initialize()
+  }
 
   @override
   Future<RouteResult?> findRoute(RouteRequest request) async {
-    final router = await _ensureRouter();
-    if (router == null) return null;
-
-    final engineResult = router.route(
-      request.origin.latitude,
-      request.origin.longitude,
-      request.destination.latitude,
-      request.destination.longitude,
-    );
-
-    return _toRouteResult(router, engineResult);
+    if (!_worker.isInitialized) return null;
+    return _worker.findRoute(request.origin, request.destination);
   }
 
   @override
@@ -56,15 +55,8 @@ class DartV4RoutingService implements RoutingService {
     String originStopId,
     String destinationStopId,
   ) async {
-    final router = await _ensureRouter();
-    if (router == null) return null;
-
-    final engineResult = router.routeBetweenStopIds(
-      originStopId,
-      destinationStopId,
-    );
-
-    return _toRouteResult(router, engineResult);
+    if (!_worker.isInitialized) return null;
+    return _worker.findRouteByStopIds(originStopId, destinationStopId);
   }
 
   @override
@@ -73,64 +65,7 @@ class DartV4RoutingService implements RoutingService {
     double radiusM = 1800,
     int limit = 12,
   }) async {
-    final router = await _ensureRouter();
-    if (router == null) return [];
-
-    final results = router.nearestStops(
-      location.latitude,
-      location.longitude,
-      radiusM: radiusM,
-      limit: limit,
-    );
-
-    return results.map((e) {
-      final (distance, stop) = e;
-      return NearbyStop(
-        stopId: stop.id,
-        name: stop.name,
-        distanceMeters: distance,
-        location: LocationPoint(latitude: stop.lat, longitude: stop.lng),
-      );
-    }).toList();
-  }
-
-  /// Ensure the router is initialized.
-  Future<TransitRouter?> _ensureRouter() async {
-    if (!_graphCache.isInitialized) {
-      try {
-        await initialize();
-      } catch (e) {
-        return null;
-      }
-    }
-    return _graphCache.router;
-  }
-
-  /// Convert engine result to domain RouteResult.
-  RouteResult? _toRouteResult(
-    TransitRouter router,
-    dynamic engineResult,
-  ) {
-    if (engineResult == null) return null;
-
-    final formatted = router.formatResult(engineResult);
-    if (formatted['found'] != true) return null;
-
-    final segments = (formatted['segments'] as List<dynamic>)
-        .map((s) => RouteSegment(
-              mode: s['mode'] as String,
-              routeName: s['title'] as String?,
-              fromName: s['from'] as String,
-              toName: s['to'] as String,
-              durationMinutes: s['durationMinutes'] as int,
-            ))
-        .toList();
-
-    return RouteResult(
-      durationMinutes: formatted['durationMinutes'] as int,
-      walkingMinutes: formatted['walkingMinutes'] as int,
-      transfers: formatted['transfers'] as int,
-      segments: segments,
-    );
+    if (!_worker.isInitialized) return [];
+    return _worker.findNearbyStops(location, radiusM: radiusM, limit: limit);
   }
 }

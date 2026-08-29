@@ -1,0 +1,18 @@
+{
+  "id": "surface_394",
+  "data": {
+    "name": "Haram Talbeya",
+    "lat": 30.001971937459256,
+    "lng": 31.181414463324945,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "394",
+    "isActive": true
+  }
+}

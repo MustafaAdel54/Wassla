@@ -1,0 +1,18 @@
+{
+  "id": "surface_1663",
+  "data": {
+    "name": "Maadi Metro Station",
+    "lat": 29.9601809,
+    "lng": 31.2572468,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1663",
+    "isActive": true
+  }
+}

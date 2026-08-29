@@ -1,0 +1,18 @@
+{
+  "id": "surface_1214",
+  "data": {
+    "name": "North Cairo Electricity Distribution Company (Al Helmeya)",
+    "lat": 30.111158656574023,
+    "lng": 31.318107257260692,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1214",
+    "isActive": true
+  }
+}

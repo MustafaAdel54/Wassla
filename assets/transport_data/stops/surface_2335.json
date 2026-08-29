@@ -1,0 +1,18 @@
+{
+  "id": "surface_2335",
+  "data": {
+    "name": "Sudan St. (Ard Al Lewa)",
+    "lat": 30.0552528,
+    "lng": 31.190909699999985,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2335",
+    "isActive": true
+  }
+}

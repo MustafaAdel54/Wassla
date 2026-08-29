@@ -1,0 +1,18 @@
+{
+  "id": "surface_1384",
+  "data": {
+    "name": "Bisco Misr (Al Zaytoun)",
+    "lat": 30.104403325553236,
+    "lng": 31.296140956901972,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1384",
+    "isActive": true
+  }
+}

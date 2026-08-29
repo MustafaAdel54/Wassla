@@ -1,0 +1,18 @@
+{
+  "id": "surface_932",
+  "data": {
+    "name": "Al Nozha St. & Al Horreya (Sheikh Zayed)",
+    "lat": 30.045862,
+    "lng": 31.008646,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "932",
+    "isActive": true
+  }
+}

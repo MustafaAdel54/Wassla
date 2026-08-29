@@ -1,0 +1,18 @@
+{
+  "id": "surface_2179",
+  "data": {
+    "name": "Agricultural Research Center - Cairo University",
+    "lat": 30.02105610859839,
+    "lng": 31.211438092593013,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2179",
+    "isActive": true
+  }
+}

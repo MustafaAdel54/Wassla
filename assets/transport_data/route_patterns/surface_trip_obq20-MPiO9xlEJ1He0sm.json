@@ -1,0 +1,68 @@
+{
+  "id": "surface_trip_obq20-MPiO9xlEJ1He0sm",
+  "data": {
+    "routeId": "surface_8RzwcHgdiBJrQow3-bGIj",
+    "tripId": "obq20-MPiO9xlEJ1He0sm",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Haram Areesh (Sahl Hamza)",
+    "stops": [
+      {
+        "stopId": "surface_2476",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2164",
+        "sequence": 2,
+        "arrivalSec": 21826,
+        "departureSec": 21841
+      },
+      {
+        "stopId": "surface_2165",
+        "sequence": 3,
+        "arrivalSec": 21978,
+        "departureSec": 21993
+      },
+      {
+        "stopId": "surface_395",
+        "sequence": 4,
+        "arrivalSec": 22245,
+        "departureSec": 22260
+      },
+      {
+        "stopId": "surface_394",
+        "sequence": 5,
+        "arrivalSec": 22390,
+        "departureSec": 22405
+      },
+      {
+        "stopId": "surface_393",
+        "sequence": 6,
+        "arrivalSec": 22508,
+        "departureSec": 22523
+      },
+      {
+        "stopId": "surface_392",
+        "sequence": 7,
+        "arrivalSec": 22632,
+        "departureSec": 22647
+      },
+      {
+        "stopId": "surface_390",
+        "sequence": 8,
+        "arrivalSec": 22833,
+        "departureSec": 22848
+      },
+      {
+        "stopId": "surface_2310",
+        "sequence": 9,
+        "arrivalSec": 22918,
+        "departureSec": 22933
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

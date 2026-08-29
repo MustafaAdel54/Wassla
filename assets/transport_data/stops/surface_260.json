@@ -1,0 +1,18 @@
+{
+  "id": "surface_260",
+  "data": {
+    "name": "Mountain View Square",
+    "lat": 30.01584989122455,
+    "lng": 31.445245135971835,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "260",
+    "isActive": true
+  }
+}

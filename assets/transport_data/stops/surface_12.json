@@ -1,0 +1,18 @@
+{
+  "id": "surface_12",
+  "data": {
+    "name": "Koleyet Al Banat (Azhar University)",
+    "lat": 30.0527382,
+    "lng": 31.3247981,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "12",
+    "isActive": true
+  }
+}

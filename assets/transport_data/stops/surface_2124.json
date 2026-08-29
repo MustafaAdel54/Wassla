@@ -1,0 +1,18 @@
+{
+  "id": "surface_2124",
+  "data": {
+    "name": "Nour Al Huda Automotive (Shubra Al Kheima)",
+    "lat": 30.107985080181827,
+    "lng": 31.24636545210572,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2124",
+    "isActive": true
+  }
+}

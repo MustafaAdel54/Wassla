@@ -1,0 +1,18 @@
+{
+  "id": "surface_146",
+  "data": {
+    "name": "Gamal Abd Al Nasser Metro",
+    "lat": 30.0535263,
+    "lng": 31.2388197,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "146",
+    "isActive": true
+  }
+}

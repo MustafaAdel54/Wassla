@@ -1,0 +1,18 @@
+{
+  "id": "surface_1196",
+  "data": {
+    "name": "Nissan (Kattameya)",
+    "lat": 29.993433292237626,
+    "lng": 31.384256008618852,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1196",
+    "isActive": true
+  }
+}

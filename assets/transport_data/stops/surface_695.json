@@ -1,0 +1,18 @@
+{
+  "id": "surface_695",
+  "data": {
+    "name": "The Unknown Soldier Memorial",
+    "lat": 30.064565506159653,
+    "lng": 31.314633768097874,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "695",
+    "isActive": true
+  }
+}

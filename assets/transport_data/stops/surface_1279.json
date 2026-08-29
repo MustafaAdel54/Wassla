@@ -1,0 +1,18 @@
+{
+  "id": "surface_1279",
+  "data": {
+    "name": "Tora Steps (Autostrad)",
+    "lat": 29.951576710704014,
+    "lng": 31.287124549492667,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1279",
+    "isActive": true
+  }
+}

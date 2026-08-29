@@ -1,0 +1,18 @@
+{
+  "id": "surface_1955",
+  "data": {
+    "name": "Centeral Al Fustat",
+    "lat": 30.003334058989374,
+    "lng": 31.24275102137762,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1955",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2037",
+  "data": {
+    "name": "Al Kawetch (Al Matareyya)",
+    "lat": 30.1283627,
+    "lng": 31.2962047,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2037",
+    "isActive": true
+  }
+}

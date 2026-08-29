@@ -1,0 +1,16 @@
+{
+  "id": "metro_100_SHO_METRO",
+  "data": {
+    "name": "Al-Shohadaa",
+    "lat": 30.0616395,
+    "lng": 31.246287,
+    "stationId": "station_metro_100_SHO_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "100_SHO_METRO",
+    "parentSourceId": "100_SHO_METRO",
+    "isActive": true
+  }
+}

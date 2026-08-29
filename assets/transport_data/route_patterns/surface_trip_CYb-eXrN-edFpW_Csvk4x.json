@@ -1,0 +1,98 @@
+{
+  "id": "surface_trip_CYb-eXrN-edFpW_Csvk4x",
+  "data": {
+    "routeId": "surface_sK63J6jAOvBBc3IX-hjeh",
+    "tripId": "CYb-eXrN-edFpW_Csvk4x",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al-Salam (10th of Ramadan)",
+    "stops": [
+      {
+        "stopId": "surface_2988",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2617",
+        "sequence": 2,
+        "arrivalSec": 21855,
+        "departureSec": 21870
+      },
+      {
+        "stopId": "surface_1160",
+        "sequence": 3,
+        "arrivalSec": 22864,
+        "departureSec": 22879
+      },
+      {
+        "stopId": "surface_2992",
+        "sequence": 4,
+        "arrivalSec": 23488,
+        "departureSec": 23503
+      },
+      {
+        "stopId": "surface_1232",
+        "sequence": 5,
+        "arrivalSec": 23728,
+        "departureSec": 23743
+      },
+      {
+        "stopId": "surface_755",
+        "sequence": 6,
+        "arrivalSec": 23793,
+        "departureSec": 23808
+      },
+      {
+        "stopId": "surface_2821",
+        "sequence": 7,
+        "arrivalSec": 23870,
+        "departureSec": 23885
+      },
+      {
+        "stopId": "surface_3000",
+        "sequence": 8,
+        "arrivalSec": 23948,
+        "departureSec": 23963
+      },
+      {
+        "stopId": "surface_1241",
+        "sequence": 9,
+        "arrivalSec": 24005,
+        "departureSec": 24020
+      },
+      {
+        "stopId": "surface_432",
+        "sequence": 10,
+        "arrivalSec": 24188,
+        "departureSec": 24203
+      },
+      {
+        "stopId": "surface_795",
+        "sequence": 11,
+        "arrivalSec": 24320,
+        "departureSec": 24335
+      },
+      {
+        "stopId": "surface_464",
+        "sequence": 12,
+        "arrivalSec": 24426,
+        "departureSec": 24441
+      },
+      {
+        "stopId": "surface_2917",
+        "sequence": 13,
+        "arrivalSec": 24663,
+        "departureSec": 24678
+      },
+      {
+        "stopId": "surface_3012",
+        "sequence": 14,
+        "arrivalSec": 24818,
+        "departureSec": 24833
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2859",
+  "data": {
+    "name": "Darb 1718",
+    "lat": 30.00271864699978,
+    "lng": 31.23206148402961,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2859",
+    "isActive": true
+  }
+}

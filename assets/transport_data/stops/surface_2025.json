@@ -1,0 +1,18 @@
+{
+  "id": "surface_2025",
+  "data": {
+    "name": "Manshiyat Al Bakry General Hospital",
+    "lat": 30.092787270287914,
+    "lng": 31.305699609109677,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2025",
+    "isActive": true
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "surface_trip_P_O_14_IG073_O",
+  "data": {
+    "routeId": "surface_P_O_14_IG073",
+    "tripId": "P_O_14_IG073_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Filfil Mosque (Bashtil)",
+    "stops": [
+      {
+        "stopId": "surface_797",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2097",
+        "sequence": 2,
+        "arrivalSec": 21715,
+        "departureSec": 21730
+      },
+      {
+        "stopId": "surface_2069",
+        "sequence": 3,
+        "arrivalSec": 21799,
+        "departureSec": 21814
+      },
+      {
+        "stopId": "surface_276",
+        "sequence": 4,
+        "arrivalSec": 21929,
+        "departureSec": 21944
+      },
+      {
+        "stopId": "surface_146",
+        "sequence": 5,
+        "arrivalSec": 21986,
+        "departureSec": 22001
+      },
+      {
+        "stopId": "surface_2087",
+        "sequence": 6,
+        "arrivalSec": 22083,
+        "departureSec": 22098
+      },
+      {
+        "stopId": "surface_227",
+        "sequence": 7,
+        "arrivalSec": 22189,
+        "departureSec": 22204
+      },
+      {
+        "stopId": "surface_2366",
+        "sequence": 8,
+        "arrivalSec": 22293,
+        "departureSec": 22308
+      },
+      {
+        "stopId": "surface_2357",
+        "sequence": 9,
+        "arrivalSec": 22358,
+        "departureSec": 22373
+      },
+      {
+        "stopId": "surface_2354",
+        "sequence": 10,
+        "arrivalSec": 22414,
+        "departureSec": 22429
+      },
+      {
+        "stopId": "surface_1387",
+        "sequence": 11,
+        "arrivalSec": 22498,
+        "departureSec": 22513
+      },
+      {
+        "stopId": "surface_2359",
+        "sequence": 12,
+        "arrivalSec": 22585,
+        "departureSec": 22600
+      },
+      {
+        "stopId": "surface_2361",
+        "sequence": 13,
+        "arrivalSec": 22649,
+        "departureSec": 22664
+      },
+      {
+        "stopId": "surface_2401",
+        "sequence": 14,
+        "arrivalSec": 22859,
+        "departureSec": 22874
+      },
+      {
+        "stopId": "surface_2409",
+        "sequence": 15,
+        "arrivalSec": 22963,
+        "departureSec": 22978
+      },
+      {
+        "stopId": "surface_2405",
+        "sequence": 16,
+        "arrivalSec": 23122,
+        "departureSec": 23137
+      },
+      {
+        "stopId": "surface_2787",
+        "sequence": 17,
+        "arrivalSec": 23324,
+        "departureSec": 23339
+      },
+      {
+        "stopId": "surface_2514",
+        "sequence": 18,
+        "arrivalSec": 23500,
+        "departureSec": 23515
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

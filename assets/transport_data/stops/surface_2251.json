@@ -1,0 +1,18 @@
+{
+  "id": "surface_2251",
+  "data": {
+    "name": "Al Sheikh Parking (Ahmed Helmy St.)",
+    "lat": 30.094101969093337,
+    "lng": 31.25613430409225,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2251",
+    "isActive": true
+  }
+}

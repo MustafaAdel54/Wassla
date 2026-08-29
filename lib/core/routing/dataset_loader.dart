@@ -53,7 +53,8 @@ TransitDataset loadDatasetFromDirectory(String root) {
       lat: (o['lat'] as num).toDouble(),
       lng: (o['lng'] as num).toDouble(),
       stationId: o['stationId'] as String?,
-      modes: (o['transportModes'] as List<dynamic>?)
+      modes:
+          (o['transportModes'] as List<dynamic>?)
               ?.map((e) => e as String)
               .toList() ??
           [],
@@ -92,12 +93,14 @@ TransitDataset loadDatasetFromDirectory(String root) {
     final id = w['id'] as String;
     final o = w['data'] as Map<String, dynamic>;
     final stops = (o['stops'] as List<dynamic>)
-        .map((s) => PatternStop(
-              stopId: s['stopId'] as String,
-              sequence: (s['sequence'] as num).toInt(),
-              arrivalSec: (s['arrivalSec'] as num?)?.toInt(),
-              departureSec: (s['departureSec'] as num?)?.toInt(),
-            ))
+        .map(
+          (s) => PatternStop(
+            stopId: s['stopId'] as String,
+            sequence: (s['sequence'] as num).toInt(),
+            arrivalSec: (s['arrivalSec'] as num?)?.toInt(),
+            departureSec: (s['departureSec'] as num?)?.toInt(),
+          ),
+        )
         .toList();
     ds.patterns[id] = EnginePattern(
       id: id,
@@ -140,7 +143,8 @@ TransitDataset loadDatasetFromJsonArrays({
       lat: (o['lat'] as num).toDouble(),
       lng: (o['lng'] as num).toDouble(),
       stationId: o['stationId'] as String?,
-      modes: (o['transportModes'] as List<dynamic>?)
+      modes:
+          (o['transportModes'] as List<dynamic>?)
               ?.map((e) => e as String)
               .toList() ??
           [],
@@ -176,12 +180,14 @@ TransitDataset loadDatasetFromJsonArrays({
     final id = w['id'] as String;
     final o = w['data'] as Map<String, dynamic>;
     final stops = (o['stops'] as List<dynamic>)
-        .map((s) => PatternStop(
-              stopId: s['stopId'] as String,
-              sequence: (s['sequence'] as num).toInt(),
-              arrivalSec: (s['arrivalSec'] as num?)?.toInt(),
-              departureSec: (s['departureSec'] as num?)?.toInt(),
-            ))
+        .map(
+          (s) => PatternStop(
+            stopId: s['stopId'] as String,
+            sequence: (s['sequence'] as num).toInt(),
+            arrivalSec: (s['arrivalSec'] as num?)?.toInt(),
+            departureSec: (s['departureSec'] as num?)?.toInt(),
+          ),
+        )
         .toList();
     ds.patterns[id] = EnginePattern(
       id: id,
@@ -206,14 +212,13 @@ TransitDataset loadDatasetFromJsonArrays({
 
     final distanceMeters = (o['distanceMeters'] as num?)?.toDouble() ?? 0.0;
     final estimatedMinutes = (o['estimatedMinutes'] as num?)?.toInt();
-    final mins = estimatedMinutes ??
-        max(1, (distanceMeters / 80.0).round());
+    final mins = estimatedMinutes ?? max(1, (distanceMeters / 80.0).round());
     final sec = mins * 60;
     final confidence = o['confidence'] as String?;
 
     for (final pair in [
       [a, b],
-      [b, a]
+      [b, a],
     ]) {
       final c = Connection(
         fromStop: pair[0],
@@ -290,16 +295,18 @@ void _buildStaticGraph(TransitDataset ds) {
     // Compute median — matches Python statistics.median behavior
     final duration = max(1, _median(samples).round());
 
-    ds.addConnection(Connection(
-      fromStop: fromStop,
-      toStop: toStop,
-      routeId: routeId,
-      mode: mode,
-      departureSec: 0,
-      arrivalSec: duration,
-      distanceM: distanceByEdge[entry.key] ?? 0.0,
-      isTransfer: false,
-    ));
+    ds.addConnection(
+      Connection(
+        fromStop: fromStop,
+        toStop: toStop,
+        routeId: routeId,
+        mode: mode,
+        departureSec: 0,
+        arrivalSec: duration,
+        distanceM: distanceByEdge[entry.key] ?? 0.0,
+        isTransfer: false,
+      ),
+    );
   }
 }
 
@@ -315,14 +322,13 @@ void _loadTransfers(TransitDataset ds, String root) {
 
     final distanceMeters = (o['distanceMeters'] as num?)?.toDouble() ?? 0.0;
     final estimatedMinutes = (o['estimatedMinutes'] as num?)?.toInt();
-    final mins = estimatedMinutes ??
-        max(1, (distanceMeters / 80.0).round());
+    final mins = estimatedMinutes ?? max(1, (distanceMeters / 80.0).round());
     final sec = mins * 60;
     final confidence = o['confidence'] as String?;
 
     for (final pair in [
       [a, b],
-      [b, a]
+      [b, a],
     ]) {
       final c = Connection(
         fromStop: pair[0],

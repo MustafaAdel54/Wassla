@@ -1,0 +1,18 @@
+{
+  "id": "surface_915",
+  "data": {
+    "name": "16th District (Sheikh Zayed)",
+    "lat": 30.053264496773558,
+    "lng": 30.96616699533678,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "915",
+    "isActive": true
+  }
+}

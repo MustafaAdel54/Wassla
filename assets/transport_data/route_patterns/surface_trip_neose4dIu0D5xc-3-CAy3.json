@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_neose4dIu0D5xc-3-CAy3",
+  "data": {
+    "routeId": "surface_ht0GgjSAbF0kdmnExj5Yz",
+    "tripId": "neose4dIu0D5xc-3-CAy3",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Masaken Al Wehda",
+    "stops": [
+      {
+        "stopId": "surface_1297",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2824",
+        "sequence": 2,
+        "arrivalSec": 21772,
+        "departureSec": 21787
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

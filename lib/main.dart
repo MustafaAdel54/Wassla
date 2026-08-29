@@ -1,3 +1,4 @@
+import 'dart:developer' as developer;
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -13,8 +14,7 @@ import 'package:wassla/features/dataset_sync/domain/entities/sync_entities.dart'
 import 'package:wassla/features/dataset_sync/domain/usecases/publish_dataset_usecase.dart';
 import 'package:wassla/features/dataset_sync/domain/usecases/sync_dataset_usecase.dart';
 import 'package:wassla/features/dataset_sync/presentation/cubit/sync_cubit.dart';
-import 'package:wassla/features/places/data/repositories/local_place_repository.dart';
-import 'package:wassla/features/route_search/data/datasources/routing_graph_cache.dart';
+import 'package:wassla/features/route_search/data/datasources/routing_isolate_worker.dart';
 import 'package:wassla/features/route_search/domain/usecases/search_route_usecase.dart';
 import 'package:wassla/features/route_search/presentation/cubit/route_search_cubit.dart';
 import 'package:wassla/features/route_search/presentation/pages/route_search_page.dart';
@@ -23,9 +23,7 @@ import 'firebase_options.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
-  );
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
 
   // --- Manual DI wiring (will be replaced by get_it + injectable) ---
 
@@ -40,9 +38,8 @@ void main() async {
   final syncRepo = DatasetSyncRepositoryImpl(remoteDataSource, localDataSource);
 
   // Routing
-  final graphCache = RoutingGraphCache();
-  final routingService = DartV4RoutingService(graphCache, localDataSource);
-
+  final routingWorker = RoutingIsolateWorker();
+  final routingService = DartV4RoutingService(routingWorker, localDataSource);
 
   // Use cases
   final searchRouteUseCase = SearchRouteUseCase(routingService);
@@ -55,14 +52,16 @@ void main() async {
     publishDatasetUseCase = PublishDatasetUseCase(publishRepo);
   }
 
-  runApp(WasslaApp(
-    searchRouteUseCase: searchRouteUseCase,
-    syncDatasetUseCase: syncDatasetUseCase,
-    publishDatasetUseCase: publishDatasetUseCase,
-    routingService: routingService,
-    localDataSource: localDataSource,
-    syncRepo: syncRepo,
-  ));
+  runApp(
+    WasslaApp(
+      searchRouteUseCase: searchRouteUseCase,
+      syncDatasetUseCase: syncDatasetUseCase,
+      publishDatasetUseCase: publishDatasetUseCase,
+      routingService: routingService,
+      localDataSource: localDataSource,
+      syncRepo: syncRepo,
+    ),
+  );
 }
 
 class WasslaApp extends StatefulWidget {
@@ -108,8 +107,10 @@ class _WasslaAppState extends State<WasslaApp> {
 
   Future<void> _bootstrap() async {
     final hasLocal = await widget.syncRepo.hasLocalDataset();
+    developer.log('Bootstrap Start - hasLocalDataset: $hasLocal', name: 'AppBootstrap');
 
     if (hasLocal) {
+      developer.log('Decision: USE_LOCAL_AND_BACKGROUND_SYNC', name: 'AppBootstrap');
       // Existing install — show UI immediately, sync in background
       setState(() {
         _isBootstrapping = false;
@@ -120,6 +121,7 @@ class _WasslaAppState extends State<WasslaApp> {
 
       // Background sync
       final result = await _syncCubit.syncDataset();
+      developer.log('Background Sync Result: ${result.status}', name: 'AppBootstrap');
       if (result.routingDataChanged) {
         _routeSearchCubit.onRoutingDataUpdated();
         _routeSearchCubit.initializeEngine();
@@ -131,14 +133,18 @@ class _WasslaAppState extends State<WasslaApp> {
       });
 
       final result = await _syncCubit.syncDataset();
+      developer.log('Initial Sync Result: ${result.status}', name: 'AppBootstrap');
+      
       if (result.status == SyncStatusType.initialDownload ||
           result.status == SyncStatusType.updated) {
+        developer.log('Decision: BOOTSTRAP_FROM_FIREBASE (Success)', name: 'AppBootstrap');
         setState(() {
           _isBootstrapping = false;
         });
         _routeSearchCubit.initializeEngine();
       } else {
         // Sync failed — stay on bootstrap screen
+        developer.log('Decision: FAILURE', name: 'AppBootstrap');
         setState(() => _isBootstrapping = true);
       }
     }
@@ -153,10 +159,7 @@ class _WasslaAppState extends State<WasslaApp> {
       ],
       child: MaterialApp(
         title: 'Wassla',
-        theme: ThemeData(
-          colorSchemeSeed: Colors.blue,
-          useMaterial3: true,
-        ),
+        theme: ThemeData(colorSchemeSeed: Colors.blue, useMaterial3: true),
         home: _isBootstrapping
             ? _BootstrapPage(
                 syncCubit: _syncCubit,
@@ -180,10 +183,7 @@ class _BootstrapPage extends StatelessWidget {
   final SyncCubit syncCubit;
   final PublishDatasetUseCase? publishDatasetUseCase;
 
-  const _BootstrapPage({
-    required this.syncCubit,
-    this.publishDatasetUseCase,
-  });
+  const _BootstrapPage({required this.syncCubit, this.publishDatasetUseCase});
 
   @override
   Widget build(BuildContext context) {
@@ -219,8 +219,7 @@ class _BootstrapPage extends StatelessWidget {
               return Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
-                  const Icon(Icons.check_circle,
-                      color: Colors.green, size: 48),
+                  const Icon(Icons.check_circle, color: Colors.green, size: 48),
                   const SizedBox(height: 16),
                   const Text('Dataset published to Firebase!'),
                   const SizedBox(height: 16),
@@ -232,15 +231,16 @@ class _BootstrapPage extends StatelessWidget {
                           result.status == SyncStatusType.updated) {
                         if (context.mounted) {
                           // Rebuild parent to transition to route search
-                          Navigator.of(context)
-                              .pushReplacement(MaterialPageRoute(
-                            builder: (_) => MultiBlocProvider(
-                              providers: [
-                                BlocProvider.value(value: syncCubit),
-                              ],
-                              child: const RouteSearchPage(),
+                          Navigator.of(context).pushReplacement(
+                            MaterialPageRoute(
+                              builder: (_) => MultiBlocProvider(
+                                providers: [
+                                  BlocProvider.value(value: syncCubit),
+                                ],
+                                child: const RouteSearchPage(),
+                              ),
                             ),
-                          ));
+                          );
                         }
                       }
                     },
@@ -250,15 +250,16 @@ class _BootstrapPage extends StatelessWidget {
               );
             }
 
-            if (state is SyncError || state is PublishError) {
+            if (state is SyncError || state is PublishError || (state is SyncComplete && state.result.status == SyncStatusType.failed)) {
               final message = state is SyncError
                   ? state.message
-                  : (state as PublishError).message;
+                  : state is PublishError
+                      ? state.message
+                      : (state as SyncComplete).result.errorMessage ?? 'Unknown sync failure';
               return Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
-                  const Icon(Icons.error_outline,
-                      color: Colors.red, size: 48),
+                  const Icon(Icons.error_outline, color: Colors.red, size: 48),
                   const SizedBox(height: 16),
                   Text(message, textAlign: TextAlign.center),
                   const SizedBox(height: 24),
@@ -281,6 +282,7 @@ class _BootstrapPage extends StatelessWidget {
             }
 
             // Initial state — check if we need dev import
+            developer.log('Decision: DEVELOPER_IMPORT', name: 'AppBootstrap');
             return Column(
               mainAxisSize: MainAxisSize.min,
               children: [

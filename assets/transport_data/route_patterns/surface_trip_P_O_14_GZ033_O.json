@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_P_O_14_GZ033_O",
+  "data": {
+    "routeId": "surface_P_O_14_GZ033",
+    "tripId": "P_O_14_GZ033_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Kit Kat Square",
+    "stops": [
+      {
+        "stopId": "surface_2211",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2736",
+        "sequence": 2,
+        "arrivalSec": 21685,
+        "departureSec": 21700
+      },
+      {
+        "stopId": "surface_2213",
+        "sequence": 3,
+        "arrivalSec": 21716,
+        "departureSec": 21731
+      },
+      {
+        "stopId": "surface_1348",
+        "sequence": 4,
+        "arrivalSec": 21878,
+        "departureSec": 21893
+      },
+      {
+        "stopId": "surface_108",
+        "sequence": 5,
+        "arrivalSec": 22097,
+        "departureSec": 22112
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

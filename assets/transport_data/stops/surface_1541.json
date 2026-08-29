@@ -1,0 +1,18 @@
+{
+  "id": "surface_1541",
+  "data": {
+    "name": "Sobhy Hussein St. (Al Moqattam)",
+    "lat": 29.9982986,
+    "lng": 31.3271458,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1541",
+    "isActive": true
+  }
+}

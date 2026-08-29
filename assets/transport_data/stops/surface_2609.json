@@ -1,0 +1,18 @@
+{
+  "id": "surface_2609",
+  "data": {
+    "name": "Mobil (Cairo Assyout Agricultural Rd.)",
+    "lat": 29.921208252994877,
+    "lng": 31.264940170154727,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2609",
+    "isActive": true
+  }
+}

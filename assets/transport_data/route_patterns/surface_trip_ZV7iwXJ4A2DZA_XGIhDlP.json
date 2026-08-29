@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_ZV7iwXJ4A2DZA_XGIhDlP",
+  "data": {
+    "routeId": "surface_JFURIfkSZvjnSzWLlUZ65",
+    "tripId": "ZV7iwXJ4A2DZA_XGIhDlP",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Giza Square",
+    "stops": [
+      {
+        "stopId": "surface_397",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2175",
+        "sequence": 2,
+        "arrivalSec": 21827,
+        "departureSec": 21842
+      },
+      {
+        "stopId": "surface_2178",
+        "sequence": 3,
+        "arrivalSec": 21867,
+        "departureSec": 21882
+      },
+      {
+        "stopId": "surface_2180",
+        "sequence": 4,
+        "arrivalSec": 21902,
+        "departureSec": 21917
+      },
+      {
+        "stopId": "surface_2179",
+        "sequence": 5,
+        "arrivalSec": 21923,
+        "departureSec": 21938
+      },
+      {
+        "stopId": "surface_2177",
+        "sequence": 6,
+        "arrivalSec": 21958,
+        "departureSec": 21973
+      },
+      {
+        "stopId": "surface_2176",
+        "sequence": 7,
+        "arrivalSec": 22009,
+        "departureSec": 22024
+      },
+      {
+        "stopId": "surface_10",
+        "sequence": 8,
+        "arrivalSec": 22044,
+        "departureSec": 22059
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1806",
+  "data": {
+    "name": "Neiazi Sayed (Al Mansoureyya Rd.)",
+    "lat": 30.003691800000013,
+    "lng": 31.1196091,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1806",
+    "isActive": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "surface_trip_YyiVEYu_1hH69dh94lRA3",
+  "data": {
+    "routeId": "surface_Zy8zeMtNXeBpZrtvM4kDl",
+    "tripId": "YyiVEYu_1hH69dh94lRA3",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Matareya Square",
+    "stops": [
+      {
+        "stopId": "surface_2713",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2715",
+        "sequence": 2,
+        "arrivalSec": 21718,
+        "departureSec": 21733
+      },
+      {
+        "stopId": "surface_2717",
+        "sequence": 3,
+        "arrivalSec": 21753,
+        "departureSec": 21768
+      },
+      {
+        "stopId": "surface_2033",
+        "sequence": 4,
+        "arrivalSec": 22130,
+        "departureSec": 22145
+      },
+      {
+        "stopId": "surface_1218",
+        "sequence": 5,
+        "arrivalSec": 22257,
+        "departureSec": 22272
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

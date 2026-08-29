@@ -1,0 +1,18 @@
+{
+  "id": "surface_2376",
+  "data": {
+    "name": "Al Tawheed Wal Nour (Warraq)",
+    "lat": 30.09627898983936,
+    "lng": 31.223362282501967,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2376",
+    "isActive": true
+  }
+}

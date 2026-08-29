@@ -1,0 +1,18 @@
+{
+  "id": "surface_2410",
+  "data": {
+    "name": "Omar Efendi (Ahmed Oraby St.)",
+    "lat": 30.063797572394147,
+    "lng": 31.20427716845597,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2410",
+    "isActive": true
+  }
+}

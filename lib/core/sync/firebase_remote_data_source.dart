@@ -1,23 +1,15 @@
-import 'dart:convert';
-import 'dart:typed_data';
-
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_storage/firebase_storage.dart';
 
 import '../../features/dataset_sync/domain/entities/sync_entities.dart';
-import '../constants/sync_constants.dart';
 
 /// Data source for accessing the remote Firebase dataset.
-/// Handles both Firestore collections and Cloud Storage files.
+/// Handles Firestore collections.
 class FirebaseRemoteDataSource {
   final FirebaseFirestore _firestore;
-  final FirebaseStorage _storage;
 
   FirebaseRemoteDataSource({
     FirebaseFirestore? firestore,
-    FirebaseStorage? storage,
-  })  : _firestore = firestore ?? FirebaseFirestore.instance,
-        _storage = storage ?? FirebaseStorage.instance;
+  }) : _firestore = firestore ?? FirebaseFirestore.instance;
 
   /// Fetch the remote dataset manifest.
   /// 1 Firestore read.
@@ -38,9 +30,6 @@ class FirebaseRemoteDataSource {
       collections[entry.key] = CollectionMetadata(
         count: (c['count'] as num).toInt(),
         contentHash: c['contentHash'] as String,
-        storage: c['storage'] as String,
-        storagePath: c['storagePath'] as String?,
-        sizeBytes: (c['sizeBytes'] as num?)?.toInt(),
       );
     }
 
@@ -57,23 +46,15 @@ class FirebaseRemoteDataSource {
 
   /// Read all documents from a Firestore collection.
   /// Returns a list of (docId, docData) pairs in Firestore-document format.
-  Future<List<MapEntry<String, Map<String, dynamic>>>>
-      fetchFirestoreCollection(String name) async {
+  Future<List<MapEntry<String, Map<String, dynamic>>>> fetchFirestoreCollection(
+    String name,
+  ) async {
     final snapshot = await _firestore.collection(name).get();
     return snapshot.docs.map((doc) {
       return MapEntry(doc.id, doc.data());
     }).toList();
   }
 
-  /// Download a file from Cloud Storage and return its bytes.
-  Future<List<int>> downloadStorageFile(String path) async {
-    final ref = _storage.ref(path);
-    final data = await ref.getData();
-    if (data == null) {
-      throw Exception('Cloud Storage file not found: $path');
-    }
-    return data;
-  }
 
   /// Upload a Firestore collection from a list of documents.
   /// Used by the developer import action.
@@ -96,14 +77,6 @@ class FirebaseRemoteDataSource {
     }
   }
 
-  /// Upload a file to Cloud Storage.
-  Future<void> uploadStorageFile(String path, List<int> bytes) async {
-    final ref = _storage.ref(path);
-    await ref.putData(
-      Uint8List.fromList(bytes),
-      SettableMetadata(contentType: 'application/json'),
-    );
-  }
 
   /// Publish the dataset manifest document.
   Future<void> publishManifest(Map<String, dynamic> manifestData) async {

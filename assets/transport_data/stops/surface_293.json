@@ -1,0 +1,18 @@
+{
+  "id": "surface_293",
+  "data": {
+    "name": "7th District Station (Nasr City)",
+    "lat": 30.043547320402965,
+    "lng": 31.3293617127822,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "293",
+    "isActive": true
+  }
+}

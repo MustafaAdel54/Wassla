@@ -1,0 +1,50 @@
+{
+  "id": "surface_trip_FjqS5YZ_SsKiz5lnAETLT",
+  "data": {
+    "routeId": "surface_BJ5gu8S2fvtVIQNgi3LNC",
+    "tripId": "FjqS5YZ_SsKiz5lnAETLT",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Masaken Dahshour",
+    "stops": [
+      {
+        "stopId": "surface_2",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_383",
+        "sequence": 2,
+        "arrivalSec": 21653,
+        "departureSec": 21668
+      },
+      {
+        "stopId": "surface_2790",
+        "sequence": 3,
+        "arrivalSec": 21695,
+        "departureSec": 21710
+      },
+      {
+        "stopId": "surface_1422",
+        "sequence": 4,
+        "arrivalSec": 21850,
+        "departureSec": 21865
+      },
+      {
+        "stopId": "surface_218",
+        "sequence": 5,
+        "arrivalSec": 21923,
+        "departureSec": 21938
+      },
+      {
+        "stopId": "surface_3025",
+        "sequence": 6,
+        "arrivalSec": 22823,
+        "departureSec": 22838
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2126",
+  "data": {
+    "name": "Nile Club (Shubra Al Kheima)",
+    "lat": 30.110699633542175,
+    "lng": 31.24356522304946,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2126",
+    "isActive": true
+  }
+}

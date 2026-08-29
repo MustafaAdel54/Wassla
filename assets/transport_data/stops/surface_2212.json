@@ -1,0 +1,18 @@
+{
+  "id": "surface_2212",
+  "data": {
+    "name": "Al Wehda (Imbaba)",
+    "lat": 30.086967339735104,
+    "lng": 31.217117616861163,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2212",
+    "isActive": true
+  }
+}

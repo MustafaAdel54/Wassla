@@ -1,0 +1,18 @@
+{
+  "id": "surface_2896",
+  "data": {
+    "name": "Al Sheikh Al Jadid St.",
+    "lat": 30.031609,
+    "lng": 31.120723,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2896",
+    "isActive": true
+  }
+}

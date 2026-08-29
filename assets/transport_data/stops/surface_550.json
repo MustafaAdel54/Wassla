@@ -1,0 +1,18 @@
+{
+  "id": "surface_550",
+  "data": {
+    "name": "Al Yasmine Compound (6th of October)",
+    "lat": 29.937609291591937,
+    "lng": 30.9275086950033,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "550",
+    "isActive": true
+  }
+}

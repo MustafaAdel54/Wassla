@@ -1,0 +1,18 @@
+{
+  "id": "surface_498",
+  "data": {
+    "name": "Autostrad & Al Moneeb Axis",
+    "lat": 29.994602419749622,
+    "lng": 31.280895448378672,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "498",
+    "isActive": true
+  }
+}

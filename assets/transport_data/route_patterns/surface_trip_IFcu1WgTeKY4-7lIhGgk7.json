@@ -1,0 +1,62 @@
+{
+  "id": "surface_trip_IFcu1WgTeKY4-7lIhGgk7",
+  "data": {
+    "routeId": "surface_Fuoze4mwamBt6aoqW-wJH",
+    "tripId": "IFcu1WgTeKY4-7lIhGgk7",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Roxy",
+    "stops": [
+      {
+        "stopId": "surface_1726",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1214",
+        "sequence": 2,
+        "arrivalSec": 21647,
+        "departureSec": 21662
+      },
+      {
+        "stopId": "surface_1720",
+        "sequence": 3,
+        "arrivalSec": 21686,
+        "departureSec": 21701
+      },
+      {
+        "stopId": "surface_750",
+        "sequence": 4,
+        "arrivalSec": 21755,
+        "departureSec": 21770
+      },
+      {
+        "stopId": "surface_1390",
+        "sequence": 5,
+        "arrivalSec": 21860,
+        "departureSec": 21875
+      },
+      {
+        "stopId": "surface_1694",
+        "sequence": 6,
+        "arrivalSec": 21925,
+        "departureSec": 21940
+      },
+      {
+        "stopId": "surface_1698",
+        "sequence": 7,
+        "arrivalSec": 22015,
+        "departureSec": 22030
+      },
+      {
+        "stopId": "surface_2749",
+        "sequence": 8,
+        "arrivalSec": 22150,
+        "departureSec": 22165
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

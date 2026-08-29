@@ -1,0 +1,16 @@
+{
+  "id": "metro_10_UHL_METRO_N",
+  "data": {
+    "name": "Helwan University",
+    "lat": 29.8694521,
+    "lng": 31.3200045,
+    "stationId": "station_metro_10_UHL_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "10_UHL_METRO_N",
+    "parentSourceId": "10_UHL_METRO",
+    "isActive": true
+  }
+}

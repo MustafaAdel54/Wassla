@@ -1,0 +1,18 @@
+{
+  "id": "surface_752",
+  "data": {
+    "name": "Arab Specialized Hospital (Gesr Al Suez)",
+    "lat": 30.126456486993373,
+    "lng": 31.35146784242266,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "752",
+    "isActive": true
+  }
+}

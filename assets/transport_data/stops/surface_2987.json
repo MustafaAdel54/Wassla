@@ -1,0 +1,18 @@
+{
+  "id": "surface_2987",
+  "data": {
+    "name": "Shorouq City",
+    "lat": 30.139378,
+    "lng": 31.653861,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2987",
+    "isActive": true
+  }
+}

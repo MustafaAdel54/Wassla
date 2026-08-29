@@ -1,0 +1,18 @@
+{
+  "id": "surface_2942",
+  "data": {
+    "name": "Teraat Al Khashab (Nile Corniche)",
+    "lat": 29.91784424301434,
+    "lng": 31.286321981237585,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2942",
+    "isActive": true
+  }
+}

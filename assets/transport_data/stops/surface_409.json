@@ -1,0 +1,18 @@
+{
+  "id": "surface_409",
+  "data": {
+    "name": "Al Taawon Gas Station (Al Shabab St. Obour)",
+    "lat": 30.247726520528914,
+    "lng": 31.45901349017287,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "409",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2189",
+  "data": {
+    "name": "Amir Al Shoaraa School (Al Giza)",
+    "lat": 30.00027425005707,
+    "lng": 31.20875974381599,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2189",
+    "isActive": true
+  }
+}

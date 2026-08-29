@@ -1,0 +1,18 @@
+{
+  "id": "surface_1938",
+  "data": {
+    "name": "National Institute for Diabetes (Magra Al Oyoun)",
+    "lat": 30.025974769736795,
+    "lng": 31.230855553123046,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1938",
+    "isActive": true
+  }
+}

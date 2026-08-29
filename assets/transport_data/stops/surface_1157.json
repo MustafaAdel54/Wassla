@@ -1,0 +1,18 @@
+{
+  "id": "surface_1157",
+  "data": {
+    "name": "Police Academy (New Cairo)",
+    "lat": 30.05342816330738,
+    "lng": 31.41340128007553,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1157",
+    "isActive": true
+  }
+}

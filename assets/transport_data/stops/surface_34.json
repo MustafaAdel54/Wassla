@@ -1,0 +1,18 @@
+{
+  "id": "surface_34",
+  "data": {
+    "name": "Haram Mashaal",
+    "lat": 29.986491533135094,
+    "lng": 31.141476943004708,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "34",
+    "isActive": true
+  }
+}

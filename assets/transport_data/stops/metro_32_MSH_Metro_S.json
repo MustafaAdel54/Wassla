@@ -1,0 +1,16 @@
+{
+  "id": "metro_32_MSH_Metro_S",
+  "data": {
+    "name": "El-Malek El-Saleh",
+    "lat": 30.0177162,
+    "lng": 31.2311751,
+    "stationId": "station_metro_32_MSH_Metro",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "32_MSH_Metro_S",
+    "parentSourceId": "32_MSH_Metro",
+    "isActive": true
+  }
+}

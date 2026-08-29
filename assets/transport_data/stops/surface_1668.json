@@ -1,0 +1,18 @@
+{
+  "id": "surface_1668",
+  "data": {
+    "name": "Athar Al Naby",
+    "lat": 29.98894,
+    "lng": 31.2348336,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1668",
+    "isActive": true
+  }
+}

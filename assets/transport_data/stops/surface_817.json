@@ -1,0 +1,18 @@
+{
+  "id": "surface_817",
+  "data": {
+    "name": "Misr 2000",
+    "lat": 30.03855742175558,
+    "lng": 31.43896755782948,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "817",
+    "isActive": true
+  }
+}

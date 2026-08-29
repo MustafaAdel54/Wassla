@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_2H4tGIYU3faO0axmYnmaO",
+  "data": {
+    "routeId": "surface_QD4B-vIsagxeF82oSJvMs",
+    "tripId": "2H4tGIYU3faO0axmYnmaO",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al Bassous",
+    "stops": [
+      {
+        "stopId": "surface_789",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2915",
+        "sequence": 2,
+        "arrivalSec": 22537,
+        "departureSec": 22552
+      },
+      {
+        "stopId": "surface_2832",
+        "sequence": 3,
+        "arrivalSec": 22685,
+        "departureSec": 22700
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

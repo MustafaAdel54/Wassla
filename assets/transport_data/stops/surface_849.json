@@ -1,0 +1,18 @@
+{
+  "id": "surface_849",
+  "data": {
+    "name": "Abou Allaam (6th of October)",
+    "lat": 29.958609995063036,
+    "lng": 30.90097835638538,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "849",
+    "isActive": true
+  }
+}

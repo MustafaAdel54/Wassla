@@ -1,0 +1,86 @@
+{
+  "id": "surface_trip_7GQl2A2SxfqKgVVcqTb5j",
+  "data": {
+    "routeId": "surface_kRpR7tVa5mkJF71MQgxHN",
+    "tripId": "7GQl2A2SxfqKgVVcqTb5j",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Hadaba Wosta (Moqattam)",
+    "stops": [
+      {
+        "stopId": "surface_1098",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 2,
+        "arrivalSec": 21735,
+        "departureSec": 21750
+      },
+      {
+        "stopId": "surface_1428",
+        "sequence": 3,
+        "arrivalSec": 21804,
+        "departureSec": 21819
+      },
+      {
+        "stopId": "surface_1213",
+        "sequence": 4,
+        "arrivalSec": 21981,
+        "departureSec": 21996
+      },
+      {
+        "stopId": "surface_431",
+        "sequence": 5,
+        "arrivalSec": 22458,
+        "departureSec": 22473
+      },
+      {
+        "stopId": "surface_598",
+        "sequence": 6,
+        "arrivalSec": 22568,
+        "departureSec": 22583
+      },
+      {
+        "stopId": "surface_2654",
+        "sequence": 7,
+        "arrivalSec": 22743,
+        "departureSec": 22758
+      },
+      {
+        "stopId": "surface_2972",
+        "sequence": 8,
+        "arrivalSec": 22908,
+        "departureSec": 22923
+      },
+      {
+        "stopId": "surface_601",
+        "sequence": 9,
+        "arrivalSec": 23279,
+        "departureSec": 23294
+      },
+      {
+        "stopId": "surface_363",
+        "sequence": 10,
+        "arrivalSec": 23430,
+        "departureSec": 23445
+      },
+      {
+        "stopId": "surface_1521",
+        "sequence": 11,
+        "arrivalSec": 23729,
+        "departureSec": 23744
+      },
+      {
+        "stopId": "surface_1524",
+        "sequence": 12,
+        "arrivalSec": 23864,
+        "departureSec": 23879
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

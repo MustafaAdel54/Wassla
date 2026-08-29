@@ -1,0 +1,18 @@
+{
+  "id": "surface_2685",
+  "data": {
+    "name": "Tharwat Bridge (Saft El Laban)",
+    "lat": 30.027332110832933,
+    "lng": 31.201728099509385,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2685",
+    "isActive": true
+  }
+}

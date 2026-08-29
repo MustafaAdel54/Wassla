@@ -1,0 +1,18 @@
+{
+  "id": "surface_1945",
+  "data": {
+    "name": "Al Nada Hospital (Al Manial)",
+    "lat": 30.0194552457882,
+    "lng": 31.225247841056856,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1945",
+    "isActive": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "surface_trip_P_O_14_IG084_R",
+  "data": {
+    "routeId": "surface_P_O_14_IG084",
+    "tripId": "P_O_14_IG084_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Tibeen",
+    "stops": [
+      {
+        "stopId": "surface_2742",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2498",
+        "sequence": 2,
+        "arrivalSec": 22468,
+        "departureSec": 22483
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "surface_trip_P_O_14_CA017_R",
+  "data": {
+    "routeId": "surface_P_O_14_CA017",
+    "tripId": "P_O_14_CA017_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Al Sayeda Aisha",
+    "stops": [
+      {
+        "stopId": "surface_32",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2103",
+        "sequence": 2,
+        "arrivalSec": 21671,
+        "departureSec": 21686
+      },
+      {
+        "stopId": "surface_2101",
+        "sequence": 3,
+        "arrivalSec": 21736,
+        "departureSec": 21751
+      },
+      {
+        "stopId": "surface_2083",
+        "sequence": 4,
+        "arrivalSec": 21835,
+        "departureSec": 21850
+      },
+      {
+        "stopId": "surface_2084",
+        "sequence": 5,
+        "arrivalSec": 22025,
+        "departureSec": 22040
+      },
+      {
+        "stopId": "surface_1977",
+        "sequence": 6,
+        "arrivalSec": 22128,
+        "departureSec": 22143
+      },
+      {
+        "stopId": "surface_1987",
+        "sequence": 7,
+        "arrivalSec": 22249,
+        "departureSec": 22264
+      },
+      {
+        "stopId": "surface_1985",
+        "sequence": 8,
+        "arrivalSec": 22354,
+        "departureSec": 22369
+      },
+      {
+        "stopId": "surface_1644",
+        "sequence": 9,
+        "arrivalSec": 22477,
+        "departureSec": 22492
+      },
+      {
+        "stopId": "surface_508",
+        "sequence": 10,
+        "arrivalSec": 22606,
+        "departureSec": 22621
+      },
+      {
+        "stopId": "surface_2467",
+        "sequence": 11,
+        "arrivalSec": 22726,
+        "departureSec": 22741
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1566",
+  "data": {
+    "name": "Ragab Sons (Al Gazaer St.)",
+    "lat": 29.97552612691289,
+    "lng": 31.27587270795352,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1566",
+    "isActive": true
+  }
+}

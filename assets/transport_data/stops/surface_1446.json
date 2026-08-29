@@ -1,0 +1,18 @@
+{
+  "id": "surface_1446",
+  "data": {
+    "name": "Panasonic (Abbas Al Akkad St.)",
+    "lat": 30.06508664718308,
+    "lng": 31.336734578233383,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1446",
+    "isActive": true
+  }
+}

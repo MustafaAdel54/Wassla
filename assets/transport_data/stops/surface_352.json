@@ -1,0 +1,18 @@
+{
+  "id": "surface_352",
+  "data": {
+    "name": "Obour Square (3rd Settlement)",
+    "lat": 29.984064865217803,
+    "lng": 31.437867838258203,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "352",
+    "isActive": true
+  }
+}

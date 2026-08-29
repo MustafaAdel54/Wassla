@@ -1,0 +1,18 @@
+{
+  "id": "surface_1677",
+  "data": {
+    "name": "Shams Club (Alf Maskan)",
+    "lat": 30.121373379154786,
+    "lng": 31.342830300154358,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1677",
+    "isActive": true
+  }
+}

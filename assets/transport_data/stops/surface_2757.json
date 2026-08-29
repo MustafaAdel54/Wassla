@@ -1,0 +1,18 @@
+{
+  "id": "surface_2757",
+  "data": {
+    "name": "Ard Al Lewa",
+    "lat": 30.0574072,
+    "lng": 31.188471599999986,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2757",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2666",
+  "data": {
+    "name": "Al Bibany St.",
+    "lat": 30.034892508485292,
+    "lng": 31.255572831147237,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2666",
+    "isActive": true
+  }
+}

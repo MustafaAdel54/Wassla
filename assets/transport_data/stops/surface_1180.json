@@ -1,0 +1,18 @@
+{
+  "id": "surface_1180",
+  "data": {
+    "name": "10th of Ramadan City",
+    "lat": 30.29448444679677,
+    "lng": 31.744039456568842,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1180",
+    "isActive": true
+  }
+}

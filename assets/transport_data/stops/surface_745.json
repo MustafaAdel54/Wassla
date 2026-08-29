@@ -1,0 +1,18 @@
+{
+  "id": "surface_745",
+  "data": {
+    "name": "City Stars Mall",
+    "lat": 30.07355681048334,
+    "lng": 31.338863699770393,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "745",
+    "isActive": true
+  }
+}

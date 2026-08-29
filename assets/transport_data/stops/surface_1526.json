@@ -1,0 +1,18 @@
+{
+  "id": "surface_1526",
+  "data": {
+    "name": "Al Souq (Al Moqattam)",
+    "lat": 30.011246851838095,
+    "lng": 31.33271296475228,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1526",
+    "isActive": true
+  }
+}

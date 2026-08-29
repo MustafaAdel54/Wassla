@@ -1,0 +1,176 @@
+{
+  "id": "surface_trip_P_O_14_CA171_O",
+  "data": {
+    "routeId": "surface_P_O_14_CA171",
+    "tripId": "P_O_14_CA171_O",
+    "serviceId": "Ground_Daily",
+    "directionId": "0",
+    "headsign": "Al-Salam (10th of Ramadan)",
+    "stops": [
+      {
+        "stopId": "surface_2446",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_1887",
+        "sequence": 2,
+        "arrivalSec": 21662,
+        "departureSec": 21678
+      },
+      {
+        "stopId": "surface_2436",
+        "sequence": 3,
+        "arrivalSec": 21720,
+        "departureSec": 21734
+      },
+      {
+        "stopId": "surface_1888",
+        "sequence": 4,
+        "arrivalSec": 21794,
+        "departureSec": 21809
+      },
+      {
+        "stopId": "surface_1650",
+        "sequence": 5,
+        "arrivalSec": 21967,
+        "departureSec": 21982
+      },
+      {
+        "stopId": "surface_1259",
+        "sequence": 6,
+        "arrivalSec": 22035,
+        "departureSec": 22050
+      },
+      {
+        "stopId": "surface_202",
+        "sequence": 7,
+        "arrivalSec": 22163,
+        "departureSec": 22178
+      },
+      {
+        "stopId": "surface_221",
+        "sequence": 8,
+        "arrivalSec": 22309,
+        "departureSec": 22324
+      },
+      {
+        "stopId": "surface_281",
+        "sequence": 9,
+        "arrivalSec": 22363,
+        "departureSec": 22378
+      },
+      {
+        "stopId": "surface_200",
+        "sequence": 10,
+        "arrivalSec": 22420,
+        "departureSec": 22435
+      },
+      {
+        "stopId": "surface_695",
+        "sequence": 11,
+        "arrivalSec": 22461,
+        "departureSec": 22476
+      },
+      {
+        "stopId": "surface_1766",
+        "sequence": 12,
+        "arrivalSec": 22531,
+        "departureSec": 22546
+      },
+      {
+        "stopId": "surface_696",
+        "sequence": 13,
+        "arrivalSec": 22586,
+        "departureSec": 22602
+      },
+      {
+        "stopId": "surface_1633",
+        "sequence": 14,
+        "arrivalSec": 22622,
+        "departureSec": 22637
+      },
+      {
+        "stopId": "surface_697",
+        "sequence": 15,
+        "arrivalSec": 22723,
+        "departureSec": 22738
+      },
+      {
+        "stopId": "surface_2453",
+        "sequence": 16,
+        "arrivalSec": 22936,
+        "departureSec": 22952
+      },
+      {
+        "stopId": "surface_1479",
+        "sequence": 17,
+        "arrivalSec": 23519,
+        "departureSec": 23534
+      },
+      {
+        "stopId": "surface_1385",
+        "sequence": 18,
+        "arrivalSec": 23660,
+        "departureSec": 23674
+      },
+      {
+        "stopId": "surface_1494",
+        "sequence": 19,
+        "arrivalSec": 23963,
+        "departureSec": 23978
+      },
+      {
+        "stopId": "surface_1496",
+        "sequence": 20,
+        "arrivalSec": 24029,
+        "departureSec": 24044
+      },
+      {
+        "stopId": "surface_1318",
+        "sequence": 21,
+        "arrivalSec": 24112,
+        "departureSec": 24127
+      },
+      {
+        "stopId": "surface_1244",
+        "sequence": 22,
+        "arrivalSec": 24159,
+        "departureSec": 24174
+      },
+      {
+        "stopId": "surface_1471",
+        "sequence": 23,
+        "arrivalSec": 24325,
+        "departureSec": 24340
+      },
+      {
+        "stopId": "surface_1468",
+        "sequence": 24,
+        "arrivalSec": 24409,
+        "departureSec": 24424
+      },
+      {
+        "stopId": "surface_792",
+        "sequence": 25,
+        "arrivalSec": 24664,
+        "departureSec": 24679
+      },
+      {
+        "stopId": "surface_794",
+        "sequence": 26,
+        "arrivalSec": 24785,
+        "departureSec": 24800
+      },
+      {
+        "stopId": "surface_2483",
+        "sequence": 27,
+        "arrivalSec": 25409,
+        "departureSec": 25424
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

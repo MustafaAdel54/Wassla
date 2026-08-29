@@ -1,0 +1,18 @@
+{
+  "id": "surface_1159",
+  "data": {
+    "name": "Al Shorouq Academy Station",
+    "lat": 30.119180312455278,
+    "lng": 31.604593889779913,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1159",
+    "isActive": true
+  }
+}

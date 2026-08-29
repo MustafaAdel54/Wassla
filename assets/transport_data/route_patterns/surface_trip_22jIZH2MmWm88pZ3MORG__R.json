@@ -1,0 +1,176 @@
+{
+  "id": "surface_trip_22jIZH2MmWm88pZ3MORG__R",
+  "data": {
+    "routeId": "surface_22jIZH2MmWm88pZ3MORG_",
+    "tripId": "22jIZH2MmWm88pZ3MORG__R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Imbaba",
+    "stops": [
+      {
+        "stopId": "surface_1174",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2813",
+        "sequence": 2,
+        "arrivalSec": 21646,
+        "departureSec": 21661
+      },
+      {
+        "stopId": "surface_1173",
+        "sequence": 3,
+        "arrivalSec": 21704,
+        "departureSec": 21719
+      },
+      {
+        "stopId": "surface_2808",
+        "sequence": 4,
+        "arrivalSec": 21801,
+        "departureSec": 21816
+      },
+      {
+        "stopId": "surface_401",
+        "sequence": 5,
+        "arrivalSec": 21840,
+        "departureSec": 21855
+      },
+      {
+        "stopId": "surface_1383",
+        "sequence": 6,
+        "arrivalSec": 21925,
+        "departureSec": 21940
+      },
+      {
+        "stopId": "surface_1382",
+        "sequence": 7,
+        "arrivalSec": 21976,
+        "departureSec": 21991
+      },
+      {
+        "stopId": "surface_2420",
+        "sequence": 8,
+        "arrivalSec": 23601,
+        "departureSec": 23616
+      },
+      {
+        "stopId": "surface_1306",
+        "sequence": 9,
+        "arrivalSec": 24689,
+        "departureSec": 24704
+      },
+      {
+        "stopId": "surface_760",
+        "sequence": 10,
+        "arrivalSec": 24996,
+        "departureSec": 25011
+      },
+      {
+        "stopId": "surface_2216",
+        "sequence": 11,
+        "arrivalSec": 25178,
+        "departureSec": 25193
+      },
+      {
+        "stopId": "surface_440",
+        "sequence": 12,
+        "arrivalSec": 25230,
+        "departureSec": 25245
+      },
+      {
+        "stopId": "surface_17",
+        "sequence": 13,
+        "arrivalSec": 25655,
+        "departureSec": 25670
+      },
+      {
+        "stopId": "surface_1398",
+        "sequence": 14,
+        "arrivalSec": 25724,
+        "departureSec": 25739
+      },
+      {
+        "stopId": "surface_1839",
+        "sequence": 15,
+        "arrivalSec": 25839,
+        "departureSec": 25854
+      },
+      {
+        "stopId": "surface_342",
+        "sequence": 16,
+        "arrivalSec": 25929,
+        "departureSec": 25944
+      },
+      {
+        "stopId": "surface_834",
+        "sequence": 17,
+        "arrivalSec": 26052,
+        "departureSec": 26067
+      },
+      {
+        "stopId": "surface_2368",
+        "sequence": 18,
+        "arrivalSec": 26137,
+        "departureSec": 26152
+      },
+      {
+        "stopId": "surface_2370",
+        "sequence": 19,
+        "arrivalSec": 26241,
+        "departureSec": 26256
+      },
+      {
+        "stopId": "surface_2372",
+        "sequence": 20,
+        "arrivalSec": 26387,
+        "departureSec": 26402
+      },
+      {
+        "stopId": "surface_2374",
+        "sequence": 21,
+        "arrivalSec": 26465,
+        "departureSec": 26480
+      },
+      {
+        "stopId": "surface_2376",
+        "sequence": 22,
+        "arrivalSec": 26573,
+        "departureSec": 26588
+      },
+      {
+        "stopId": "surface_2378",
+        "sequence": 23,
+        "arrivalSec": 26692,
+        "departureSec": 26707
+      },
+      {
+        "stopId": "surface_216",
+        "sequence": 24,
+        "arrivalSec": 26792,
+        "departureSec": 26807
+      },
+      {
+        "stopId": "surface_2394",
+        "sequence": 25,
+        "arrivalSec": 26845,
+        "departureSec": 26860
+      },
+      {
+        "stopId": "surface_1349",
+        "sequence": 26,
+        "arrivalSec": 26930,
+        "departureSec": 26945
+      },
+      {
+        "stopId": "surface_2391",
+        "sequence": 27,
+        "arrivalSec": 26983,
+        "departureSec": 26998
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_735",
+  "data": {
+    "name": "Ibrahim Anwar Mosque (Al Zaytoun)",
+    "lat": 30.103158634541003,
+    "lng": 31.300596048339635,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "735",
+    "isActive": true
+  }
+}

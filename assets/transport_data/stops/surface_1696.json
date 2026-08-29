@@ -1,0 +1,18 @@
+{
+  "id": "surface_1696",
+  "data": {
+    "name": "Roxy",
+    "lat": 30.093607,
+    "lng": 31.315241,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1696",
+    "isActive": true
+  }
+}

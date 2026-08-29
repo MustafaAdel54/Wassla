@@ -1,0 +1,18 @@
+{
+  "id": "surface_1883",
+  "data": {
+    "name": "Al Hawamdeyya",
+    "lat": 29.88795541719625,
+    "lng": 31.27258311946221,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1883",
+    "isActive": true
+  }
+}

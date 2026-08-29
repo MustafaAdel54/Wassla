@@ -1,0 +1,18 @@
+{
+  "id": "surface_2982",
+  "data": {
+    "name": "International Medical Center",
+    "lat": 30.19624,
+    "lng": 31.65554,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2982",
+    "isActive": true
+  }
+}

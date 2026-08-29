@@ -1,0 +1,18 @@
+{
+  "id": "surface_2039",
+  "data": {
+    "name": "Tabarak (Omar Al Mokhtar St.)",
+    "lat": 30.12244794963809,
+    "lng": 31.29709050983541,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2039",
+    "isActive": true
+  }
+}

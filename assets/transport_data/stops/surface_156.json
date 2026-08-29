@@ -1,0 +1,18 @@
+{
+  "id": "surface_156",
+  "data": {
+    "name": "Dar Al Salam",
+    "lat": 29.981066030757137,
+    "lng": 31.23177161273835,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "156",
+    "isActive": true
+  }
+}

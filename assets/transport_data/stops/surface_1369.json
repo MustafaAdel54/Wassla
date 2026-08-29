@@ -1,0 +1,18 @@
+{
+  "id": "surface_1369",
+  "data": {
+    "name": "Mubarak Educational City Entrance",
+    "lat": 30.009704062524428,
+    "lng": 30.993882209190932,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1369",
+    "isActive": true
+  }
+}

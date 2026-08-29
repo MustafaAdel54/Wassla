@@ -1,0 +1,18 @@
+{
+  "id": "surface_2866",
+  "data": {
+    "name": "Central Park (Badr)",
+    "lat": 30.125533031731656,
+    "lng": 31.714416309143306,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2866",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_976",
+  "data": {
+    "name": "Emad Market (6th of October)",
+    "lat": 29.961223128112152,
+    "lng": 30.899388045282773,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "976",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_1510",
+  "data": {
+    "name": "Faisal Bank (Othman Bin Affan St.)",
+    "lat": 30.099217207188275,
+    "lng": 31.34129375810423,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1510",
+    "isActive": true
+  }
+}

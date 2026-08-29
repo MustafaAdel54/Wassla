@@ -1,0 +1,16 @@
+{
+  "id": "metro_86_SAD_METRO",
+  "data": {
+    "name": "Sadat",
+    "lat": 30.043924,
+    "lng": 31.23566,
+    "stationId": "station_metro_86_SAD_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "86_SAD_METRO",
+    "parentSourceId": "86_SAD_METRO",
+    "isActive": true
+  }
+}

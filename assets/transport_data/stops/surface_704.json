@@ -1,0 +1,18 @@
+{
+  "id": "surface_704",
+  "data": {
+    "name": "Al Gamaia Al Sharaia (Nasr City)",
+    "lat": 30.04763802166748,
+    "lng": 31.313842983648314,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "704",
+    "isActive": true
+  }
+}

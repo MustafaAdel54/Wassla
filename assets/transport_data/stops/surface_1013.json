@@ -1,0 +1,18 @@
+{
+  "id": "surface_1013",
+  "data": {
+    "name": "Kheir Zaman Al Mehwar Al Markazi (6th of October)",
+    "lat": 29.97209878081234,
+    "lng": 30.937849863105868,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1013",
+    "isActive": true
+  }
+}

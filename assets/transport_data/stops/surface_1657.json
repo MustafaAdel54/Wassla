@@ -1,0 +1,18 @@
+{
+  "id": "surface_1657",
+  "data": {
+    "name": "Al Nasr Restaurant (Basateen)",
+    "lat": 29.986159808670717,
+    "lng": 31.271643712432407,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1657",
+    "isActive": true
+  }
+}

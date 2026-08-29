@@ -1,0 +1,18 @@
+{
+  "id": "surface_2626",
+  "data": {
+    "name": "Badr Waste Area",
+    "lat": 30.132752246181763,
+    "lng": 31.70702053753587,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2626",
+    "isActive": true
+  }
+}

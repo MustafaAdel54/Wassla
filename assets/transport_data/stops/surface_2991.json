@@ -1,0 +1,18 @@
+{
+  "id": "surface_2991",
+  "data": {
+    "name": "Middle Ring Road",
+    "lat": 30.10275548021044,
+    "lng": 31.58694603887625,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2991",
+    "isActive": true
+  }
+}

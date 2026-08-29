@@ -1,0 +1,18 @@
+{
+  "id": "surface_2102",
+  "data": {
+    "name": "Bab Al Nasr ( Al Gamalia )",
+    "lat": 30.054353400001574,
+    "lng": 31.265390968035955,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2102",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_605",
+  "data": {
+    "name": "Al Salam Mosque (Haram St.)",
+    "lat": 30.003620993704452,
+    "lng": 31.18630099356046,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "605",
+    "isActive": true
+  }
+}

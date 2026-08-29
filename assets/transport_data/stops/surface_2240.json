@@ -1,0 +1,18 @@
+{
+  "id": "surface_2240",
+  "data": {
+    "name": "Btech (Masr Wal Sudan St.)",
+    "lat": 30.083287477338303,
+    "lng": 31.281855796152385,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2240",
+    "isActive": true
+  }
+}

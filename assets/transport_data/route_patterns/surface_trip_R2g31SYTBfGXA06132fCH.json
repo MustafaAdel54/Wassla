@@ -1,0 +1,32 @@
+{
+  "id": "surface_trip_R2g31SYTBfGXA06132fCH",
+  "data": {
+    "routeId": "surface_1ZbDBsUQUJRub7iZYmHFI",
+    "tripId": "R2g31SYTBfGXA06132fCH",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Dar El Salam",
+    "stops": [
+      {
+        "stopId": "surface_2544",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2833",
+        "sequence": 2,
+        "arrivalSec": 21707,
+        "departureSec": 21722
+      },
+      {
+        "stopId": "surface_2540",
+        "sequence": 3,
+        "arrivalSec": 21856,
+        "departureSec": 21871
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2665",
+  "data": {
+    "name": "Bab Al Karim Mosque (Nahya)",
+    "lat": 30.044624719626665,
+    "lng": 31.181974908860994,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2665",
+    "isActive": true
+  }
+}

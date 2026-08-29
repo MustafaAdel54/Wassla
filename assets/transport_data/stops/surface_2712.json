@@ -1,0 +1,18 @@
+{
+  "id": "surface_2712",
+  "data": {
+    "name": "Al Haq Hospital (Arbean St.)",
+    "lat": 30.1331357,
+    "lng": 31.314157,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2712",
+    "isActive": true
+  }
+}

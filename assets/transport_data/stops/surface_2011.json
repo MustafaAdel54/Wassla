@@ -1,0 +1,18 @@
+{
+  "id": "surface_2011",
+  "data": {
+    "name": "Versay - Waili",
+    "lat": 30.10374,
+    "lng": 31.28061,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2011",
+    "isActive": true
+  }
+}

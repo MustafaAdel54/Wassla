@@ -1,0 +1,18 @@
+{
+  "id": "surface_2166",
+  "data": {
+    "name": "Giza Governorate Authority",
+    "lat": 30.008717648750288,
+    "lng": 31.199814435419533,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2166",
+    "isActive": true
+  }
+}

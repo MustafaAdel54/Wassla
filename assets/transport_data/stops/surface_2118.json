@@ -1,0 +1,18 @@
+{
+  "id": "surface_2118",
+  "data": {
+    "name": "Abou Wafya",
+    "lat": 30.097776,
+    "lng": 31.256016,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2118",
+    "isActive": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surface_2930",
+  "data": {
+    "name": "Al Shenawy St. & Sadat St.",
+    "lat": 30.1490994654974,
+    "lng": 31.40221133603056,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2930",
+    "isActive": true
+  }
+}

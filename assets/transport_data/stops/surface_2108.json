@@ -1,0 +1,18 @@
+{
+  "id": "surface_2108",
+  "data": {
+    "name": "Bab Al Shaereyya Hospital",
+    "lat": 30.060634675467032,
+    "lng": 31.26063989010505,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2108",
+    "isActive": true
+  }
+}

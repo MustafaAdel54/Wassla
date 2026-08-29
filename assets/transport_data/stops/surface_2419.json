@@ -1,0 +1,18 @@
+{
+  "id": "surface_2419",
+  "data": {
+    "name": "Al Salam First Police Station",
+    "lat": 30.159355,
+    "lng": 31.41337969999998,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2419",
+    "isActive": true
+  }
+}

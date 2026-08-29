@@ -1,0 +1,18 @@
+{
+  "id": "surface_798",
+  "data": {
+    "name": "Basateen",
+    "lat": 29.99130886510862,
+    "lng": 31.28251384123261,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "798",
+    "isActive": true
+  }
+}

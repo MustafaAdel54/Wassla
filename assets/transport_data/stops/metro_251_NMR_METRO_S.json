@@ -1,0 +1,16 @@
+{
+  "id": "metro_251_NMR_METRO_S",
+  "data": {
+    "name": "New El-Marg",
+    "lat": 30.163551,
+    "lng": 31.338335,
+    "stationId": "station_metro_251_NMR_METRO",
+    "transportModes": [
+      "metro"
+    ],
+    "source": "gtfs_metro",
+    "sourceId": "251_NMR_METRO_S",
+    "parentSourceId": "251_NMR_METRO",
+    "isActive": true
+  }
+}

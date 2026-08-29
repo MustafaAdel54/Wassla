@@ -1,0 +1,18 @@
+{
+  "id": "surface_2564",
+  "data": {
+    "name": "Al Masanea Rd. & Nile Corniche",
+    "lat": 29.796594684432,
+    "lng": 31.29844520895279,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2564",
+    "isActive": true
+  }
+}

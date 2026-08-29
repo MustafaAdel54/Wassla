@@ -1,0 +1,18 @@
+{
+  "id": "surface_581",
+  "data": {
+    "name": "Naguib Mahfouz Square (1st Settlement)",
+    "lat": 30.063149506437366,
+    "lng": 31.43275476305267,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "581",
+    "isActive": true
+  }
+}

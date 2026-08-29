@@ -1,0 +1,18 @@
+{
+  "id": "surface_2423",
+  "data": {
+    "name": "Al Magzar (Al Mariouteya)",
+    "lat": 29.978767439028147,
+    "lng": 31.15969151634101,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2423",
+    "isActive": true
+  }
+}

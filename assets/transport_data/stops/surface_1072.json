@@ -1,0 +1,18 @@
+{
+  "id": "surface_1072",
+  "data": {
+    "name": "Wadi Degla Sporting Club (New Cairo)",
+    "lat": 30.05258715,
+    "lng": 31.42667592,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1072",
+    "isActive": true
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "surface_trip_P_O_14_GZ035_R",
+  "data": {
+    "routeId": "surface_P_O_14_GZ035",
+    "tripId": "P_O_14_GZ035_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Kit Kat Square",
+    "stops": [
+      {
+        "stopId": "surface_2554",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_2644",
+        "sequence": 2,
+        "arrivalSec": 21684,
+        "departureSec": 21699
+      },
+      {
+        "stopId": "surface_2871",
+        "sequence": 3,
+        "arrivalSec": 21803,
+        "departureSec": 21818
+      },
+      {
+        "stopId": "surface_2553",
+        "sequence": 4,
+        "arrivalSec": 22341,
+        "departureSec": 22356
+      },
+      {
+        "stopId": "surface_2650",
+        "sequence": 5,
+        "arrivalSec": 22511,
+        "departureSec": 22526
+      },
+      {
+        "stopId": "surface_2550",
+        "sequence": 6,
+        "arrivalSec": 22704,
+        "departureSec": 22719
+      },
+      {
+        "stopId": "surface_331",
+        "sequence": 7,
+        "arrivalSec": 22829,
+        "departureSec": 22844
+      },
+      {
+        "stopId": "surface_333",
+        "sequence": 8,
+        "arrivalSec": 22882,
+        "departureSec": 22898
+      },
+      {
+        "stopId": "surface_2404",
+        "sequence": 9,
+        "arrivalSec": 23172,
+        "departureSec": 23188
+      },
+      {
+        "stopId": "surface_2405",
+        "sequence": 10,
+        "arrivalSec": 23246,
+        "departureSec": 23260
+      },
+      {
+        "stopId": "surface_809",
+        "sequence": 11,
+        "arrivalSec": 23422,
+        "departureSec": 23436
+      },
+      {
+        "stopId": "surface_2408",
+        "sequence": 12,
+        "arrivalSec": 23586,
+        "departureSec": 23601
+      },
+      {
+        "stopId": "surface_2412",
+        "sequence": 13,
+        "arrivalSec": 23734,
+        "departureSec": 23749
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

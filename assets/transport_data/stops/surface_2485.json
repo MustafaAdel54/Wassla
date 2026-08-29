@@ -1,0 +1,18 @@
+{
+  "id": "surface_2485",
+  "data": {
+    "name": "Abboud",
+    "lat": 30.10520707064451,
+    "lng": 31.255527993346334,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2485",
+    "isActive": true
+  }
+}

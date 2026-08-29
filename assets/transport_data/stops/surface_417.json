@@ -1,0 +1,18 @@
+{
+  "id": "surface_417",
+  "data": {
+    "name": "Ain Shams University (Obour)",
+    "lat": 30.20441992773341,
+    "lng": 31.457462276568613,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "417",
+    "isActive": true
+  }
+}

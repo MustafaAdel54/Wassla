@@ -1,0 +1,18 @@
+{
+  "id": "surface_664",
+  "data": {
+    "name": "Kasr Al Ainy Hospital",
+    "lat": 30.0307373,
+    "lng": 31.2307794,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "664",
+    "isActive": true
+  }
+}

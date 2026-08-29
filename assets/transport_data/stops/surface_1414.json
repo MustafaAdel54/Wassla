@@ -1,0 +1,18 @@
+{
+  "id": "surface_1414",
+  "data": {
+    "name": "Al Mothalath (Marg)",
+    "lat": 30.212894599999984,
+    "lng": 31.3577807,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1414",
+    "isActive": true
+  }
+}

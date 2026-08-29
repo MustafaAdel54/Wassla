@@ -1,0 +1,18 @@
+{
+  "id": "surface_339",
+  "data": {
+    "name": "10 St. Steps (Ring Rd.)",
+    "lat": 30.106282506781692,
+    "lng": 31.20276713913681,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "339",
+    "isActive": true
+  }
+}

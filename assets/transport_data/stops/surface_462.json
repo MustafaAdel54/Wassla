@@ -1,0 +1,18 @@
+{
+  "id": "surface_462",
+  "data": {
+    "name": "Kia Motors (Joseph Tito St.)",
+    "lat": 30.136324513074687,
+    "lng": 31.392082872782144,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "462",
+    "isActive": true
+  }
+}

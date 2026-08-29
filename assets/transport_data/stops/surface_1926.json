@@ -1,0 +1,18 @@
+{
+  "id": "surface_1926",
+  "data": {
+    "name": "Adawy (Nile Corniche)",
+    "lat": 29.8966744,
+    "lng": 31.287559499999986,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "1926",
+    "isActive": true
+  }
+}

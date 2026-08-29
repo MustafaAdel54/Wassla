@@ -1,0 +1,56 @@
+{
+  "id": "surface_trip_P_B_8_NC017_R",
+  "data": {
+    "routeId": "surface_P_B_8_NC017",
+    "tripId": "P_B_8_NC017_R",
+    "serviceId": "Ground_Daily",
+    "directionId": "1",
+    "headsign": "Arabella Square",
+    "stops": [
+      {
+        "stopId": "surface_802",
+        "sequence": 1,
+        "arrivalSec": 21600,
+        "departureSec": 21615
+      },
+      {
+        "stopId": "surface_592",
+        "sequence": 2,
+        "arrivalSec": 21692,
+        "departureSec": 21707
+      },
+      {
+        "stopId": "surface_358",
+        "sequence": 3,
+        "arrivalSec": 21754,
+        "departureSec": 21769
+      },
+      {
+        "stopId": "surface_823",
+        "sequence": 4,
+        "arrivalSec": 21787,
+        "departureSec": 21802
+      },
+      {
+        "stopId": "surface_356",
+        "sequence": 5,
+        "arrivalSec": 21847,
+        "departureSec": 21862
+      },
+      {
+        "stopId": "surface_354",
+        "sequence": 6,
+        "arrivalSec": 21916,
+        "departureSec": 21931
+      },
+      {
+        "stopId": "surface_474",
+        "sequence": 7,
+        "arrivalSec": 21988,
+        "departureSec": 22003
+      }
+    ],
+    "source": "gtfs_surface",
+    "isActive": true
+  }
+}

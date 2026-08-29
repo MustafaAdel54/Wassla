@@ -1,0 +1,18 @@
+{
+  "id": "surface_347",
+  "data": {
+    "name": "Ard Khedr Pedestrian Bridge (Shubra Al Kheima)",
+    "lat": 30.129501423196732,
+    "lng": 31.238140396180547,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "347",
+    "isActive": true
+  }
+}

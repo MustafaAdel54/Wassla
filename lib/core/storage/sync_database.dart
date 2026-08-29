@@ -25,9 +25,6 @@ class LocalCollections extends Table {
   TextColumn get collectionName => text()();
   IntColumn get docCount => integer().withDefault(const Constant(0))();
   TextColumn get contentHash => text().withDefault(const Constant(''))();
-  TextColumn get storageType =>
-      text().withDefault(const Constant('firestore'))();
-  TextColumn get localFilePath => text().nullable()();
   TextColumn get syncedAt => text().withDefault(const Constant(''))();
 
   @override
@@ -42,19 +39,32 @@ class SyncDatabase extends _$SyncDatabase {
   SyncDatabase.forTesting(super.e);
 
   @override
-  int get schemaVersion => 1;
+  int get schemaVersion => 2;
+
+  @override
+  MigrationStrategy get migration => MigrationStrategy(
+        onCreate: (Migrator m) async {
+          await m.createAll();
+        },
+        onUpgrade: (Migrator m, int from, int to) async {
+          if (from == 1 && to == 2) {
+            // Lossless migration: alter the table to drop the obsolete columns
+            // Drift handles creating the new table, copying data, and dropping the old one under the hood.
+            await m.alterTable(TableMigration(localCollections));
+          }
+        },
+      );
 
   /// Get the current local manifest (or create default if missing).
   Future<LocalManifestData> getManifest() async {
-    final row = await (select(localManifest)
-          ..where((t) => t.id.equals(1)))
-        .getSingleOrNull();
+    final row = await (select(
+      localManifest,
+    )..where((t) => t.id.equals(1))).getSingleOrNull();
     if (row != null) return row;
     // Insert default row
-    await into(localManifest).insert(
-      LocalManifestCompanion.insert(),
-      mode: InsertMode.insertOrReplace,
-    );
+    await into(
+      localManifest,
+    ).insert(LocalManifestCompanion.insert(), mode: InsertMode.insertOrReplace);
     return (select(localManifest)..where((t) => t.id.equals(1))).getSingle();
   }
 
@@ -71,9 +81,7 @@ class SyncDatabase extends _$SyncDatabase {
   /// Update the graph-built-for version.
   Future<void> updateGraphVersion(int version) async {
     await (update(localManifest)..where((t) => t.id.equals(1))).write(
-      LocalManifestCompanion(
-        graphBuiltForVersion: Value(version),
-      ),
+      LocalManifestCompanion(graphBuiltForVersion: Value(version)),
     );
   }
 
@@ -88,16 +96,12 @@ class SyncDatabase extends _$SyncDatabase {
     required String name,
     required int docCount,
     required String contentHash,
-    required String storageType,
-    String? localFilePath,
   }) async {
     await into(localCollections).insertOnConflictUpdate(
       LocalCollectionsCompanion.insert(
         collectionName: name,
         docCount: Value(docCount),
         contentHash: Value(contentHash),
-        storageType: Value(storageType),
-        localFilePath: Value(localFilePath),
         syncedAt: Value(DateTime.now().toIso8601String()),
       ),
     );

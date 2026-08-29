@@ -1,0 +1,18 @@
+{
+  "id": "surface_2914",
+  "data": {
+    "name": "Abu Al Gheit Ambulance Service",
+    "lat": 30.158215,
+    "lng": 31.198005,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2914",
+    "isActive": true
+  }
+}

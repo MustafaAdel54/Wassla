@@ -1,0 +1,18 @@
+{
+  "id": "surface_2830",
+  "data": {
+    "name": "Bigam",
+    "lat": 30.13512222875116,
+    "lng": 31.245707427944556,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "2830",
+    "isActive": true
+  }
+}

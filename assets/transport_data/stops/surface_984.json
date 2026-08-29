@@ -1,0 +1,18 @@
+{
+  "id": "surface_984",
+  "data": {
+    "name": "Al Ezaby Pharmacy Al Mehwar Al Markazi (6th of October)",
+    "lat": 29.964368192032115,
+    "lng": 30.93305185733912,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "984",
+    "isActive": true
+  }
+}

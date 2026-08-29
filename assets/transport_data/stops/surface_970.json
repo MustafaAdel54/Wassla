@@ -1,0 +1,18 @@
+{
+  "id": "surface_970",
+  "data": {
+    "name": "Bashayer Entrance (6th of October)",
+    "lat": 29.971270078511054,
+    "lng": 30.918034632569164,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "970",
+    "isActive": true
+  }
+}

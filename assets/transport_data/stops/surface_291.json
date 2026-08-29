@@ -1,0 +1,18 @@
+{
+  "id": "surface_291",
+  "data": {
+    "name": "Ahmed Al Sallab Mall (Nasr City)",
+    "lat": 30.051758,
+    "lng": 31.323694,
+    "stationId": null,
+    "transportModes": [
+      "bus",
+      "microbus",
+      "minibus",
+      "paratransit"
+    ],
+    "source": "gtfs_surface",
+    "sourceId": "291",
+    "isActive": true
+  }
+}
