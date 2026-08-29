@@ -4,30 +4,56 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../../core/constants/sync_constants.dart';
 import '../../../dataset_sync/presentation/cubit/sync_cubit.dart';
 import '../../domain/entities/routing_entities.dart';
+import '../cubit/autocomplete_cubit.dart';
 import '../cubit/route_search_cubit.dart';
 
 /// Simple functional route search page for data/routing validation.
 /// Final visual design will be implemented later.
 class RouteSearchPage extends StatefulWidget {
-  const RouteSearchPage({super.key});
+  final AutocompleteCubit fromCubit;
+  final AutocompleteCubit toCubit;
+
+  const RouteSearchPage({
+    super.key,
+    required this.fromCubit,
+    required this.toCubit,
+  });
 
   @override
   State<RouteSearchPage> createState() => _RouteSearchPageState();
 }
 
 class _RouteSearchPageState extends State<RouteSearchPage> {
+  // Only used when NOT using Stop IDs
   final _originLatCtrl = TextEditingController();
   final _originLngCtrl = TextEditingController();
   final _destLatCtrl = TextEditingController();
   final _destLngCtrl = TextEditingController();
 
-  // Default: Helwan Metro → Maadi Metro (via station IDs for testing)
-  final _originIdCtrl = TextEditingController(
-    text: 'station_metro_10_AHL_METRO',
-  );
-  final _destIdCtrl = TextEditingController(text: 'station_metro_23_MAD_METRO');
+  final _originCtrl = TextEditingController();
+  final _destCtrl = TextEditingController();
+
+  final _originFocusNode = FocusNode();
+  final _destFocusNode = FocusNode();
 
   bool _useStopIds = true;
+
+  @override
+  void initState() {
+    super.initState();
+    _originCtrl.addListener(() {
+      widget.fromCubit.onQueryChanged(_originCtrl.text);
+    });
+    _destCtrl.addListener(() {
+      widget.toCubit.onQueryChanged(_destCtrl.text);
+    });
+    _originFocusNode.addListener(() {
+      if (!_originFocusNode.hasFocus) widget.fromCubit.onFocusLost();
+    });
+    _destFocusNode.addListener(() {
+      if (!_destFocusNode.hasFocus) widget.toCubit.onFocusLost();
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -57,26 +83,27 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
             ),
         ],
       ),
-      body: Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: [
-            if (_useStopIds) ...[
-              TextField(
-                controller: _originIdCtrl,
-                decoration: const InputDecoration(
-                  labelText: 'Origin Stop/Station ID',
-                  border: OutlineInputBorder(),
-                ),
+      body: CustomScrollView(
+        slivers: [
+          SliverToBoxAdapter(
+            child: Padding(
+              padding: const EdgeInsets.all(16.0),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  if (_useStopIds) ...[
+              _AutocompleteField(
+                label: 'Origin (From)',
+                controller: _originCtrl,
+                focusNode: _originFocusNode,
+                cubit: widget.fromCubit,
               ),
               const SizedBox(height: 8),
-              TextField(
-                controller: _destIdCtrl,
-                decoration: const InputDecoration(
-                  labelText: 'Destination Stop/Station ID',
-                  border: OutlineInputBorder(),
-                ),
+              _AutocompleteField(
+                label: 'Destination (To)',
+                controller: _destCtrl,
+                focusNode: _destFocusNode,
+                cubit: widget.toCubit,
               ),
             ] else ...[
               Row(
@@ -131,10 +158,27 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
                 ],
               ),
             ],
-            const SizedBox(height: 16),
-            ElevatedButton(onPressed: _search, child: const Text('Find Route')),
-            const SizedBox(height: 16),
-            Expanded(
+          ],
+        ),
+      ),
+    ),
+          SliverToBoxAdapter(
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16.0),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
+                children: [
+                  const SizedBox(height: 16),
+                  ElevatedButton(onPressed: _search, child: const Text('Find Route')),
+                  const SizedBox(height: 16),
+                ],
+              ),
+            ),
+          ),
+          SliverFillRemaining(
+            hasScrollBody: false,
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16.0),
               child: BlocBuilder<RouteSearchCubit, RouteSearchState>(
                 builder: (context, state) {
                   if (state is EngineInitializing) {
@@ -180,8 +224,9 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
                 },
               ),
             ),
-          ],
-        ),
+          ),
+          const SliverPadding(padding: EdgeInsets.only(bottom: 16.0)),
+        ],
       ),
     );
   }
@@ -190,10 +235,15 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
     final cubit = context.read<RouteSearchCubit>();
 
     if (_useStopIds) {
-      final originId = _originIdCtrl.text.trim();
-      final destId = _destIdCtrl.text.trim();
-      if (originId.isEmpty || destId.isEmpty) return;
-      cubit.searchByStopIds(originId, destId);
+      final originPlace = widget.fromCubit.state.selectedPlace;
+      final destPlace = widget.toCubit.state.selectedPlace;
+      if (originPlace == null || destPlace == null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Please select valid places from the suggestions')),
+        );
+        return;
+      }
+      cubit.searchByStopIds(originPlace.id, destPlace.id);
       return;
     }
 
@@ -218,7 +268,9 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
   }
 
   Widget _buildResult(RouteResult result) {
-    return ListView(
+    return Column(
+      mainAxisSize: MainAxisSize.min,
+      crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
         Card(
           child: Padding(
@@ -278,9 +330,100 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
     _originLngCtrl.dispose();
     _destLatCtrl.dispose();
     _destLngCtrl.dispose();
-    _originIdCtrl.dispose();
-    _destIdCtrl.dispose();
+    _originCtrl.dispose();
+    _destCtrl.dispose();
+    _originFocusNode.dispose();
+    _destFocusNode.dispose();
     super.dispose();
+  }
+}
+
+class _AutocompleteField extends StatelessWidget {
+  final String label;
+  final TextEditingController controller;
+  final FocusNode focusNode;
+  final AutocompleteCubit cubit;
+
+  const _AutocompleteField({
+    required this.label,
+    required this.controller,
+    required this.focusNode,
+    required this.cubit,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return BlocBuilder<AutocompleteCubit, AutocompleteState>(
+      bloc: cubit,
+      builder: (context, state) {
+        return Column(
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            TextField(
+              controller: controller,
+              focusNode: focusNode,
+              onChanged: cubit.onQueryChanged,
+              decoration: InputDecoration(
+                labelText: label,
+                border: const OutlineInputBorder(),
+                suffixIcon: state.selectedPlace != null
+                    ? const Icon(Icons.check_circle, color: Colors.green)
+                    : (state.isLoading
+                        ? const Padding(
+                            padding: EdgeInsets.all(12.0),
+                            child: SizedBox(
+                              width: 16,
+                              height: 16,
+                              child: CircularProgressIndicator(strokeWidth: 2),
+                            ),
+                          )
+                        : null),
+              ),
+            ),
+            if (state.suggestions.isNotEmpty)
+              Container(
+                margin: const EdgeInsets.only(top: 4),
+                constraints: const BoxConstraints(maxHeight: 200),
+                decoration: BoxDecoration(
+                  border: Border.all(color: Colors.grey.shade300),
+                  borderRadius: BorderRadius.circular(4),
+                ),
+                child: ListView.builder(
+                  shrinkWrap: true,
+                  itemCount: state.suggestions.length,
+                  itemBuilder: (context, index) {
+                    final place = state.suggestions[index];
+                    return ListTile(
+                      title: Text(place.name),
+                      dense: true,
+                      onTap: () {
+                        // Unfocus the field
+                        focusNode.unfocus();
+                        // 1. We must temporarily remove the listener to avoid
+                        // immediately invalidating the selected place when we 
+                        // update the text field programmatically.
+                        final text = place.name;
+                        // Actually, the easiest way to avoid re-triggering is to let the cubit handle it
+                        // by checking `if (query == state.query) return;` which it already does!
+                        
+                        // BUT, to be safe, we just set the text. The listener fires, 
+                        // sees text == place.name, but since we are about to call onSuggestionSelected,
+                        // we must ensure order.
+                        // Better: call cubit first, then update text.
+                        cubit.onSuggestionSelected(place);
+                        controller.text = text; 
+                        
+                        // Wait, if we set text, listener fires with text.
+                        // In cubit, query == state.query will be TRUE since we just set state.query = text!
+                      },
+                    );
+                  },
+                ),
+              ),
+          ],
+        );
+      },
+    );
   }
 }
 

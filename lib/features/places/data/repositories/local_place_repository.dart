@@ -92,16 +92,47 @@ class LocalPlaceRepository implements PlaceRepository {
     if (query.trim().isEmpty) return [];
 
     final allPlaces = await getAllPlaces();
-    final lowerQuery = query.toLowerCase();
+    final lowerQuery = query.toLowerCase().trim();
 
-    // Simple contains-based search
-    final results = allPlaces
+    // 1. Find all raw matches
+    final rawMatches = allPlaces
         .where((p) => p.name.toLowerCase().contains(lowerQuery))
-        .take(20)
         .toList();
 
-    // Sort: exact prefix matches first, then by name length
-    results.sort((a, b) {
+    // 2. Group by normalized name
+    final grouped = <String, List<Place>>{};
+    for (final p in rawMatches) {
+      final normalized = p.name.toLowerCase().trim();
+      grouped.putIfAbsent(normalized, () => []).add(p);
+    }
+
+    // 3. Select canonical place for each group
+    final deduplicated = <Place>[];
+    for (final group in grouped.values) {
+      if (group.length == 1) {
+        deduplicated.add(group.first);
+        continue;
+      }
+
+      // Canonical Selection Rule:
+      // Priority 1: Parent station (semantically identified by stationId == id)
+      final parentStations = group.where((p) => p.stationId == p.id).toList();
+      if (parentStations.isNotEmpty) {
+        // If multiple parent stations share the same name (rare), fallback to ID sort
+        parentStations.sort((a, b) => a.id.compareTo(b.id));
+        deduplicated.add(parentStations.first);
+        continue;
+      }
+
+      // Priority 2 (Fallback): Deterministic ID ordering
+      // We sort alphabetically by ID to guarantee the routing engine gets a stable node
+      // Note: This is a technical fallback, not a semantic preference.
+      group.sort((a, b) => a.id.compareTo(b.id));
+      deduplicated.add(group.first);
+    }
+
+    // 4. Sort: exact prefix matches first, then by name length
+    deduplicated.sort((a, b) {
       final aPrefix = a.name.toLowerCase().startsWith(lowerQuery);
       final bPrefix = b.name.toLowerCase().startsWith(lowerQuery);
       if (aPrefix && !bPrefix) return -1;
@@ -109,7 +140,8 @@ class LocalPlaceRepository implements PlaceRepository {
       return a.name.length.compareTo(b.name.length);
     });
 
-    return results;
+    // 5. Apply limit after deduplication
+    return deduplicated.take(20).toList();
   }
 
   /// Invalidate the cache (called after sync updates).

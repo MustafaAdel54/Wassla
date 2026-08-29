@@ -14,7 +14,10 @@ import 'package:wassla/features/dataset_sync/domain/entities/sync_entities.dart'
 import 'package:wassla/features/dataset_sync/domain/usecases/publish_dataset_usecase.dart';
 import 'package:wassla/features/dataset_sync/domain/usecases/sync_dataset_usecase.dart';
 import 'package:wassla/features/dataset_sync/presentation/cubit/sync_cubit.dart';
+import 'package:wassla/features/places/data/repositories/local_place_repository.dart';
+import 'package:wassla/features/places/domain/usecases/search_places_usecase.dart';
 import 'package:wassla/features/route_search/data/datasources/routing_isolate_worker.dart';
+import 'package:wassla/features/route_search/presentation/cubit/autocomplete_cubit.dart';
 import 'package:wassla/features/route_search/domain/usecases/search_route_usecase.dart';
 import 'package:wassla/features/route_search/presentation/cubit/route_search_cubit.dart';
 import 'package:wassla/features/route_search/presentation/pages/route_search_page.dart';
@@ -41,6 +44,10 @@ void main() async {
   final routingWorker = RoutingIsolateWorker();
   final routingService = DartV4RoutingService(routingWorker, localDataSource);
 
+  // Places
+  final placeRepository = LocalPlaceRepository(localDataSource);
+  final searchPlacesUseCase = SearchPlacesUseCase(placeRepository);
+
   // Use cases
   final searchRouteUseCase = SearchRouteUseCase(routingService);
   final syncDatasetUseCase = SyncDatasetUseCase(syncRepo);
@@ -55,6 +62,7 @@ void main() async {
   runApp(
     WasslaApp(
       searchRouteUseCase: searchRouteUseCase,
+      searchPlacesUseCase: searchPlacesUseCase,
       syncDatasetUseCase: syncDatasetUseCase,
       publishDatasetUseCase: publishDatasetUseCase,
       routingService: routingService,
@@ -66,6 +74,7 @@ void main() async {
 
 class WasslaApp extends StatefulWidget {
   final SearchRouteUseCase searchRouteUseCase;
+  final SearchPlacesUseCase searchPlacesUseCase;
   final SyncDatasetUseCase syncDatasetUseCase;
   final PublishDatasetUseCase? publishDatasetUseCase;
   final DartV4RoutingService routingService;
@@ -75,6 +84,7 @@ class WasslaApp extends StatefulWidget {
   const WasslaApp({
     super.key,
     required this.searchRouteUseCase,
+    required this.searchPlacesUseCase,
     required this.syncDatasetUseCase,
     this.publishDatasetUseCase,
     required this.routingService,
@@ -89,6 +99,8 @@ class WasslaApp extends StatefulWidget {
 class _WasslaAppState extends State<WasslaApp> {
   late final SyncCubit _syncCubit;
   late final RouteSearchCubit _routeSearchCubit;
+  late final AutocompleteCubit _fromAutocompleteCubit;
+  late final AutocompleteCubit _toAutocompleteCubit;
   bool _isBootstrapping = true;
 
   @override
@@ -102,6 +114,8 @@ class _WasslaAppState extends State<WasslaApp> {
       widget.searchRouteUseCase,
       widget.routingService,
     );
+    _fromAutocompleteCubit = AutocompleteCubit(widget.searchPlacesUseCase);
+    _toAutocompleteCubit = AutocompleteCubit(widget.searchPlacesUseCase);
     _bootstrap();
   }
 
@@ -163,9 +177,14 @@ class _WasslaAppState extends State<WasslaApp> {
         home: _isBootstrapping
             ? _BootstrapPage(
                 syncCubit: _syncCubit,
+                fromCubit: _fromAutocompleteCubit,
+                toCubit: _toAutocompleteCubit,
                 publishDatasetUseCase: widget.publishDatasetUseCase,
               )
-            : const RouteSearchPage(),
+            : RouteSearchPage(
+                fromCubit: _fromAutocompleteCubit,
+                toCubit: _toAutocompleteCubit,
+              ),
       ),
     );
   }
@@ -174,6 +193,8 @@ class _WasslaAppState extends State<WasslaApp> {
   void dispose() {
     _syncCubit.close();
     _routeSearchCubit.close();
+    _fromAutocompleteCubit.close();
+    _toAutocompleteCubit.close();
     super.dispose();
   }
 }
@@ -181,9 +202,16 @@ class _WasslaAppState extends State<WasslaApp> {
 /// Bootstrap loading page — shown only on first install.
 class _BootstrapPage extends StatelessWidget {
   final SyncCubit syncCubit;
+  final AutocompleteCubit fromCubit;
+  final AutocompleteCubit toCubit;
   final PublishDatasetUseCase? publishDatasetUseCase;
 
-  const _BootstrapPage({required this.syncCubit, this.publishDatasetUseCase});
+  const _BootstrapPage({
+    required this.syncCubit,
+    required this.fromCubit,
+    required this.toCubit,
+    this.publishDatasetUseCase,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -237,7 +265,10 @@ class _BootstrapPage extends StatelessWidget {
                                 providers: [
                                   BlocProvider.value(value: syncCubit),
                                 ],
-                                child: const RouteSearchPage(),
+                                child: RouteSearchPage(
+                                  fromCubit: fromCubit,
+                                  toCubit: toCubit,
+                                ),
                               ),
                             ),
                           );
