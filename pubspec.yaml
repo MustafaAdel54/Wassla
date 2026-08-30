@@ -32,6 +32,8 @@ dependencies:
   # Utilities
   crypto: ^3.0.7
   collection: ^1.19.1
+  flutter_svg: ^2.0.10
+  flutter_screenutil: ^5.9.3
 
 dev_dependencies:
   flutter_test:
@@ -47,8 +49,18 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter/Inter-Regular.ttf
+        - asset: assets/fonts/Inter/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter/Inter-SemiBold.ttf
+          weight: 600
+
   # Bundle the transport dataset for initial bootstrap / dev import
   assets:
+    - assets/icons/
     - assets/transport_data/
     - assets/transport_data/agencies/
     - assets/transport_data/stations/

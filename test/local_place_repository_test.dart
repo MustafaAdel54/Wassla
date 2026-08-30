@@ -103,11 +103,11 @@ void main() {
     });
 
     test('Limits results to 20 AFTER deduplication', () async {
-      // Simulate 30 unique names and 30 duplicate names
+      // Simulate 40 unique names and 40 duplicate names
       final stationsList = List.generate(40, (i) => {
-        "id": "station_\$i",
+        "id": "station_$i",
         "data": {
-          "name": "UniqueStation \$i",
+          "name": "UniqueStation $i",
           "lat": 0.0,
           "lng": 0.0
         }
@@ -115,9 +115,9 @@ void main() {
       // Add duplicates
       for (int i = 0; i < 40; i++) {
         stationsList.add({
-          "id": "station_dup_\$i",
+          "id": "station_dup_$i",
           "data": {
-            "name": "UniqueStation \$i",
+            "name": "UniqueStation $i",
             "lat": 0.0,
             "lng": 0.0
           }

@@ -2,6 +2,7 @@ import 'dart:developer' as developer;
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'package:wassla/core/constants/sync_constants.dart';
 import 'package:wassla/core/routing/dart_v4_routing_service.dart';
@@ -21,6 +22,7 @@ import 'package:wassla/features/route_search/presentation/cubit/autocomplete_cub
 import 'package:wassla/features/route_search/domain/usecases/search_route_usecase.dart';
 import 'package:wassla/features/route_search/presentation/cubit/route_search_cubit.dart';
 import 'package:wassla/features/route_search/presentation/pages/route_search_page.dart';
+import 'package:wassla/core/theme/app_theme.dart';
 import 'firebase_options.dart';
 
 void main() async {
@@ -171,20 +173,29 @@ class _WasslaAppState extends State<WasslaApp> {
         BlocProvider.value(value: _syncCubit),
         BlocProvider.value(value: _routeSearchCubit),
       ],
-      child: MaterialApp(
-        title: 'Wassla',
-        theme: ThemeData(colorSchemeSeed: Colors.blue, useMaterial3: true),
-        home: _isBootstrapping
-            ? _BootstrapPage(
-                syncCubit: _syncCubit,
-                fromCubit: _fromAutocompleteCubit,
-                toCubit: _toAutocompleteCubit,
-                publishDatasetUseCase: widget.publishDatasetUseCase,
-              )
-            : RouteSearchPage(
-                fromCubit: _fromAutocompleteCubit,
-                toCubit: _toAutocompleteCubit,
-              ),
+      child: ScreenUtilInit(
+        designSize: const Size(375, 812),
+        minTextAdapt: true,
+        splitScreenMode: true,
+        builder: (context, child) {
+          return MaterialApp(
+            title: 'Wassla',
+            theme: AppTheme.lightTheme,
+            darkTheme: AppTheme.darkTheme,
+            themeMode: ThemeMode.system, // Rely on system theme
+            home: _isBootstrapping
+                ? _BootstrapPage(
+                    syncCubit: _syncCubit,
+                    fromCubit: _fromAutocompleteCubit,
+                    toCubit: _toAutocompleteCubit,
+                    publishDatasetUseCase: widget.publishDatasetUseCase,
+                  )
+                : RouteSearchPage(
+                    fromCubit: _fromAutocompleteCubit,
+                    toCubit: _toAutocompleteCubit,
+                  ),
+          );
+        },
       ),
     );
   }
