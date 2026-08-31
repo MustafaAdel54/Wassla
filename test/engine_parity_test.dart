@@ -89,5 +89,19 @@ void main() {
       expect(result.legs[2].routeId, 'surface_qQ8CZf6wkbvSMMGKizEwd');
       expect(result.legs[3].routeId, 'surface_2EAwBcn3IACPZ0xefVHUM');
     });
+
+    test('Transfer count semantic verification', () {
+      // 1 transport leg = 0 transfers
+      final t1 = router.routeBetweenStopIds('station_metro_10_AHL_METRO', 'station_metro_23_MAD_METRO');
+      expect(t1, isNotNull);
+      expect(t1!.legs.where((l) => !l.isTransfer).length, 1, reason: 'Should have 1 transit leg');
+      expect(t1.transfers, 0, reason: '1 leg should mean 0 transfers');
+
+      // 4 transport legs = 3 transfers
+      final t3 = router.routeBetweenStopIds('surface_793', 'surface_556');
+      expect(t3, isNotNull);
+      expect(t3!.legs.where((l) => !l.isTransfer).length, 4, reason: 'Should have 4 transit legs');
+      expect(t3.transfers, 3, reason: '4 legs of different routes should mean 3 transfers');
+    });
   });
 }

@@ -6,11 +6,15 @@ import '../../../../core/theme/app_colors.dart';
 import '../../../../core/constants/sync_constants.dart';
 import '../../../dataset_sync/presentation/cubit/sync_cubit.dart';
 import '../../domain/entities/routing_entities.dart';
+import 'package:go_router/go_router.dart';
+
+import '../../../../core/router/app_router.dart';
 import '../cubit/autocomplete_cubit.dart';
 import '../cubit/route_search_cubit.dart';
 import '../widgets/dev_tools_dialog.dart';
 import '../widgets/route_search_form.dart';
 import '../widgets/route_search_result_card.dart';
+import '../../../route_details/presentation/pages/route_details_page.dart';
 import '../../../../shared/widgets/wassla_bottom_nav.dart' as wassla_nav;
 
 /// Simple functional route search page for data/routing validation.
@@ -110,7 +114,21 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
             hasScrollBody: false,
             child: Padding(
               padding: EdgeInsets.symmetric(horizontal: 16.w),
-              child: BlocBuilder<RouteSearchCubit, RouteSearchState>(
+              child: BlocConsumer<RouteSearchCubit, RouteSearchState>(
+                listener: (context, state) {
+                  if (state is RouteSearchSuccess) {
+                    final originName = widget.fromCubit.state.selectedPlace?.name ?? _originCtrl.text;
+                    final destName = widget.toCubit.state.selectedPlace?.name ?? _destCtrl.text;
+                    context.push(
+                      AppRouter.details,
+                      extra: {
+                        'result': state.result,
+                        'origin': originName,
+                        'dest': destName,
+                      },
+                    );
+                  }
+                },
                 builder: (context, state) {
                   if (state is EngineInitializing) {
                     return Center(
@@ -143,10 +161,8 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
                       ),
                     );
                   }
-                  if (state is RouteSearchSuccess) {
-                    return RouteSearchResultCard(result: state.result);
-                  }
-                  return const SizedBox.shrink(); // Idle state, just map background
+                  // For RouteSearchSuccess, we navigate away, so just show empty
+                  return const SizedBox.shrink(); 
                 },
               ),
             ),

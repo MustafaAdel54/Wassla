@@ -4,6 +4,13 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 class AppTypography {
   AppTypography._();
 
+  static TextStyle get smallDetail => TextStyle(
+        fontFamily: 'Inter',
+        fontSize: 10.sp,
+        fontWeight: FontWeight.w500,
+        height: 12 / 10,
+      );
+
   static TextTheme getTextTheme(Brightness brightness) {
     // Start with the default text theme for the given brightness.
     // Apply the 'Inter' fontFamily to all text styles.

@@ -3,6 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:go_router/go_router.dart';
 
 import 'package:wassla/core/constants/sync_constants.dart';
 import 'package:wassla/core/routing/dart_v4_routing_service.dart';
@@ -17,12 +18,14 @@ import 'package:wassla/features/dataset_sync/domain/usecases/sync_dataset_usecas
 import 'package:wassla/features/dataset_sync/presentation/cubit/sync_cubit.dart';
 import 'package:wassla/features/places/data/repositories/local_place_repository.dart';
 import 'package:wassla/features/places/domain/usecases/search_places_usecase.dart';
+import 'package:wassla/features/route_details/presentation/pages/route_details_page.dart';
 import 'package:wassla/features/route_search/data/datasources/routing_isolate_worker.dart';
+import 'package:wassla/features/route_search/domain/entities/routing_entities.dart';
 import 'package:wassla/features/route_search/presentation/cubit/autocomplete_cubit.dart';
 import 'package:wassla/features/route_search/domain/usecases/search_route_usecase.dart';
 import 'package:wassla/features/route_search/presentation/cubit/route_search_cubit.dart';
-import 'package:wassla/features/route_search/presentation/pages/route_search_page.dart';
 import 'package:wassla/core/theme/app_theme.dart';
+import 'package:wassla/core/router/app_router.dart';
 import 'firebase_options.dart';
 
 void main() async {
@@ -104,6 +107,7 @@ class _WasslaAppState extends State<WasslaApp> {
   late final AutocompleteCubit _fromAutocompleteCubit;
   late final AutocompleteCubit _toAutocompleteCubit;
   bool _isBootstrapping = true;
+  late final GoRouter _router;
 
   @override
   void initState() {
@@ -118,6 +122,18 @@ class _WasslaAppState extends State<WasslaApp> {
     );
     _fromAutocompleteCubit = AutocompleteCubit(widget.searchPlacesUseCase);
     _toAutocompleteCubit = AutocompleteCubit(widget.searchPlacesUseCase);
+    
+    _router = AppRouter.createRouter(
+      bootstrapBuilder: (context) => _BootstrapPage(
+        syncCubit: _syncCubit,
+        fromCubit: _fromAutocompleteCubit,
+        toCubit: _toAutocompleteCubit,
+        publishDatasetUseCase: widget.publishDatasetUseCase,
+      ),
+      fromAutocompleteCubit: _fromAutocompleteCubit,
+      toAutocompleteCubit: _toAutocompleteCubit,
+    );
+    
     _bootstrap();
   }
 
@@ -128,9 +144,7 @@ class _WasslaAppState extends State<WasslaApp> {
     if (hasLocal) {
       developer.log('Decision: USE_LOCAL_AND_BACKGROUND_SYNC', name: 'AppBootstrap');
       // Existing install — show UI immediately, sync in background
-      setState(() {
-        _isBootstrapping = false;
-      });
+      _router.go(AppRouter.search);
 
       // Initialize engine
       _routeSearchCubit.initializeEngine();
@@ -154,14 +168,11 @@ class _WasslaAppState extends State<WasslaApp> {
       if (result.status == SyncStatusType.initialDownload ||
           result.status == SyncStatusType.updated) {
         developer.log('Decision: BOOTSTRAP_FROM_FIREBASE (Success)', name: 'AppBootstrap');
-        setState(() {
-          _isBootstrapping = false;
-        });
+        _router.go(AppRouter.search);
         _routeSearchCubit.initializeEngine();
       } else {
-        // Sync failed — stay on bootstrap screen
+        // Sync failed — stay on bootstrap screen (initialLocation is '/')
         developer.log('Decision: FAILURE', name: 'AppBootstrap');
-        setState(() => _isBootstrapping = true);
       }
     }
   }
@@ -178,22 +189,12 @@ class _WasslaAppState extends State<WasslaApp> {
         minTextAdapt: true,
         splitScreenMode: true,
         builder: (context, child) {
-          return MaterialApp(
+          return MaterialApp.router(
             title: 'Wassla',
             theme: AppTheme.lightTheme,
             darkTheme: AppTheme.darkTheme,
             themeMode: ThemeMode.system, // Rely on system theme
-            home: _isBootstrapping
-                ? _BootstrapPage(
-                    syncCubit: _syncCubit,
-                    fromCubit: _fromAutocompleteCubit,
-                    toCubit: _toAutocompleteCubit,
-                    publishDatasetUseCase: widget.publishDatasetUseCase,
-                  )
-                : RouteSearchPage(
-                    fromCubit: _fromAutocompleteCubit,
-                    toCubit: _toAutocompleteCubit,
-                  ),
+            routerConfig: _router,
           );
         },
       ),
@@ -270,19 +271,7 @@ class _BootstrapPage extends StatelessWidget {
                           result.status == SyncStatusType.updated) {
                         if (context.mounted) {
                           // Rebuild parent to transition to route search
-                          Navigator.of(context).pushReplacement(
-                            MaterialPageRoute(
-                              builder: (_) => MultiBlocProvider(
-                                providers: [
-                                  BlocProvider.value(value: syncCubit),
-                                ],
-                                child: RouteSearchPage(
-                                  fromCubit: fromCubit,
-                                  toCubit: toCubit,
-                                ),
-                              ),
-                            ),
-                          );
+                          context.go(AppRouter.search);
                         }
                       }
                     },

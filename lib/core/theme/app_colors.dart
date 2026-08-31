@@ -36,8 +36,10 @@ class AppColors {
   static const Color lightCard = Color(0xFFFFF8E6);
 
   // Light Theme Text & Borders
-  static const Color lightTextPrimary = Color(0xFF000000);
-  static const Color lightTextSecondary = Color(0xFF444444);
+  static const Color lightTextPrimary = Color(0xFF17182B);
+  static const Color lightTextSecondary = Color(0xFF56586D);
   static const Color lightTextMuted = Color(0xFF56586D);
   static const Color lightBorder = Color(0xFFD9DBE5);
+  static const Color lightTransferModeIcon = Color(0xFF000000);
+
 }
