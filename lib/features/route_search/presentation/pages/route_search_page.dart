@@ -15,7 +15,6 @@ import '../widgets/dev_tools_dialog.dart';
 import '../widgets/route_search_form.dart';
 import '../widgets/route_search_result_card.dart';
 import '../../../route_details/presentation/pages/route_details_page.dart';
-import '../../../../shared/widgets/wassla_bottom_nav.dart' as wassla_nav;
 
 /// Simple functional route search page for data/routing validation.
 /// Final visual design will be implemented later.
@@ -93,7 +92,6 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
             ),
         ],
       ),
-      bottomNavigationBar: const wassla_nav.WasslaBottomNav(),
       body: CustomScrollView(
         slivers: [
           SliverToBoxAdapter(

@@ -144,7 +144,7 @@ class _WasslaAppState extends State<WasslaApp> {
     if (hasLocal) {
       developer.log('Decision: USE_LOCAL_AND_BACKGROUND_SYNC', name: 'AppBootstrap');
       // Existing install — show UI immediately, sync in background
-      _router.go(AppRouter.search);
+      _router.go(AppRouter.home);
 
       // Initialize engine
       _routeSearchCubit.initializeEngine();
@@ -168,7 +168,7 @@ class _WasslaAppState extends State<WasslaApp> {
       if (result.status == SyncStatusType.initialDownload ||
           result.status == SyncStatusType.updated) {
         developer.log('Decision: BOOTSTRAP_FROM_FIREBASE (Success)', name: 'AppBootstrap');
-        _router.go(AppRouter.search);
+        _router.go(AppRouter.home);
         _routeSearchCubit.initializeEngine();
       } else {
         // Sync failed — stay on bootstrap screen (initialLocation is '/')
@@ -271,7 +271,7 @@ class _BootstrapPage extends StatelessWidget {
                           result.status == SyncStatusType.updated) {
                         if (context.mounted) {
                           // Rebuild parent to transition to route search
-                          context.go(AppRouter.search);
+                          context.go(AppRouter.home);
                         }
                       }
                     },

@@ -6,7 +6,6 @@ import 'package:go_router/go_router.dart';
 
 import '../../../../core/theme/app_colors.dart';
 import '../../../../core/theme/app_spacing.dart';
-import '../../../../shared/widgets/wassla_bottom_nav.dart';
 import '../../../route_search/domain/entities/routing_entities.dart';
 
 import '../widgets/route_summary_header.dart';
@@ -44,7 +43,6 @@ class RouteDetailsPage extends StatelessWidget {
         ),
         centerTitle: true,
       ),
-      bottomNavigationBar: const WasslaBottomNav(),
       body: CustomScrollView(
         slivers: [
           SliverToBoxAdapter(
