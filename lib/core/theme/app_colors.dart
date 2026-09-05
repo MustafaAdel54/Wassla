@@ -40,6 +40,7 @@ class AppColors {
   static const Color lightTextSecondary = Color(0xFF56586D);
   static const Color lightTextMuted = Color(0xFF56586D);
   static const Color lightBorder = Color(0xFFD9DBE5);
+  static const Color lightDivider = Color(0xFFE8E9F0);
   static const Color lightTransferModeIcon = Color(0xFF000000);
 
 }

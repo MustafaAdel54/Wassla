@@ -54,6 +54,7 @@ class RouteDetailsPage extends StatelessWidget {
                   RouteSummaryHeader(
                     originName: originName,
                     destName: destName,
+                    routeResult: routeResult,
                   ),
                   SizedBox(height: 24.h),
                   RouteTimelineCard(routeResult: routeResult),

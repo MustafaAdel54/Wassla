@@ -174,6 +174,16 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
   void _search() {
     final cubit = context.read<RouteSearchCubit>();
 
+    final originName = widget.fromCubit.state.selectedPlace?.name ?? _originCtrl.text.trim();
+    final destName = widget.toCubit.state.selectedPlace?.name ?? _destCtrl.text.trim();
+
+    if (originName.isEmpty || destName.isEmpty) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Please enter origin and destination')),
+        );
+        return;
+    }
+
     if (_useStopIds) {
       final originPlace = widget.fromCubit.state.selectedPlace;
       final destPlace = widget.toCubit.state.selectedPlace;
@@ -183,7 +193,7 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
         );
         return;
       }
-      cubit.searchByStopIds(originPlace.id, destPlace.id);
+      cubit.searchByStopIds(originPlace.id, destPlace.id, originName, destName);
       return;
     }
 
@@ -204,6 +214,8 @@ class _RouteSearchPageState extends State<RouteSearchPage> {
         origin: LocationPoint(latitude: originLat, longitude: originLng),
         destination: LocationPoint(latitude: destLat, longitude: destLng),
       ),
+      originName,
+      destName,
     );
   }
 

@@ -18,12 +18,21 @@ import 'package:wassla/features/dataset_sync/domain/usecases/sync_dataset_usecas
 import 'package:wassla/features/dataset_sync/presentation/cubit/sync_cubit.dart';
 import 'package:wassla/features/places/data/repositories/local_place_repository.dart';
 import 'package:wassla/features/places/domain/usecases/search_places_usecase.dart';
-import 'package:wassla/features/route_details/presentation/pages/route_details_page.dart';
 import 'package:wassla/features/route_search/data/datasources/routing_isolate_worker.dart';
-import 'package:wassla/features/route_search/domain/entities/routing_entities.dart';
 import 'package:wassla/features/route_search/presentation/cubit/autocomplete_cubit.dart';
 import 'package:wassla/features/route_search/domain/usecases/search_route_usecase.dart';
 import 'package:wassla/features/route_search/presentation/cubit/route_search_cubit.dart';
+import 'package:wassla/features/history/data/datasources/local_history_data_source.dart';
+import 'package:wassla/features/history/data/repositories/local_history_repository_impl.dart';
+import 'package:wassla/features/history/domain/usecases/get_history_usecase.dart';
+import 'package:wassla/features/history/domain/usecases/save_history_entry_usecase.dart';
+import 'package:wassla/features/history/presentation/cubit/history_cubit.dart';
+import 'package:wassla/features/saved/data/datasources/local_saved_route_data_source.dart';
+import 'package:wassla/features/saved/data/repositories/local_saved_route_repository_impl.dart';
+import 'package:wassla/features/saved/domain/usecases/get_saved_routes_usecase.dart';
+import 'package:wassla/features/saved/domain/usecases/save_route_usecase.dart';
+import 'package:wassla/features/saved/domain/usecases/remove_saved_route_usecase.dart';
+import 'package:wassla/features/saved/presentation/cubit/saved_routes_cubit.dart';
 import 'package:wassla/core/theme/app_theme.dart';
 import 'package:wassla/core/router/app_router.dart';
 import 'firebase_options.dart';
@@ -53,6 +62,18 @@ void main() async {
   final placeRepository = LocalPlaceRepository(localDataSource);
   final searchPlacesUseCase = SearchPlacesUseCase(placeRepository);
 
+  // History
+  final historyDataSource = LocalHistoryDataSource();
+  final historyRepo = LocalHistoryRepositoryImpl(historyDataSource);
+  final getHistoryUseCase = GetHistoryUseCase(historyRepo);
+  final saveHistoryEntryUseCase = SaveHistoryEntryUseCase(historyRepo);
+  // Saved Routes
+  final savedDataSource = LocalSavedRouteDataSource();
+  final savedRepo = LocalSavedRouteRepositoryImpl(savedDataSource);
+  final getSavedRoutesUseCase = GetSavedRoutesUseCase(savedRepo);
+  final saveRouteUseCase = SaveRouteUseCase(savedRepo);
+  final removeSavedRouteUseCase = RemoveSavedRouteUseCase(savedRepo);
+
   // Use cases
   final searchRouteUseCase = SearchRouteUseCase(routingService);
   final syncDatasetUseCase = SyncDatasetUseCase(syncRepo);
@@ -73,6 +94,12 @@ void main() async {
       routingService: routingService,
       localDataSource: localDataSource,
       syncRepo: syncRepo,
+      getHistoryUseCase: getHistoryUseCase,
+      saveHistoryEntryUseCase: saveHistoryEntryUseCase,
+      getSavedRoutesUseCase: getSavedRoutesUseCase,
+      saveRouteUseCase: saveRouteUseCase,
+      removeSavedRouteUseCase: removeSavedRouteUseCase,
+      savedRepo: savedRepo,
     ),
   );
 }
@@ -85,6 +112,12 @@ class WasslaApp extends StatefulWidget {
   final DartV4RoutingService routingService;
   final LocalDataSource localDataSource;
   final DatasetSyncRepositoryImpl syncRepo;
+  final GetHistoryUseCase getHistoryUseCase;
+  final SaveHistoryEntryUseCase saveHistoryEntryUseCase;
+  final GetSavedRoutesUseCase getSavedRoutesUseCase;
+  final SaveRouteUseCase saveRouteUseCase;
+  final RemoveSavedRouteUseCase removeSavedRouteUseCase;
+  final LocalSavedRouteRepositoryImpl savedRepo;
 
   const WasslaApp({
     super.key,
@@ -95,6 +128,12 @@ class WasslaApp extends StatefulWidget {
     required this.routingService,
     required this.localDataSource,
     required this.syncRepo,
+    required this.getHistoryUseCase,
+    required this.saveHistoryEntryUseCase,
+    required this.getSavedRoutesUseCase,
+    required this.saveRouteUseCase,
+    required this.removeSavedRouteUseCase,
+    required this.savedRepo,
   });
 
   @override
@@ -106,6 +145,8 @@ class _WasslaAppState extends State<WasslaApp> {
   late final RouteSearchCubit _routeSearchCubit;
   late final AutocompleteCubit _fromAutocompleteCubit;
   late final AutocompleteCubit _toAutocompleteCubit;
+  late final HistoryCubit _historyCubit;
+  late final SavedRoutesCubit _savedRoutesCubit;
   bool _isBootstrapping = true;
   late final GoRouter _router;
 
@@ -119,7 +160,16 @@ class _WasslaAppState extends State<WasslaApp> {
     _routeSearchCubit = RouteSearchCubit(
       widget.searchRouteUseCase,
       widget.routingService,
+      widget.saveHistoryEntryUseCase,
     );
+    _historyCubit = HistoryCubit(widget.getHistoryUseCase);
+    _savedRoutesCubit = SavedRoutesCubit(
+      widget.getSavedRoutesUseCase,
+      widget.saveRouteUseCase,
+      widget.removeSavedRouteUseCase,
+      widget.savedRepo,
+    );
+    
     _fromAutocompleteCubit = AutocompleteCubit(widget.searchPlacesUseCase);
     _toAutocompleteCubit = AutocompleteCubit(widget.searchPlacesUseCase);
     
@@ -183,6 +233,8 @@ class _WasslaAppState extends State<WasslaApp> {
       providers: [
         BlocProvider.value(value: _syncCubit),
         BlocProvider.value(value: _routeSearchCubit),
+        BlocProvider.value(value: _historyCubit),
+        BlocProvider.value(value: _savedRoutesCubit),
       ],
       child: ScreenUtilInit(
         designSize: const Size(375, 812),

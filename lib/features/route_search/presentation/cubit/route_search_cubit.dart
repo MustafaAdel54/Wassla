@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:wassla/features/route_search/domain/entities/routing_entities.dart';
 import 'package:wassla/features/route_search/domain/repositories/routing_service.dart';
 import 'package:wassla/features/route_search/domain/usecases/search_route_usecase.dart';
+import 'package:wassla/features/history/domain/usecases/save_history_entry_usecase.dart';
 
 // --- State ---
 
@@ -48,9 +49,13 @@ class RouteSearchError extends RouteSearchState {
 class RouteSearchCubit extends Cubit<RouteSearchState> {
   final SearchRouteUseCase _searchRouteUseCase;
   final RoutingService _routingService;
+  final SaveHistoryEntryUseCase _saveHistoryEntryUseCase;
 
-  RouteSearchCubit(this._searchRouteUseCase, this._routingService)
-    : super(const RouteSearchInitial());
+  RouteSearchCubit(
+    this._searchRouteUseCase,
+    this._routingService,
+    this._saveHistoryEntryUseCase,
+  ) : super(const RouteSearchInitial());
 
   /// Initialize the routing engine.
   Future<void> initializeEngine() async {
@@ -65,7 +70,11 @@ class RouteSearchCubit extends Cubit<RouteSearchState> {
   }
 
   /// Search for a route between two geographic points.
-  Future<void> searchRoute(RouteRequest request) async {
+  Future<void> searchRoute(
+    RouteRequest request,
+    String originName,
+    String destName,
+  ) async {
     emit(const RouteSearchLoading());
     try {
       // Ensure engine is ready
@@ -78,6 +87,12 @@ class RouteSearchCubit extends Cubit<RouteSearchState> {
         emit(const RouteSearchNoResult());
       } else {
         emit(RouteSearchSuccess(result));
+        // Fire and forget save
+        _saveHistoryEntryUseCase.execute(
+          originName: originName,
+          destName: destName,
+          routeResult: result,
+        );
       }
     } catch (e) {
       emit(RouteSearchError('Route search failed: $e'));
@@ -88,6 +103,8 @@ class RouteSearchCubit extends Cubit<RouteSearchState> {
   Future<void> searchByStopIds(
     String originStopId,
     String destinationStopId,
+    String originName,
+    String destName,
   ) async {
     emit(const RouteSearchLoading());
     try {
@@ -104,6 +121,12 @@ class RouteSearchCubit extends Cubit<RouteSearchState> {
         emit(const RouteSearchNoResult());
       } else {
         emit(RouteSearchSuccess(result));
+        // Fire and forget save
+        _saveHistoryEntryUseCase.execute(
+          originName: originName,
+          destName: destName,
+          routeResult: result,
+        );
       }
     } catch (e) {
       emit(RouteSearchError('Route search failed: $e'));
